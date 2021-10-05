@@ -1,39 +1,9 @@
 @font-face {
     font-family: 'Rosa Sans';
-    src: url('fonts/RosaSans-BoldItalic.woff2') format('woff2'),
-        url('fonts/RosaSans-BoldItalic.woff') format('woff'),
-        url('fonts/RosaSans-BoldItalic.ttf') format('truetype');
-    font-weight: bold;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Rosa Sans';
-    src: url('fonts/RosaSans-BlackItalic.woff2') format('woff2'),
-        url('fonts/RosaSans-BlackItalic.woff') format('woff'),
-        url('fonts/RosaSans-BlackItalic.ttf') format('truetype');
-    font-weight: 900;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Rosa Sans';
-    src: url('fonts/RosaSans-Bold.woff2') format('woff2'),
-        url('fonts/RosaSans-Bold.woff') format('woff'),
-        url('fonts/RosaSans-Bold.ttf') format('truetype');
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Rosa Sans';
-    src: url('fonts/RosaSans-Black.woff2') format('woff2'),
-        url('fonts/RosaSans-Black.woff') format('woff'),
-        url('fonts/RosaSans-Black.ttf') format('truetype');
-    font-weight: 900;
+    src: url('fonts/RosaSans-ExtraLight.woff2') format('woff2'),
+        url('fonts/RosaSans-ExtraLight.woff') format('woff'),
+        url('fonts/RosaSans-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
     font-style: normal;
     font-display: swap;
 }
@@ -50,11 +20,101 @@
 
 @font-face {
     font-family: 'Rosa Sans';
-    src: url('fonts/RosaSans-ExtraLight.woff2') format('woff2'),
-        url('fonts/RosaSans-ExtraLight.woff') format('woff'),
-        url('fonts/RosaSans-ExtraLight.ttf') format('truetype');
-    font-weight: 200;
+    src: url('fonts/RosaSans-Light.woff2') format('woff2'),
+        url('fonts/RosaSans-Light.woff') format('woff'),
+        url('fonts/RosaSans-Light.ttf') format('truetype');
+    font-weight: 300;
     font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rosa Sans';
+    src: url('fonts/RosaSans-LightItalic.woff2') format('woff2'),
+        url('fonts/RosaSans-LightItalic.woff') format('woff'),
+        url('fonts/RosaSans-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rosa Sans';
+    src: url('fonts/RosaSans-Regular.woff2') format('woff2'),
+        url('fonts/RosaSans-Regular.woff') format('woff'),
+        url('fonts/RosaSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rosa Sans';
+    src: url('fonts/RosaSans-Italic.woff2') format('woff2'),
+        url('fonts/RosaSans-Italic.woff') format('woff'),
+        url('fonts/RosaSans-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rosa Sans';
+    src: url('fonts/RosaSans-Medium.woff2') format('woff2'),
+        url('fonts/RosaSans-Medium.woff') format('woff'),
+        url('fonts/RosaSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rosa Sans';
+    src: url('fonts/RosaSans-MediumItalic.woff2') format('woff2'),
+        url('fonts/RosaSans-MediumItalic.woff') format('woff'),
+        url('fonts/RosaSans-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rosa Sans';
+    src: url('fonts/RosaSans-SemiBold.woff2') format('woff2'),
+        url('fonts/RosaSans-SemiBold.woff') format('woff'),
+        url('fonts/RosaSans-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rosa Sans';
+    src: url('fonts/RosaSans-SemiBoldItalic.woff2') format('woff2'),
+        url('fonts/RosaSans-SemiBoldItalic.woff') format('woff'),
+        url('fonts/RosaSans-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rosa Sans';
+    src: url('fonts/RosaSans-Bold.woff2') format('woff2'),
+        url('fonts/RosaSans-Bold.woff') format('woff'),
+        url('fonts/RosaSans-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rosa Sans';
+    src: url('fonts/RosaSans-BoldItalic.woff2') format('woff2'),
+        url('fonts/RosaSans-BoldItalic.woff') format('woff'),
+        url('fonts/RosaSans-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
     font-display: swap;
 }
 
@@ -80,81 +140,20 @@
 
 @font-face {
     font-family: 'Rosa Sans';
-    src: url('fonts/RosaSans-Italic.woff2') format('woff2'),
-        url('fonts/RosaSans-Italic.woff') format('woff'),
-        url('fonts/RosaSans-Italic.ttf') format('truetype');
-    font-weight: normal;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Rosa Sans';
-    src: url('fonts/RosaSans-MediumItalic.woff2') format('woff2'),
-        url('fonts/RosaSans-MediumItalic.woff') format('woff'),
-        url('fonts/RosaSans-MediumItalic.ttf') format('truetype');
-    font-weight: 500;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Rosa Sans';
-    src: url('fonts/RosaSans-LightItalic.woff2') format('woff2'),
-        url('fonts/RosaSans-LightItalic.woff') format('woff'),
-        url('fonts/RosaSans-LightItalic.ttf') format('truetype');
-    font-weight: 300;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Rosa Sans';
-    src: url('fonts/RosaSans-SemiBold.woff2') format('woff2'),
-        url('fonts/RosaSans-SemiBold.woff') format('woff'),
-        url('fonts/RosaSans-SemiBold.ttf') format('truetype');
-    font-weight: 600;
+    src: url('fonts/RosaSans-Black.woff2') format('woff2'),
+        url('fonts/RosaSans-Black.woff') format('woff'),
+        url('fonts/RosaSans-Black.ttf') format('truetype');
+    font-weight: 900;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Rosa Sans';
-    src: url('fonts/RosaSans-Medium.woff2') format('woff2'),
-        url('fonts/RosaSans-Medium.woff') format('woff'),
-        url('fonts/RosaSans-Medium.ttf') format('truetype');
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Rosa Sans';
-    src: url('fonts/RosaSans-Regular.woff2') format('woff2'),
-        url('fonts/RosaSans-Regular.woff') format('woff'),
-        url('fonts/RosaSans-Regular.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Rosa Sans';
-    src: url('fonts/RosaSans-Light.woff2') format('woff2'),
-        url('fonts/RosaSans-Light.woff') format('woff'),
-        url('fonts/RosaSans-Light.ttf') format('truetype');
-    font-weight: 300;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Rosa Sans';
-    src: url('fonts/RosaSans-SemiBoldItalic.woff2') format('woff2'),
-        url('fonts/RosaSans-SemiBoldItalic.woff') format('woff'),
-        url('fonts/RosaSans-SemiBoldItalic.ttf') format('truetype');
-    font-weight: 600;
+    src: url('fonts/RosaSans-BlackItalic.woff2') format('woff2'),
+        url('fonts/RosaSans-BlackItalic.woff') format('woff'),
+        url('fonts/RosaSans-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
     font-style: italic;
     font-display: swap;
 }
-
