@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="odotaccentmacron" format="2">
+  <advance width="1184"/>
+  <unicode hex="0231"/>
+  <anchor x="736" y="1284" name="top"/>
+  <anchor x="1056" y="960" name="horn"/>
+  <anchor x="516" y="0" name="bottom"/>
+  <outline>
+    <component base="o"/>
+    <component base="dotaccentcomb" xOffset="1150"/>
+    <component base="macroncomb" xOffset="1218" yOffset="324"/>
+  </outline>
+</glyph>

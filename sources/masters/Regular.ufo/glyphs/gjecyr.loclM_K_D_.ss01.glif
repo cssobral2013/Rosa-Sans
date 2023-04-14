@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gjecyr.loclMKD.ss01" format="2">
+  <advance width="992"/>
+  <anchor x="493" y="984" name="top"/>
+  <anchor x="506" y="-0" name="bottom"/>
+  <outline>
+    <component base="gecyr.loclBGR"/>
+    <component base="macroncomb" xOffset="1095"/>
+  </outline>
+</glyph>

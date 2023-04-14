@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uhoi" format="2">
+  <advance width="1473"/>
+  <unicode hex="1EE6"/>
+  <anchor x="737" y="1400" name="top"/>
+  <anchor x="1296" y="1400" name="horn"/>
+  <anchor x="737" y="-0" name="bottom"/>
+  <outline>
+    <component base="U"/>
+    <component base="hookabovecomb.case" xOffset="1536" yOffset="1"/>
+  </outline>
+</glyph>

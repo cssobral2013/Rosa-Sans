@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yukrcyr" format="2">
+  <advance width="452"/>
+  <unicode hex="0457"/>
+  <anchor x="569" y="1284" name="top"/>
+  <anchor x="297" y="0" name="bottom"/>
+  <outline>
+    <component base="dotlessi" xOffset="173"/>
+    <component base="dieresiscomb.narrow" xOffset="1149"/>
+  </outline>
+</glyph>

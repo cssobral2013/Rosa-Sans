@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ohornhoi" format="2">
+  <advance width="1264"/>
+  <unicode hex="1EDF"/>
+  <anchor x="668" y="960" name="top"/>
+  <anchor x="1056" y="960" name="horn"/>
+  <anchor x="516" y="0" name="bottom"/>
+  <outline>
+    <component base="ohorn"/>
+    <component base="hookabovecomb" xOffset="1348"/>
+  </outline>
+</glyph>

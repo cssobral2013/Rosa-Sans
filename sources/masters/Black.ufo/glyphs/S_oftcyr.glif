@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Softcyr" format="2">
+  <advance width="1352"/>
+  <unicode hex="042C"/>
+  <anchor x="358" y="1170" name="strokeshort"/>
+  <outline>
+    <contour>
+      <point x="156" y="0" type="line"/>
+      <point x="156" y="1400" type="line"/>
+      <point x="560" y="1400" type="line"/>
+      <point x="560" y="968" type="line"/>
+      <point x="754" y="968" type="line"/>
+      <point x="914" y="968"/>
+      <point x="1166" y="854"/>
+      <point x="1312" y="637"/>
+      <point x="1312" y="484" type="qcurve"/>
+      <point x="1312" y="369"/>
+      <point x="1236" y="189"/>
+      <point x="1090" y="64"/>
+      <point x="879" y="0"/>
+      <point x="744" y="0" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="560" y="334" type="line"/>
+      <point x="728" y="334" type="line"/>
+      <point x="812" y="334"/>
+      <point x="908" y="397"/>
+      <point x="908" y="478" type="qcurve"/>
+      <point x="908" y="562"/>
+      <point x="808" y="624"/>
+      <point x="730" y="624" type="qcurve"/>
+      <point x="560" y="624" type="line"/>
+    </contour>
+  </outline>
+</glyph>

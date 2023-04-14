@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tugrik" format="2">
+  <advance width="1296"/>
+  <unicode hex="20AE"/>
+  <anchor x="648" y="1400" name="top"/>
+  <anchor x="648" y="-0" name="bottom"/>
+  <anchor x="649" y="699" name="strokeshort"/>
+  <outline>
+    <contour>
+      <point x="242" y="524" type="line"/>
+      <point x="242" y="667" type="line"/>
+      <point x="648" y="883" type="line"/>
+      <point x="648" y="864" type="line"/>
+      <point x="1054" y="1080" type="line"/>
+      <point x="1054" y="937" type="line"/>
+      <point x="648" y="721" type="line"/>
+      <point x="648" y="740" type="line"/>
+    </contour>
+    <contour>
+      <point x="242" y="211" type="line"/>
+      <point x="242" y="354" type="line"/>
+      <point x="648" y="570" type="line"/>
+      <point x="648" y="551" type="line"/>
+      <point x="1054" y="767" type="line"/>
+      <point x="1054" y="624" type="line"/>
+      <point x="648" y="408" type="line"/>
+      <point x="648" y="427" type="line"/>
+    </contour>
+    <contour>
+      <point x="547" y="0" type="line"/>
+      <point x="547" y="1214" type="line"/>
+      <point x="149" y="1214" type="line"/>
+      <point x="149" y="1400" type="line"/>
+      <point x="1148" y="1400" type="line"/>
+      <point x="1148" y="1214" type="line"/>
+      <point x="750" y="1214" type="line"/>
+      <point x="750" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

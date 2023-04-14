@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tau" format="2">
+  <advance width="859"/>
+  <unicode hex="03C4"/>
+  <outline>
+    <contour>
+      <point x="550" y="-28" type="qcurve" smooth="yes"/>
+      <point x="473" y="-28"/>
+      <point x="353" y="30"/>
+      <point x="284" y="152"/>
+      <point x="284" y="250" type="qcurve" smooth="yes"/>
+      <point x="284" y="808" type="line"/>
+      <point x="15" y="808" type="line"/>
+      <point x="15" y="984" type="line"/>
+      <point x="805" y="984" type="line"/>
+      <point x="805" y="808" type="line"/>
+      <point x="482" y="808" type="line"/>
+      <point x="482" y="322" type="line" smooth="yes"/>
+      <point x="482" y="224"/>
+      <point x="537" y="150"/>
+      <point x="596" y="150" type="qcurve" smooth="yes"/>
+      <point x="624" y="150"/>
+      <point x="679" y="163"/>
+      <point x="709" y="175" type="qcurve"/>
+      <point x="747" y="11" type="line"/>
+      <point x="698" y="-8"/>
+      <point x="598" y="-28"/>
+    </contour>
+  </outline>
+</glyph>

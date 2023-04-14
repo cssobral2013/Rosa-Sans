@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jcircumflex.calt" format="2">
+  <advance width="660"/>
+  <anchor x="533" y="1484" name="top"/>
+  <outline>
+    <component base="dotlessj.calt"/>
+    <component base="circumflexcomb.narrow" xOffset="1115"/>
+  </outline>
+</glyph>

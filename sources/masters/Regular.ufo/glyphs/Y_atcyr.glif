@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yatcyr" format="2">
+  <advance width="1460"/>
+  <unicode hex="0462"/>
+  <outline>
+    <contour>
+      <point x="387" y="0" type="line"/>
+      <point x="388" y="1440" type="line"/>
+      <point x="591" y="1440" type="line"/>
+      <point x="589" y="164" type="line"/>
+      <point x="883" y="164" type="line" smooth="yes"/>
+      <point x="1025" y="164"/>
+      <point x="1182" y="283"/>
+      <point x="1182" y="403" type="qcurve" smooth="yes"/>
+      <point x="1182" y="521"/>
+      <point x="1022" y="651"/>
+      <point x="885" y="651" type="qcurve" smooth="yes"/>
+      <point x="474" y="651" type="line"/>
+      <point x="474" y="824" type="line"/>
+      <point x="883" y="824" type="line" smooth="yes"/>
+      <point x="1030" y="824"/>
+      <point x="1256" y="726"/>
+      <point x="1385" y="544"/>
+      <point x="1385" y="416" type="qcurve" smooth="yes"/>
+      <point x="1385" y="282"/>
+      <point x="1266" y="96"/>
+      <point x="1040" y="0"/>
+      <point x="878" y="0" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="49" y="1031" type="line"/>
+      <point x="49" y="1185" type="line"/>
+      <point x="928" y="1185" type="line"/>
+      <point x="928" y="1031" type="line"/>
+    </contour>
+  </outline>
+</glyph>

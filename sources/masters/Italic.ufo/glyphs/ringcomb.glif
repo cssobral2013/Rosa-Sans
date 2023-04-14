@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringcomb" format="2">
+  <unicode hex="030A"/>
+  <anchor x="-666" y="960" name="top"/>
+  <anchor x="-558" y="1464" name="top.1"/>
+  <outline>
+    <contour>
+      <point x="-610" y="1100" type="qcurve"/>
+      <point x="-676" y="1100"/>
+      <point x="-778" y="1155"/>
+      <point x="-836" y="1250"/>
+      <point x="-836" y="1310" type="qcurve"/>
+      <point x="-836" y="1381"/>
+      <point x="-758" y="1497"/>
+      <point x="-633" y="1566"/>
+      <point x="-562" y="1566" type="qcurve"/>
+      <point x="-498" y="1566"/>
+      <point x="-397" y="1509"/>
+      <point x="-338" y="1412"/>
+      <point x="-338" y="1352" type="qcurve"/>
+      <point x="-338" y="1280"/>
+      <point x="-415" y="1166"/>
+      <point x="-539" y="1100"/>
+    </contour>
+    <contour>
+      <point x="-602" y="1188" type="qcurve"/>
+      <point x="-534" y="1188"/>
+      <point x="-442" y="1284"/>
+      <point x="-442" y="1348" type="qcurve"/>
+      <point x="-442" y="1404"/>
+      <point x="-513" y="1474"/>
+      <point x="-576" y="1474" type="qcurve"/>
+      <point x="-642" y="1474"/>
+      <point x="-732" y="1379"/>
+      <point x="-732" y="1316" type="qcurve"/>
+      <point x="-732" y="1262"/>
+      <point x="-663" y="1188"/>
+    </contour>
+  </outline>
+</glyph>

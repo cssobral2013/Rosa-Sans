@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Getailcyr" format="2">
+  <advance width="998"/>
+  <unicode hex="04F6"/>
+  <anchor x="564" y="1400" name="top"/>
+  <anchor x="504" y="722" name="strokeshort"/>
+  <outline>
+    <contour>
+      <point x="428" y="-360" type="line"/>
+      <point x="428" y="0" type="line"/>
+      <point x="268" y="0" type="line"/>
+      <point x="268" y="108" type="line"/>
+      <point x="536" y="108" type="line"/>
+      <point x="536" y="-360" type="line"/>
+    </contour>
+    <contour>
+      <point x="200" y="0" type="line"/>
+      <point x="200" y="1400" type="line"/>
+      <point x="928" y="1400" type="line"/>
+      <point x="928" y="1292" type="line"/>
+      <point x="316" y="1292" type="line"/>
+      <point x="316" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

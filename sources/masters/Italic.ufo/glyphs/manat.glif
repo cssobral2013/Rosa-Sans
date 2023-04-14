@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="manat" format="2">
+  <advance width="1298"/>
+  <unicode hex="20BC"/>
+  <anchor x="846" y="1400" name="top"/>
+  <outline>
+    <contour>
+      <point x="126" y="0" type="line"/>
+      <point x="126" y="24"/>
+      <point x="124" y="74"/>
+      <point x="124" y="96" type="qcurve"/>
+      <point x="124" y="376"/>
+      <point x="212" y="812"/>
+      <point x="376" y="1114"/>
+      <point x="605" y="1270"/>
+      <point x="746" y="1270" type="qcurve"/>
+      <point x="852" y="1270"/>
+      <point x="1016" y="1201"/>
+      <point x="1128" y="1067"/>
+      <point x="1186" y="873"/>
+      <point x="1186" y="748" type="qcurve"/>
+      <point x="1186" y="616"/>
+      <point x="1096" y="216"/>
+      <point x="1018" y="0" type="qcurve"/>
+      <point x="900" y="0" type="line"/>
+      <point x="940" y="116"/>
+      <point x="1003" y="332"/>
+      <point x="1047" y="525"/>
+      <point x="1070" y="687"/>
+      <point x="1070" y="748" type="qcurve"/>
+      <point x="1070" y="878"/>
+      <point x="993" y="1063"/>
+      <point x="847" y="1162"/>
+      <point x="744" y="1162" type="qcurve"/>
+      <point x="629" y="1162"/>
+      <point x="443" y="1021"/>
+      <point x="310" y="743"/>
+      <point x="240" y="333"/>
+      <point x="240" y="64" type="qcurve"/>
+      <point x="240" y="49"/>
+      <point x="240" y="17"/>
+      <point x="240" y="0" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="532" y="160" type="line"/>
+      <point x="796" y="1400" type="line"/>
+      <point x="896" y="1400" type="line"/>
+      <point x="632" y="160" type="line"/>
+    </contour>
+  </outline>
+</glyph>

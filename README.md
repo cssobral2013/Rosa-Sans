@@ -1,2 +1,8 @@
 # Rosa-Sans
-Is developed from RedHat. Main changes include: K/k, terminals on b/d/l/k/thorn, and re-interpolated by using Text Light and Display Black weights.
+Is developed from Geologisk (https://github.com/googlefonts/Geologisk)
+
+Main changes include:
+
+- Changed 'Q', '6', and '9' to their Cut alternates;
+- Changed italics to oblique forms;
+- (Variable) Changed to only 1 axis (wght).

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="j.calt" format="2">
+  <advance width="514"/>
+  <anchor x="362" y="984" name="top"/>
+  <anchor x="438" y="1344" name="top.1"/>
+  <outline>
+    <component base="dotlessj.calt"/>
+    <component base="dotaccentcomb" xOffset="857"/>
+  </outline>
+</glyph>

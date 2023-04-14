@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yusbigcyr" format="2">
+  <advance width="1977"/>
+  <unicode hex="046A"/>
+  <anchor x="989" y="1400" name="top"/>
+  <outline>
+    <contour>
+      <point x="52" y="0" type="line"/>
+      <point x="566" y="716" type="line"/>
+      <point x="201" y="1231" type="line"/>
+      <point x="201" y="1400" type="line"/>
+      <point x="1774" y="1400" type="line"/>
+      <point x="1774" y="1231" type="line"/>
+      <point x="1408" y="727" type="line"/>
+      <point x="1926" y="0" type="line"/>
+      <point x="1681" y="0" type="line"/>
+      <point x="1177" y="726" type="line"/>
+      <point x="1544" y="1232" type="line"/>
+      <point x="441" y="1232" type="line"/>
+      <point x="796" y="725" type="line"/>
+      <point x="288" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="888" y="0" type="line"/>
+      <point x="888" y="657" type="line"/>
+      <point x="655" y="657" type="line"/>
+      <point x="655" y="814" type="line"/>
+      <point x="1322" y="814" type="line"/>
+      <point x="1322" y="657" type="line"/>
+      <point x="1090" y="657" type="line"/>
+      <point x="1090" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

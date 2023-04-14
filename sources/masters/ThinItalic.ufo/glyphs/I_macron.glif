@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Imacron" format="2">
+  <advance width="579"/>
+  <unicode hex="012A"/>
+  <anchor x="618" y="1400" name="top"/>
+  <anchor x="322" y="-0" name="bottom"/>
+  <outline>
+    <component base="I" xOffset="137"/>
+    <component base="macroncomb.narrow" xOffset="1111" yOffset="416"/>
+  </outline>
+</glyph>

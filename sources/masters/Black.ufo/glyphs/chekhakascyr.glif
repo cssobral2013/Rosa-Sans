@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="chekhakascyr" format="2">
+  <advance width="1232"/>
+  <unicode hex="04CC"/>
+  <anchor x="570" y="1040" name="top"/>
+  <outline>
+    <contour>
+      <point x="442" y="-300" type="line"/>
+      <point x="442" y="232" type="line"/>
+      <point x="886" y="232" type="line"/>
+      <point x="886" y="0" type="line"/>
+      <point x="806" y="0" type="line"/>
+      <point x="806" y="-300" type="line"/>
+    </contour>
+    <contour>
+      <point x="704" y="0" type="line"/>
+      <point x="704" y="336" type="line"/>
+      <point x="641" y="320"/>
+      <point x="533" y="302"/>
+      <point x="480" y="302" type="qcurve"/>
+      <point x="354" y="302"/>
+      <point x="154" y="388"/>
+      <point x="38" y="576"/>
+      <point x="38" y="730" type="qcurve"/>
+      <point x="38" y="1040" type="line"/>
+      <point x="438" y="1040" type="line"/>
+      <point x="438" y="782" type="line"/>
+      <point x="438" y="706"/>
+      <point x="498" y="626"/>
+      <point x="570" y="626" type="qcurve"/>
+      <point x="615" y="626"/>
+      <point x="676" y="634"/>
+      <point x="704" y="638" type="qcurve"/>
+      <point x="704" y="1040" type="line"/>
+      <point x="1104" y="1040" type="line"/>
+      <point x="1104" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

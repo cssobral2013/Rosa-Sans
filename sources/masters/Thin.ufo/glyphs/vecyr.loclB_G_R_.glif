@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vecyr.loclBGR" format="2">
+  <advance width="1142"/>
+  <outline>
+    <contour>
+      <point x="578" y="-30" type="qcurve"/>
+      <point x="443" y="-30"/>
+      <point x="247" y="72"/>
+      <point x="140" y="262"/>
+      <point x="140" y="394" type="qcurve"/>
+      <point x="140" y="990" type="line"/>
+      <point x="140" y="1136"/>
+      <point x="252" y="1352"/>
+      <point x="455" y="1470"/>
+      <point x="592" y="1470" type="qcurve"/>
+      <point x="718" y="1470"/>
+      <point x="903" y="1381"/>
+      <point x="1004" y="1218"/>
+      <point x="1004" y="1108" type="qcurve"/>
+      <point x="1004" y="1033"/>
+      <point x="941" y="890"/>
+      <point x="833" y="781"/>
+      <point x="766" y="758" type="qcurve"/>
+      <point x="895" y="721"/>
+      <point x="1044" y="512"/>
+      <point x="1042" y="374" type="qcurve"/>
+      <point x="1041" y="258"/>
+      <point x="927" y="75"/>
+      <point x="719" y="-30"/>
+    </contour>
+    <contour>
+      <point x="578" y="78" type="qcurve"/>
+      <point x="748" y="78"/>
+      <point x="920" y="238"/>
+      <point x="920" y="374" type="qcurve"/>
+      <point x="920" y="524"/>
+      <point x="725" y="694"/>
+      <point x="554" y="694" type="qcurve"/>
+      <point x="208" y="694" type="line"/>
+      <point x="208" y="800" type="line"/>
+      <point x="544" y="800" type="line"/>
+      <point x="641" y="800"/>
+      <point x="795" y="877"/>
+      <point x="884" y="1008"/>
+      <point x="884" y="1090" type="qcurve"/>
+      <point x="884" y="1219"/>
+      <point x="727" y="1362"/>
+      <point x="586" y="1362" type="qcurve"/>
+      <point x="423" y="1362"/>
+      <point x="252" y="1172"/>
+      <point x="252" y="990" type="qcurve"/>
+      <point x="252" y="428" type="line"/>
+      <point x="252" y="262"/>
+      <point x="425" y="78"/>
+    </contour>
+  </outline>
+</glyph>

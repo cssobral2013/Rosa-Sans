@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ocyr" format="2">
+  <advance width="1292"/>
+  <unicode hex="043E"/>
+  <anchor x="730" y="1040" name="top"/>
+  <anchor x="1130" y="1040" name="horn"/>
+  <anchor x="562" y="0" name="bottom"/>
+  <outline>
+    <component base="o"/>
+  </outline>
+</glyph>

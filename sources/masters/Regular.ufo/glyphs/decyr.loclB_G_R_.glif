@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="decyr.loclBGR" format="2">
+  <advance width="1280"/>
+  <anchor x="597" y="984" name="top"/>
+  <outline>
+    <component base="g.ss01"/>
+  </outline>
+</glyph>

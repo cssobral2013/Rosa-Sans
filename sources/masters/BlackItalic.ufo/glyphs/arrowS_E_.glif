@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowSE" format="2">
+  <advance width="2130"/>
+  <unicode hex="2198"/>
+  <outline>
+    <component base="arrowNE" yScale="-1" xOffset="235" yOffset="1400"/>
+  </outline>
+</glyph>

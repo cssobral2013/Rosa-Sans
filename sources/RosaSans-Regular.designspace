@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="4.0">
+ <axes>
+  <axis maximum="900" minimum="100" tag="wght" name="weight" default="100">
+   <labelname xml:lang="en">Weight</labelname>
+   <map output="100" input="100"/>
+   <map output="400" input="400"/>
+   <map output="900" input="900"/>
+  </axis>
+ </axes>
+ <sources>
+  <source stylename="Thin" filename="masters/Thin.ufo" familyname="Rosa Sans" name="Thin">
+   <location>
+    <dimension name="weight" xvalue="100"/>
+   </location>
+  </source>
+  <source stylename="Regular" filename="masters/Regular.ufo" familyname="Rosa Sans" name="Regular">
+   <lib copy="1"/>
+   <groups copy="1"/>
+   <info copy="1"/>
+   <features copy="1"/>
+   <location>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </source>
+  <source stylename="Black" filename="masters/Black.ufo" familyname="Rosa Sans" name="Black">
+   <location>
+    <dimension name="weight" xvalue="900"/>
+   </location>
+  </source>
+ </sources>
+ <instances>
+  <instance stylename="Thin" filename="instances/RosaSans-Thin.ufo" familyname="Rosa Sans" name="Thin">
+   <location>
+    <dimension name="weight" xvalue="100"/>
+   </location>
+  </instance>
+  <instance stylename="ExtraLight" filename="instances/RosaSans-ExtraLight.ufo" familyname="Rosa Sans" name="ExtraLight">
+   <location>
+    <dimension name="weight" xvalue="200"/>
+   </location>
+  </instance>
+  <instance stylename="Light" filename="instances/RosaSans-Light.ufo" familyname="Rosa Sans" name="Light">
+   <location>
+    <dimension name="weight" xvalue="300"/>
+   </location>
+  </instance>
+  <instance stylename="Regular" filename="instances/RosaSans-Regular.ufo" familyname="Rosa Sans" name="Regular">
+   <location>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </instance>
+  <instance stylename="Medium" filename="instances/RosaSans-Medium.ufo" familyname="Rosa Sans" name="Medium">
+   <location>
+    <dimension name="weight" xvalue="500"/>
+   </location>
+  </instance>
+  <instance stylename="SemiBold" filename="instances/RosaSans-SemiBold.ufo" familyname="Rosa Sans" name="SemiBold">
+   <location>
+    <dimension name="weight" xvalue="600"/>
+   </location>
+  </instance>
+  <instance stylename="Bold" filename="instances/RosaSans-Bold.ufo" familyname="Rosa Sans" name="Bold">
+   <location>
+    <dimension name="weight" xvalue="700"/>
+   </location>
+  </instance>
+  <instance stylename="ExtraBold" filename="instances/RosaSans-ExtraBold.ufo" familyname="Rosa Sans" name="ExtraBold">
+   <location>
+    <dimension name="weight" xvalue="800"/>
+   </location>
+  </instance>
+  <instance stylename="Black" filename="instances/RosaSans-Black.ufo" familyname="Rosa Sans" name="Black">
+   <location>
+    <dimension name="weight" xvalue="900"/>
+   </location>
+  </instance>
+ </instances>
+</designspace>

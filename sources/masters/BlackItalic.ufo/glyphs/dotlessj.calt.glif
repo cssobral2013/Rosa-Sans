@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessj.calt" format="2">
+  <advance width="660"/>
+  <anchor x="441" y="1040" name="top"/>
+  <outline>
+    <contour>
+      <point x="-27" y="-450" type="qcurve"/>
+      <point x="-109" y="-450"/>
+      <point x="-209" y="-436"/>
+      <point x="-251" y="-418" type="qcurve"/>
+      <point x="-150" y="-112" type="line"/>
+      <point x="-118" y="-126"/>
+      <point x="-76" y="-126" type="qcurve"/>
+      <point x="-40" y="-126"/>
+      <point x="2" y="-91"/>
+      <point x="9" y="-54" type="qcurve"/>
+      <point x="241" y="1040" type="line"/>
+      <point x="641" y="1040" type="line"/>
+      <point x="402" y="-86" type="line"/>
+      <point x="364" y="-266"/>
+      <point x="138" y="-450"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecircumflexhoi" format="2">
+  <advance width="1308"/>
+  <unicode hex="1EC2"/>
+  <anchor x="944" y="1806" name="top"/>
+  <anchor x="562" y="0" name="bottom"/>
+  <outline>
+    <component base="E"/>
+    <component base="circumflexcomb.case" xOffset="1688"/>
+    <component base="hookabovecomb.case" xOffset="2256" yOffset="334"/>
+  </outline>
+</glyph>

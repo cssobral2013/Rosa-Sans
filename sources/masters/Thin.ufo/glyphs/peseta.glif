@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="peseta" format="2">
+  <advance width="1296"/>
+  <unicode hex="20A7"/>
+  <outline>
+    <contour>
+      <point x="250" y="0" type="line"/>
+      <point x="250" y="1400" type="line"/>
+      <point x="662" y="1400" type="line"/>
+      <point x="787" y="1400"/>
+      <point x="981" y="1304"/>
+      <point x="1092" y="1125"/>
+      <point x="1092" y="1002" type="qcurve"/>
+      <point x="1092" y="873"/>
+      <point x="991" y="697"/>
+      <point x="798" y="606"/>
+      <point x="660" y="606" type="qcurve"/>
+      <point x="364" y="606" type="line"/>
+      <point x="364" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="364" y="710" type="line"/>
+      <point x="670" y="710" type="line"/>
+      <point x="768" y="710"/>
+      <point x="906" y="776"/>
+      <point x="978" y="904"/>
+      <point x="978" y="998" type="qcurve"/>
+      <point x="978" y="1133"/>
+      <point x="813" y="1296"/>
+      <point x="672" y="1296" type="qcurve"/>
+      <point x="364" y="1296" type="line"/>
+    </contour>
+    <contour>
+      <point x="58" y="948" type="line"/>
+      <point x="58" y="1048" type="line"/>
+      <point x="1234" y="1048" type="line"/>
+      <point x="1234" y="948" type="line"/>
+    </contour>
+  </outline>
+</glyph>

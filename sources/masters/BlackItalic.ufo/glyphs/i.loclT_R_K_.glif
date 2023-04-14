@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i.loclTRK" format="2">
+  <advance width="660"/>
+  <anchor x="534" y="1484" name="top"/>
+  <anchor x="220" y="0" name="bottom"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="dotaccentcomb" xOffset="966"/>
+  </outline>
+</glyph>

@@ -1,5 +1,6 @@
-Copyright 2021 Red Hat, Inc., with Reserved Font Name "Red Hat"
-Copyright 2021 The Rosa Sans Project Authors (https://github.com/cssobral2013/Rosa-Sans/)
+Copyright 2020 The Geologisk Project Authors
+(https://github.com/googlefonts/geologisk/) 
+Copyright 2020-2023 The Rosa Sans Project Authors (https://github.com/cssobral2013/Rosa-Sans/)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

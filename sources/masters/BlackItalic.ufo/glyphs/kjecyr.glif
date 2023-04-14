@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kjecyr" format="2">
+  <advance width="1274"/>
+  <unicode hex="045C"/>
+  <anchor x="758" y="1040" name="top"/>
+  <outline>
+    <component base="kacyr"/>
+    <component base="acutecomb" xOffset="1464"/>
+  </outline>
+</glyph>

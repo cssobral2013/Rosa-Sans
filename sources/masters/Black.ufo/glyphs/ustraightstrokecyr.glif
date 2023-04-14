@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ustraightstrokecyr" format="2">
+  <advance width="1178"/>
+  <unicode hex="04B1"/>
+  <anchor x="598" y="-80" name="strokeshort"/>
+  <outline>
+    <component base="ustraightcyr"/>
+    <component base="strokeshortcomb" xOffset="1236" yOffset="-614"/>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Acircumflexhoi" format="2">
+  <advance width="1376"/>
+  <unicode hex="1EA8"/>
+  <anchor x="1052" y="1674" name="top"/>
+  <anchor x="680" y="-0" name="bottom"/>
+  <anchor x="680" y="1837" name="top.1"/>
+  <outline>
+    <component base="A"/>
+    <component base="circumflexcomb.case" xOffset="1482" yOffset="1"/>
+    <component base="hookabovecomb.case" xOffset="1851" yOffset="275"/>
+  </outline>
+</glyph>

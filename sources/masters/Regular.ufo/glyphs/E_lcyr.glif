@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Elcyr" format="2">
+  <advance width="1487"/>
+  <unicode hex="041B"/>
+  <outline>
+    <contour>
+      <point x="133" y="-23" type="qcurve"/>
+      <point x="54" y="163" type="line"/>
+      <point x="121" y="185"/>
+      <point x="217" y="246"/>
+      <point x="283" y="351"/>
+      <point x="320" y="522"/>
+      <point x="337" y="783"/>
+      <point x="337" y="970" type="qcurve" smooth="yes"/>
+      <point x="337" y="1400" type="line"/>
+      <point x="1300" y="1400" type="line"/>
+      <point x="1300" y="0" type="line"/>
+      <point x="1097" y="0" type="line"/>
+      <point x="1097" y="1214" type="line"/>
+      <point x="532" y="1214" type="line"/>
+      <point x="532" y="976" type="line" smooth="yes"/>
+      <point x="532" y="758"/>
+      <point x="506" y="444"/>
+      <point x="448" y="228"/>
+      <point x="355" y="89"/>
+      <point x="222" y="4"/>
+    </contour>
+  </outline>
+</glyph>
