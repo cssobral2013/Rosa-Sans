@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
   <key>ascender</key>
-  <integer>1874</integer>
+  <integer>2024</integer>
   <key>capHeight</key>
   <integer>1400</integer>
   <key>copyright</key>
@@ -66,13 +66,13 @@
   <array>
   </array>
   <key>openTypeHheaAscender</key>
-  <integer>1874</integer>
+  <integer>2024</integer>
   <key>openTypeHheaCaretOffset</key>
   <integer>-0</integer>
   <key>openTypeHheaDescender</key>
   <integer>-624</integer>
   <key>openTypeHheaLineGap</key>
-  <integer>-0</integer>
+  <integer>244</integer>
   <key>openTypeNameDesigner</key>
   <string>Sindre Bremnes, Frode Helland (font), Cristiano Sobral (main changes)</string>
   <key>openTypeNameLicense</key>
@@ -129,11 +129,11 @@
   <array>
   </array>
   <key>openTypeOS2TypoAscender</key>
-  <integer>1874</integer>
+  <integer>2024</integer>
   <key>openTypeOS2TypoDescender</key>
   <integer>-624</integer>
   <key>openTypeOS2TypoLineGap</key>
-  <integer>-0</integer>
+  <integer>244</integer>
   <key>openTypeOS2VendorID</key>
   <string>MNKR</string>
   <key>openTypeOS2WeightClass</key>
@@ -141,7 +141,7 @@
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
-  <integer>2518</integer>
+  <integer>2146</integer>
   <key>openTypeOS2WinDescent</key>
   <integer>746</integer>
   <key>postscriptBlueFuzz</key>
