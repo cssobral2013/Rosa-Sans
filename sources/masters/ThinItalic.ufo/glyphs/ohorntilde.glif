@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ohorntilde" format="2">
-  <advance width="1296"/>
+  <advance width="1264"/>
   <unicode hex="1EE1"/>
-  <anchor x="687" y="984" name="top"/>
-  <anchor x="1078" y="984" name="horn"/>
-  <anchor x="530" y="-0" name="bottom"/>
-  <anchor x="771" y="1380" name="top.1"/>
+  <anchor x="750" y="1344" name="top"/>
+  <anchor x="1056" y="960" name="horn"/>
+  <anchor x="516" y="0" name="bottom"/>
   <outline>
     <component base="ohorn"/>
-    <component base="tildecomb" xOffset="1365"/>
+    <component base="tildecomb" xOffset="1334"/>
   </outline>
 </glyph>

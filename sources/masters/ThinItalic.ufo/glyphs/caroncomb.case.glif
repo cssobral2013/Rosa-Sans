@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caroncomb.case" format="2">
-  <anchor x="-798" y="1399" name="top"/>
+  <anchor x="-784" y="1398" name="top"/>
   <outline>
     <contour>
-      <point x="-861" y="1567" type="line"/>
-      <point x="-1062" y="1891" type="line"/>
-      <point x="-873" y="1891" type="line"/>
-      <point x="-749" y="1687" type="line"/>
-      <point x="-523" y="1891" type="line"/>
-      <point x="-313" y="1891" type="line"/>
-      <point x="-669" y="1567" type="line"/>
+      <point x="-810" y="1592" type="line"/>
+      <point x="-996" y="1904" type="line"/>
+      <point x="-884" y="1904" type="line"/>
+      <point x="-742" y="1668" type="line"/>
+      <point x="-480" y="1904" type="line"/>
+      <point x="-350" y="1904" type="line"/>
+      <point x="-688" y="1592" type="line"/>
     </contour>
   </outline>
 </glyph>

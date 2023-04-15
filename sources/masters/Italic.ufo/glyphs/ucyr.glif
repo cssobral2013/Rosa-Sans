@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ucyr" format="2">
-  <advance width="956"/>
+  <advance width="1039"/>
   <unicode hex="0443"/>
-  <anchor x="576" y="960" name="top"/>
-  <anchor x="622" y="0" name="bottom"/>
+  <anchor x="622" y="984" name="top"/>
+  <anchor x="737" y="0" name="bottom"/>
   <outline>
     <component base="y"/>
   </outline>

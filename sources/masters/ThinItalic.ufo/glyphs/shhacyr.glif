@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="shhacyr" format="2">
-  <advance width="1219"/>
+  <advance width="1155"/>
   <unicode hex="04BB"/>
-  <anchor x="460" y="1440" name="top"/>
-  <anchor x="514" y="1210" name="strokeshort"/>
+  <anchor x="432" y="1440" name="top"/>
+  <anchor x="496" y="1204" name="strokeshort"/>
   <outline>
     <component base="h"/>
   </outline>

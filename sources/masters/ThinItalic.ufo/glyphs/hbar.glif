@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hbar" format="2">
-  <advance width="1219"/>
+  <advance width="1155"/>
   <unicode hex="0127"/>
-  <anchor x="558" y="1440" name="top"/>
-  <anchor x="611" y="1210" name="strokeshort"/>
+  <anchor x="571" y="1440" name="top"/>
+  <anchor x="635" y="1204" name="strokeshort"/>
   <outline>
-    <component base="h" xOffset="97"/>
-    <component base="strokeshortcomb" xOffset="1213" yOffset="686"/>
+    <component base="h" xOffset="139"/>
+    <component base="strokeshortcomb" xOffset="1221" yOffset="684"/>
   </outline>
 </glyph>

@@ -2,28 +2,28 @@
 <glyph name="won" format="2">
   <advance width="1298"/>
   <unicode hex="20A9"/>
-  <anchor x="842" y="1400" name="top"/>
+  <anchor x="844" y="1400" name="top"/>
   <outline>
     <contour>
-      <point x="209" y="0" type="line"/>
-      <point x="274" y="1400" type="line"/>
-      <point x="441" y="1400" type="line"/>
-      <point x="367" y="309" type="line"/>
-      <point x="749" y="1400" type="line"/>
-      <point x="938" y="1400" type="line"/>
-      <point x="858" y="324" type="line"/>
-      <point x="1243" y="1400" type="line"/>
-      <point x="1411" y="1400" type="line"/>
-      <point x="881" y="0" type="line"/>
-      <point x="704" y="0" type="line"/>
-      <point x="782" y="1114" type="line"/>
-      <point x="387" y="0" type="line"/>
+      <point x="226" y="0" type="line"/>
+      <point x="278" y="1400" type="line"/>
+      <point x="396" y="1400" type="line"/>
+      <point x="336" y="204" type="line"/>
+      <point x="774" y="1400" type="line"/>
+      <point x="916" y="1400" type="line"/>
+      <point x="846" y="212" type="line"/>
+      <point x="1292" y="1400" type="line"/>
+      <point x="1412" y="1400" type="line"/>
+      <point x="868" y="0" type="line"/>
+      <point x="736" y="0" type="line"/>
+      <point x="808" y="1218" type="line"/>
+      <point x="360" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="71" y="615" type="line"/>
-      <point x="101" y="760" type="line"/>
-      <point x="1308" y="760" type="line"/>
-      <point x="1278" y="615" type="line"/>
+      <point x="94" y="638" type="line"/>
+      <point x="114" y="738" type="line"/>
+      <point x="1290" y="738" type="line"/>
+      <point x="1270" y="638" type="line"/>
     </contour>
   </outline>
 </glyph>

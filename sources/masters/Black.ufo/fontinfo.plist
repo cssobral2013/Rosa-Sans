@@ -33,6 +33,25 @@
     <key>rangeGaspBehavior</key>
       <array>
         <integer>0</integer>
+        <integer>2</integer>
+      </array>
+    <key>rangeMaxPPEM</key>
+    <integer>8</integer>
+  </dict>
+  <dict>
+    <key>rangeGaspBehavior</key>
+      <array>
+        <integer>0</integer>
+        <integer>1</integer>
+        <integer>2</integer>
+      </array>
+    <key>rangeMaxPPEM</key>
+    <integer>16</integer>
+  </dict>
+  <dict>
+    <key>rangeGaspBehavior</key>
+      <array>
+        <integer>0</integer>
         <integer>1</integer>
         <integer>2</integer>
         <integer>3</integer>
@@ -45,16 +64,10 @@
   <string>2023/04/14 15:23:34</string>
   <key>openTypeHeadFlags</key>
   <array>
-    <integer>0</integer>
-    <integer>1</integer>
   </array>
   <key>openTypeHheaAscender</key>
   <integer>1874</integer>
   <key>openTypeHheaCaretOffset</key>
-  <integer>-0</integer>
-  <key>openTypeHheaCaretSlopeRise</key>
-  <integer>1</integer>
-  <key>openTypeHheaCaretSlopeRun</key>
   <integer>-0</integer>
   <key>openTypeHheaDescender</key>
   <integer>-624</integer>
@@ -74,23 +87,6 @@
   <string>Rosa Sans</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Black</string>
-  <key>openTypeNameRecords</key>
-  <array>
-  <dict>
-    <key>nameID</key>
-    <integer>256</integer>
-    <key>platformID</key>
-    <integer>3</integer>
-    <key>encodingID</key>
-    <integer>1</integer>
-    <key>languageID</key>
-    <integer>1033</integer>
-    <key>string</key>
-    <string>Weight</string>
-  </dict>
-  </array>
-  <key>openTypeNameUniqueID</key>
-  <string>Geologisk Thin:Version 1.000</string>
   <key>openTypeNameVersion</key>
   <string>Version 1.000;April 14, 2023;FontCreator 14.0.0.2814 64-bit</string>
   <key>openTypeOS2Panose</key>

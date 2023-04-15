@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="odotbelow" format="2">
-  <advance width="1216"/>
+  <advance width="1184"/>
   <unicode hex="1ECD"/>
-  <anchor x="687" y="984" name="top"/>
-  <anchor x="1078" y="984" name="horn"/>
-  <anchor x="530" y="-0" name="bottom"/>
+  <anchor x="668" y="960" name="top"/>
+  <anchor x="1056" y="960" name="horn"/>
+  <anchor x="516" y="0" name="bottom"/>
   <outline>
     <component base="o"/>
-    <component base="dotbelowcomb" xOffset="1053"/>
+    <component base="dotbelowcomb" xOffset="1022"/>
   </outline>
 </glyph>

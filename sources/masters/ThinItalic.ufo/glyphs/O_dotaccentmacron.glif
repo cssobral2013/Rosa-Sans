@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Odotaccentmacron" format="2">
-  <advance width="1686"/>
+  <advance width="1696"/>
   <unicode hex="0230"/>
-  <anchor x="1069" y="1744" name="top"/>
-  <anchor x="1402" y="1400" name="horn"/>
-  <anchor x="776" y="-0" name="bottom"/>
-  <anchor x="1069" y="1744" name="top.1"/>
+  <anchor x="1069" y="1706" name="top"/>
+  <anchor x="1409" y="1400" name="horn"/>
+  <anchor x="783" y="0" name="bottom"/>
   <outline>
     <component base="O"/>
-    <component base="dotaccentcomb.case" xOffset="1608" yOffset="1"/>
-    <component base="macroncomb.case" xOffset="1678" yOffset="346"/>
+    <component base="dotaccentcomb.case" xOffset="1599" yOffset="2"/>
+    <component base="macroncomb.case" xOffset="1661" yOffset="308"/>
   </outline>
 </glyph>

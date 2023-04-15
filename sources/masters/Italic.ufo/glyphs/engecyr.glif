@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="engecyr" format="2">
-  <advance width="1546"/>
+  <advance width="1569"/>
   <unicode hex="04A5"/>
   <outline>
     <contour>
-      <point x="72" y="0" type="line"/>
-      <point x="272" y="960" type="line"/>
-      <point x="384" y="960" type="line"/>
-      <point x="300" y="564" type="line"/>
-      <point x="904" y="564" type="line"/>
-      <point x="986" y="960" type="line"/>
-      <point x="1590" y="960" type="line"/>
-      <point x="1568" y="856" type="line"/>
-      <point x="1078" y="856" type="line"/>
-      <point x="898" y="0" type="line"/>
-      <point x="786" y="0" type="line"/>
-      <point x="882" y="460" type="line"/>
-      <point x="278" y="460" type="line"/>
-      <point x="184" y="0" type="line"/>
+      <point x="56" y="0" type="line"/>
+      <point x="262" y="984" type="line"/>
+      <point x="461" y="984" type="line"/>
+      <point x="379" y="599" type="line"/>
+      <point x="898" y="599" type="line"/>
+      <point x="978" y="984" type="line"/>
+      <point x="1621" y="984" type="line"/>
+      <point x="1585" y="818" type="line"/>
+      <point x="1143" y="818" type="line"/>
+      <point x="971" y="0" type="line"/>
+      <point x="772" y="0" type="line"/>
+      <point x="863" y="433" type="line"/>
+      <point x="344" y="433" type="line"/>
+      <point x="255" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

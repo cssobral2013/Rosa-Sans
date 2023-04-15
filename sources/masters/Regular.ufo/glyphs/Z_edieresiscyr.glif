@@ -3,7 +3,7 @@
   <advance width="1214"/>
   <unicode hex="04DE"/>
   <anchor x="571" y="1400" name="top"/>
-  <anchor x="577" y="-0" name="bottom"/>
+  <anchor x="577" y="0" name="bottom"/>
   <anchor x="571" y="1744" name="top.1"/>
   <outline>
     <component base="Zecyr"/>

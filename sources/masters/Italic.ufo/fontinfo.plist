@@ -26,9 +26,28 @@
   </dict>
   </array>
   <key>italicAngle</key>
-  <integer>-12</integer>
+  <real>-8.4</real>
   <key>openTypeGaspRangeRecords</key>
   <array>
+  <dict>
+    <key>rangeGaspBehavior</key>
+      <array>
+        <integer>0</integer>
+        <integer>2</integer>
+      </array>
+    <key>rangeMaxPPEM</key>
+    <integer>8</integer>
+  </dict>
+  <dict>
+    <key>rangeGaspBehavior</key>
+      <array>
+        <integer>0</integer>
+        <integer>1</integer>
+        <integer>2</integer>
+      </array>
+    <key>rangeMaxPPEM</key>
+    <integer>16</integer>
+  </dict>
   <dict>
     <key>rangeGaspBehavior</key>
       <array>
@@ -45,17 +64,11 @@
   <string>2023/04/14 15:34:53</string>
   <key>openTypeHeadFlags</key>
   <array>
-    <integer>0</integer>
-    <integer>1</integer>
   </array>
   <key>openTypeHheaAscender</key>
   <integer>1874</integer>
   <key>openTypeHheaCaretOffset</key>
-  <integer>-102</integer>
-  <key>openTypeHheaCaretSlopeRise</key>
-  <integer>1</integer>
-  <key>openTypeHheaCaretSlopeRun</key>
-  <integer>-0</integer>
+  <integer>-71</integer>
   <key>openTypeHheaDescender</key>
   <integer>-624</integer>
   <key>openTypeHheaLineGap</key>
@@ -73,9 +86,7 @@
   <key>openTypeNamePreferredFamilyName</key>
   <string>Rosa Sans</string>
   <key>openTypeNamePreferredSubfamilyName</key>
-  <string>Thin Italic</string>
-  <key>openTypeNameUniqueID</key>
-  <string>Geologisk:Version 1.000</string>
+  <string>Italic</string>
   <key>openTypeNameVersion</key>
   <string>Version 1.000;April 14, 2023;FontCreator 14.0.0.2814 64-bit</string>
   <key>openTypeOS2Panose</key>
@@ -126,7 +137,7 @@
   <key>openTypeOS2VendorID</key>
   <string>MNKR</string>
   <key>openTypeOS2WeightClass</key>
-  <integer>100</integer>
+  <integer>400</integer>
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
@@ -145,11 +156,11 @@
     <integer>0</integer>
   </array>
   <key>postscriptFontName</key>
-  <string>RosaSans-ThinItalic</string>
+  <string>RosaSans-Italic</string>
   <key>postscriptForceBold</key>
   <false/>
   <key>postscriptFullName</key>
-  <string>Rosa Sans Thin Italic</string>
+  <string>Rosa Sans Italic</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
   <key>postscriptUnderlinePosition</key>
@@ -157,13 +168,13 @@
   <key>postscriptUnderlineThickness</key>
   <integer>50</integer>
   <key>postscriptWeightName</key>
-  <string>Thin</string>
+  <string>Regular</string>
   <key>styleMapFamilyName</key>
-  <string>Rosa Sans Thin</string>
+  <string>Rosa Sans</string>
   <key>styleMapStyleName</key>
   <string>italic</string>
   <key>styleName</key>
-  <string>Thin Italic</string>
+  <string>Italic</string>
   <key>unitsPerEm</key>
   <integer>2000</integer>
   <key>versionMajor</key>

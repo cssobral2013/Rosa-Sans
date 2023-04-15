@@ -4,7 +4,7 @@
   <unicode hex="004F"/>
   <anchor x="834" y="1400" name="top"/>
   <anchor x="1236" y="1400" name="horn"/>
-  <anchor x="834" y="-0" name="bottom"/>
+  <anchor x="834" y="0" name="bottom"/>
   <outline>
     <contour>
       <point x="834" y="-30" type="qcurve" smooth="yes"/>

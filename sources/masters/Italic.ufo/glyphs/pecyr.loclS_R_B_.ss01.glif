@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pecyr.loclSRB.ss01" format="2">
-  <advance width="1143"/>
-  <anchor x="665" y="960" name="top"/>
-  <anchor x="1075" y="960" name="horn"/>
-  <anchor x="453" y="0" name="bottom"/>
+  <advance width="1199"/>
+  <anchor x="700" y="984" name="top"/>
+  <anchor x="1146" y="984" name="horn"/>
+  <anchor x="481" y="0" name="bottom"/>
   <outline>
     <component base="u"/>
-    <component base="macroncomb" xOffset="1147"/>
+    <component base="macroncomb" xOffset="1195"/>
   </outline>
 </glyph>

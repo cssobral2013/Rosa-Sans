@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Abrevetilde" format="2">
-  <advance width="1324"/>
+  <advance width="1377"/>
   <unicode hex="1EB4"/>
-  <anchor x="1010" y="2174" name="top"/>
-  <anchor x="548" y="0" name="bottom"/>
+  <anchor x="963" y="1814" name="top"/>
+  <anchor x="578" y="0" name="bottom"/>
+  <anchor x="1041" y="2187" name="top.1"/>
   <outline>
     <component base="A"/>
-    <component base="brevecomb.case" xOffset="1628" yOffset="2"/>
-    <component base="tildecomb.case" xOffset="1718" yOffset="416"/>
+    <component base="brevecomb.case" xOffset="1671" yOffset="1"/>
+    <component base="tildecomb.case" xOffset="1761" yOffset="415"/>
   </outline>
 </glyph>

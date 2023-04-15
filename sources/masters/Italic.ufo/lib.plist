@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
   <key>com.typemytype.robofont.italicSlantOffset</key>
-  <real>-102</real>
+  <real>-71</real>
   <key>com.fontlab.masterFilename</key>
   <string>ThinItalic</string>
   <key>public.glyphOrder</key>

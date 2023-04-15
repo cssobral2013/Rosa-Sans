@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotbelowcomb" format="2">
   <unicode hex="0323"/>
-  <anchor x="-523" y="-0" name="bottom"/>
+  <anchor x="-506" y="0" name="bottom"/>
   <outline>
     <contour>
-      <point x="-615" y="-498" type="qcurve" smooth="yes"/>
-      <point x="-667" y="-498"/>
-      <point x="-738" y="-432"/>
-      <point x="-738" y="-383" type="qcurve" smooth="yes"/>
-      <point x="-738" y="-321"/>
-      <point x="-646" y="-239"/>
-      <point x="-588" y="-239" type="qcurve" smooth="yes"/>
-      <point x="-536" y="-239"/>
-      <point x="-465" y="-303"/>
-      <point x="-465" y="-355" type="qcurve" smooth="yes"/>
-      <point x="-465" y="-415"/>
-      <point x="-555" y="-498"/>
+      <point x="-598" y="-472" type="qcurve"/>
+      <point x="-634" y="-472"/>
+      <point x="-682" y="-421"/>
+      <point x="-682" y="-388" type="qcurve"/>
+      <point x="-682" y="-346"/>
+      <point x="-614" y="-284"/>
+      <point x="-574" y="-284" type="qcurve"/>
+      <point x="-538" y="-284"/>
+      <point x="-490" y="-333"/>
+      <point x="-490" y="-368" type="qcurve"/>
+      <point x="-490" y="-410"/>
+      <point x="-557" y="-472"/>
     </contour>
   </outline>
 </glyph>

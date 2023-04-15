@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gamma" format="2">
-  <advance width="1026"/>
+  <advance width="1000"/>
   <unicode hex="0393"/>
-  <anchor x="770" y="1400" name="top"/>
-  <anchor x="481" y="699" name="strokeshort"/>
+  <anchor x="760" y="1400" name="top"/>
+  <anchor x="486" y="722" name="strokeshort"/>
   <outline>
     <component base="Gecyr"/>
   </outline>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="idotbelow" format="2">
-  <advance width="514"/>
+  <advance width="452"/>
   <unicode hex="1ECB"/>
-  <anchor x="466" y="1344" name="top"/>
-  <anchor x="153" y="-0" name="bottom"/>
+  <anchor x="396" y="1284" name="top"/>
+  <anchor x="124" y="0" name="bottom"/>
   <outline>
     <component base="i"/>
-    <component base="dotbelowcomb" xOffset="676"/>
+    <component base="dotbelowcomb" xOffset="630"/>
   </outline>
 </glyph>

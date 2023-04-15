@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gestrokecyr" format="2">
-  <advance width="1100"/>
+  <advance width="1126"/>
   <unicode hex="0492"/>
-  <anchor x="840" y="1400" name="top"/>
-  <anchor x="566" y="722" name="strokeshort"/>
+  <anchor x="850" y="1400" name="top"/>
+  <anchor x="561" y="699" name="strokeshort"/>
   <outline>
     <component base="Gecyr" xOffset="80"/>
-    <component base="strokeshortcomb.case" xOffset="1354" yOffset="-20"/>
+    <component base="strokeshortcomb.case" xOffset="1353" yOffset="-34"/>
   </outline>
 </glyph>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ishortcyr" format="2">
-  <advance width="1496"/>
+  <advance width="1452"/>
   <unicode hex="0419"/>
-  <anchor x="941" y="1400" name="top"/>
-  <anchor x="645" y="-0" name="bottom"/>
+  <anchor x="922" y="1400" name="top"/>
+  <anchor x="626" y="0" name="bottom"/>
   <outline>
     <component base="Icyr"/>
-    <component base="brevecomb.ccmp" xOffset="1619" yOffset="416"/>
+    <component base="brevecomb.ccmp" xOffset="1588" yOffset="440"/>
   </outline>
 </glyph>

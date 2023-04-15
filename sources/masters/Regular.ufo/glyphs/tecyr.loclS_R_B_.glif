@@ -2,7 +2,7 @@
 <glyph name="tecyr.loclSRB" format="2">
   <advance width="963"/>
   <anchor x="482" y="984" name="top"/>
-  <anchor x="482" y="-0" name="bottom"/>
+  <anchor x="482" y="0" name="bottom"/>
   <anchor x="482" y="476" name="strokeshort"/>
   <outline>
     <component base="tecyr"/>

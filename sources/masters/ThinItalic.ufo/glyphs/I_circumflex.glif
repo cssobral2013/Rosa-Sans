@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Icircumflex" format="2">
-  <advance width="579"/>
+  <advance width="518"/>
   <unicode hex="00CE"/>
-  <anchor x="637" y="1400" name="top"/>
-  <anchor x="341" y="-0" name="bottom"/>
-  <anchor x="736" y="1872" name="top.1"/>
+  <anchor x="778" y="1884" name="top"/>
+  <anchor x="380" y="0" name="bottom"/>
   <outline>
-    <component base="I" xOffset="155"/>
-    <component base="circumflexcomb.narrow" xOffset="1284" yOffset="416"/>
+    <component base="I" xOffset="222"/>
+    <component base="circumflexcomb.narrow" xOffset="1312" yOffset="440"/>
   </outline>
 </glyph>

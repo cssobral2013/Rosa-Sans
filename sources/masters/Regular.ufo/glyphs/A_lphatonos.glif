@@ -3,7 +3,7 @@
   <advance width="1376"/>
   <unicode hex="0386"/>
   <anchor x="680" y="1400" name="top"/>
-  <anchor x="680" y="-0" name="bottom"/>
+  <anchor x="680" y="0" name="bottom"/>
   <outline>
     <component base="Alpha"/>
     <component base="tonos.case" xOffset="-119"/>

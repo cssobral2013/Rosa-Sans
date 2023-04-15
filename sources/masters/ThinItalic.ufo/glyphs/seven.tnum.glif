@@ -2,6 +2,6 @@
 <glyph name="seven.tnum" format="2">
   <advance width="1298"/>
   <outline>
-    <component base="seven" xOffset="106"/>
+    <component base="seven" xOffset="118"/>
   </outline>
 </glyph>

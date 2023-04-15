@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Palochkacyr" format="2">
-  <advance width="518"/>
+  <advance width="579"/>
   <unicode hex="04C0"/>
-  <anchor x="454" y="1400" name="top"/>
-  <anchor x="158" y="0" name="bottom"/>
+  <anchor x="482" y="1400" name="top"/>
+  <anchor x="186" y="0" name="bottom"/>
   <outline>
     <component base="I"/>
   </outline>

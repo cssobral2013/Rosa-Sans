@@ -2,20 +2,20 @@
 <glyph name="periodcentered.loclCAT.case" format="2">
   <outline>
     <contour>
-      <point x="-212" y="613" type="qcurve" smooth="yes"/>
-      <point x="-269" y="613"/>
-      <point x="-347" y="682"/>
-      <point x="-347" y="736" type="qcurve" smooth="yes"/>
-      <point x="-347" y="783"/>
-      <point x="-300" y="853"/>
-      <point x="-226" y="892"/>
-      <point x="-183" y="892" type="qcurve" smooth="yes"/>
-      <point x="-124" y="892"/>
-      <point x="-48" y="823"/>
-      <point x="-48" y="768" type="qcurve" smooth="yes"/>
-      <point x="-48" y="721"/>
-      <point x="-94" y="651"/>
-      <point x="-169" y="613"/>
+      <point x="-226" y="630" type="qcurve"/>
+      <point x="-269" y="630"/>
+      <point x="-326" y="683"/>
+      <point x="-326" y="722" type="qcurve"/>
+      <point x="-326" y="756"/>
+      <point x="-291" y="808"/>
+      <point x="-235" y="838"/>
+      <point x="-202" y="838" type="qcurve"/>
+      <point x="-158" y="838"/>
+      <point x="-102" y="785"/>
+      <point x="-102" y="746" type="qcurve"/>
+      <point x="-102" y="712"/>
+      <point x="-136" y="660"/>
+      <point x="-193" y="630"/>
     </contour>
   </outline>
 </glyph>

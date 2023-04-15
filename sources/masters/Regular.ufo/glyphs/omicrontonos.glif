@@ -4,7 +4,7 @@
   <unicode hex="03CC"/>
   <anchor x="602" y="984" name="top"/>
   <anchor x="993" y="984" name="horn"/>
-  <anchor x="602" y="-0" name="bottom"/>
+  <anchor x="602" y="0" name="bottom"/>
   <outline>
     <component base="omicron"/>
     <component base="tonos" xOffset="387"/>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kjecyr" format="2">
-  <advance width="1026"/>
+  <advance width="1100"/>
   <unicode hex="045C"/>
-  <anchor x="588" y="960" name="top"/>
+  <anchor x="639" y="984" name="top"/>
   <outline>
     <component base="kacyr"/>
-    <component base="acutecomb" xOffset="1254"/>
+    <component base="acutecomb" xOffset="1317"/>
   </outline>
 </glyph>

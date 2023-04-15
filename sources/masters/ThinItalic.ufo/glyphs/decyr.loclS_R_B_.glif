@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="decyr.loclSRB" format="2">
-  <advance width="1287"/>
-  <anchor x="672" y="984" name="top"/>
+  <advance width="1259"/>
+  <anchor x="657" y="960" name="top"/>
   <outline>
     <component base="g.ss01"/>
   </outline>

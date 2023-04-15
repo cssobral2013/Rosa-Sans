@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ihoi" format="2">
-  <advance width="514"/>
+  <advance width="452"/>
   <unicode hex="1EC9"/>
-  <anchor x="465" y="984" name="top"/>
-  <anchor x="256" y="-0" name="bottom"/>
+  <anchor x="476" y="960" name="top"/>
+  <anchor x="272" y="0" name="bottom"/>
   <outline>
-    <component base="dotlessi" xOffset="104"/>
-    <component base="hookabovecomb.narrow" xOffset="1128"/>
+    <component base="dotlessi" xOffset="148"/>
+    <component base="hookabovecomb.narrow" xOffset="1132"/>
   </outline>
 </glyph>
