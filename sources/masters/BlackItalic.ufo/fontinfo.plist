@@ -87,23 +87,8 @@
   <string>Rosa Sans</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Black Italic</string>
-  <key>openTypeNameRecords</key>
-  <array>
-  <dict>
-    <key>nameID</key>
-    <integer>256</integer>
-    <key>platformID</key>
-    <integer>3</integer>
-    <key>encodingID</key>
-    <integer>1</integer>
-    <key>languageID</key>
-    <integer>1033</integer>
-    <key>string</key>
-    <string>Weight</string>
-  </dict>
-  </array>
   <key>openTypeNameVersion</key>
-  <string>Version 1.000;April 14, 2023;FontCreator 14.0.0.2814 64-bit</string>
+  <string>Version 2.000</string>
   <key>openTypeOS2Panose</key>
   <array>
     <integer>0</integer>
@@ -193,7 +178,7 @@
   <key>unitsPerEm</key>
   <integer>2000</integer>
   <key>versionMajor</key>
-  <integer>1</integer>
+  <integer>2</integer>
   <key>versionMinor</key>
   <integer>0</integer>
   <key>xHeight</key>
