@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="gecyr.loclSRB" format="2">
-  <advance width="992"/>
-  <anchor x="493" y="984" name="top"/>
-  <anchor x="506" y="0" name="bottom"/>
-  <outline>
-    <component base="gecyr.loclBGR"/>
-  </outline>
-</glyph>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tecyr.loclSRB.ss01" format="2">
-  <advance width="1862"/>
-  <anchor x="1031" y="984" name="top"/>
-  <outline>
-    <component base="shacyr.loclBGR"/>
-    <component base="macroncomb.wide" xOffset="1533"/>
-  </outline>
-</glyph>

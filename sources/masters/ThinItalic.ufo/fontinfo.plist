@@ -74,13 +74,13 @@
   <key>openTypeHheaLineGap</key>
   <integer>244</integer>
   <key>openTypeNameDesigner</key>
-  <string>Sindre Bremnes, Frode Helland</string>
+  <string>Sindre Bremnes, Frode Helland (font), Cristiano Sobral (main changes)</string>
   <key>openTypeNameLicense</key>
   <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
   <key>openTypeNameLicenseURL</key>
   <string>http://scripts.sil.org/OFL</string>
   <key>openTypeNameManufacturer</key>
-  <string>Monokrom Skriftforlag AS</string>
+  <string>Monokrom Skriftforlag AS (font), Cristiano Sobral (main changes)</string>
   <key>openTypeNameManufacturerURL</key>
   <string>https://monokrom.no/</string>
   <key>openTypeNamePreferredFamilyName</key>
@@ -88,7 +88,7 @@
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Thin Italic</string>
   <key>openTypeNameVersion</key>
-  <string>Version 2.000</string>
+  <string>Version 2.010</string>
   <key>openTypeOS2Panose</key>
   <array>
     <integer>0</integer>
@@ -180,7 +180,7 @@
   <key>versionMajor</key>
   <integer>2</integer>
   <key>versionMinor</key>
-  <integer>0</integer>
+  <integer>10</integer>
   <key>xHeight</key>
   <integer>960</integer>
 </dict>
