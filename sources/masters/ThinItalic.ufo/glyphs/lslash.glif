@@ -6,6 +6,7 @@
   <anchor x="559" y="1440" name="Anchor_2"/>
   <anchor x="192" y="0" name="bottom"/>
   <outline>
+    <component base="l" xOffset="70"/>
     <contour>
       <point x="100" y="506" type="line"/>
       <point x="69" y="583" type="line"/>
@@ -15,12 +16,6 @@
       <point x="595" y="707" type="line"/>
       <point x="324" y="592" type="line"/>
       <point x="326" y="602" type="line"/>
-    </contour>
-    <contour>
-      <point x="136" y="0" type="line"/>
-      <point x="447" y="1440" type="line"/>
-      <point x="559" y="1440" type="line"/>
-      <point x="248" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -1,3 +1,15 @@
+#/> classes
+#/> tags
+@noexport = [nine six];
+#/< tags
+#/< classes
+
+#/> classes
+#/> tags
+@noexport = [nine six];
+#/< tags
+#/< classes
+
 @aalt = [aacute abreve abreveacute abrevedotbelow abrevegrave abrevehoi abrevetilde acircumflex acircumflexacute acircumflexdotbelow acircumflexgrave acircumflexhoi acircumflextilde adblgrave adieresis adotbelow agrave ahoi ainvertedbreve amacron aogonek aring aringacute atilde ae aeacute g gbreve gcaron gcircumflex gcommaaccent o gdotaccent.ss01 Decyr Elcyr acyr becyr vecyr zhecyr zecyr icyr ishortcyr igravecyr kacyr elcyr tsecyr shacyr shchacyr softcyr hardcyr yucyr abrevecyr adieresiscyr aiecyr zero four five six seven eight nine dotaccentcomb hungarumlautcomb ringcomb commaturnedabovecomb strokeshortcomb tonos];
 @aalt2 = [aacute.ss01 abreve.ss01 abreveacute.ss01 abrevedotbelow.ss01 abrevegrave.ss01 abrevehoi.ss01 abrevetilde.ss01 acircumflex.ss01 acircumflexacute.ss01 acircumflexdotbelow.ss01 acircumflexgrave.ss01 acircumflexhoi.ss01 acircumflextilde.ss01 adblgrave.ss01 adieresis.ss01 adotbelow.ss01 agrave.ss01 ahoi.ss01 ainvertedbreve.ss01 amacron.ss01 aogonek.ss01 aring.ss01 aringacute.ss01 atilde.ss01 ae.ss01 aeacute.ss01 g.ss01 gbreve.ss01 gcaron.ss01 gcircumflex.ss01 gcommaaccent.ss01 ordmasculine gdotaccent.ss01 Decyr.loclBGR Elcyr.loclBGR acyr.ss01 becyr.loclSRB vecyr.loclBGR zhecyr.loclBGR zecyr.loclBGR icyr.loclBGR ishortcyr.loclBGR igravecyr.loclBGR kacyr.loclBGR elcyr.loclBGR tsecyr.loclBGR shacyr.loclBGR shchacyr.loclBGR softcyr.loclBGR hardcyr.loclBGR yucyr.loclBGR abrevecyr.ss01 adieresiscyr.ss01 aiecyr.ss01 zero.tnum four.tnum five.tnum six.tnum seven.tnum eight.tnum nine.tnum dotaccentcomb.case hungarumlautcomb.case ringcomb.case commaturnedabovecomb.case strokeshortcomb.case tonos.case];
 @calt = [Alpha Beta Chi Epsilon Phi Gamma Eta Iota Kappa Lambda Mu Nu Omicron Pi Theta Rho Sigma Tau Upsilon sigmafinal Xi Psi Zeta alpha beta chi delta epsilon phi gamma eta iota kappa lambda nu omicron pi theta rho sigma tau upsilon omega xi psi zeta Iotadieresis Upsilondieresis alphatonos Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos epsilontonos etatonos iotatonos omicrontonos Omegatonos upsilontonos omegatonos iotadieresis upsilondieresis iotadieresistonos upsilondieresistonos Delta Omega Kaisymbol u03BC kaisymbol];
@@ -182,6 +194,10 @@ lookup salt_ss01 {
 #
 
 
+
+
+
+
 feature aalt useExtension {
 # GSUB feature: Access All Alternates
 # Lookups: 2
@@ -212,6 +228,10 @@ feature aalt useExtension {
 } aalt;
 
 
+
+
+
+
 feature ccmp {
 # GSUB feature: Glyph Composition / Decomposition
 # Lookups: 6
@@ -235,6 +255,10 @@ feature ccmp {
   sub brevecomb hookabovecomb by brevecomb_hookabovecomb;
 
 } ccmp;
+
+
+
+
 
 
 feature locl {
@@ -283,6 +307,10 @@ feature locl {
 } locl;
 
 
+
+
+
+
 feature frac {
 # GSUB feature: Fractions
 # Lookups: 1
@@ -294,6 +322,10 @@ feature frac {
 } frac;
 
 
+
+
+
+
 feature sups {
 # GSUB feature: Superscript
 # Lookups: 1
@@ -301,6 +333,10 @@ feature sups {
   sub [one two three] by [onesuperior twosuperior threesuperior];
 
 } sups;
+
+
+
+
 
 
 feature pnum {
@@ -312,6 +348,10 @@ feature pnum {
 } pnum;
 
 
+
+
+
+
 feature tnum {
 # GSUB feature: Tabular Figures
 # Lookups: 1
@@ -321,6 +361,10 @@ feature tnum {
 } tnum;
 
 
+
+
+
+
 feature ordn {
 # GSUB feature: Ordinals
 # Lookups: 1
@@ -328,6 +372,10 @@ feature ordn {
   sub @ordn_pnum_tnum [A O a o]' lookup ordn_2;
 
 } ordn;
+
+
+
+
 
 
 feature case {
@@ -352,6 +400,10 @@ feature calt {
 } calt;
 
 
+
+
+
+
 feature salt {
 # GSUB feature: Stylistic Alternates
 # Lookups: 1
@@ -371,6 +423,10 @@ feature ss01 {
   lookup salt_ss01;
 
 } ss01;
+
+
+
+
 
 
 feature cpsp {
@@ -558,6 +614,10 @@ feature cpsp {
 
 
 } cpsp;
+
+
+
+
 
 
 feature kern {
@@ -3451,6 +3511,10 @@ feature kern {
 
 
 } kern;
+
+
+
+
 
 
 feature mark {
@@ -7253,6 +7317,10 @@ feature mark {
 } mark;
 
 
+
+
+
+
 feature mkmk {
 # GPOS feature: Mark to Mark Positioning
 # Lookups: 1
@@ -7338,5 +7406,9 @@ feature mkmk {
 
 
 } mkmk;
+
+
+
+
 
 

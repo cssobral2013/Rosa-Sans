@@ -739,10 +739,8 @@
     <string>three</string>
     <string>four</string>
     <string>five</string>
-    <string>six</string>
     <string>seven</string>
     <string>eight</string>
-    <string>nine</string>
     <string>zero.tnum</string>
     <string>one.tnum</string>
     <string>two.tnum</string>
@@ -964,6 +962,8 @@
     <string>circumflexcomb_gravecomb</string>
     <string>circumflexcomb_hookabovecomb</string>
     <string>circumflexcomb_tildecomb</string>
+    <string>six</string>
+    <string>nine</string>
   </array>
 </dict>
 </plist>

@@ -1,3 +1,15 @@
+#/> classes
+#/> tags
+@noexport = [nine six];
+#/< tags
+#/< classes
+
+#/> classes
+#/> tags
+@noexport = [nine six];
+#/< tags
+#/< classes
+
 @aalt = [aacute abreve u1EAF u1EB7 u1EB1 u1EB3 u1EB5 acircumflex u1EA5 u1EAD u1EA7 u1EA9 u1EAB u0201 adieresis u1EA1 agrave u1EA3 u0203 amacron aogonek aring aringacute atilde ae aeacute g gbreve gcaron gcircumflex u0123 o gdotaccent.ss01 u0414 u041B u0430 u0431 u0432 u0436 u0437 u0438 u0439 u045D u043A u043B u0446 u0448 u0449 u044C u044A u044E u04D1 u04D3 u04D5 zero four five six seven eight nine u0307 u030B u030A u0312 u0335 tonos];
 @aalt2 = [aacute.ss01 abreve.ss01 u1EAF.ss01 u1EB7.ss01 u1EB1.ss01 u1EB3.ss01 u1EB5.ss01 acircumflex.ss01 u1EA5.ss01 u1EAD.ss01 u1EA7.ss01 u1EA9.ss01 u1EAB.ss01 u0201.ss01 adieresis.ss01 u1EA1.ss01 agrave.ss01 u1EA3.ss01 u0203.ss01 amacron.ss01 aogonek.ss01 aring.ss01 aringacute.ss01 atilde.ss01 ae.ss01 aeacute.ss01 g.ss01 gbreve.ss01 gcaron.ss01 gcircumflex.ss01 u0123.ss01 ordmasculine gdotaccent.ss01 u0414.loclBGR u041B.loclBGR u0430.ss01 u0431.loclSRB u0432.loclBGR u0436.loclBGR u0437.loclBGR u0438.loclBGR u0439.loclBGR u045D.loclBGR u043A.loclBGR u043B.loclBGR u0446.loclBGR u0448.loclBGR u0449.loclBGR u044C.loclBGR u044A.loclBGR u044E.loclBGR u04D1.ss01 u04D3.ss01 u04D5.ss01 zero.tnum four.tnum five.tnum six.tnum seven.tnum eight.tnum nine.tnum u0307.case u030B.case u030A.case u0312.case u0335.case tonos.case];
 @calt = [Alpha Beta Chi Epsilon Phi Gamma Eta Iota Kappa Lambda Mu Nu Omicron Pi Theta Rho Sigma Tau Upsilon sigma1 Xi Psi Zeta alpha beta chi delta epsilon phi gamma eta iota kappa lambda nu omicron pi theta rho sigma tau upsilon omega xi psi zeta Iotadieresis Upsilondieresis alphatonos Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos epsilontonos etatonos iotatonos omicrontonos Omegatonos upsilontonos omegatonos iotadieresis upsilondieresis iotadieresistonos upsilondieresistonos u0394 u03A9 u03CF u03BC u03D7];

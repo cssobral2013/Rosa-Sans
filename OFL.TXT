@@ -1,5 +1,5 @@
-Copyright 2020 The Geologisk Project Authors
-(https://github.com/googlefonts/geologisk/) 
+Copyright 2020 The Geologica Project Authors
+(https://github.com/googlefonts/geologica/) 
 Copyright 2020-2023 The Rosa Sans Project Authors (https://github.com/cssobral2013/Rosa-Sans/)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.

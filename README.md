@@ -1,5 +1,5 @@
 # Rosa-Sans
-Is developed from Geologisk (https://github.com/googlefonts/Geologisk)
+Is developed from Geologica (https://github.com/googlefonts/Geologica)
 
 Main changes include:
 
