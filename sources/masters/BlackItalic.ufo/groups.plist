@@ -531,12 +531,16 @@
   <key>j_calt_dst</key>
   <array>
     <string>j.calt</string>
+    <string>dotlessj.calt</string>
     <string>jcircumflex.calt</string>
+    <string>jecyr.calt</string>
   </array>
   <key>j_calt_src</key>
   <array>
     <string>j</string>
+    <string>dotlessj</string>
     <string>jcircumflex</string>
+    <string>jecyr</string>
   </array>
   <key>j_calt_triggers</key>
   <array>
@@ -566,6 +570,54 @@
     <string>bracketleft</string>
     <string>underscore</string>
     <string>questiongreek</string>
+  </array>
+  <key>loclBGR</key>
+  <array>
+    <string>Decyr.loclBGR</string>
+    <string>Elcyr.loclBGR</string>
+    <string>Kacyr.loclBGR</string>
+    <string>decyr.loclBGR</string>
+    <string>elcyr.loclBGR</string>
+    <string>gecyr.loclBGR</string>
+    <string>hardcyr.loclBGR</string>
+    <string>icyr.loclBGR</string>
+    <string>igravecyr.loclBGR</string>
+    <string>ishortcyr.loclBGR</string>
+    <string>kacyr.loclBGR</string>
+    <string>pecyr.loclBGR</string>
+    <string>shacyr.loclBGR</string>
+    <string>shchacyr.loclBGR</string>
+    <string>softcyr.loclBGR</string>
+    <string>tecyr.loclBGR</string>
+    <string>tsecyr.loclBGR</string>
+    <string>vecyr.loclBGR</string>
+    <string>yucyr.loclBGR</string>
+    <string>zecyr.loclBGR</string>
+    <string>zhecyr.loclBGR</string>
+  </array>
+  <key>loclRUS</key>
+  <array>
+    <string>Decyr</string>
+    <string>Elcyr</string>
+    <string>Kacyr</string>
+    <string>decyr</string>
+    <string>elcyr</string>
+    <string>gecyr</string>
+    <string>hardcyr</string>
+    <string>icyr</string>
+    <string>igravecyr</string>
+    <string>ishortcyr</string>
+    <string>kacyr</string>
+    <string>pecyr</string>
+    <string>shacyr.loclBGR</string>
+    <string>shchacyr</string>
+    <string>softcyr</string>
+    <string>tecyr</string>
+    <string>tsecyr</string>
+    <string>vecyr</string>
+    <string>yucyr</string>
+    <string>zecyr</string>
+    <string>zhecyr</string>
   </array>
   <key>nonLetter</key>
   <array>

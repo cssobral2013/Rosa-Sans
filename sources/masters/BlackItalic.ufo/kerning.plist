@@ -5,11 +5,6 @@
   <key>L_Ohorn</key>
   <dict>
   </dict>
-  <key>L_j</key>
-  <dict>
-    <key>public.kern2.R_idblgrave</key>
-    <integer>120</integer>
-  </dict>
   <key>public.kern1.L_A</key>
   <dict>
     <key>public.kern2.R_A</key>

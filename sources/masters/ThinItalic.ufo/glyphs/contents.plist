@@ -310,6 +310,8 @@
   <string>K_abashkcyr.glif</string>
   <key>Kacyr</key>
   <string>K_acyr.glif</string>
+  <key>Kacyr.loclBGR</key>
+  <string>K_acyr.loclB_G_R_.glif</string>
   <key>Kaisymbol</key>
   <string>K_aisymbol.glif</string>
   <key>Kappa</key>
@@ -1120,6 +1122,8 @@
   <string>exclamdown.glif</string>
   <key>f</key>
   <string>f.glif</string>
+  <key>f.calt</key>
+  <string>f.calt.glif</string>
   <key>fi</key>
   <string>fi.glif</string>
   <key>fitacyr</key>
