@@ -3,10 +3,10 @@
   <advance width="660"/>
   <unicode hex="012F"/>
   <anchor x="534" y="1484" name="top"/>
-  <anchor x="220" y="0" name="bottom"/>
+  <anchor x="590" y="-0" name="bottom"/>
+  <anchor x="534" y="1484" name="top.1"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="dotaccentcomb" xOffset="966"/>
-    <component base="ogonekcomb" xOffset="841"/>
+    <component base="ogonekcomb" xOffset="836"/>
+    <component base="i"/>
   </outline>
 </glyph>

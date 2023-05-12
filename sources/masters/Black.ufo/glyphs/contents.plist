@@ -1248,6 +1248,8 @@
   <string>hungarumlautcomb.case.glif</string>
   <key>hyphen</key>
   <string>hyphen.glif</string>
+  <key>hyphen-gnrl</key>
+  <string>hyphen-gnrl.glif</string>
   <key>hyphenminus</key>
   <string>hyphenminus.glif</string>
   <key>i</key>

@@ -2,11 +2,16 @@
 <glyph name="iogonek" format="2">
   <advance width="452"/>
   <unicode hex="012F"/>
-  <anchor x="396" y="1284" name="top"/>
-  <anchor x="124" y="0" name="bottom"/>
+  <anchor x="437" y="1284" name="top"/>
+  <anchor x="350" y="-0" name="bottom"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="dotaccentcomb" xOffset="810"/>
-    <component base="ogonekcomb" xOffset="636"/>
+    <component base="ogonekcomb" xOffset="671"/>
+    <component base="i"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>i+ogonekcomb</string>
+  </dict>
+  </lib>
 </glyph>
