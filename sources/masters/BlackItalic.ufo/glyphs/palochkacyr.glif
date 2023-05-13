@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="palochkacyr" format="2">
-  <advance width="659"/>
+  <advance width="765"/>
   <unicode hex="04CF"/>
   <anchor x="526" y="1440" name="top"/>
   <anchor x="726" y="1440" name="Anchor_2"/>
@@ -8,4 +8,10 @@
   <outline>
     <component base="l"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>l</string>
+  </dict>
+  </lib>
 </glyph>
