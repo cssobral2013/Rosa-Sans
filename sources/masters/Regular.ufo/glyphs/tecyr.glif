@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tecyr" format="2">
+  <advance width="965"/>
+  <unicode hex="0442"/>
+  <anchor x="482" y="985" name="top"/>
+  <anchor x="482" y="0" name="bottom"/>
+  <anchor x="483" y="475" name="strokeshort"/>
+  <outline>
+    <contour>
+      <point x="381" y="0" type="line"/>
+      <point x="381" y="816" type="line"/>
+      <point x="50" y="816" type="line"/>
+      <point x="50" y="985" type="line"/>
+      <point x="914" y="985" type="line"/>
+      <point x="914" y="816" type="line"/>
+      <point x="583" y="816" type="line"/>
+      <point x="583" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

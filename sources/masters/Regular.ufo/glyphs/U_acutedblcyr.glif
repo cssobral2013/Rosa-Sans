@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uacutedblcyr" format="2">
+  <advance width="1271"/>
+  <unicode hex="04F2"/>
+  <anchor x="698" y="1400" name="top"/>
+  <outline>
+    <component base="Ucyr"/>
+    <component base="hungarumlautcomb.case" xOffset="1500" yOffset="1"/>
+  </outline>
+</glyph>

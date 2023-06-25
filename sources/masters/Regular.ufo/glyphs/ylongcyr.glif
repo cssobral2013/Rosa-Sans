@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ylongcyr" format="2">
+  <advance width="1506"/>
+  <unicode hex="044B"/>
+  <anchor x="767" y="985" name="top"/>
+  <anchor x="749" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="157" y="0" type="line"/>
+      <point x="157" y="985" type="line"/>
+      <point x="359" y="985" type="line"/>
+      <point x="359" y="157" type="line"/>
+      <point x="547" y="157" type="line" smooth="yes"/>
+      <point x="660" y="157"/>
+      <point x="774" y="243"/>
+      <point x="774" y="329" type="qcurve" smooth="yes"/>
+      <point x="774" y="414"/>
+      <point x="668" y="505"/>
+      <point x="564" y="505" type="qcurve" smooth="yes"/>
+      <point x="330" y="505" type="line"/>
+      <point x="330" y="660" type="line"/>
+      <point x="579" y="660" type="line" smooth="yes"/>
+      <point x="768" y="660"/>
+      <point x="984" y="490"/>
+      <point x="984" y="329" type="qcurve" smooth="yes"/>
+      <point x="984" y="226"/>
+      <point x="880" y="78"/>
+      <point x="691" y="0"/>
+      <point x="565" y="0" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1147" y="0" type="line"/>
+      <point x="1147" y="985" type="line"/>
+      <point x="1349" y="985" type="line"/>
+      <point x="1349" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iacute" format="2">
+  <advance width="517"/>
+  <unicode hex="00ED"/>
+  <anchor x="369" y="985" name="top"/>
+  <anchor x="160" y="0" name="bottom"/>
+  <outline>
+    <component base="dotlessi" xOffset="6"/>
+    <component base="acutecomb.narrow" xOffset="1023"/>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gjecyr" format="2">
+  <advance width="853"/>
+  <unicode hex="0453"/>
+  <anchor x="587" y="985" name="top"/>
+  <anchor x="343" y="479" name="strokeshort"/>
+  <outline>
+    <component base="gecyr"/>
+    <component base="acutecomb" xOffset="1265"/>
+  </outline>
+</glyph>

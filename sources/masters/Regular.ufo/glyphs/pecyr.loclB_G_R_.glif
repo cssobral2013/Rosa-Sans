@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pecyr.loclBGR" format="2">
+  <advance width="1220"/>
+  <anchor x="623" y="985" name="top"/>
+  <anchor x="615" y="0" name="bottom"/>
+  <outline>
+    <component base="n"/>
+  </outline>
+</glyph>

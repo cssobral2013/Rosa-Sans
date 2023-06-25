@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guarani" format="2">
+  <advance width="1296"/>
+  <unicode hex="20B2"/>
+  <anchor x="687" y="1400" name="top"/>
+  <outline>
+    <contour>
+      <point x="755" y="-31" type="qcurve" smooth="yes"/>
+      <point x="614" y="-31"/>
+      <point x="370" y="73"/>
+      <point x="188" y="264"/>
+      <point x="87" y="532"/>
+      <point x="87" y="697" type="qcurve" smooth="yes"/>
+      <point x="87" y="863"/>
+      <point x="185" y="1132"/>
+      <point x="361" y="1326"/>
+      <point x="598" y="1430"/>
+      <point x="738" y="1430" type="qcurve" smooth="yes"/>
+      <point x="835" y="1430"/>
+      <point x="1040" y="1373"/>
+      <point x="1127" y="1305" type="qcurve"/>
+      <point x="1043" y="1153" type="line"/>
+      <point x="975" y="1203"/>
+      <point x="820" y="1251"/>
+      <point x="742" y="1251" type="qcurve" smooth="yes"/>
+      <point x="637" y="1251"/>
+      <point x="469" y="1175"/>
+      <point x="350" y="1030"/>
+      <point x="286" y="827"/>
+      <point x="286" y="699" type="qcurve" smooth="yes"/>
+      <point x="286" y="522"/>
+      <point x="408" y="272"/>
+      <point x="625" y="142"/>
+      <point x="765" y="142" type="qcurve" smooth="yes"/>
+      <point x="838" y="142"/>
+      <point x="951" y="178"/>
+      <point x="984" y="199" type="qcurve"/>
+      <point x="984" y="726" type="line"/>
+      <point x="1156" y="726" type="line"/>
+      <point x="1156" y="90" type="line"/>
+      <point x="1108" y="52"/>
+      <point x="966" y="-2"/>
+      <point x="815" y="-31"/>
+    </contour>
+    <contour>
+      <point x="611" y="-160" type="line"/>
+      <point x="611" y="1560" type="line"/>
+      <point x="762" y="1560" type="line"/>
+      <point x="762" y="-160" type="line"/>
+    </contour>
+  </outline>
+</glyph>

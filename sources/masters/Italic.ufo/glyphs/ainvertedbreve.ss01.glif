@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ainvertedbreve.ss01" format="2">
+  <advance width="1290"/>
+  <anchor x="695" y="985" name="top"/>
+  <anchor x="538" y="0" name="bottom"/>
+  <outline>
+    <component base="a.ss01"/>
+    <component base="breveinvertedcomb" xOffset="1375"/>
+  </outline>
+</glyph>

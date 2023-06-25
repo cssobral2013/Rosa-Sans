@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pecyr.loclSRB" format="2">
+  <advance width="1230"/>
+  <anchor x="615" y="985" name="top"/>
+  <outline>
+    <component base="pecyr"/>
+  </outline>
+</glyph>

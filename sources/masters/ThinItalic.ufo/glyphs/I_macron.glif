@@ -5,7 +5,7 @@
   <anchor x="649" y="1400" name="top"/>
   <anchor x="353" y="0" name="bottom"/>
   <outline>
-    <component base="I" xOffset="195"/>
-    <component base="macroncomb.narrow" xOffset="1129" yOffset="440"/>
+    <component base="I"/>
+    <component base="macroncomb.narrow" xOffset="934" yOffset="440"/>
   </outline>
 </glyph>

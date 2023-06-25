@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zetailcyr" format="2">
+  <advance width="1030"/>
+  <unicode hex="0499"/>
+  <anchor x="487" y="985" name="top"/>
+  <anchor x="501" y="0" name="bottom"/>
+  <outline>
+    <component base="zecyr"/>
+    <component base="cedillacomb" xOffset="1109"/>
+  </outline>
+</glyph>

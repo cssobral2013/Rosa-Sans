@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numero" format="2">
+  <advance width="2349"/>
+  <unicode hex="2116"/>
+  <anchor x="2186" y="1368" name="horn"/>
+  <anchor x="1922" y="722" name="bottom"/>
+  <anchor x="1922" y="1368" name="top"/>
+  <outline>
+    <component base="N"/>
+    <component base="ordmasculine" xOffset="1497"/>
+  </outline>
+</glyph>

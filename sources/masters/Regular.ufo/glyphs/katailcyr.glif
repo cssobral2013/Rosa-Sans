@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="katailcyr" format="2">
+  <advance width="1148"/>
+  <unicode hex="049B"/>
+  <anchor x="560" y="985" name="top"/>
+  <outline>
+    <contour>
+      <point x="908" y="-300" type="line"/>
+      <point x="908" y="169" type="line"/>
+      <point x="1093" y="169" type="line"/>
+      <point x="1093" y="-300" type="line"/>
+    </contour>
+    <contour>
+      <point x="814" y="0" type="line"/>
+      <point x="485" y="524" type="line"/>
+      <point x="786" y="985" type="line"/>
+      <point x="1002" y="985" type="line"/>
+      <point x="703" y="534" type="line"/>
+      <point x="1057" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="157" y="0" type="line"/>
+      <point x="157" y="985" type="line"/>
+      <point x="359" y="985" type="line"/>
+      <point x="359" y="601" type="line"/>
+      <point x="654" y="601" type="line"/>
+      <point x="654" y="432" type="line"/>
+      <point x="359" y="432" type="line"/>
+      <point x="359" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

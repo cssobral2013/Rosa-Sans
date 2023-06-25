@@ -5,7 +5,7 @@
   <anchor x="778" y="1884" name="top"/>
   <anchor x="380" y="0" name="bottom"/>
   <outline>
-    <component base="I" xOffset="222"/>
-    <component base="circumflexcomb.narrow" xOffset="1312" yOffset="440"/>
+    <component base="I"/>
+    <component base="circumflexcomb.narrow" xOffset="1090" yOffset="440"/>
   </outline>
 </glyph>

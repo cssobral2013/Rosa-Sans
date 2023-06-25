@@ -5,7 +5,7 @@
   <anchor x="600" y="1400" name="top"/>
   <anchor x="304" y="0" name="bottom"/>
   <outline>
-    <component base="I" xOffset="146"/>
-    <component base="hookabovecomb.narrow" xOffset="1256" yOffset="440"/>
+    <component base="I"/>
+    <component base="hookabovecomb.narrow" xOffset="1110" yOffset="440"/>
   </outline>
 </glyph>

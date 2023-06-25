@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Xatailcyr" format="2">
+  <advance width="1380"/>
+  <unicode hex="04B2"/>
+  <outline>
+    <contour>
+      <point x="938" y="-357" type="line"/>
+      <point x="1013" y="0" type="line"/>
+      <point x="955" y="0" type="line"/>
+      <point x="995" y="189" type="line"/>
+      <point x="1248" y="189" type="line"/>
+      <point x="1132" y="-357" type="line"/>
+    </contour>
+    <contour>
+      <point x="-47" y="0" type="line"/>
+      <point x="566" y="730" type="line"/>
+      <point x="277" y="1400" type="line"/>
+      <point x="514" y="1400" type="line"/>
+      <point x="740" y="871" type="line"/>
+      <point x="1208" y="1400" type="line"/>
+      <point x="1456" y="1400" type="line"/>
+      <point x="852" y="703" type="line"/>
+      <point x="1172" y="0" type="line"/>
+      <point x="933" y="0" type="line"/>
+      <point x="678" y="566" type="line"/>
+      <point x="206" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

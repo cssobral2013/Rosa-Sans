@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abrevecyr" format="2">
+  <advance width="1380"/>
+  <unicode hex="04D0"/>
+  <anchor x="875" y="1400" name="top"/>
+  <anchor x="579" y="0" name="bottom"/>
+  <outline>
+    <component base="Acyr"/>
+    <component base="brevecomb.ccmp" xOffset="1553" yOffset="415"/>
+  </outline>
+</glyph>

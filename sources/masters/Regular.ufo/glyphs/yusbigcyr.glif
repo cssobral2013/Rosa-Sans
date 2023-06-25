@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yusbigcyr" format="2">
+  <advance width="1571"/>
+  <unicode hex="046B"/>
+  <outline>
+    <contour>
+      <point x="46" y="0" type="line"/>
+      <point x="347" y="501" type="line"/>
+      <point x="148" y="838" type="line"/>
+      <point x="148" y="985" type="line"/>
+      <point x="1416" y="985" type="line"/>
+      <point x="1416" y="838" type="line"/>
+      <point x="1220" y="513" type="line"/>
+      <point x="1525" y="0" type="line"/>
+      <point x="1284" y="0" type="line"/>
+      <point x="1002" y="501" type="line"/>
+      <point x="1197" y="829" type="line"/>
+      <point x="373" y="829" type="line"/>
+      <point x="565" y="503" type="line"/>
+      <point x="277" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="683" y="0" type="line"/>
+      <point x="683" y="432" type="line"/>
+      <point x="414" y="432" type="line"/>
+      <point x="414" y="576" type="line"/>
+      <point x="1152" y="576" type="line"/>
+      <point x="1152" y="432" type="line"/>
+      <point x="885" y="432" type="line"/>
+      <point x="885" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

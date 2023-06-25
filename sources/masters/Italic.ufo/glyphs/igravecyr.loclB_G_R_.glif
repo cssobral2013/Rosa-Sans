@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="igravecyr.loclBGR" format="2">
+  <advance width="1201"/>
+  <anchor x="701" y="985" name="top"/>
+  <anchor x="1148" y="985" name="horn"/>
+  <anchor x="482" y="0" name="bottom"/>
+  <outline>
+    <component base="icyr.loclBGR"/>
+    <component base="gravecomb" xOffset="1379"/>
+  </outline>
+</glyph>

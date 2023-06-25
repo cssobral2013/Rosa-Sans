@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Chedieresiscyr" format="2">
+  <advance width="1375"/>
+  <unicode hex="04F4"/>
+  <anchor x="850" y="1400" name="top"/>
+  <anchor x="920" y="1746" name="top.1"/>
+  <outline>
+    <component base="Checyr"/>
+    <component base="dieresiscomb.case" xOffset="1636" yOffset="1"/>
+  </outline>
+</glyph>

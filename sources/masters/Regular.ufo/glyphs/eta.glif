@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eta" format="2">
+  <advance width="1220"/>
+  <unicode hex="03B7"/>
+  <anchor x="611" y="985" name="top"/>
+  <outline>
+    <contour>
+      <point x="871" y="-420" type="line"/>
+      <point x="871" y="588" type="line" smooth="yes"/>
+      <point x="871" y="697"/>
+      <point x="739" y="828"/>
+      <point x="623" y="828" type="qcurve" smooth="yes"/>
+      <point x="547" y="828"/>
+      <point x="428" y="761"/>
+      <point x="359" y="639"/>
+      <point x="359" y="559" type="qcurve" smooth="yes"/>
+      <point x="359" y="0" type="line"/>
+      <point x="157" y="0" type="line"/>
+      <point x="157" y="985" type="line"/>
+      <point x="359" y="985" type="line"/>
+      <point x="359" y="856" type="line"/>
+      <point x="421" y="940"/>
+      <point x="587" y="1015"/>
+      <point x="676" y="1015" type="qcurve" smooth="yes"/>
+      <point x="810" y="1015"/>
+      <point x="987" y="907"/>
+      <point x="1073" y="740"/>
+      <point x="1073" y="651" type="qcurve" smooth="yes"/>
+      <point x="1073" y="-420" type="line"/>
+    </contour>
+  </outline>
+</glyph>

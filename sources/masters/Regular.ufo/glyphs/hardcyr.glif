@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hardcyr" format="2">
+  <advance width="1270"/>
+  <unicode hex="044A"/>
+  <anchor x="453" y="985" name="top"/>
+  <outline>
+    <contour>
+      <point x="352" y="0" type="line"/>
+      <point x="352" y="985" type="line"/>
+      <point x="554" y="985" type="line"/>
+      <point x="554" y="157" type="line"/>
+      <point x="752" y="157" type="line" smooth="yes"/>
+      <point x="865" y="157"/>
+      <point x="979" y="243"/>
+      <point x="979" y="329" type="qcurve" smooth="yes"/>
+      <point x="979" y="414"/>
+      <point x="873" y="505"/>
+      <point x="769" y="505" type="qcurve" smooth="yes"/>
+      <point x="525" y="505" type="line"/>
+      <point x="525" y="660" type="line"/>
+      <point x="784" y="660" type="line" smooth="yes"/>
+      <point x="973" y="660"/>
+      <point x="1189" y="490"/>
+      <point x="1189" y="329" type="qcurve" smooth="yes"/>
+      <point x="1189" y="226"/>
+      <point x="1085" y="78"/>
+      <point x="896" y="0"/>
+      <point x="770" y="0" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="50" y="816" type="line"/>
+      <point x="50" y="985" type="line"/>
+      <point x="554" y="985" type="line"/>
+      <point x="352" y="816" type="line"/>
+    </contour>
+  </outline>
+</glyph>
