@@ -2,11 +2,17 @@
 <glyph name="Udotbelow" format="2">
   <advance width="1444"/>
   <unicode hex="1EE4"/>
-  <anchor x="918" y="1400" name="top"/>
-  <anchor x="1450" y="1400" name="horn"/>
-  <anchor x="656" y="0" name="bottom"/>
+  <anchor x="1560" y="1400" name="horn"/>
+  <anchor x="880" y="0" name="ogonek"/>
+  <anchor x="1028" y="1400" name="top"/>
   <outline>
     <component base="U"/>
-    <component base="dotbelowcomb" xOffset="1162"/>
+    <component base="dotbelowcomb" xOffset="1080"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

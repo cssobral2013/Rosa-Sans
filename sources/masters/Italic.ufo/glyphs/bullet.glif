@@ -4,22 +4,24 @@
   <unicode hex="2022"/>
   <outline>
     <contour>
-      <point x="508" y="354" type="qcurve" smooth="yes"/>
-      <point x="415" y="354"/>
-      <point x="274" y="431"/>
-      <point x="196" y="564"/>
-      <point x="196" y="649" type="qcurve" smooth="yes"/>
-      <point x="196" y="755"/>
-      <point x="299" y="924"/>
-      <point x="472" y="1023"/>
-      <point x="575" y="1023" type="qcurve" smooth="yes"/>
-      <point x="669" y="1023"/>
-      <point x="810" y="945"/>
-      <point x="887" y="812"/>
-      <point x="887" y="726" type="qcurve" smooth="yes"/>
-      <point x="887" y="623"/>
-      <point x="785" y="453"/>
-      <point x="612" y="354"/>
+      <point x="513" y="355" type="curve" smooth="yes"/>
+      <point x="727" y="355"/>
+      <point x="912" y="532"/>
+      <point x="912" y="747" type="curve" smooth="yes"/>
+      <point x="912" y="906"/>
+      <point x="800" y="1021"/>
+      <point x="618" y="1021" type="curve" smooth="yes"/>
+      <point x="405" y="1021"/>
+      <point x="219" y="850"/>
+      <point x="219" y="628" type="curve" smooth="yes"/>
+      <point x="219" y="472"/>
+      <point x="333" y="355"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

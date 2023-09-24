@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aogonek" format="2">
-  <advance width="1380"/>
+  <advance width="1376"/>
   <unicode hex="0104"/>
-  <anchor x="875" y="1400" name="top"/>
-  <anchor x="579" y="0" name="bottom"/>
+  <anchor x="520" y="0" name="bottom"/>
+  <anchor x="982" y="1400" name="top"/>
+  <anchor x="611" y="1400" name="topleft"/>
   <outline>
     <component base="A"/>
-    <component base="ogonekcomb" xOffset="1681"/>
+    <component base="ogonekcomb" xOffset="1606"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

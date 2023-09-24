@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kaverticalstroke-cy" format="2">
+  <advance width="1159"/>
+  <unicode hex="049D"/>
+  <outline>
+    <component base="_part.kaverticalstroke-cy"/>
+    <component base="_part.verticalstroke" xOffset="-1" yOffset="-264"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

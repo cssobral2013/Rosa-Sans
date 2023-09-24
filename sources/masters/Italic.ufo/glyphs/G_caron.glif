@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gcaron" format="2">
-  <advance width="1514"/>
+  <advance width="1518"/>
   <unicode hex="01E6"/>
-  <anchor x="962" y="1400" name="top"/>
-  <anchor x="798" y="0" name="bottom"/>
+  <anchor x="765" y="0" name="bottom"/>
   <outline>
     <component base="G"/>
-    <component base="caroncomb.case" xOffset="1761" yOffset="1"/>
+    <component base="caroncomb.case" xOffset="1850" yOffset="1"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

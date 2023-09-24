@@ -2,7 +2,14 @@
 <glyph name="hungarumlaut" format="2">
   <advance width="1000"/>
   <unicode hex="02DD"/>
+  <anchor x="434" y="1040" name="_top"/>
   <outline>
     <component base="hungarumlautcomb" xOffset="1178"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

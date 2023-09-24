@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="che-cy" format="2">
+  <advance width="1095"/>
+  <unicode hex="0447"/>
+  <anchor x="493" y="462" name="center"/>
+  <anchor x="775" y="0" name="descender"/>
+  <anchor x="576" y="0" name="descender_alt"/>
+  <anchor x="667" y="984" name="top"/>
+  <outline>
+    <contour>
+      <point x="775" y="0" type="line"/>
+      <point x="1100" y="984" type="line"/>
+      <point x="902" y="984" type="line"/>
+      <point x="760" y="557" type="line"/>
+      <point x="675" y="537"/>
+      <point x="609" y="529"/>
+      <point x="536" y="529" type="curve" smooth="yes"/>
+      <point x="367" y="529"/>
+      <point x="297" y="590"/>
+      <point x="351" y="753" type="curve" smooth="yes"/>
+      <point x="429" y="984" type="line"/>
+      <point x="230" y="984" type="line"/>
+      <point x="145" y="724" type="line"/>
+      <point x="59" y="454"/>
+      <point x="195" y="357"/>
+      <point x="451" y="357" type="curve" smooth="yes"/>
+      <point x="542" y="357"/>
+      <point x="625" y="373"/>
+      <point x="708" y="396" type="curve"/>
+      <point x="576" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>adjustSpace</key>
+    <integer>10</integer>
+    <key>height</key>
+    <real>74.3</real>
+    <key>weight</key>
+    <integer>-2</integer>
+    <key>width</key>
+    <integer>78</integer>
+  </dict>
+  <key>public.markColor</key>
+  <string>0.6,0.89,1,1</string>
+  </dict>
+  </lib>
+</glyph>

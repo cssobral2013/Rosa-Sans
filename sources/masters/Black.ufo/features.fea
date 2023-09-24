@@ -400,7 +400,6 @@ lookup salt_ss01 {
 #
 # Feature definitions
 #
-
 feature aalt {
 # Access All Alternates
 
@@ -862,7 +861,6 @@ feature cpsp {
   pos @_J @_A 40;
 
 } cpsp;
-
 feature kern {
 # GPOS feature: Kerning
 # Lookups: 1
@@ -3757,4 +3755,3 @@ feature kern {
 
 
 } kern;
-

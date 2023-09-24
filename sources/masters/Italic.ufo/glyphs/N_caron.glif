@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ncaron" format="2">
-  <advance width="1500"/>
+  <advance width="1497"/>
   <unicode hex="0147"/>
-  <anchor x="942" y="1400" name="top"/>
-  <anchor x="646" y="0" name="bottom"/>
+  <anchor x="587" y="0" name="bottom"/>
   <outline>
     <component base="N"/>
-    <component base="caroncomb.case" xOffset="1740" yOffset="1"/>
+    <component base="caroncomb.case" xOffset="1845" yOffset="1"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

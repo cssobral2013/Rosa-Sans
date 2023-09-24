@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quoteright" format="2">
-  <advance width="504"/>
+  <advance width="506"/>
   <unicode hex="2019"/>
   <outline>
-    <component base="comma" xOffset="264" yOffset="1242"/>
+    <component base="comma" xOffset="413" yOffset="1242"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

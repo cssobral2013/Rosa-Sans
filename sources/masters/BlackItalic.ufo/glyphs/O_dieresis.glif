@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Odieresis" format="2">
-  <advance width="1664"/>
+  <advance width="1667"/>
   <unicode hex="00D6"/>
-  <anchor x="1070" y="1834" name="top"/>
-  <anchor x="1386" y="1400" name="horn"/>
-  <anchor x="758" y="0" name="bottom"/>
+  <anchor x="718" y="0" name="bottom"/>
+  <anchor x="1472" y="1400" name="horn"/>
+  <anchor x="987" y="0" name="ogonek"/>
+  <anchor x="1205" y="1834" name="top"/>
+  <anchor x="378" y="1400" name="topleft"/>
   <outline>
     <component base="O"/>
-    <component base="dieresiscomb.case" xOffset="1816"/>
+    <component base="dieresiscomb.case" xOffset="1903"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

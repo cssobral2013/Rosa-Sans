@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ocircumflextilde" format="2">
-  <advance width="1184"/>
+  <advance width="1191"/>
   <unicode hex="1ED7"/>
-  <anchor x="668" y="960" name="top"/>
-  <anchor x="1056" y="960" name="horn"/>
-  <anchor x="516" y="0" name="bottom"/>
+  <anchor x="477" y="0" name="bottom"/>
+  <anchor x="1102" y="960" name="horn"/>
+  <anchor x="693" y="0" name="ogonek"/>
+  <anchor x="714" y="960" name="top"/>
   <outline>
     <component base="o"/>
-    <component base="circumflexcomb_tildecomb" xOffset="1334"/>
+    <component base="circumflexcomb_tildecomb" xOffset="1425"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

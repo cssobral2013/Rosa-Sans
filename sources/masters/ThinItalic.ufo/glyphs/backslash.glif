@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="backslash" format="2">
-  <advance width="906"/>
+  <advance width="914"/>
   <unicode hex="005C"/>
   <outline>
     <contour>
-      <point x="634" y="-230" type="line"/>
-      <point x="258" y="1588" type="line"/>
-      <point x="366" y="1610" type="line"/>
-      <point x="742" y="-208" type="line"/>
+      <point x="669" y="-218" type="line"/>
+      <point x="504" y="1610" type="line"/>
+      <point x="392" y="1598" type="line"/>
+      <point x="556" y="-230" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.89,1,1</string>
+  </dict>
+  </lib>
 </glyph>

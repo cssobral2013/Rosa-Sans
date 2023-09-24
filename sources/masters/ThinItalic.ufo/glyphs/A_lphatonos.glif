@@ -2,10 +2,15 @@
 <glyph name="Alphatonos" format="2">
   <advance width="1324"/>
   <unicode hex="0386"/>
-  <anchor x="844" y="1400" name="top"/>
-  <anchor x="548" y="0" name="bottom"/>
+  <anchor x="632" y="1400" name="_topleft"/>
   <outline>
     <component base="Alpha"/>
-    <component base="tonos.case" xOffset="-77"/>
+    <component base="tonos.case" xOffset="-79"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

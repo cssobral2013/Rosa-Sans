@@ -2,10 +2,15 @@
 <glyph name="Dcaron" format="2">
   <advance width="1491"/>
   <unicode hex="010E"/>
-  <anchor x="912" y="1400" name="top"/>
-  <anchor x="482" y="712" name="strokeshort"/>
+  <anchor x="503" y="712" name="bar"/>
   <outline>
     <component base="D"/>
-    <component base="caroncomb.case" xOffset="1742"/>
+    <component base="caroncomb.case" xOffset="1843"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

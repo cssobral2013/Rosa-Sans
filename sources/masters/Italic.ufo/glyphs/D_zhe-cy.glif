@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dzhe-cy" format="2">
+  <advance width="1495"/>
+  <unicode hex="040F"/>
+  <anchor x="1145" y="0" name="descender"/>
+  <outline>
+    <component base="_part.Tse-cy"/>
+    <component base="_part.cy-descender-uc-center" xOffset="691"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

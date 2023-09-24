@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yusbig-cy" format="2">
+  <advance width="2131"/>
+  <unicode hex="046A"/>
+  <anchor x="1828" y="0" name="descender"/>
+  <anchor x="1357" y="1400" name="top"/>
+  <outline>
+    <contour>
+      <point x="294" y="0" type="line"/>
+      <point x="982" y="678" type="line"/>
+      <point x="806" y="1092" type="line"/>
+      <point x="1672" y="1092" type="line"/>
+      <point x="1242" y="692" type="line"/>
+      <point x="1525" y="0" type="line"/>
+      <point x="1969" y="0" type="line"/>
+      <point x="1684" y="658" type="line"/>
+      <point x="2126" y="1060" type="line"/>
+      <point x="2235" y="1400" type="line"/>
+      <point x="491" y="1400" type="line"/>
+      <point x="376" y="1060" type="line"/>
+      <point x="544" y="696" type="line"/>
+      <point x="-185" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1096" y="0" type="line"/>
+      <point x="1274" y="560" type="line"/>
+      <point x="1516" y="560" type="line"/>
+      <point x="1638" y="832" type="line"/>
+      <point x="752" y="832" type="line"/>
+      <point x="630" y="560" type="line"/>
+      <point x="874" y="560" type="line"/>
+      <point x="692" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

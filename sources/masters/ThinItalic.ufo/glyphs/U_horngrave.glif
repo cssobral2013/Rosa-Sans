@@ -2,11 +2,15 @@
 <glyph name="Uhorngrave" format="2">
   <advance width="1544"/>
   <unicode hex="1EEA"/>
-  <anchor x="918" y="1400" name="top"/>
-  <anchor x="1450" y="1400" name="horn"/>
-  <anchor x="656" y="0" name="bottom"/>
+  <anchor x="1028" y="1400" name="_top"/>
   <outline>
     <component base="Uhorn"/>
-    <component base="gravecomb.case" xOffset="1702" yOffset="2"/>
+    <component base="gravecomb.case" xOffset="1809" yOffset="2"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

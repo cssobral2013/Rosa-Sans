@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_part.cy-desc-uc" format="2">
+  <anchor x="-251" y="0" name="_descender"/>
+  <outline>
+    <contour>
+      <point x="-150" y="-360" type="line"/>
+      <point x="6" y="108" type="line"/>
+      <point x="-262" y="108" type="line"/>
+      <point x="-299" y="0" type="line"/>
+      <point x="-139" y="0" type="line"/>
+      <point x="-258" y="-360" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

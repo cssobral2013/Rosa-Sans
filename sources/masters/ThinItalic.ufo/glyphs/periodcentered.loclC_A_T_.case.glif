@@ -2,20 +2,24 @@
 <glyph name="periodcentered.loclCAT.case" format="2">
   <outline>
     <contour>
-      <point x="-226" y="630" type="qcurve"/>
-      <point x="-269" y="630"/>
-      <point x="-326" y="683"/>
-      <point x="-326" y="722" type="qcurve"/>
-      <point x="-326" y="756"/>
-      <point x="-291" y="808"/>
-      <point x="-235" y="838"/>
-      <point x="-202" y="838" type="qcurve"/>
-      <point x="-158" y="838"/>
-      <point x="-102" y="785"/>
-      <point x="-102" y="746" type="qcurve"/>
-      <point x="-102" y="712"/>
-      <point x="-136" y="660"/>
-      <point x="-193" y="630"/>
+      <point x="-201" y="630" type="curve" smooth="yes"/>
+      <point x="-133" y="630"/>
+      <point x="-69" y="680"/>
+      <point x="-69" y="753" type="curve" smooth="yes"/>
+      <point x="-69" y="800"/>
+      <point x="-108" y="838"/>
+      <point x="-164" y="838" type="curve" smooth="yes"/>
+      <point x="-232" y="838"/>
+      <point x="-296" y="788"/>
+      <point x="-296" y="715" type="curve" smooth="yes"/>
+      <point x="-296" y="668"/>
+      <point x="-257" y="630"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

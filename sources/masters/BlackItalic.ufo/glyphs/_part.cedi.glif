@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_part.cedi" format="2">
+  <advance width="1296"/>
+  <anchor x="584" y="0" name="bottom"/>
+  <anchor x="1009" y="1400" name="top"/>
+  <outline>
+    <contour>
+      <point x="723" y="-30" type="curve" smooth="yes"/>
+      <point x="889" y="-30"/>
+      <point x="1030" y="12"/>
+      <point x="1155" y="84" type="curve"/>
+      <point x="1081" y="419" type="line"/>
+      <point x="980" y="355"/>
+      <point x="877" y="328"/>
+      <point x="791" y="328" type="curve" smooth="yes"/>
+      <point x="604" y="328"/>
+      <point x="515" y="421"/>
+      <point x="515" y="578" type="curve" smooth="yes"/>
+      <point x="515" y="816"/>
+      <point x="644" y="1072"/>
+      <point x="896" y="1072" type="curve" smooth="yes"/>
+      <point x="1035" y="1072"/>
+      <point x="1134" y="1017"/>
+      <point x="1180" y="923" type="curve"/>
+      <point x="1439" y="1197" type="line"/>
+      <point x="1312" y="1364"/>
+      <point x="1159" y="1430"/>
+      <point x="934" y="1430" type="curve" smooth="yes"/>
+      <point x="474" y="1430"/>
+      <point x="125" y="994"/>
+      <point x="125" y="508" type="curve" smooth="yes"/>
+      <point x="125" y="176"/>
+      <point x="341" y="-30"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>weight</key>
+    <integer>-22</integer>
+    <key>width</key>
+    <real>90.3</real>
+  </dict>
+  <key>public.markColor</key>
+  <string>0.6,0.89,1,1</string>
+  </dict>
+  </lib>
+</glyph>

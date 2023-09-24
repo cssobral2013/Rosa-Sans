@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="itilde" format="2">
-  <advance width="517"/>
+  <advance width="513"/>
   <unicode hex="0129"/>
-  <anchor x="532" y="985" name="top"/>
-  <anchor x="323" y="0" name="bottom"/>
-  <anchor x="617" y="1382" name="top.1"/>
+  <anchor x="94" y="0" name="bottom"/>
+  <anchor x="193" y="0" name="ogonek"/>
+  <anchor x="553" y="1380" name="top"/>
   <outline>
-    <component base="dotlessi" xOffset="169"/>
-    <component base="tildecomb.narrow" xOffset="1180"/>
+    <component base="idotless"/>
+    <component base="tildecomb.narrow" xOffset="1094"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

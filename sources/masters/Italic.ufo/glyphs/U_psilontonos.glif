@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Upsilontonos" format="2">
-  <advance width="1229"/>
+  <advance width="1225"/>
   <unicode hex="038E"/>
-  <anchor x="803" y="1400" name="top"/>
-  <anchor x="508" y="0" name="bottom"/>
+  <anchor x="270" y="1400" name="_topleft"/>
+  <anchor x="446" y="0" name="bottom"/>
+  <anchor x="908" y="1400" name="top"/>
   <outline>
     <component base="Upsilon"/>
-    <component base="tonos.case" xOffset="-462"/>
+    <component base="tonos.case" xOffset="-460"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

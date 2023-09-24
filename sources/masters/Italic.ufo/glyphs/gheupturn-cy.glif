@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gheupturn-cy" format="2">
+  <advance width="851"/>
+  <unicode hex="0491"/>
+  <anchor x="341" y="479" name="bar"/>
+  <anchor x="194" y="0" name="descender"/>
+  <anchor x="647" y="984" name="top"/>
+  <outline>
+    <component base="ge-cy"/>
+    <contour>
+      <point x="906" y="818" type="line"/>
+      <point x="1059" y="1284" type="line"/>
+      <point x="877" y="1284" type="line"/>
+      <point x="723" y="818" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.89,1,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ge-cy" format="2">
+  <advance width="899"/>
+  <unicode hex="0433"/>
+  <anchor x="333" y="462" name="bar"/>
+  <anchor x="359" y="0" name="descender"/>
+  <anchor x="679" y="1040" name="top"/>
+  <outline>
+    <contour>
+      <point x="359" y="0" type="line"/>
+      <point x="600" y="728" type="line"/>
+      <point x="931" y="728" type="line"/>
+      <point x="1034" y="1040" type="line"/>
+      <point x="300" y="1040" type="line"/>
+      <point x="-41" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>adjustSpace</key>
+    <integer>10</integer>
+    <key>height</key>
+    <real>74.3</real>
+    <key>weight</key>
+    <integer>-2</integer>
+    <key>width</key>
+    <integer>78</integer>
+  </dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

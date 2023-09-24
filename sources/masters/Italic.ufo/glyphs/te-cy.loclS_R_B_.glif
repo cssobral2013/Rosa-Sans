@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="te-cy.loclSRB" format="2">
+  <advance width="961"/>
+  <anchor x="477" y="476" name="bar"/>
+  <anchor x="318" y="0" name="bottom"/>
+  <anchor x="644" y="984" name="top"/>
+  <outline>
+    <component base="te-cy"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.805,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

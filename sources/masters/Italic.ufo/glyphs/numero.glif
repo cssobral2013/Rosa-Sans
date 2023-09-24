@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="numero" format="2">
-  <advance width="2362"/>
+  <advance width="2364"/>
   <unicode hex="2116"/>
-  <anchor x="2364" y="1368" name="horn"/>
-  <anchor x="1999" y="722" name="bottom"/>
-  <anchor x="2100" y="1368" name="top"/>
+  <anchor x="2037" y="722" name="bottom"/>
+  <anchor x="2459" y="1367" name="horn"/>
+  <anchor x="2161" y="722" name="ogonek"/>
+  <anchor x="2195" y="1367" name="top"/>
   <outline>
     <component base="N"/>
-    <component base="ordmasculine" xOffset="1500"/>
+    <component base="ordmasculine" xOffset="1497"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

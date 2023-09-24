@@ -1,12 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gravecomb.case" format="2">
-  <anchor x="-799" y="1399" name="top"/>
+  <anchor x="-796" y="1399" name="_top"/>
   <outline>
     <contour>
-      <point x="-832" y="1566" type="line"/>
-      <point x="-982" y="1891" type="line"/>
-      <point x="-771" y="1891" type="line"/>
-      <point x="-639" y="1566" type="line"/>
+      <point x="-615" y="1567" type="line"/>
+      <point x="-713" y="1891" type="line"/>
+      <point x="-918" y="1891" type="line"/>
+      <point x="-804" y="1567" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>adjustSpace</key>
+    <integer>-90</integer>
+    <key>height</key>
+    <integer>93</integer>
+    <key>verticalShift</key>
+    <integer>210</integer>
+    <key>weight</key>
+    <integer>10</integer>
+    <key>width</key>
+    <integer>102</integer>
+  </dict>
+  <key>public.markColor</key>
+  <string>1,0.834,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

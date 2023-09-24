@@ -2,10 +2,16 @@
 <glyph name="iinvertedbreve" format="2">
   <advance width="452"/>
   <unicode hex="020B"/>
-  <anchor x="552" y="960" name="top"/>
-  <anchor x="348" y="0" name="bottom"/>
+  <anchor x="67" y="0" name="bottom"/>
+  <anchor x="123" y="0" name="ogonek"/>
   <outline>
-    <component base="dotlessi" xOffset="224"/>
-    <component base="breveinvertedcomb.narrow" xOffset="1190"/>
+    <component base="idotless"/>
+    <component base="breveinvertedcomb.narrow" xOffset="1054"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

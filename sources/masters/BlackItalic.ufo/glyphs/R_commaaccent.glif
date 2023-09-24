@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Rcommaaccent" format="2">
-  <advance width="1414"/>
+  <advance width="1410"/>
   <unicode hex="0156"/>
-  <anchor x="856" y="1400" name="top"/>
-  <anchor x="626" y="0" name="bottom"/>
+  <anchor x="959" y="1400" name="top"/>
   <outline>
     <component base="R"/>
-    <component base="commaaccentcomb" xOffset="1170"/>
+    <component base="commaaccentcomb" xOffset="1053"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

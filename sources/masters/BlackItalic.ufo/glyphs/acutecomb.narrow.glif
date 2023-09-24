@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acutecomb.narrow" format="2">
-  <anchor x="-680" y="1040" name="top"/>
+  <anchor x="-704" y="1040" name="_top"/>
   <outline>
     <contour>
-      <point x="-854" y="1170" type="line"/>
-      <point x="-610" y="1544" type="line"/>
-      <point x="-204" y="1544" type="line"/>
-      <point x="-486" y="1170" type="line"/>
+      <point x="-489" y="1170" type="line"/>
+      <point x="-169" y="1544" type="line"/>
+      <point x="-582" y="1544" type="line"/>
+      <point x="-864" y="1170" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>adjustSpace</key>
+    <integer>-34</integer>
+    <key>width</key>
+    <integer>88</integer>
+  </dict>
+  <key>public.markColor</key>
+  <string>1,0.834,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

@@ -2,8 +2,14 @@
 <glyph name="caron" format="2">
   <advance width="1000"/>
   <unicode hex="02C7"/>
-  <anchor x="464" y="985" name="top"/>
+  <anchor x="421" y="984" name="_top"/>
   <outline>
     <component base="caroncomb" xOffset="1142"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

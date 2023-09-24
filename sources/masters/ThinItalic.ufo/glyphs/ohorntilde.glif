@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ohorntilde" format="2">
-  <advance width="1264"/>
+  <advance width="1305"/>
   <unicode hex="1EE1"/>
-  <anchor x="750" y="1344" name="top"/>
-  <anchor x="1056" y="960" name="horn"/>
-  <anchor x="516" y="0" name="bottom"/>
+  <anchor x="714" y="960" name="_top"/>
+  <anchor x="842" y="1344" name="top"/>
   <outline>
     <component base="ohorn"/>
-    <component base="tildecomb" xOffset="1334"/>
+    <component base="tildecomb" xOffset="1425"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

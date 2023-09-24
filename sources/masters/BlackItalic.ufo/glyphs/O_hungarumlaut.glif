@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ohungarumlaut" format="2">
-  <advance width="1664"/>
+  <advance width="1667"/>
   <unicode hex="0150"/>
-  <anchor x="982" y="1400" name="top"/>
-  <anchor x="1386" y="1400" name="horn"/>
-  <anchor x="758" y="0" name="bottom"/>
+  <anchor x="718" y="0" name="bottom"/>
+  <anchor x="1472" y="1400" name="horn"/>
+  <anchor x="987" y="0" name="ogonek"/>
+  <anchor x="378" y="1400" name="topleft"/>
   <outline>
     <component base="O"/>
-    <component base="hungarumlautcomb.case" xOffset="1812"/>
+    <component base="hungarumlautcomb.case" xOffset="1897"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

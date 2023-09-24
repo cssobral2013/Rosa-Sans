@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ubreve" format="2">
-  <advance width="1201"/>
+  <advance width="1198"/>
   <unicode hex="016D"/>
-  <anchor x="701" y="985" name="top"/>
-  <anchor x="1148" y="985" name="horn"/>
-  <anchor x="482" y="0" name="bottom"/>
-  <anchor x="796" y="1429" name="top.1"/>
+  <anchor x="422" y="0" name="bottom"/>
+  <anchor x="877" y="0" name="descender"/>
+  <anchor x="1204" y="984" name="horn"/>
+  <anchor x="877" y="0" name="ogonek"/>
+  <anchor x="907" y="1428" name="top"/>
   <outline>
     <component base="u"/>
-    <component base="brevecomb" xOffset="1379"/>
+    <component base="brevecomb" xOffset="1478"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aringacute.ss01" format="2">
-  <advance width="1290"/>
-  <anchor x="805" y="1502" name="top"/>
-  <anchor x="538" y="0" name="bottom"/>
-  <anchor x="805" y="1502" name="top.1"/>
+  <advance width="1292"/>
+  <anchor x="496" y="0" name="bottom"/>
+  <anchor x="971" y="0" name="ogonek"/>
   <outline>
     <component base="a.ss01"/>
-    <component base="ringcomb" xOffset="1375"/>
-    <component base="acutecomb" xOffset="1484" yOffset="517"/>
+    <component base="ringcomb" xOffset="1466"/>
+    <component base="acutecomb" xOffset="1635" yOffset="516"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

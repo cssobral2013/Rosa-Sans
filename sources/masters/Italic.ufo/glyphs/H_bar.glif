@@ -1,31 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Hbar" format="2">
-  <advance width="1524"/>
+  <advance width="1521"/>
   <unicode hex="0126"/>
   <outline>
     <contour>
-      <point x="1008" y="0" type="line"/>
-      <point x="1304" y="1400" type="line"/>
-      <point x="1510" y="1400" type="line"/>
-      <point x="1214" y="0" type="line"/>
+      <point x="1153" y="0" type="line"/>
+      <point x="1615" y="1400" type="line"/>
+      <point x="1413" y="1400" type="line"/>
+      <point x="951" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="103" y="0" type="line"/>
-      <point x="399" y="1400" type="line"/>
-      <point x="605" y="1400" type="line"/>
-      <point x="309" y="0" type="line"/>
+      <point x="248" y="0" type="line"/>
+      <point x="710" y="1400" type="line"/>
+      <point x="507" y="1400" type="line"/>
+      <point x="45" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="408" y="596" type="line"/>
-      <point x="447" y="785" type="line"/>
-      <point x="1203" y="785" type="line"/>
-      <point x="1164" y="596" type="line"/>
+      <point x="1178" y="598" type="line"/>
+      <point x="1239" y="784" type="line"/>
+      <point x="478" y="784" type="line"/>
+      <point x="418" y="598" type="line"/>
     </contour>
     <contour>
-      <point x="129" y="1007" type="line"/>
-      <point x="162" y="1164" type="line"/>
-      <point x="1648" y="1164" type="line"/>
-      <point x="1615" y="1007" type="line"/>
+      <point x="1674" y="1008" type="line"/>
+      <point x="1725" y="1162" type="line"/>
+      <point x="241" y="1162" type="line"/>
+      <point x="190" y="1008" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

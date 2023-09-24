@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brevecomb_hookabovecomb" format="2">
+  <anchor x="-741" y="1040" name="_top"/>
   <outline>
     <component base="brevecomb"/>
-    <component base="hookabovecomb" xOffset="96" yOffset="444"/>
+    <component base="hookabovecomb" xOffset="155" yOffset="444"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

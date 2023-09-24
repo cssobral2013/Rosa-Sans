@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Sacute" format="2">
-  <advance width="1290"/>
+  <advance width="1280"/>
   <unicode hex="015A"/>
-  <anchor x="842" y="1400" name="top"/>
-  <anchor x="578" y="0" name="bottom"/>
+  <anchor x="524" y="0" name="bottom"/>
   <outline>
     <component base="S"/>
-    <component base="acutecomb.case" xOffset="1672"/>
+    <component base="acutecomb.case" xOffset="1750"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

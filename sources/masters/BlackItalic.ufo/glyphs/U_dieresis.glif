@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Udieresis" format="2">
-  <advance width="1545"/>
+  <advance width="1541"/>
   <unicode hex="00DC"/>
-  <anchor x="1047" y="1834" name="top"/>
-  <anchor x="1581" y="1400" name="horn"/>
-  <anchor x="697" y="0" name="bottom"/>
+  <anchor x="652" y="0" name="bottom"/>
+  <anchor x="1684" y="1400" name="horn"/>
+  <anchor x="1012" y="0" name="ogonek"/>
+  <anchor x="1199" y="1834" name="top"/>
   <outline>
     <component base="U"/>
-    <component base="dieresiscomb.case" xOffset="1793"/>
+    <component base="dieresiscomb.case" xOffset="1897"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

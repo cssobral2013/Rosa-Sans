@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="strokeshortcomb.case" format="2">
-  <anchor x="-793" y="733" name="strokeshort"/>
+  <anchor x="-768" y="733" name="_bar"/>
   <outline>
     <contour>
-      <point x="-1250" y="654" type="line"/>
-      <point x="-1216" y="811" type="line"/>
-      <point x="-335" y="811" type="line"/>
-      <point x="-369" y="654" type="line"/>
+      <point x="-355" y="656" type="line"/>
+      <point x="-302" y="810" type="line"/>
+      <point x="-1181" y="810" type="line"/>
+      <point x="-1233" y="656" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uhorntilde" format="2">
-  <advance width="1291"/>
+  <advance width="1286"/>
   <unicode hex="1EEF"/>
-  <anchor x="701" y="985" name="top"/>
-  <anchor x="1148" y="985" name="horn"/>
-  <anchor x="482" y="0" name="bottom"/>
-  <anchor x="785" y="1382" name="top.1"/>
+  <anchor x="758" y="984" name="_top"/>
+  <anchor x="890" y="1380" name="top"/>
+  <anchor x="422" y="0" name="bottom"/>
+  <anchor x="877" y="0" name="descender"/>
+  <anchor x="877" y="0" name="ogonek"/>
   <outline>
     <component base="uhorn"/>
-    <component base="tildecomb" xOffset="1379"/>
+    <component base="tildecomb" xOffset="1479"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

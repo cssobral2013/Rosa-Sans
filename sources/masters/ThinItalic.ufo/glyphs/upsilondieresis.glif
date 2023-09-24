@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="upsilondieresis" format="2">
-  <advance width="1057"/>
+  <advance width="1058"/>
   <unicode hex="03CB"/>
-  <anchor x="673" y="1284" name="top"/>
+  <anchor x="771" y="1284" name="top"/>
   <outline>
     <component base="upsilon"/>
-    <component base="dieresiscomb" xOffset="1253"/>
+    <component base="dieresiscomb" xOffset="1348"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

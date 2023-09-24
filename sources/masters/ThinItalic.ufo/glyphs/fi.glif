@@ -2,9 +2,15 @@
 <glyph name="fi" format="2">
   <advance width="1166"/>
   <unicode hex="FB01"/>
-  <anchor x="582" y="0" name="caret"/>
+  <anchor x="581" y="0" name="caret_1"/>
   <outline>
     <component base="f"/>
     <component base="i" xOffset="714"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

@@ -2,10 +2,15 @@
 <glyph name="Upsilontonos" format="2">
   <advance width="1180"/>
   <unicode hex="038E"/>
-  <anchor x="784" y="1400" name="top"/>
-  <anchor x="488" y="0" name="bottom"/>
+  <anchor x="286" y="1400" name="_topleft"/>
   <outline>
     <component base="Upsilon"/>
-    <component base="tonos.case" xOffset="-425"/>
+    <component base="tonos.case" xOffset="-424"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

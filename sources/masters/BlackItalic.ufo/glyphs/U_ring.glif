@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uring" format="2">
-  <advance width="1545"/>
+  <advance width="1541"/>
   <unicode hex="016E"/>
-  <anchor x="1099" y="2056" name="top"/>
-  <anchor x="1581" y="1400" name="horn"/>
-  <anchor x="697" y="0" name="bottom"/>
+  <anchor x="652" y="0" name="bottom"/>
+  <anchor x="1684" y="1400" name="horn"/>
+  <anchor x="1012" y="0" name="ogonek"/>
+  <anchor x="1281" y="2056" name="top"/>
   <outline>
     <component base="U"/>
-    <component base="ringcomb.case" xOffset="1877"/>
+    <component base="ringcomb.case" xOffset="2027"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

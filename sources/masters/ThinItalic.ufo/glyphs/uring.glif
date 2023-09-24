@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uring" format="2">
-  <advance width="1143"/>
+  <advance width="1144"/>
   <unicode hex="016F"/>
-  <anchor x="773" y="1464" name="top"/>
-  <anchor x="1075" y="960" name="horn"/>
-  <anchor x="453" y="0" name="bottom"/>
+  <anchor x="396" y="0" name="bottom"/>
+  <anchor x="814" y="0" name="descender"/>
+  <anchor x="1133" y="960" name="horn"/>
+  <anchor x="814" y="0" name="ogonek"/>
+  <anchor x="892" y="1464" name="top"/>
   <outline>
     <component base="u"/>
-    <component base="ringcomb" xOffset="1331"/>
+    <component base="ringcomb" xOffset="1434"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

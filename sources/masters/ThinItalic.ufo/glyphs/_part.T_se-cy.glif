@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_part.Tse-cy" format="2">
+  <advance width="1450"/>
+  <anchor x="562" y="0" name="bottom"/>
+  <anchor x="1091" y="0" name="descender"/>
+  <outline>
+    <contour>
+      <point x="1091" y="0" type="line"/>
+      <point x="1554" y="1400" type="line"/>
+      <point x="1438" y="1400" type="line"/>
+      <point x="1009" y="108" type="line"/>
+      <point x="194" y="108" type="line"/>
+      <point x="622" y="1400" type="line"/>
+      <point x="506" y="1400" type="line"/>
+      <point x="44" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

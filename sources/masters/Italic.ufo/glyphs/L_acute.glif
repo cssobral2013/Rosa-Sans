@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lacute" format="2">
-  <advance width="1086"/>
+  <advance width="1084"/>
   <unicode hex="0139"/>
-  <anchor x="488" y="1400" name="top"/>
-  <anchor x="601" y="1440" name="Anchor_2"/>
-  <anchor x="502" y="0" name="bottom"/>
+  <anchor x="438" y="0" name="bottom"/>
+  <anchor x="706" y="1440" name="caron"/>
   <outline>
-    <component base="L" xOffset="5"/>
-    <component base="acutecomb.case" xOffset="1285" yOffset="1"/>
+    <component base="L"/>
+    <component base="acutecomb.case" xOffset="1383" yOffset="1"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

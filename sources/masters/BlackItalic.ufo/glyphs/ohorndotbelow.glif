@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ohorndotbelow" format="2">
-  <advance width="1372"/>
+  <advance width="1364"/>
   <unicode hex="1EE3"/>
-  <anchor x="730" y="1040" name="top"/>
-  <anchor x="1130" y="1040" name="horn"/>
-  <anchor x="562" y="0" name="bottom"/>
+  <anchor x="516" y="0" name="_bottom"/>
   <outline>
     <component base="ohorn"/>
-    <component base="dotbelowcomb" xOffset="1126"/>
+    <component base="dotbelowcomb" xOffset="1039"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

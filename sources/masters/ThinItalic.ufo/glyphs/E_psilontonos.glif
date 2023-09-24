@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Epsilontonos" format="2">
-  <advance width="1182"/>
+  <advance width="1183"/>
   <unicode hex="0388"/>
-  <anchor x="798" y="1400" name="top"/>
-  <anchor x="502" y="0" name="bottom"/>
+  <anchor x="426" y="1400" name="_topleft"/>
   <outline>
     <component base="Epsilon"/>
-    <component base="tonos.case" xOffset="-285"/>
+    <component base="tonos.case" xOffset="-284"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

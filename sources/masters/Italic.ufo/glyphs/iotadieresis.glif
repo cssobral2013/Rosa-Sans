@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iotadieresis" format="2">
-  <advance width="635"/>
+  <advance width="626"/>
   <unicode hex="03CA"/>
-  <anchor x="472" y="985" name="top"/>
-  <anchor x="548" y="1347" name="top.1"/>
+  <anchor x="529" y="1344" name="top"/>
   <outline>
-    <component base="iota" xOffset="118"/>
-    <component base="dieresiscomb.narrow" xOffset="1139"/>
+    <component base="iota"/>
+    <component base="dieresiscomb.narrow" xOffset="1113"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

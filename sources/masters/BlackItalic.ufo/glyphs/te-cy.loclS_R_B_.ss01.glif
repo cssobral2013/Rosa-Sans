@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="te-cy.loclSRB.ss01" format="2">
+  <advance width="2003"/>
+  <anchor x="1703" y="0" name="descender"/>
+  <outline>
+    <component base="sha-cy.loclBGR"/>
+    <component base="macroncomb.wide" xOffset="1654"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.805,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

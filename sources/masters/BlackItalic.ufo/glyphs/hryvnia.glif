@@ -2,70 +2,14 @@
 <glyph name="hryvnia" format="2">
   <advance width="1296"/>
   <unicode hex="20B4"/>
-  <anchor x="798" y="1400" name="top"/>
   <outline>
-    <contour>
-      <point x="592" y="-32" type="qcurve"/>
-      <point x="464" y="-32"/>
-      <point x="242" y="54"/>
-      <point x="106" y="226"/>
-      <point x="106" y="356" type="qcurve"/>
-      <point x="106" y="488"/>
-      <point x="226" y="654"/>
-      <point x="431" y="761"/>
-      <point x="560" y="806" type="qcurve"/>
-      <point x="686" y="850" type="line"/>
-      <point x="759" y="875"/>
-      <point x="849" y="918"/>
-      <point x="890" y="976"/>
-      <point x="890" y="1024" type="qcurve"/>
-      <point x="890" y="1066"/>
-      <point x="843" y="1128"/>
-      <point x="753" y="1162"/>
-      <point x="688" y="1162" type="qcurve"/>
-      <point x="603" y="1162"/>
-      <point x="447" y="1101"/>
-      <point x="384" y="1050" type="qcurve"/>
-      <point x="278" y="1294" type="line"/>
-      <point x="359" y="1357"/>
-      <point x="596" y="1430"/>
-      <point x="734" y="1430" type="qcurve"/>
-      <point x="859" y="1430"/>
-      <point x="1074" y="1344"/>
-      <point x="1206" y="1175"/>
-      <point x="1206" y="1052" type="qcurve"/>
-      <point x="1206" y="929"/>
-      <point x="1085" y="758"/>
-      <point x="882" y="640"/>
-      <point x="758" y="598" type="qcurve"/>
-      <point x="628" y="554" type="line"/>
-      <point x="572" y="535"/>
-      <point x="478" y="491"/>
-      <point x="422" y="424"/>
-      <point x="422" y="370" type="qcurve"/>
-      <point x="422" y="325"/>
-      <point x="470" y="268"/>
-      <point x="559" y="240"/>
-      <point x="622" y="240" type="qcurve"/>
-      <point x="679" y="240"/>
-      <point x="812" y="270"/>
-      <point x="936" y="325"/>
-      <point x="980" y="364" type="qcurve"/>
-      <point x="1082" y="112" type="line"/>
-      <point x="982" y="42"/>
-      <point x="727" y="-32"/>
-    </contour>
-    <contour>
-      <point x="54" y="740" type="line"/>
-      <point x="102" y="966" type="line"/>
-      <point x="1382" y="966" type="line"/>
-      <point x="1334" y="740" type="line"/>
-    </contour>
-    <contour>
-      <point x="-18" y="402" type="line"/>
-      <point x="30" y="628" type="line"/>
-      <point x="1310" y="628" type="line"/>
-      <point x="1262" y="402" type="line"/>
-    </contour>
+    <component base="_part.hryvnia"/>
+    <component base="_part.currencyBarHorizontalDoubl"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

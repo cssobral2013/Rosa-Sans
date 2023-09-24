@@ -2,11 +2,16 @@
 <glyph name="Uhorntilde" format="2">
   <advance width="1544"/>
   <unicode hex="1EEE"/>
-  <anchor x="994" y="1760" name="top"/>
-  <anchor x="1450" y="1400" name="horn"/>
-  <anchor x="656" y="0" name="bottom"/>
+  <anchor x="1028" y="1400" name="_top"/>
+  <anchor x="1147" y="1760" name="top"/>
   <outline>
     <component base="Uhorn"/>
-    <component base="tildecomb.case" xOffset="1702" yOffset="2"/>
+    <component base="tildecomb.case" xOffset="1810" yOffset="2"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

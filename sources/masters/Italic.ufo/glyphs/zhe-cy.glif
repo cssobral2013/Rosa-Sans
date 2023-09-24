@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zhe-cy" format="2">
+  <advance width="1565"/>
+  <unicode hex="0436"/>
+  <anchor x="1265" y="0" name="descender"/>
+  <anchor x="941" y="984" name="top"/>
+  <outline>
+    <contour>
+      <point x="717" y="0" type="line"/>
+      <point x="855" y="433" type="line"/>
+      <point x="1125" y="433" type="line"/>
+      <point x="1184" y="599" type="line"/>
+      <point x="916" y="599" type="line"/>
+      <point x="1040" y="984" type="line"/>
+      <point x="842" y="984" type="line"/>
+      <point x="717" y="599" type="line"/>
+      <point x="450" y="599" type="line"/>
+      <point x="391" y="433" type="line"/>
+      <point x="657" y="433" type="line"/>
+      <point x="519" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="121" y="0" type="line"/>
+      <point x="584" y="523" type="line"/>
+      <point x="454" y="984" type="line"/>
+      <point x="247" y="984" type="line"/>
+      <point x="374" y="542" type="line"/>
+      <point x="-118" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1357" y="0" type="line"/>
+      <point x="1209" y="513" type="line"/>
+      <point x="1636" y="984" type="line"/>
+      <point x="1413" y="984" type="line"/>
+      <point x="1000" y="523" type="line"/>
+      <point x="1132" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>width</key>
+    <integer>90</integer>
+  </dict>
+  <key>public.markColor</key>
+  <string>0.6,0.89,1,1</string>
+  </dict>
+  </lib>
+</glyph>

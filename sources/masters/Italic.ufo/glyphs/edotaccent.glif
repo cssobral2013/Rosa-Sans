@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="edotaccent" format="2">
-  <advance width="1149"/>
+  <advance width="1150"/>
   <unicode hex="0117"/>
-  <anchor x="671" y="985" name="top"/>
-  <anchor x="497" y="0" name="bottom"/>
-  <anchor x="747" y="1347" name="top.1"/>
+  <anchor x="455" y="0" name="bottom"/>
+  <anchor x="790" y="0" name="ogonek"/>
+  <anchor x="836" y="1344" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="dotaccentcomb" xOffset="1167"/>
+    <component base="dotaccentcomb" xOffset="1153"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

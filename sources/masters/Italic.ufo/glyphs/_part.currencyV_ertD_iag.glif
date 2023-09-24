@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_part.currencyVertDiag" format="2">
+  <advance width="1417"/>
+  <anchor x="1104" y="1400" name="_top"/>
+  <outline>
+    <contour>
+      <point x="608" y="-160" type="line"/>
+      <point x="1475" y="1560" type="line"/>
+      <point x="1333" y="1560" type="line"/>
+      <point x="471" y="-160" type="line"/>
+    </contour>
+    <contour>
+      <point x="291" y="-160" type="line"/>
+      <point x="1154" y="1560" type="line"/>
+      <point x="1016" y="1560" type="line"/>
+      <point x="150" y="-160" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

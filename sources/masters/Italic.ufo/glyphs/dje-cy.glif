@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dje-cy" format="2">
+  <advance width="1212"/>
+  <unicode hex="0452"/>
+  <outline>
+    <component base="_part.heng" xOffset="-1"/>
+    <component base="strokeshortcomb" xOffset="1201" yOffset="686"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

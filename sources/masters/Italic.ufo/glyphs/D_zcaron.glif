@@ -2,10 +2,16 @@
 <glyph name="Dzcaron" format="2">
   <advance width="2404"/>
   <unicode hex="01C5"/>
-  <anchor x="489" y="733" name="strokeshort"/>
-  <anchor x="2024" y="985" name="top"/>
+  <anchor x="518" y="733" name="bar"/>
+  <anchor x="992" y="1400" name="top"/>
   <outline>
     <component base="D"/>
-    <component base="zcaron" xOffset="1435"/>
+    <component base="zcaron" xOffset="1439"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

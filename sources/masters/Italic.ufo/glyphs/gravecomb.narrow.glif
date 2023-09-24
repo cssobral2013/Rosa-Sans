@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gravecomb.narrow" format="2">
-  <anchor x="-656" y="985" name="top"/>
+  <anchor x="-686" y="984" name="_top"/>
   <outline>
     <contour>
-      <point x="-688" y="1170" type="line"/>
-      <point x="-803" y="1517" type="line"/>
-      <point x="-599" y="1517" type="line"/>
-      <point x="-503" y="1170" type="line"/>
+      <point x="-512" y="1170" type="line"/>
+      <point x="-571" y="1516" type="line"/>
+      <point x="-768" y="1516" type="line"/>
+      <point x="-691" y="1170" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>adjustSpace</key>
+    <integer>-34</integer>
+    <key>width</key>
+    <integer>88</integer>
+  </dict>
+  <key>public.markColor</key>
+  <string>1,0.834,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

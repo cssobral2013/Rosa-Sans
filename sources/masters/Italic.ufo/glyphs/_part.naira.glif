@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_part.naira" format="2">
+  <advance width="1296"/>
+  <anchor x="486" y="0" name="bottom"/>
+  <anchor x="949" y="1400" name="top"/>
+  <outline>
+    <contour>
+      <point x="200" y="0" type="line"/>
+      <point x="560" y="1087" type="line"/>
+      <point x="781" y="0" type="line"/>
+      <point x="955" y="0" type="line"/>
+      <point x="1418" y="1400" type="line"/>
+      <point x="1235" y="1400" type="line"/>
+      <point x="881" y="329" type="line"/>
+      <point x="656" y="1400" type="line"/>
+      <point x="480" y="1400" type="line"/>
+      <point x="17" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>weight</key>
+    <integer>-22</integer>
+    <key>width</key>
+    <real>80.1</real>
+  </dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

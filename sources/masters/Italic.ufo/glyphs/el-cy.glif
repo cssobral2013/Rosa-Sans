@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="el-cy" format="2">
+  <advance width="1208"/>
+  <unicode hex="043B"/>
+  <outline>
+    <contour>
+      <point x="-34" y="-16" type="line"/>
+      <point x="236" y="52"/>
+      <point x="378" y="280"/>
+      <point x="510" y="674" type="curve"/>
+      <point x="557" y="818" type="line"/>
+      <point x="958" y="818" type="line"/>
+      <point x="689" y="0" type="line"/>
+      <point x="887" y="0" type="line"/>
+      <point x="1211" y="984" type="line"/>
+      <point x="426" y="984" type="line"/>
+      <point x="324" y="674" type="line" smooth="yes"/>
+      <point x="220" y="359"/>
+      <point x="148" y="220"/>
+      <point x="-65" y="165" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>adjustSpace</key>
+    <integer>10</integer>
+    <key>height</key>
+    <real>74.3</real>
+    <key>weight</key>
+    <integer>-2</integer>
+    <key>width</key>
+    <integer>78</integer>
+  </dict>
+  <key>public.markColor</key>
+  <string>0.6,0.89,1,1</string>
+  </dict>
+  </lib>
+</glyph>

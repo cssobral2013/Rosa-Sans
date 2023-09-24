@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ohorn" format="2">
-  <advance width="1696"/>
+  <advance width="1707"/>
   <unicode hex="01A0"/>
-  <anchor x="1007" y="1400" name="top"/>
-  <anchor x="1409" y="1400" name="horn"/>
-  <anchor x="783" y="0" name="bottom"/>
+  <anchor x="752" y="0" name="bottom"/>
+  <anchor x="964" y="0" name="ogonek"/>
+  <anchor x="1102" y="1400" name="top"/>
+  <anchor x="457" y="1400" name="topleft"/>
   <outline>
     <component base="O"/>
-    <component base="horncomb.case" xOffset="1697"/>
+    <component base="horncomb.case" xOffset="1709"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

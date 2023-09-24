@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="el-cy.loclBGR" format="2">
+  <advance width="1169"/>
+  <outline>
+    <contour>
+      <point x="515" y="1040" type="line"/>
+      <point x="-168" y="0" type="line"/>
+      <point x="273" y="0" type="line"/>
+      <point x="731" y="813" type="line"/>
+      <point x="622" y="838" type="line"/>
+      <point x="573" y="0" type="line"/>
+      <point x="990" y="0" type="line"/>
+      <point x="983" y="1040" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

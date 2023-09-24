@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="downArrow" format="2">
+  <advance width="1800"/>
+  <unicode hex="2193"/>
+  <outline>
+    <contour>
+      <point x="1702" y="520" type="line"/>
+      <point x="1504" y="718" type="line"/>
+      <point x="1168" y="382" type="line"/>
+      <point x="1166" y="1520" type="line"/>
+      <point x="870" y="1520" type="line"/>
+      <point x="872" y="382" type="line"/>
+      <point x="536" y="718" type="line"/>
+      <point x="338" y="520" type="line"/>
+      <point x="1020" y="-162" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

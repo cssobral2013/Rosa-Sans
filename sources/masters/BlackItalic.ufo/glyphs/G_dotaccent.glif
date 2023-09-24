@@ -2,10 +2,16 @@
 <glyph name="Gdotaccent" format="2">
   <advance width="1523"/>
   <unicode hex="0120"/>
-  <anchor x="1038" y="1834" name="top"/>
-  <anchor x="786" y="0" name="bottom"/>
+  <anchor x="747" y="0" name="bottom"/>
+  <anchor x="1175" y="1834" name="top"/>
   <outline>
     <component base="G"/>
-    <component base="dotaccentcomb.case" xOffset="1598"/>
+    <component base="dotaccentcomb.case" xOffset="1580"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

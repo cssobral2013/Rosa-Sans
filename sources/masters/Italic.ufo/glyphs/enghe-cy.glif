@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="enghe-cy" format="2">
+  <advance width="1568"/>
+  <unicode hex="04A5"/>
+  <outline>
+    <contour>
+      <point x="197" y="0" type="line"/>
+      <point x="337" y="433" type="line"/>
+      <point x="856" y="433" type="line"/>
+      <point x="715" y="0" type="line"/>
+      <point x="913" y="0" type="line"/>
+      <point x="1182" y="818" type="line"/>
+      <point x="1624" y="818" type="line"/>
+      <point x="1680" y="984" type="line"/>
+      <point x="1036" y="984" type="line"/>
+      <point x="911" y="599" type="line"/>
+      <point x="392" y="599" type="line"/>
+      <point x="519" y="984" type="line"/>
+      <point x="320" y="984" type="line"/>
+      <point x="-1" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.89,1,1</string>
+  </dict>
+  </lib>
+</glyph>

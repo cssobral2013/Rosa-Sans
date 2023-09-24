@@ -1,18 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hungarumlautcomb.case" format="2">
-  <anchor x="-830" y="1400" name="top"/>
+  <anchor x="-829" y="1400" name="_top"/>
   <outline>
     <contour>
-      <point x="-732" y="1508" type="line"/>
-      <point x="-470" y="1862" type="line"/>
-      <point x="-42" y="1862" type="line"/>
-      <point x="-344" y="1508" type="line"/>
+      <point x="-320" y="1508" type="line"/>
+      <point x="15" y="1862" type="line"/>
+      <point x="-421" y="1862" type="line"/>
+      <point x="-716" y="1508" type="line"/>
     </contour>
     <contour>
-      <point x="-1292" y="1508" type="line"/>
-      <point x="-1030" y="1862" type="line"/>
-      <point x="-602" y="1862" type="line"/>
-      <point x="-904" y="1508" type="line"/>
+      <point x="-882" y="1508" type="line"/>
+      <point x="-545" y="1862" type="line"/>
+      <point x="-981" y="1862" type="line"/>
+      <point x="-1276" y="1508" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>adjustSpace</key>
+    <integer>-90</integer>
+    <key>height</key>
+    <integer>93</integer>
+    <key>verticalShift</key>
+    <integer>210</integer>
+    <key>weight</key>
+    <integer>10</integer>
+    <key>width</key>
+    <integer>102</integer>
+  </dict>
+  <key>public.markColor</key>
+  <string>1,0.834,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

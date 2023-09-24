@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="northEastArrow" format="2">
+  <advance width="1800"/>
+  <unicode hex="2197"/>
+  <outline>
+    <contour>
+      <point x="1488" y="1138" type="line"/>
+      <point x="1488" y="555" type="line"/>
+      <point x="1638" y="555" type="line"/>
+      <point x="1640" y="1400" type="line"/>
+      <point x="795" y="1400" type="line"/>
+      <point x="795" y="1249" type="line"/>
+      <point x="1378" y="1249" type="line"/>
+      <point x="226" y="97" type="line"/>
+      <point x="336" y="-14" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

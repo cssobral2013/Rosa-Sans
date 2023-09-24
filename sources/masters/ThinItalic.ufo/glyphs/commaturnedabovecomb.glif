@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="commaturnedabovecomb" format="2">
   <unicode hex="0312"/>
-  <anchor x="-686" y="960" name="top"/>
+  <anchor x="-742" y="960" name="_top"/>
   <outline>
     <contour>
-      <point x="-596" y="1244" type="qcurve"/>
-      <point x="-640" y="1244"/>
-      <point x="-697" y="1296"/>
-      <point x="-697" y="1347" type="qcurve"/>
-      <point x="-697" y="1406"/>
-      <point x="-626" y="1506"/>
-      <point x="-510" y="1585"/>
-      <point x="-445" y="1613" type="qcurve"/>
-      <point x="-403" y="1551" type="line"/>
-      <point x="-475" y="1521"/>
-      <point x="-572" y="1448"/>
-      <point x="-589" y="1415" type="qcurve"/>
-      <point x="-561" y="1414"/>
-      <point x="-520" y="1394"/>
-      <point x="-496" y="1358"/>
-      <point x="-496" y="1334" type="qcurve"/>
-      <point x="-496" y="1294"/>
-      <point x="-552" y="1244"/>
+      <point x="-603" y="1244" type="curve" smooth="yes"/>
+      <point x="-541" y="1244"/>
+      <point x="-498" y="1280"/>
+      <point x="-498" y="1336" type="curve" smooth="yes"/>
+      <point x="-498" y="1379"/>
+      <point x="-534" y="1406"/>
+      <point x="-588" y="1410" type="curve"/>
+      <point x="-559" y="1453"/>
+      <point x="-492" y="1504"/>
+      <point x="-381" y="1544" type="curve"/>
+      <point x="-417" y="1609" type="line"/>
+      <point x="-554" y="1565"/>
+      <point x="-704" y="1472"/>
+      <point x="-704" y="1342" type="curve" smooth="yes"/>
+      <point x="-704" y="1274"/>
+      <point x="-661" y="1244"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.89,1,1</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gamma" format="2">
-  <advance width="1028"/>
+  <advance width="1026"/>
   <unicode hex="0393"/>
-  <anchor x="771" y="1400" name="top"/>
-  <anchor x="480" y="698" name="strokeshort"/>
+  <anchor x="478" y="699" name="bar"/>
+  <anchor x="228" y="0" name="descender"/>
+  <anchor x="878" y="1400" name="top"/>
   <outline>
-    <component base="Gecyr"/>
+    <component base="Ge-cy"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

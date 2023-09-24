@@ -2,10 +2,15 @@
 <glyph name="gbreve" format="2">
   <advance width="1199"/>
   <unicode hex="011F"/>
-  <anchor x="638" y="985" name="top"/>
-  <anchor x="734" y="1429" name="top.1"/>
+  <anchor x="819" y="1428" name="top"/>
   <outline>
     <component base="g"/>
-    <component base="brevecomb" xOffset="1316"/>
+    <component base="brevecomb" xOffset="1390"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

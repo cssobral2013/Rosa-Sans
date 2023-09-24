@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iotadieresis" format="2">
-  <advance width="581"/>
+  <advance width="578"/>
   <unicode hex="03AA"/>
-  <anchor x="600" y="1400" name="top"/>
-  <anchor x="304" y="0" name="bottom"/>
-  <anchor x="676" y="1762" name="top.1"/>
+  <anchor x="590" y="1400" name="_top"/>
+  <anchor x="708" y="1760" name="top"/>
+  <anchor x="127" y="0" name="bottom"/>
+  <anchor x="228" y="0" name="ogonek"/>
+  <anchor x="398" y="1400" name="topleft"/>
   <outline>
-    <component base="Iota" xOffset="118"/>
-    <component base="dieresiscomb.narrow" xOffset="1267" yOffset="415"/>
+    <component base="Iota"/>
+    <component base="dieresiscomb.narrow" xOffset="1292" yOffset="416"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

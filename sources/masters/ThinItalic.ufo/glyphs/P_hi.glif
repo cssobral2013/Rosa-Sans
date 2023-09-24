@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Phi" format="2">
-  <advance width="1649"/>
+  <advance width="1661"/>
   <unicode hex="03A6"/>
   <outline>
-    <component base="Efcyr"/>
+    <component base="Ef-cy"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ustraight-cy" format="2">
+  <advance width="1330"/>
+  <unicode hex="04AE"/>
+  <anchor x="691" y="620" name="bar"/>
+  <anchor x="482" y="0" name="bottom"/>
+  <anchor x="942" y="1400" name="top"/>
+  <anchor x="231" y="1400" name="topleft"/>
+  <outline>
+    <component base="Y"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

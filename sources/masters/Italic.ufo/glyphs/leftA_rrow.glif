@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="leftArrow" format="2">
+  <advance width="1801"/>
+  <unicode hex="2190"/>
+  <outline>
+    <contour>
+      <point x="904" y="241" type="line"/>
+      <point x="489" y="654" type="line"/>
+      <point x="1881" y="655" type="line"/>
+      <point x="1881" y="811" type="line"/>
+      <point x="489" y="810" type="line"/>
+      <point x="904" y="1223" type="line"/>
+      <point x="797" y="1330" type="line"/>
+      <point x="199" y="732" type="line"/>
+      <point x="797" y="134" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

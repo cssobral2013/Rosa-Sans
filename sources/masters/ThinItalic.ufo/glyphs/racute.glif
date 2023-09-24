@@ -2,10 +2,15 @@
 <glyph name="racute" format="2">
   <advance width="756"/>
   <unicode hex="0155"/>
-  <anchor x="544" y="960" name="top"/>
-  <anchor x="124" y="0" name="bottom"/>
+  <anchor x="67" y="0" name="bottom"/>
   <outline>
     <component base="r"/>
-    <component base="acutecomb" xOffset="1210"/>
+    <component base="acutecomb" xOffset="1312"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

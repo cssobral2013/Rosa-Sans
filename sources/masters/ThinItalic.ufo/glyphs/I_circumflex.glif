@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Icircumflex" format="2">
-  <advance width="518"/>
+  <advance width="519"/>
   <unicode hex="00CE"/>
-  <anchor x="778" y="1884" name="top"/>
-  <anchor x="380" y="0" name="bottom"/>
+  <anchor x="102" y="0" name="bottom"/>
+  <anchor x="160" y="0" name="ogonek"/>
+  <anchor x="724" y="1884" name="top"/>
+  <anchor x="924" y="1664" name="top_right"/>
+  <anchor x="426" y="1400" name="topleft"/>
   <outline>
     <component base="I"/>
-    <component base="circumflexcomb.narrow" xOffset="1090" yOffset="440"/>
+    <component base="circumflexcomb.narrow" xOffset="1228" yOffset="440"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

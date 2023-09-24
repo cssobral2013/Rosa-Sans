@@ -1,24 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="A" format="2">
-  <advance width="1380"/>
+  <advance width="1376"/>
   <unicode hex="0041"/>
-  <anchor x="875" y="1400" name="top"/>
-  <anchor x="579" y="0" name="bottom"/>
+  <anchor x="520" y="0" name="bottom"/>
+  <anchor x="1178" y="0" name="ogonek"/>
+  <anchor x="982" y="1400" name="top"/>
+  <anchor x="611" y="1400" name="topleft"/>
   <outline>
     <contour>
-      <point x="-80" y="0" type="line"/>
-      <point x="765" y="1400" type="line"/>
-      <point x="983" y="1400" type="line"/>
-      <point x="1250" y="0" type="line"/>
-      <point x="1024" y="0" type="line"/>
-      <point x="961" y="342" type="line"/>
-      <point x="357" y="342" type="line"/>
-      <point x="156" y="0" type="line"/>
+      <point x="98" y="0" type="line"/>
+      <point x="341" y="344" type="line"/>
+      <point x="946" y="344" type="line"/>
+      <point x="969" y="0" type="line"/>
+      <point x="1188" y="0" type="line"/>
+      <point x="1087" y="1400" type="line"/>
+      <point x="874" y="1400" type="line"/>
+      <point x="-139" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="450" y="521" type="line"/>
-      <point x="941" y="521" type="line"/>
-      <point x="822" y="1147" type="line"/>
+      <point x="903" y="1148" type="line"/>
+      <point x="947" y="520" type="line"/>
+      <point x="453" y="520" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

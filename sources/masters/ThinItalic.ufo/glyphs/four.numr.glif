@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.numr" format="2">
+  <advance width="847"/>
+  <outline>
+    <contour>
+      <point x="627" y="490" type="line"/>
+      <point x="693" y="686" type="line"/>
+      <point x="847" y="686" type="line"/>
+      <point x="878" y="778" type="line"/>
+      <point x="721" y="778" type="line"/>
+      <point x="793" y="994" type="line"/>
+      <point x="697" y="994" type="line"/>
+      <point x="625" y="778" type="line"/>
+      <point x="265" y="778" type="line"/>
+      <point x="829" y="1400" type="line"/>
+      <point x="711" y="1400" type="line"/>
+      <point x="142" y="770" type="line"/>
+      <point x="117" y="686" type="line"/>
+      <point x="597" y="686" type="line"/>
+      <point x="531" y="490" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>adjustSpace</key>
+    <integer>10</integer>
+    <key>height</key>
+    <integer>65</integer>
+    <key>verticalShift</key>
+    <integer>245</integer>
+    <key>weight</key>
+    <integer>-70</integer>
+    <key>width</key>
+    <integer>67</integer>
+  </dict>
+  <key>public.markColor</key>
+  <string>1,0.834,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

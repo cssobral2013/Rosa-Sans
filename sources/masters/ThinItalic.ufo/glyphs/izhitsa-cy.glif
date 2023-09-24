@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="izhitsa-cy" format="2">
+  <advance width="1040"/>
+  <unicode hex="0475"/>
+  <outline>
+    <contour>
+      <point x="390" y="0" type="line"/>
+      <point x="771" y="522" type="line"/>
+      <point x="928" y="742"/>
+      <point x="1018" y="832"/>
+      <point x="1129" y="856" type="curve"/>
+      <point x="1127" y="970" type="line"/>
+      <point x="985" y="946"/>
+      <point x="874" y="854"/>
+      <point x="694" y="596" type="curve" smooth="yes"/>
+      <point x="372" y="140" type="line"/>
+      <point x="330" y="960" type="line"/>
+      <point x="201" y="960" type="line"/>
+      <point x="268" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>adjustSpace</key>
+    <integer>10</integer>
+    <key>height</key>
+    <real>74.3</real>
+    <key>weight</key>
+    <integer>-2</integer>
+    <key>width</key>
+    <integer>78</integer>
+  </dict>
+  <key>public.markColor</key>
+  <string>0.6,0.89,1,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_part.currencyBarHorizontalSingle" format="2">
+  <advance width="1296"/>
+  <anchor x="954" y="1400" name="_top"/>
+  <outline>
+    <contour>
+      <point x="1289" y="638" type="line"/>
+      <point x="1320" y="738" type="line"/>
+      <point x="144" y="738" type="line"/>
+      <point x="113" y="638" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ntilde" format="2">
-  <advance width="1500"/>
+  <advance width="1497"/>
   <unicode hex="00D1"/>
-  <anchor x="942" y="1400" name="top"/>
-  <anchor x="646" y="0" name="bottom"/>
-  <anchor x="1021" y="1773" name="top.1"/>
+  <anchor x="587" y="0" name="bottom"/>
+  <anchor x="1172" y="1773" name="top"/>
   <outline>
     <component base="N"/>
-    <component base="tildecomb.case" xOffset="1741" yOffset="1"/>
+    <component base="tildecomb.case" xOffset="1846" yOffset="1"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

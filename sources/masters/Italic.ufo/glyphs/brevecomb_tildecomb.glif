@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brevecomb_tildecomb" format="2">
-  <anchor x="-581" y="1429" name="top"/>
-  <anchor x="-497" y="1826" name="top.1"/>
+  <anchor x="-720" y="984" name="_top"/>
+  <anchor x="-439" y="1824" name="top"/>
   <outline>
-    <component base="brevecomb" xOffset="1"/>
-    <component base="tildecomb" xOffset="97" yOffset="444"/>
+    <component base="brevecomb"/>
+    <component base="tildecomb" xOffset="150" yOffset="444"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

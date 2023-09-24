@@ -1,39 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onequarter" format="2">
-  <advance width="1927"/>
+  <advance width="1948"/>
   <unicode hex="00BC"/>
   <outline>
-    <contour>
-      <point x="332" y="490" type="line"/>
-      <point x="466" y="1108" type="line"/>
-      <point x="256" y="1048" type="line"/>
-      <point x="194" y="1248" type="line"/>
-      <point x="750" y="1420" type="line"/>
-      <point x="768" y="1420" type="line"/>
-      <point x="572" y="490" type="line"/>
-    </contour>
-    <contour>
-      <point x="1443" y="0" type="line"/>
-      <point x="1477" y="160" type="line"/>
-      <point x="1043" y="160" type="line"/>
-      <point x="1081" y="340" type="line"/>
-      <point x="1465" y="910" type="line"/>
-      <point x="1731" y="910" type="line"/>
-      <point x="1363" y="366" type="line"/>
-      <point x="1519" y="366" type="line"/>
-      <point x="1555" y="528" type="line"/>
-      <point x="1767" y="528" type="line"/>
-      <point x="1733" y="366" type="line"/>
-      <point x="1851" y="366" type="line"/>
-      <point x="1809" y="160" type="line"/>
-      <point x="1691" y="160" type="line"/>
-      <point x="1657" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="498" y="-40" type="line"/>
-      <point x="324" y="96" type="line"/>
-      <point x="1378" y="1440" type="line"/>
-      <point x="1552" y="1304" type="line"/>
-    </contour>
+    <component base="one.numr"/>
+    <component base="fraction" xOffset="716"/>
+    <component base="four.dnom" xOffset="1103"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

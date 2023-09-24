@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uhorn" format="2">
-  <advance width="1619"/>
+  <advance width="1615"/>
   <unicode hex="01AF"/>
-  <anchor x="931" y="1400" name="top"/>
-  <anchor x="1491" y="1400" name="horn"/>
-  <anchor x="669" y="0" name="bottom"/>
+  <anchor x="629" y="0" name="bottom"/>
+  <anchor x="920" y="0" name="ogonek"/>
+  <anchor x="1038" y="1400" name="top"/>
   <outline>
     <component base="U"/>
-    <component base="horncomb.alt_case" xOffset="1661"/>
+    <component base="horncomb.alt_case" xOffset="1658"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

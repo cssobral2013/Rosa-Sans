@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="omicrontonos" format="2">
-  <advance width="1218"/>
+  <advance width="1222"/>
   <unicode hex="03CC"/>
-  <anchor x="687" y="985" name="top"/>
-  <anchor x="1079" y="985" name="horn"/>
-  <anchor x="530" y="0" name="bottom"/>
+  <anchor x="734" y="984" name="_top"/>
+  <anchor x="489" y="0" name="bottom"/>
+  <anchor x="1125" y="984" name="horn"/>
+  <anchor x="722" y="0" name="ogonek"/>
   <outline>
     <component base="omicron"/>
-    <component base="tonos" xOffset="367"/>
+    <component base="tonos" xOffset="356"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

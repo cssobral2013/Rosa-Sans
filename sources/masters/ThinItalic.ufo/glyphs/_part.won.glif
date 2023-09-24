@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_part.won" format="2">
+  <advance width="1296"/>
+  <anchor x="954" y="1400" name="top"/>
+  <outline>
+    <contour>
+      <point x="305" y="0" type="line"/>
+      <point x="898" y="1215" type="line"/>
+      <point x="680" y="0" type="line"/>
+      <point x="812" y="0" type="line"/>
+      <point x="1523" y="1400" type="line"/>
+      <point x="1401" y="1400" type="line"/>
+      <point x="813" y="218" type="line"/>
+      <point x="1026" y="1400" type="line"/>
+      <point x="884" y="1400" type="line"/>
+      <point x="303" y="206" type="line"/>
+      <point x="506" y="1400" type="line"/>
+      <point x="388" y="1400" type="line"/>
+      <point x="170" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>weight</key>
+    <integer>-22</integer>
+    <key>width</key>
+    <integer>59</integer>
+  </dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

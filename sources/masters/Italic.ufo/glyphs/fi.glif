@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fi" format="2">
-  <advance width="1284"/>
+  <advance width="1276"/>
   <unicode hex="FB01"/>
-  <anchor x="637" y="0" name="caret"/>
-  <anchor x="949" y="0" name="bottom"/>
-  <anchor x="1234" y="1347" name="top"/>
+  <anchor x="634" y="0" name="caret_1"/>
+  <anchor x="857" y="0" name="bottom"/>
+  <anchor x="956" y="0" name="ogonek"/>
+  <anchor x="1302" y="1344" name="top"/>
   <outline>
     <component base="f"/>
-    <component base="i" xOffset="767"/>
+    <component base="i" xOffset="763"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

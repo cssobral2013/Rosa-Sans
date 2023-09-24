@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wdieresis" format="2">
-  <advance width="1569"/>
+  <advance width="1566"/>
   <unicode hex="1E85"/>
-  <anchor x="886" y="983" name="top"/>
-  <anchor x="962" y="1345" name="top.1"/>
+  <anchor x="1059" y="1342" name="top"/>
   <outline>
     <component base="w"/>
-    <component base="dieresiscomb" xOffset="1552" yOffset="-2"/>
+    <component base="dieresiscomb" xOffset="1643" yOffset="-2"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

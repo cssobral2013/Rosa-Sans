@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="jcircumflex.calt" format="2">
   <advance width="452"/>
-  <anchor x="455" y="1444" name="top"/>
+  <anchor x="545" y="1444" name="top"/>
+  <anchor x="745" y="1224" name="top_right"/>
   <outline>
-    <component base="dotlessj.calt" xOffset="25"/>
-    <component base="circumflexcomb.narrow" xOffset="989"/>
+    <component base="jdotless.calt"/>
+    <component base="circumflexcomb.narrow" xOffset="1050"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

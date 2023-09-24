@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tcedilla" format="2">
-  <advance width="854"/>
+  <advance width="851"/>
   <unicode hex="0163"/>
-  <anchor x="658" y="1440" name="Anchor_2"/>
-  <anchor x="422" y="0" name="bottom"/>
-  <anchor x="407" y="524" name="strokeshort"/>
+  <anchor x="410" y="524" name="bar"/>
+  <anchor x="768" y="1440" name="caron"/>
   <outline>
     <component base="t"/>
-    <component base="cedillacomb" xOffset="986"/>
+    <component base="cedillacomb" xOffset="900"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

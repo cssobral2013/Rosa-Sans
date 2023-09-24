@@ -2,10 +2,18 @@
 <glyph name="Atilde" format="2">
   <advance width="1324"/>
   <unicode hex="00C3"/>
-  <anchor x="920" y="1760" name="top"/>
-  <anchor x="548" y="0" name="bottom"/>
+  <anchor x="491" y="0" name="bottom"/>
+  <anchor x="1129" y="0" name="ogonek"/>
+  <anchor x="1072" y="1760" name="top"/>
+  <anchor x="632" y="1400" name="topleft"/>
   <outline>
     <component base="A"/>
-    <component base="tildecomb.case" xOffset="1628" yOffset="2"/>
+    <component base="tildecomb.case" xOffset="1735" yOffset="2"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

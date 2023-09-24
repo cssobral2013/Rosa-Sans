@@ -1,28 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lslash" format="2">
-  <advance width="1126"/>
+  <advance width="1124"/>
   <unicode hex="0141"/>
-  <anchor x="526" y="1400" name="top"/>
-  <anchor x="639" y="1440" name="Anchor_2"/>
-  <anchor x="537" y="0" name="bottom"/>
+  <anchor x="478" y="0" name="bottom"/>
+  <anchor x="752" y="1440" name="caron"/>
+  <anchor x="635" y="1400" name="top"/>
   <outline>
+    <component base="L" yxScale="0.00367187" xOffset="40"/>
     <contour>
-      <point x="82" y="479" type="line"/>
-      <point x="24" y="615" type="line"/>
-      <point x="380" y="766" type="line"/>
-      <point x="376" y="747" type="line"/>
-      <point x="1016" y="1021" type="line"/>
-      <point x="1074" y="885" type="line"/>
-      <point x="339" y="571" type="line"/>
-      <point x="343" y="590" type="line"/>
-    </contour>
-    <contour>
-      <point x="124" y="0" type="line"/>
-      <point x="423" y="1400" type="line"/>
-      <point x="629" y="1400" type="line"/>
-      <point x="370" y="189" type="line"/>
-      <point x="988" y="189" type="line"/>
-      <point x="948" y="0" type="line"/>
+      <point x="356" y="591" type="line"/>
+      <point x="350" y="572" type="line"/>
+      <point x="1125" y="888" type="line"/>
+      <point x="1074" y="1017" type="line"/>
+      <point x="406" y="745" type="line"/>
+      <point x="412" y="764" type="line"/>
+      <point x="37" y="611" type="line"/>
+      <point x="88" y="483" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.89,1,1</string>
+  </dict>
+  </lib>
 </glyph>

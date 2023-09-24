@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="odieresismacron" format="2">
-  <advance width="1184"/>
+  <advance width="1191"/>
   <unicode hex="022B"/>
-  <anchor x="736" y="1284" name="top"/>
-  <anchor x="1056" y="960" name="horn"/>
-  <anchor x="516" y="0" name="bottom"/>
+  <anchor x="477" y="0" name="bottom"/>
+  <anchor x="1102" y="960" name="horn"/>
+  <anchor x="693" y="0" name="ogonek"/>
   <outline>
     <component base="o"/>
-    <component base="dieresiscomb" xOffset="1316"/>
-    <component base="macroncomb" xOffset="1218" yOffset="324"/>
+    <component base="dieresiscomb" xOffset="1397"/>
+    <component base="macroncomb" xOffset="1244" yOffset="324"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

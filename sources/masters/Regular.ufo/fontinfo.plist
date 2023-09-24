@@ -7,11 +7,12 @@
   <key>capHeight</key>
   <integer>1400</integer>
   <key>copyright</key>
-  <string>Copyright 2020 The Geologisk Project Authors (https://github.com/monokromskriftforlag/geologisk)</string>
+  <string>Copyright 2020 The Geologica Project Authors (https://github.com/googlefonts/geologica)
+Copyright 2021-2023 The Rosa Sans Project Authors (https://github.com/cssobral2013/rosa-sans)</string>
   <key>descender</key>
   <integer>-624</integer>
   <key>familyName</key>
-  <string>Rosa Sans</string>
+  <string>Rosa Sans VF</string>
   <key>guidelines</key>
   <array>
   <dict>
@@ -74,21 +75,32 @@
   <key>openTypeHheaLineGap</key>
   <integer>244</integer>
   <key>openTypeNameDesigner</key>
-  <string>Sindre Bremnes, Frode Helland (font), Cristiano Sobral (main changes)</string>
+  <string>Sindre Bremnes, Frode Helland, Cristiano Sobral</string>
   <key>openTypeNameLicense</key>
   <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
   <key>openTypeNameLicenseURL</key>
   <string>http://scripts.sil.org/OFL</string>
   <key>openTypeNameManufacturer</key>
-  <string>Monokrom Skriftforlag AS (font), Cristiano Sobral (main changes)</string>
+  <string>Monokrom, Sindre Bremnes, Frode Helland, Cristiano Sobral</string>
   <key>openTypeNameManufacturerURL</key>
   <string>https://monokrom.no/</string>
   <key>openTypeNamePreferredFamilyName</key>
-  <string>Rosa Sans</string>
+  <string>Rosa Sans VF</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameVersion</key>
-  <string>Version 2.013</string>
+  <string>Version 3.000</string>
+  <key>openTypeOS2CodePageRanges</key>
+  <array>
+    <integer>0</integer>
+    <integer>1</integer>
+    <integer>2</integer>
+    <integer>3</integer>
+    <integer>4</integer>
+    <integer>7</integer>
+    <integer>8</integer>
+    <integer>29</integer>
+  </array>
   <key>openTypeOS2Panose</key>
   <array>
     <integer>0</integer>
@@ -134,6 +146,20 @@
   <integer>-624</integer>
   <key>openTypeOS2TypoLineGap</key>
   <integer>244</integer>
+  <key>openTypeOS2UnicodeRanges</key>
+  <array>
+    <integer>0</integer>
+    <integer>1</integer>
+    <integer>2</integer>
+    <integer>3</integer>
+    <integer>5</integer>
+    <integer>6</integer>
+    <integer>7</integer>
+    <integer>9</integer>
+    <integer>29</integer>
+    <integer>31</integer>
+    <integer>33</integer>
+  </array>
   <key>openTypeOS2VendorID</key>
   <string>MNKR</string>
   <key>openTypeOS2WeightClass</key>
@@ -156,11 +182,11 @@
     <integer>0</integer>
   </array>
   <key>postscriptFontName</key>
-  <string>RosaSans-Regular</string>
+  <string>RosaSansVF-Regular</string>
   <key>postscriptForceBold</key>
   <false/>
   <key>postscriptFullName</key>
-  <string>Rosa Sans Regular</string>
+  <string>Rosa Sans VF Regular</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
   <key>postscriptUnderlinePosition</key>
@@ -170,7 +196,7 @@
   <key>postscriptWeightName</key>
   <string>Regular</string>
   <key>styleMapFamilyName</key>
-  <string>Rosa Sans</string>
+  <string>Rosa Sans VF</string>
   <key>styleMapStyleName</key>
   <string>regular</string>
   <key>styleName</key>
@@ -178,9 +204,9 @@
   <key>unitsPerEm</key>
   <integer>2000</integer>
   <key>versionMajor</key>
-  <integer>2</integer>
+  <integer>3</integer>
   <key>versionMinor</key>
-  <integer>13</integer>
+  <integer>0</integer>
   <key>xHeight</key>
   <integer>985</integer>
 </dict>

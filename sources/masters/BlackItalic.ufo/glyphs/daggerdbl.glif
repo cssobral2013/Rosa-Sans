@@ -1,29 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="daggerdbl" format="2">
-  <advance width="1352"/>
+  <advance width="1355"/>
   <unicode hex="2021"/>
   <outline>
     <contour>
-      <point x="344" y="-118" type="line"/>
-      <point x="420" y="244" type="line"/>
-      <point x="8" y="244" type="line"/>
-      <point x="78" y="568" type="line"/>
-      <point x="490" y="568" type="line"/>
-      <point x="562" y="914" type="line"/>
-      <point x="150" y="914" type="line"/>
-      <point x="220" y="1238" type="line"/>
-      <point x="632" y="1238" type="line"/>
-      <point x="708" y="1600" type="line"/>
-      <point x="1102" y="1600" type="line"/>
-      <point x="1026" y="1238" type="line"/>
-      <point x="1438" y="1238" type="line"/>
-      <point x="1368" y="914" type="line"/>
-      <point x="956" y="914" type="line"/>
-      <point x="884" y="568" type="line"/>
-      <point x="1296" y="568" type="line"/>
-      <point x="1226" y="244" type="line"/>
-      <point x="814" y="244" type="line"/>
-      <point x="738" y="-118" type="line"/>
+      <point x="664" y="-118" type="line"/>
+      <point x="783" y="244" type="line"/>
+      <point x="1195" y="244" type="line"/>
+      <point x="1304" y="568" type="line"/>
+      <point x="892" y="568" type="line"/>
+      <point x="1004" y="914" type="line"/>
+      <point x="1416" y="914" type="line"/>
+      <point x="1526" y="1238" type="line"/>
+      <point x="1114" y="1238" type="line"/>
+      <point x="1233" y="1600" type="line"/>
+      <point x="839" y="1600" type="line"/>
+      <point x="720" y="1238" type="line"/>
+      <point x="308" y="1238" type="line"/>
+      <point x="198" y="914" type="line"/>
+      <point x="610" y="914" type="line"/>
+      <point x="498" y="568" type="line"/>
+      <point x="86" y="568" type="line"/>
+      <point x="-24" y="244" type="line"/>
+      <point x="389" y="244" type="line"/>
+      <point x="270" y="-118" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

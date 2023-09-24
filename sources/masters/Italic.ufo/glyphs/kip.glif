@@ -1,27 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kip" format="2">
-  <advance width="1298"/>
+  <advance width="1296"/>
   <unicode hex="20AD"/>
+  <anchor x="950" y="1401" name="_top"/>
   <outline>
-    <contour>
-      <point x="923" y="1" type="line"/>
-      <point x="613" y="686" type="line"/>
-      <point x="1183" y="1401" type="line"/>
-      <point x="1399" y="1401" type="line"/>
-      <point x="820" y="674" type="line"/>
-      <point x="1136" y="1" type="line"/>
-    </contour>
-    <contour>
-      <point x="177" y="1" type="line"/>
-      <point x="473" y="1401" type="line"/>
-      <point x="662" y="1401" type="line"/>
-      <point x="366" y="1" type="line"/>
-    </contour>
-    <contour>
-      <point x="70" y="614" type="line"/>
-      <point x="100" y="761" type="line"/>
-      <point x="1308" y="761" type="line"/>
-      <point x="1278" y="614" type="line"/>
-    </contour>
+    <component base="_part.kip" yOffset="1"/>
+    <component base="_part.currencyBarHorizontalSingle" xOffset="-1" yOffset="1"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

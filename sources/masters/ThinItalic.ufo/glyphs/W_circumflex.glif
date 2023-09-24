@@ -2,9 +2,16 @@
 <glyph name="Wcircumflex" format="2">
   <advance width="2000"/>
   <unicode hex="0174"/>
-  <anchor x="1292" y="1850" name="top"/>
+  <anchor x="1455" y="1850" name="top"/>
+  <anchor x="1704" y="1648" name="top_right"/>
   <outline>
     <component base="W"/>
-    <component base="circumflexcomb.case" xOffset="1980" yOffset="2"/>
+    <component base="circumflexcomb.case" xOffset="2087" yOffset="2"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

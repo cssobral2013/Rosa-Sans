@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fl" format="2">
-  <advance width="1601"/>
+  <advance width="1615"/>
   <unicode hex="FB02"/>
-  <anchor x="759" y="0" name="caret"/>
+  <anchor x="758" y="0" name="caret_1"/>
+  <anchor x="1031" y="0" name="bottom"/>
+  <anchor x="1712" y="1440" name="caron"/>
+  <anchor x="1512" y="1440" name="top"/>
   <outline>
     <component base="f"/>
-    <component base="l" xOffset="884"/>
+    <component base="l" xOffset="858"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>l</string>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

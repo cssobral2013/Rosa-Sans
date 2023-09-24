@@ -1,39 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ringcomb.case" format="2">
-  <anchor x="-911" y="1400" name="top"/>
-  <anchor x="-796" y="1941" name="top.1"/>
+  <anchor x="-952" y="1400" name="_top"/>
+  <anchor x="-774" y="1938" name="top"/>
   <outline>
     <contour>
-      <point x="-865" y="1466" type="qcurve" smooth="yes"/>
-      <point x="-942" y="1466"/>
-      <point x="-1065" y="1533"/>
-      <point x="-1137" y="1647"/>
-      <point x="-1137" y="1719" type="qcurve" smooth="yes"/>
-      <point x="-1137" y="1807"/>
-      <point x="-1043" y="1946"/>
-      <point x="-893" y="2028"/>
-      <point x="-808" y="2028" type="qcurve" smooth="yes"/>
-      <point x="-731" y="2028"/>
-      <point x="-608" y="1960"/>
-      <point x="-537" y="1846"/>
-      <point x="-537" y="1775" type="qcurve" smooth="yes"/>
-      <point x="-537" y="1687"/>
-      <point x="-629" y="1548"/>
-      <point x="-780" y="1466"/>
+      <point x="-882" y="1466" type="curve" smooth="yes"/>
+      <point x="-706" y="1466"/>
+      <point x="-536" y="1605"/>
+      <point x="-536" y="1789" type="curve" smooth="yes"/>
+      <point x="-536" y="1922"/>
+      <point x="-642" y="2027"/>
+      <point x="-792" y="2027" type="curve" smooth="yes"/>
+      <point x="-966" y="2027"/>
+      <point x="-1138" y="1887"/>
+      <point x="-1138" y="1703" type="curve" smooth="yes"/>
+      <point x="-1138" y="1568"/>
+      <point x="-1030" y="1466"/>
     </contour>
     <contour>
-      <point x="-852" y="1595" type="qcurve" smooth="yes"/>
-      <point x="-780" y="1595"/>
-      <point x="-677" y="1692"/>
-      <point x="-677" y="1766" type="qcurve" smooth="yes"/>
-      <point x="-677" y="1824"/>
-      <point x="-756" y="1899"/>
-      <point x="-821" y="1899" type="qcurve" smooth="yes"/>
-      <point x="-893" y="1899"/>
-      <point x="-996" y="1804"/>
-      <point x="-996" y="1730" type="qcurve" smooth="yes"/>
-      <point x="-996" y="1671"/>
-      <point x="-916" y="1595"/>
+      <point x="-861" y="1594" type="curve" smooth="yes"/>
+      <point x="-945" y="1594"/>
+      <point x="-998" y="1646"/>
+      <point x="-998" y="1719" type="curve" smooth="yes"/>
+      <point x="-998" y="1825"/>
+      <point x="-912" y="1899"/>
+      <point x="-813" y="1899" type="curve" smooth="yes"/>
+      <point x="-729" y="1899"/>
+      <point x="-675" y="1847"/>
+      <point x="-675" y="1776" type="curve" smooth="yes"/>
+      <point x="-675" y="1671"/>
+      <point x="-761" y="1594"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

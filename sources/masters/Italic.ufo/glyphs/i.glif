@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i" format="2">
-  <advance width="517"/>
+  <advance width="513"/>
   <unicode hex="0069"/>
-  <anchor x="391" y="985" name="top"/>
-  <anchor x="182" y="0" name="bottom"/>
-  <anchor x="467" y="1347" name="top.1"/>
+  <anchor x="94" y="0" name="bottom"/>
+  <anchor x="193" y="0" name="ogonek"/>
+  <anchor x="539" y="1344" name="top"/>
   <outline>
-    <component base="dotlessi" xOffset="28"/>
-    <component base="dotaccentcomb" xOffset="887"/>
+    <component base="idotless"/>
+    <component base="dotaccentcomb" xOffset="855"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

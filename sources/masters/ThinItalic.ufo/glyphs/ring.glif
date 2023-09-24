@@ -2,7 +2,15 @@
 <glyph name="ring" format="2">
   <advance width="1000"/>
   <unicode hex="02DA"/>
+  <anchor x="415" y="960" name="_top"/>
+  <anchor x="584" y="1464" name="top"/>
   <outline>
     <component base="ringcomb" xOffset="1126"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

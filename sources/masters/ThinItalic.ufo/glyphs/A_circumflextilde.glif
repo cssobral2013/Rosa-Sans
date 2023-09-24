@@ -2,11 +2,20 @@
 <glyph name="Acircumflextilde" format="2">
   <advance width="1324"/>
   <unicode hex="1EAA"/>
-  <anchor x="1016" y="2210" name="top"/>
-  <anchor x="548" y="0" name="bottom"/>
+  <anchor x="491" y="0" name="bottom"/>
+  <anchor x="1129" y="0" name="ogonek"/>
+  <anchor x="1222" y="2210" name="top"/>
+  <anchor x="1352" y="1648" name="top_right"/>
+  <anchor x="632" y="1400" name="topleft"/>
   <outline>
     <component base="A"/>
-    <component base="circumflexcomb.case" xOffset="1628" yOffset="2"/>
-    <component base="tildecomb.case" xOffset="1724" yOffset="452"/>
+    <component base="circumflexcomb.case" xOffset="1735" yOffset="2"/>
+    <component base="tildecomb.case" xOffset="1885" yOffset="452"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

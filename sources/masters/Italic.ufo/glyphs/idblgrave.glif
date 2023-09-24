@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="idblgrave" format="2">
-  <advance width="517"/>
+  <advance width="513"/>
   <unicode hex="0209"/>
-  <anchor x="538" y="985" name="top"/>
-  <anchor x="329" y="0" name="bottom"/>
+  <anchor x="94" y="0" name="bottom"/>
+  <anchor x="193" y="0" name="ogonek"/>
   <outline>
-    <component base="dotlessi" xOffset="175"/>
-    <component base="dblgravecomb.narrow" xOffset="1167"/>
+    <component base="idotless"/>
+    <component base="dblgravecomb.narrow" xOffset="1064"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

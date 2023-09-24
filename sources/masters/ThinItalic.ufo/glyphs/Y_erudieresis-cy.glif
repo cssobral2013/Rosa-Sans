@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yerudieresis-cy" format="2">
+  <advance width="1659"/>
+  <unicode hex="04F8"/>
+  <anchor x="674" y="0" name="bottom"/>
+  <anchor x="1233" y="1706" name="top"/>
+  <outline>
+    <component base="Yeru-cy"/>
+    <component base="dieresiscomb.case" xOffset="1886" yOffset="2"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

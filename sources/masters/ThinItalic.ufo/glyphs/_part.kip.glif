@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_part.kip" format="2">
+  <advance width="1296"/>
+  <outline>
+    <contour>
+      <point x="1074" y="0" type="line"/>
+      <point x="756" y="673" type="line"/>
+      <point x="1493" y="1400" type="line"/>
+      <point x="1358" y="1400" type="line"/>
+      <point x="626" y="683" type="line"/>
+      <point x="945" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="272" y="0" type="line"/>
+      <point x="734" y="1400" type="line"/>
+      <point x="622" y="1400" type="line"/>
+      <point x="160" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>weight</key>
+    <integer>-22</integer>
+  </dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

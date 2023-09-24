@@ -1,43 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eth" format="2">
-  <advance width="1449"/>
+  <advance width="1456"/>
   <unicode hex="00D0"/>
-  <anchor x="912" y="1400" name="top"/>
-  <anchor x="532" y="742" name="strokeshort"/>
+  <anchor x="564" y="742" name="bar"/>
+  <anchor x="1022" y="1400" name="top"/>
   <outline>
+    <component base="D" xOffset="40"/>
     <contour>
-      <point x="112" y="698" type="line"/>
-      <point x="130" y="786" type="line"/>
-      <point x="954" y="786" type="line"/>
-      <point x="936" y="698" type="line"/>
-    </contour>
-    <contour>
-      <point x="140" y="0" type="line"/>
-      <point x="436" y="1400" type="line"/>
-      <point x="680" y="1400" type="line"/>
-      <point x="881" y="1400"/>
-      <point x="1199" y="1261"/>
-      <point x="1382" y="991"/>
-      <point x="1382" y="794" type="qcurve"/>
-      <point x="1382" y="614"/>
-      <point x="1264" y="322"/>
-      <point x="1046" y="112"/>
-      <point x="744" y="0"/>
-      <point x="560" y="0" type="qcurve"/>
-    </contour>
-    <contour>
-      <point x="278" y="108" type="line"/>
-      <point x="598" y="108" type="line"/>
-      <point x="745" y="108"/>
-      <point x="988" y="211"/>
-      <point x="1166" y="393"/>
-      <point x="1262" y="637"/>
-      <point x="1262" y="778" type="qcurve"/>
-      <point x="1262" y="932"/>
-      <point x="1126" y="1163"/>
-      <point x="873" y="1292"/>
-      <point x="698" y="1292" type="qcurve"/>
-      <point x="530" y="1292" type="line"/>
+      <point x="963" y="698" type="line"/>
+      <point x="991" y="786" type="line"/>
+      <point x="167" y="786" type="line"/>
+      <point x="139" y="698" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

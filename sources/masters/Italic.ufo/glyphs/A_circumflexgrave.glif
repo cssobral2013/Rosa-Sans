@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Acircumflexgrave" format="2">
-  <advance width="1380"/>
+  <advance width="1376"/>
   <unicode hex="1EA6"/>
-  <anchor x="1307" y="1675" name="top"/>
-  <anchor x="579" y="0" name="bottom"/>
-  <anchor x="968" y="1836" name="top.1"/>
+  <anchor x="520" y="0" name="bottom"/>
+  <anchor x="1178" y="0" name="ogonek"/>
+  <anchor x="1443" y="1674" name="top_right"/>
+  <anchor x="611" y="1400" name="topleft"/>
   <outline>
     <component base="A"/>
-    <component base="circumflexcomb.case" xOffset="1674" yOffset="1"/>
-    <component base="gravecomb.case" xOffset="2106" yOffset="276"/>
+    <component base="circumflexcomb.case" xOffset="1778" yOffset="1"/>
+    <component base="gravecomb.case" xOffset="2239" yOffset="275"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

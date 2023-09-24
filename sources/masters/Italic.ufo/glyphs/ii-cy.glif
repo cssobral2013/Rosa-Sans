@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ii-cy" format="2">
+  <advance width="1236"/>
+  <unicode hex="0438"/>
+  <anchor x="457" y="0" name="bottom"/>
+  <anchor x="783" y="984" name="top"/>
+  <outline>
+    <contour>
+      <point x="165" y="0" type="line"/>
+      <point x="943" y="672" type="line"/>
+      <point x="724" y="0" type="line"/>
+      <point x="916" y="0" type="line"/>
+      <point x="1238" y="984" type="line"/>
+      <point x="1066" y="984" type="line"/>
+      <point x="296" y="334" type="line"/>
+      <point x="513" y="984" type="line"/>
+      <point x="320" y="984" type="line"/>
+      <point x="-1" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>adjustSpace</key>
+    <integer>10</integer>
+    <key>height</key>
+    <real>74.3</real>
+    <key>weight</key>
+    <integer>-22</integer>
+    <key>width</key>
+    <integer>78</integer>
+  </dict>
+  <key>public.markColor</key>
+  <string>0.6,0.89,1,1</string>
+  </dict>
+  </lib>
+</glyph>

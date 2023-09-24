@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kadescender-cy" format="2">
+  <advance width="1143"/>
+  <unicode hex="049B"/>
+  <anchor x="684" y="984" name="top"/>
+  <outline>
+    <component base="ka-cy"/>
+    <component base="_part.cy-desc-lc-stem" xOffset="-332"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,27 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="naira" format="2">
-  <advance width="1298"/>
+  <advance width="1296"/>
   <unicode hex="20A6"/>
-  <anchor x="841" y="1400" name="top"/>
-  <anchor x="545" y="0" name="bottom"/>
+  <anchor x="486" y="0" name="bottom"/>
   <outline>
-    <contour>
-      <point x="75" y="0" type="line"/>
-      <point x="371" y="1400" type="line"/>
-      <point x="552" y="1400" type="line"/>
-      <point x="900" y="335" type="line"/>
-      <point x="1126" y="1400" type="line"/>
-      <point x="1311" y="1400" type="line"/>
-      <point x="1015" y="0" type="line"/>
-      <point x="837" y="0" type="line"/>
-      <point x="490" y="1080" type="line"/>
-      <point x="261" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="70" y="614" type="line"/>
-      <point x="100" y="761" type="line"/>
-      <point x="1308" y="761" type="line"/>
-      <point x="1278" y="614" type="line"/>
-    </contour>
+    <component base="_part.naira"/>
+    <component base="_part.currencyBarHorizontalSingle" xOffset="-2"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

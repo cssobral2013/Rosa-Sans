@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nacute" format="2">
-  <advance width="1155"/>
+  <advance width="1156"/>
   <unicode hex="0144"/>
-  <anchor x="694" y="960" name="top"/>
-  <anchor x="480" y="0" name="bottom"/>
+  <anchor x="423" y="0" name="bottom"/>
   <outline>
     <component base="n"/>
-    <component base="acutecomb" xOffset="1360"/>
+    <component base="acutecomb" xOffset="1462"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

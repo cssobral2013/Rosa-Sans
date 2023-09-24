@@ -2,10 +2,16 @@
 <glyph name="idblgrave" format="2">
   <advance width="452"/>
   <unicode hex="0209"/>
-  <anchor x="582" y="960" name="top"/>
-  <anchor x="378" y="0" name="bottom"/>
+  <anchor x="67" y="0" name="bottom"/>
+  <anchor x="123" y="0" name="ogonek"/>
   <outline>
-    <component base="dotlessi" xOffset="254"/>
-    <component base="dblgravecomb.narrow" xOffset="1200"/>
+    <component base="idotless"/>
+    <component base="dblgravecomb.narrow" xOffset="1021"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

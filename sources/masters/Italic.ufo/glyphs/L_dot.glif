@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ldot" format="2">
-  <advance width="1086"/>
+  <advance width="1084"/>
   <unicode hex="013F"/>
-  <anchor x="483" y="1400" name="top"/>
-  <anchor x="596" y="1440" name="Anchor_2"/>
-  <anchor x="497" y="0" name="bottom"/>
+  <anchor x="438" y="0" name="bottom"/>
+  <anchor x="706" y="1440" name="caron"/>
+  <anchor x="590" y="1400" name="top"/>
   <outline>
     <component base="L"/>
-    <component base="periodcentered.loclCAT.case" xOffset="1150"/>
+    <component base="periodcentered.loclCAT.case" xOffset="1149"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Abrevetilde" format="2">
-  <advance width="1380"/>
+  <advance width="1376"/>
   <unicode hex="1EB4"/>
-  <anchor x="964" y="1814" name="top"/>
-  <anchor x="579" y="0" name="bottom"/>
-  <anchor x="1043" y="2187" name="top.1"/>
+  <anchor x="520" y="0" name="bottom"/>
+  <anchor x="1178" y="0" name="ogonek"/>
+  <anchor x="1244" y="2187" name="top"/>
+  <anchor x="611" y="1400" name="topleft"/>
   <outline>
     <component base="A"/>
-    <component base="brevecomb.case" xOffset="1673" yOffset="1"/>
-    <component base="tildecomb.case" xOffset="1763" yOffset="415"/>
+    <component base="brevecomb.case" xOffset="1777" yOffset="1"/>
+    <component base="tildecomb.case" xOffset="1918" yOffset="415"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

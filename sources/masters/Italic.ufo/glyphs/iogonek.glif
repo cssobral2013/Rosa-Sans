@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iogonek" format="2">
-  <advance width="517"/>
+  <advance width="513"/>
   <unicode hex="012F"/>
-  <anchor x="467" y="1347" name="top"/>
-  <anchor x="182" y="0" name="bottom"/>
+  <anchor x="94" y="0" name="bottom"/>
+  <anchor x="539" y="1344" name="top"/>
   <outline>
-    <component base="ogonekcomb" xOffset="723"/>
-    <component base="i"/>
+    <component base="idotless"/>
+    <component base="dotaccentcomb" xOffset="855"/>
+    <component base="ogonekcomb" xOffset="621"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.recipe</key>
-  <string>i+ogonekcomb</string>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
   </dict>
   </lib>
 </glyph>

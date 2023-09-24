@@ -2,7 +2,15 @@
 <glyph name="dotaccent" format="2">
   <advance width="1000"/>
   <unicode hex="02D9"/>
+  <anchor x="715" y="1040" name="_top"/>
+  <anchor x="862" y="1484" name="top"/>
   <outline>
     <component base="dotaccentcomb" xOffset="1178"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

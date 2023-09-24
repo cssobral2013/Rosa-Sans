@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oacute" format="2">
-  <advance width="1218"/>
+  <advance width="1222"/>
   <unicode hex="00F3"/>
-  <anchor x="687" y="985" name="top"/>
-  <anchor x="1079" y="985" name="horn"/>
-  <anchor x="530" y="0" name="bottom"/>
+  <anchor x="489" y="0" name="bottom"/>
+  <anchor x="1125" y="984" name="horn"/>
+  <anchor x="722" y="0" name="ogonek"/>
   <outline>
     <component base="o"/>
-    <component base="acutecomb" xOffset="1366"/>
+    <component base="acutecomb" xOffset="1454"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

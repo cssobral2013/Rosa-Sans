@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guilsinglright" format="2">
-  <advance width="573"/>
+  <advance width="571"/>
   <unicode hex="203A"/>
   <outline>
-    <component base="guilsinglleft" xScale="-1" yScale="-1" xOffset="581" yOffset="996"/>
+    <contour>
+      <point x="518" y="498" type="line"/>
+      <point x="294" y="886" type="line"/>
+      <point x="214" y="838" type="line"/>
+      <point x="397" y="507" type="line"/>
+      <point x="6" y="172" type="line"/>
+      <point x="58" y="110" type="line"/>
+    </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

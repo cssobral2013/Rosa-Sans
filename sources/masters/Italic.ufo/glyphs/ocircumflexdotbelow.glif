@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ocircumflexdotbelow" format="2">
-  <advance width="1218"/>
+  <advance width="1222"/>
   <unicode hex="1ED9"/>
-  <anchor x="687" y="985" name="top"/>
-  <anchor x="1079" y="985" name="horn"/>
-  <anchor x="530" y="0" name="bottom"/>
-  <anchor x="787" y="1457" name="top.1"/>
+  <anchor x="1125" y="984" name="horn"/>
+  <anchor x="722" y="0" name="ogonek"/>
+  <anchor x="889" y="1456" name="top"/>
+  <anchor x="1189" y="1272" name="top_right"/>
   <outline>
     <component base="o"/>
-    <component base="dotbelowcomb" xOffset="1055"/>
-    <component base="circumflexcomb" xOffset="1366"/>
+    <component base="dotbelowcomb" xOffset="968"/>
+    <component base="circumflexcomb" xOffset="1454"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>
