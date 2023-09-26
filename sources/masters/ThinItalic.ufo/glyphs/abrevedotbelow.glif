@@ -2,7 +2,7 @@
 <glyph name="abrevedotbelow" format="2">
   <advance width="1059"/>
   <unicode hex="1EB7"/>
-  <anchor x="770" y="-0" name="ogonek"/>
+  <anchor x="770" y="0" name="ogonek"/>
   <anchor x="751" y="1404" name="top"/>
   <outline>
     <component base="a"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acircumflexdotbelow.ss01" format="2">
   <advance width="1263"/>
-  <anchor x="964" y="-0" name="ogonek"/>
+  <anchor x="964" y="0" name="ogonek"/>
   <anchor x="830" y="1444" name="top"/>
   <anchor x="1080" y="1224" name="top_right"/>
   <outline>

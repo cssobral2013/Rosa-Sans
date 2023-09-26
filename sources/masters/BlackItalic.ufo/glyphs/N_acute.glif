@@ -2,7 +2,7 @@
 <glyph name="Nacute" format="2">
   <advance width="1595"/>
   <unicode hex="0143"/>
-  <anchor x="658" y="-0" name="bottom"/>
+  <anchor x="658" y="0" name="bottom"/>
   <outline>
     <component base="N"/>
     <component base="acutecomb.case" xOffset="1862"/>

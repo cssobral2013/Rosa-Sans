@@ -2,8 +2,8 @@
 <glyph name="fl" format="2">
   <advance width="1287"/>
   <unicode hex="FB02"/>
-  <anchor x="583" y="-0" name="caret_1"/>
-  <anchor x="811" y="-0" name="bottom"/>
+  <anchor x="583" y="0" name="caret_1"/>
+  <anchor x="811" y="0" name="bottom"/>
   <anchor x="1257" y="1440" name="caron"/>
   <anchor x="1201" y="1440" name="top"/>
   <outline>

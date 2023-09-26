@@ -3,8 +3,8 @@
   <advance width="1219"/>
   <unicode hex="0388"/>
   <anchor x="340" y="1400" name="_topleft"/>
-  <anchor x="492" y="-0" name="bottom"/>
-  <anchor x="951" y="-0" name="ogonek"/>
+  <anchor x="492" y="0" name="bottom"/>
+  <anchor x="951" y="0" name="ogonek"/>
   <anchor x="867" y="1400" name="top"/>
   <outline>
     <component base="Epsilon"/>

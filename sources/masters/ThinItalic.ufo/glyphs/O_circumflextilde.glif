@@ -2,9 +2,9 @@
 <glyph name="Ocircumflextilde" format="2">
   <advance width="1701"/>
   <unicode hex="1ED6"/>
-  <anchor x="768" y="-0" name="bottom"/>
+  <anchor x="768" y="0" name="bottom"/>
   <anchor x="1454" y="1400" name="horn"/>
-  <anchor x="980" y="-0" name="ogonek"/>
+  <anchor x="980" y="0" name="ogonek"/>
   <anchor x="1270" y="2210" name="top"/>
   <anchor x="1436" y="1648" name="top_right"/>
   <anchor x="399" y="1400" name="topleft"/>

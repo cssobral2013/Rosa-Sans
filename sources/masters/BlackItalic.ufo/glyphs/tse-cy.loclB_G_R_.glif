@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tse-cy.loclBGR" format="2">
   <advance width="1503"/>
-  <anchor x="514" y="-0" name="bottom"/>
+  <anchor x="514" y="0" name="bottom"/>
   <anchor x="1337" y="1040" name="horn"/>
-  <anchor x="1056" y="-0" name="ogonek"/>
+  <anchor x="1056" y="0" name="ogonek"/>
   <anchor x="807" y="1040" name="top"/>
   <outline>
     <component base="u"/>

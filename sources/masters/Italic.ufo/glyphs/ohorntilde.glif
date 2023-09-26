@@ -4,8 +4,8 @@
   <unicode hex="1EE1"/>
   <anchor x="708" y="984" name="_top"/>
   <anchor x="816" y="1380" name="top"/>
-  <anchor x="510" y="-0" name="bottom"/>
-  <anchor x="743" y="-0" name="ogonek"/>
+  <anchor x="510" y="0" name="bottom"/>
+  <anchor x="743" y="0" name="ogonek"/>
   <outline>
     <component base="ohorn"/>
     <component base="tildecomb" xOffset="1407"/>

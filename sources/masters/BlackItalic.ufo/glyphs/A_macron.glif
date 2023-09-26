@@ -2,8 +2,8 @@
 <glyph name="Amacron" format="2">
   <advance width="1497"/>
   <unicode hex="0100"/>
-  <anchor x="618" y="-0" name="bottom"/>
-  <anchor x="1319" y="-0" name="ogonek"/>
+  <anchor x="618" y="0" name="bottom"/>
+  <anchor x="1319" y="0" name="ogonek"/>
   <anchor x="505" y="1400" name="topleft"/>
   <outline>
     <component base="A"/>

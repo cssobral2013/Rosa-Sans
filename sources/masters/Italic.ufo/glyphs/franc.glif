@@ -3,7 +3,7 @@
   <advance width="1296"/>
   <unicode hex="20A3"/>
   <outline>
-    <component base="_part.franc" yxScale="0.00370828" yScale="1" xOffset="179"/>
+    <component base="_part.franc" yxScale="0.00370828" xOffset="179"/>
     <contour>
       <point x="674" y="223" type="line"/>
       <point x="714" y="368" type="line"/>

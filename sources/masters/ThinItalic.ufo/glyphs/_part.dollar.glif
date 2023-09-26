@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="_part.dollar" format="2">
   <advance width="1296"/>
-  <anchor x="560" y="-0" name="bottom"/>
+  <anchor x="560" y="0" name="bottom"/>
   <anchor x="886" y="1400" name="top"/>
   <outline>
     <contour>

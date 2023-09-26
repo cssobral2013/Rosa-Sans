@@ -2,8 +2,8 @@
 <glyph name="Ibreve" format="2">
   <advance width="578"/>
   <unicode hex="012C"/>
-  <anchor x="157" y="-0" name="bottom"/>
-  <anchor x="258" y="-0" name="ogonek"/>
+  <anchor x="157" y="0" name="bottom"/>
+  <anchor x="258" y="0" name="ogonek"/>
   <anchor x="653" y="1844" name="top"/>
   <anchor x="340" y="1400" name="topleft"/>
   <outline>

@@ -2,10 +2,10 @@
 <glyph name="u" format="2">
   <advance width="1323"/>
   <unicode hex="0075"/>
-  <anchor x="514" y="-0" name="bottom"/>
-  <anchor x="1056" y="-0" name="descender"/>
+  <anchor x="514" y="0" name="bottom"/>
+  <anchor x="1056" y="0" name="descender"/>
   <anchor x="1337" y="1040" name="horn"/>
-  <anchor x="1056" y="-0" name="ogonek"/>
+  <anchor x="1056" y="0" name="ogonek"/>
   <anchor x="807" y="1040" name="top"/>
   <outline>
     <contour>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hyphenminus" format="2">
   <advance width="800"/>
-  <unicode hex="002D"/>
   <outline>
     <contour>
       <point x="90" y="392" type="line"/>

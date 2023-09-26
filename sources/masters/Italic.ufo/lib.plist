@@ -5,15 +5,15 @@
   <key>com.typemytype.robofont.italicSlantOffset</key>
   <real>-132</real>
   <key>GSCornerRadius</key>
-  <integer>15</integer>
+  <real>15</real>
   <key>GSOffsetHorizontal</key>
-  <integer>-30</integer>
+  <real>-30</real>
   <key>GSOffsetProportional</key>
-  <integer>1</integer>
+  <real>1</real>
   <key>GSOffsetVertical</key>
-  <integer>-22</integer>
+  <real>-22</real>
   <key>com.schriftgestaltung.fontMaster.Master Icon Glyph Name</key>
-  <string>E</string>
+  <real>0</real>
   <key>public.glyphOrder</key>
   <array>
     <string>A</string>

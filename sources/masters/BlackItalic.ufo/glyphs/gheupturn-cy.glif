@@ -3,7 +3,7 @@
   <advance width="899"/>
   <unicode hex="0491"/>
   <anchor x="335" y="462" name="bar"/>
-  <anchor x="391" y="-0" name="descender"/>
+  <anchor x="391" y="0" name="descender"/>
   <anchor x="643" y="1040" name="top"/>
   <outline>
     <component base="ge-cy"/>

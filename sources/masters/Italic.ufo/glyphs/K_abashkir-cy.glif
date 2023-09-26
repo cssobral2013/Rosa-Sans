@@ -2,7 +2,7 @@
 <glyph name="Kabashkir-cy" format="2">
   <advance width="1648"/>
   <unicode hex="04A0"/>
-  <anchor x="1349" y="-0" name="descender"/>
+  <anchor x="1349" y="0" name="descender"/>
   <anchor x="1155" y="1400" name="top"/>
   <outline>
     <component base="Ka-cy" xOffset="269"/>

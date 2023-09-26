@@ -2,7 +2,7 @@
 <glyph name="Tbar" format="2">
   <advance width="1223"/>
   <unicode hex="0166"/>
-  <anchor x="472" y="-0" name="bottom"/>
+  <anchor x="472" y="0" name="bottom"/>
   <anchor x="847" y="1400" name="top"/>
   <outline>
     <component base="T" xOffset="20"/>

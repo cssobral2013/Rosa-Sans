@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="_part.Tse-cy" format="2">
   <advance width="1488"/>
-  <anchor x="610" y="-0" name="bottom"/>
-  <anchor x="1170" y="-0" name="descender"/>
+  <anchor x="610" y="0" name="bottom"/>
+  <anchor x="1170" y="0" name="descender"/>
   <outline>
     <contour>
       <point x="1170" y="0" type="line"/>

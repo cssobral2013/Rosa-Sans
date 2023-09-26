@@ -2,7 +2,7 @@
 <glyph name="_part.T_M" format="2">
   <advance width="2873"/>
   <anchor x="608" y="722" name="bar"/>
-  <anchor x="415" y="-0" name="bottom"/>
+  <anchor x="415" y="0" name="bottom"/>
   <anchor x="790" y="1400" name="top"/>
   <outline>
     <component base="T"/>

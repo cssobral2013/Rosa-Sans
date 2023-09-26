@@ -2,7 +2,7 @@
 <glyph name="Ymacron" format="2">
   <advance width="1225"/>
   <unicode hex="0232"/>
-  <anchor x="478" y="-0" name="bottom"/>
+  <anchor x="478" y="0" name="bottom"/>
   <anchor x="212" y="1400" name="topleft"/>
   <outline>
     <component base="Y"/>

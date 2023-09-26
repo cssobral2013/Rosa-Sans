@@ -2,8 +2,8 @@
 <glyph name="abreve-cy" format="2">
   <advance width="1106"/>
   <unicode hex="04D1"/>
-  <anchor x="396" y="-0" name="bottom"/>
-  <anchor x="828" y="-0" name="ogonek"/>
+  <anchor x="396" y="0" name="bottom"/>
+  <anchor x="828" y="0" name="ogonek"/>
   <anchor x="777" y="1428" name="top"/>
   <outline>
     <component base="a-cy"/>

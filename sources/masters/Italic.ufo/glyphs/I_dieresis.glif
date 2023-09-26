@@ -2,8 +2,8 @@
 <glyph name="Idieresis" format="2">
   <advance width="578"/>
   <unicode hex="00CF"/>
-  <anchor x="157" y="-0" name="bottom"/>
-  <anchor x="258" y="-0" name="ogonek"/>
+  <anchor x="157" y="0" name="bottom"/>
+  <anchor x="258" y="0" name="ogonek"/>
   <anchor x="629" y="1760" name="top"/>
   <anchor x="340" y="1400" name="topleft"/>
   <outline>

@@ -4,7 +4,7 @@
   <unicode hex="20A7"/>
   <anchor x="971" y="1690" name="_top"/>
   <outline>
-    <component base="_part.currencyBarHorizontalSingle" yxScale="0.00297422" yScale="1" xOffset="74" yOffset="290"/>
+    <component base="_part.currencyBarHorizontalSingle" yxScale="0.00297422" xOffset="74" yOffset="290"/>
     <contour>
       <point x="221" y="0" type="line"/>
       <point x="372" y="563" type="line"/>

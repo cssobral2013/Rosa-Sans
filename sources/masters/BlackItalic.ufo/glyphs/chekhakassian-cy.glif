@@ -2,10 +2,10 @@
 <glyph name="chekhakassian-cy" format="2">
   <advance width="1231"/>
   <unicode hex="04CC"/>
-  <anchor x="584" y="-0" name="_descender"/>
+  <anchor x="584" y="0" name="_descender"/>
   <anchor x="559" y="486" name="center"/>
-  <anchor x="964" y="-0" name="descender"/>
-  <anchor x="564" y="-0" name="descender_alt"/>
+  <anchor x="964" y="0" name="descender"/>
+  <anchor x="564" y="0" name="descender_alt"/>
   <anchor x="709" y="1040" name="top"/>
   <outline>
     <component base="che-cy"/>

@@ -2,8 +2,8 @@
 <glyph name="Ainvertedbreve" format="2">
   <advance width="1324"/>
   <unicode hex="0202"/>
-  <anchor x="521" y="-0" name="bottom"/>
-  <anchor x="1159" y="-0" name="ogonek"/>
+  <anchor x="521" y="0" name="bottom"/>
+  <anchor x="1159" y="0" name="ogonek"/>
   <anchor x="575" y="1400" name="topleft"/>
   <outline>
     <component base="A"/>

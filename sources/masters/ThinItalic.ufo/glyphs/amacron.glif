@@ -2,8 +2,8 @@
 <glyph name="amacron" format="2">
   <advance width="1059"/>
   <unicode hex="0101"/>
-  <anchor x="374" y="-0" name="bottom"/>
-  <anchor x="770" y="-0" name="ogonek"/>
+  <anchor x="374" y="0" name="bottom"/>
+  <anchor x="770" y="0" name="ogonek"/>
   <outline>
     <component base="a"/>
     <component base="macroncomb" xOffset="1084"/>

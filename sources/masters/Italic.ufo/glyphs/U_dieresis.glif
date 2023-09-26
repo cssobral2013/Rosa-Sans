@@ -2,9 +2,9 @@
 <glyph name="Udieresis" format="2">
   <advance width="1473"/>
   <unicode hex="00DC"/>
-  <anchor x="649" y="-0" name="bottom"/>
+  <anchor x="649" y="0" name="bottom"/>
   <anchor x="1540" y="1400" name="horn"/>
-  <anchor x="951" y="-0" name="ogonek"/>
+  <anchor x="951" y="0" name="ogonek"/>
   <anchor x="1069" y="1744" name="top"/>
   <outline>
     <component base="U"/>

@@ -2,10 +2,10 @@
 <glyph name="uring" format="2">
   <advance width="1323"/>
   <unicode hex="016F"/>
-  <anchor x="514" y="-0" name="bottom"/>
-  <anchor x="1056" y="-0" name="descender"/>
+  <anchor x="514" y="0" name="bottom"/>
+  <anchor x="1056" y="0" name="descender"/>
   <anchor x="1337" y="1040" name="horn"/>
-  <anchor x="1056" y="-0" name="ogonek"/>
+  <anchor x="1056" y="0" name="ogonek"/>
   <anchor x="954" y="1584" name="top"/>
   <outline>
     <component base="u"/>

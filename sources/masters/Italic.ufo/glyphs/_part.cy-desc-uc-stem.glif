@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="_part.cy-desc-uc-stem" format="2">
-  <anchor x="-141" y="-0" name="_descender"/>
+  <anchor x="-141" y="0" name="_descender"/>
   <outline>
     <contour>
       <point x="-103" y="-357" type="line"/>

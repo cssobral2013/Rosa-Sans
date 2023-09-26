@@ -2,8 +2,8 @@
 <glyph name="Cheverticalstroke-cy" format="2">
   <advance width="1372"/>
   <unicode hex="04B8"/>
-  <anchor x="1053" y="-0" name="descender"/>
-  <anchor x="850" y="-0" name="descender_alt"/>
+  <anchor x="1053" y="0" name="descender"/>
+  <anchor x="850" y="0" name="descender_alt"/>
   <anchor x="903" y="1400" name="top"/>
   <outline>
     <component base="Che-cy"/>

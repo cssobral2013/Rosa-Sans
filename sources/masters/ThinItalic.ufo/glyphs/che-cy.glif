@@ -3,8 +3,8 @@
   <advance width="1036"/>
   <unicode hex="0447"/>
   <anchor x="466" y="451" name="center"/>
-  <anchor x="737" y="-0" name="descender"/>
-  <anchor x="625" y="-0" name="descender_alt"/>
+  <anchor x="737" y="0" name="descender"/>
+  <anchor x="625" y="0" name="descender_alt"/>
   <anchor x="604" y="960" name="top"/>
   <outline>
     <contour>

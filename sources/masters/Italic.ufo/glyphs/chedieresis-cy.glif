@@ -3,8 +3,8 @@
   <advance width="1095"/>
   <unicode hex="04F5"/>
   <anchor x="494" y="462" name="center"/>
-  <anchor x="805" y="-0" name="descender"/>
-  <anchor x="607" y="-0" name="descender_alt"/>
+  <anchor x="805" y="0" name="descender"/>
+  <anchor x="607" y="0" name="descender_alt"/>
   <anchor x="731" y="1344" name="top"/>
   <outline>
     <component base="che-cy"/>

@@ -2,9 +2,9 @@
 <glyph name="Ohookabove" format="2">
   <advance width="1662"/>
   <unicode hex="1ECE"/>
-  <anchor x="737" y="-0" name="bottom"/>
+  <anchor x="737" y="0" name="bottom"/>
   <anchor x="1425" y="1400" name="horn"/>
-  <anchor x="1005" y="-0" name="ogonek"/>
+  <anchor x="1005" y="0" name="ogonek"/>
   <anchor x="322" y="1400" name="topleft"/>
   <outline>
     <component base="O"/>

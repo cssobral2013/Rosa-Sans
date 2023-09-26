@@ -2,7 +2,7 @@
 <glyph name="ccaron" format="2">
   <advance width="1055"/>
   <unicode hex="010D"/>
-  <anchor x="476" y="-0" name="bottom"/>
+  <anchor x="476" y="0" name="bottom"/>
   <outline>
     <component base="c"/>
     <component base="caroncomb" xOffset="1385"/>

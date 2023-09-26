@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="_part.Zhe-cy" format="2">
   <advance width="2177"/>
-  <anchor x="1860" y="-0" name="descender"/>
+  <anchor x="1860" y="0" name="descender"/>
   <anchor x="1331" y="1400" name="top"/>
   <outline>
     <contour>

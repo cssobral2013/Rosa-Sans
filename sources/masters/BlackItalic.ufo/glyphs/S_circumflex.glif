@@ -2,7 +2,7 @@
 <glyph name="Scircumflex" format="2">
   <advance width="1282"/>
   <unicode hex="015C"/>
-  <anchor x="551" y="-0" name="bottom"/>
+  <anchor x="551" y="0" name="bottom"/>
   <anchor x="987" y="1806" name="top"/>
   <anchor x="1462" y="1734" name="top_right"/>
   <outline>

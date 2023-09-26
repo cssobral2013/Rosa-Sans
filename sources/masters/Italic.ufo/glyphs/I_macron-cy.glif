@@ -2,7 +2,7 @@
 <glyph name="Imacron-cy" format="2">
   <advance width="1494"/>
   <unicode hex="04E2"/>
-  <anchor x="617" y="-0" name="bottom"/>
+  <anchor x="617" y="0" name="bottom"/>
   <outline>
     <component base="Ii-cy"/>
     <component base="macroncomb.case" xOffset="1549" yOffset="1"/>

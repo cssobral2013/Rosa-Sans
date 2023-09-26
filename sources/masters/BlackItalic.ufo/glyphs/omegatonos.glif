@@ -2,7 +2,7 @@
 <glyph name="omegatonos" format="2">
   <advance width="1730"/>
   <unicode hex="03CE"/>
-  <anchor x="727" y="-0" name="bottom"/>
+  <anchor x="727" y="0" name="bottom"/>
   <outline>
     <component base="omega"/>
     <component base="tonos" xOffset="614"/>

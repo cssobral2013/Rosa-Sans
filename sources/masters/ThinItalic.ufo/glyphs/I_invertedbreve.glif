@@ -2,8 +2,8 @@
 <glyph name="Iinvertedbreve" format="2">
   <advance width="519"/>
   <unicode hex="020A"/>
-  <anchor x="131" y="-0" name="bottom"/>
-  <anchor x="189" y="-0" name="ogonek"/>
+  <anchor x="131" y="0" name="bottom"/>
+  <anchor x="189" y="0" name="ogonek"/>
   <anchor x="368" y="1400" name="topleft"/>
   <outline>
     <component base="I"/>

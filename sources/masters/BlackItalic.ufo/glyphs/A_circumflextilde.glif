@@ -2,8 +2,8 @@
 <glyph name="Acircumflextilde" format="2">
   <advance width="1497"/>
   <unicode hex="1EAA"/>
-  <anchor x="618" y="-0" name="bottom"/>
-  <anchor x="1319" y="-0" name="ogonek"/>
+  <anchor x="618" y="0" name="bottom"/>
+  <anchor x="1319" y="0" name="ogonek"/>
   <anchor x="1208" y="2208" name="top"/>
   <anchor x="1577" y="1734" name="top_right"/>
   <anchor x="505" y="1400" name="topleft"/>

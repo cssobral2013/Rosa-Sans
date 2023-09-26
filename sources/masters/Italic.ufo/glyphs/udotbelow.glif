@@ -2,9 +2,9 @@
 <glyph name="udotbelow" format="2">
   <advance width="1197"/>
   <unicode hex="1EE5"/>
-  <anchor x="908" y="-0" name="descender"/>
+  <anchor x="908" y="0" name="descender"/>
   <anchor x="1173" y="984" name="horn"/>
-  <anchor x="908" y="-0" name="ogonek"/>
+  <anchor x="908" y="0" name="ogonek"/>
   <anchor x="727" y="984" name="top"/>
   <outline>
     <component base="u"/>

@@ -4,8 +4,8 @@
   <unicode hex="0451"/>
   <anchor x="692" y="984" name="_top"/>
   <anchor x="788" y="1344" name="top"/>
-  <anchor x="477" y="-0" name="bottom"/>
-  <anchor x="819" y="-0" name="ogonek"/>
+  <anchor x="477" y="0" name="bottom"/>
+  <anchor x="819" y="0" name="ogonek"/>
   <outline>
     <component base="ie-cy"/>
     <component base="dieresiscomb" xOffset="1375"/>

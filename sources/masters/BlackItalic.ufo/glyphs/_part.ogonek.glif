@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="_part.ogonek" format="2">
   <advance width="2"/>
-  <anchor x="-418" y="-0" name="_ogonek"/>
+  <anchor x="-418" y="0" name="_ogonek"/>
   <outline>
     <contour>
       <point x="-697" y="-449" type="curve" smooth="yes"/>

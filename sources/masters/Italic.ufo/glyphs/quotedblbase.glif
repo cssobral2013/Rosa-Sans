@@ -4,7 +4,7 @@
   <unicode hex="201E"/>
   <outline>
     <component base="comma" yxScale="0.00297422" xOffset="1"/>
-    <component base="comma" xScale="1" yxScale="0.00297422" xOffset="409"/>
+    <component base="comma" yxScale="0.00297422" xOffset="409"/>
   </outline>
   <lib>
   <dict>

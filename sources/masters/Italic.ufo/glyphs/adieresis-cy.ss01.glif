@@ -3,8 +3,8 @@
   <advance width="1289"/>
   <anchor x="716" y="984" name="_top"/>
   <anchor x="813" y="1344" name="top"/>
-  <anchor x="518" y="-0" name="bottom"/>
-  <anchor x="1000" y="-0" name="ogonek"/>
+  <anchor x="518" y="0" name="bottom"/>
+  <anchor x="1000" y="0" name="ogonek"/>
   <outline>
     <component base="a-cy.ss01"/>
     <component base="dieresiscomb" xOffset="1400"/>

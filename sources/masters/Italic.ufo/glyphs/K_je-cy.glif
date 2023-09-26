@@ -2,7 +2,7 @@
 <glyph name="Kje-cy" format="2">
   <advance width="1378"/>
   <unicode hex="040C"/>
-  <anchor x="1080" y="-0" name="descender"/>
+  <anchor x="1080" y="0" name="descender"/>
   <outline>
     <component base="Ka-cy"/>
     <component base="acutecomb.case" xOffset="1681" yOffset="1"/>

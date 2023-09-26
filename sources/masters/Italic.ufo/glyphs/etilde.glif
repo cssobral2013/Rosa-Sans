@@ -2,8 +2,8 @@
 <glyph name="etilde" format="2">
   <advance width="1148"/>
   <unicode hex="1EBD"/>
-  <anchor x="477" y="-0" name="bottom"/>
-  <anchor x="819" y="-0" name="ogonek"/>
+  <anchor x="477" y="0" name="bottom"/>
+  <anchor x="819" y="0" name="ogonek"/>
   <anchor x="799" y="1380" name="top"/>
   <outline>
     <component base="e"/>

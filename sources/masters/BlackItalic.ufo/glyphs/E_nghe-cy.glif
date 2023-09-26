@@ -2,7 +2,7 @@
 <glyph name="Enghe-cy" format="2">
   <advance width="1955"/>
   <unicode hex="04A4"/>
-  <anchor x="1287" y="-0" name="descender"/>
+  <anchor x="1287" y="0" name="descender"/>
   <outline>
     <component base="En-cy"/>
     <contour>

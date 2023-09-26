@@ -4,8 +4,8 @@
   <unicode hex="0401"/>
   <anchor x="867" y="1400" name="_top"/>
   <anchor x="954" y="1744" name="top"/>
-  <anchor x="492" y="-0" name="bottom"/>
-  <anchor x="951" y="-0" name="ogonek"/>
+  <anchor x="492" y="0" name="bottom"/>
+  <anchor x="951" y="0" name="ogonek"/>
   <anchor x="340" y="1400" name="topleft"/>
   <outline>
     <component base="Ie-cy"/>

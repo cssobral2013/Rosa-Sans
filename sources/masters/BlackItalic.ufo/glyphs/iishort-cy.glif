@@ -2,7 +2,7 @@
 <glyph name="iishort-cy" format="2">
   <advance width="1371"/>
   <unicode hex="0439"/>
-  <anchor x="546" y="-0" name="bottom"/>
+  <anchor x="546" y="0" name="bottom"/>
   <anchor x="825" y="1040" name="top"/>
   <outline>
     <component base="ii-cy"/>

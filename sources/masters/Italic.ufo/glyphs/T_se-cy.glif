@@ -2,7 +2,7 @@
 <glyph name="Tse-cy" format="2">
   <advance width="1580"/>
   <unicode hex="0426"/>
-  <anchor x="610" y="-0" name="bottom"/>
+  <anchor x="610" y="0" name="bottom"/>
   <outline>
     <component base="_part.Tse-cy"/>
     <component base="_part.cy-desc-uc" xOffset="1400"/>

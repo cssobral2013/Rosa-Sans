@@ -2,8 +2,8 @@
 <glyph name="Abrevetilde" format="2">
   <advance width="1324"/>
   <unicode hex="1EB4"/>
-  <anchor x="521" y="-0" name="bottom"/>
-  <anchor x="1159" y="-0" name="ogonek"/>
+  <anchor x="521" y="0" name="bottom"/>
+  <anchor x="1159" y="0" name="ogonek"/>
   <anchor x="1106" y="2174" name="top"/>
   <anchor x="575" y="1400" name="topleft"/>
   <outline>

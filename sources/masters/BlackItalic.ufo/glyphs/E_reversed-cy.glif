@@ -2,7 +2,7 @@
 <glyph name="Ereversed-cy" format="2">
   <advance width="1395"/>
   <unicode hex="042D"/>
-  <anchor x="494" y="-0" name="bottom"/>
+  <anchor x="494" y="0" name="bottom"/>
   <anchor x="863" y="1400" name="top"/>
   <outline>
     <contour>

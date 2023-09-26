@@ -2,7 +2,7 @@
 <glyph name="Ii-cy" format="2">
   <advance width="1494"/>
   <unicode hex="0418"/>
-  <anchor x="617" y="-0" name="bottom"/>
+  <anchor x="617" y="0" name="bottom"/>
   <anchor x="992" y="1400" name="top"/>
   <outline>
     <contour>

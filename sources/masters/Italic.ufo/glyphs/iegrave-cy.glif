@@ -3,8 +3,8 @@
   <advance width="1148"/>
   <unicode hex="0450"/>
   <anchor x="692" y="984" name="_top"/>
-  <anchor x="477" y="-0" name="bottom"/>
-  <anchor x="819" y="-0" name="ogonek"/>
+  <anchor x="477" y="0" name="bottom"/>
+  <anchor x="819" y="0" name="ogonek"/>
   <outline>
     <component base="ie-cy"/>
     <component base="gravecomb" xOffset="1391"/>

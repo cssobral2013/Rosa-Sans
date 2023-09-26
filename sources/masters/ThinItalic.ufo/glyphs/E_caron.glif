@@ -2,8 +2,8 @@
 <glyph name="Ecaron" format="2">
   <advance width="1183"/>
   <unicode hex="011A"/>
-  <anchor x="475" y="-0" name="bottom"/>
-  <anchor x="903" y="-0" name="ogonek"/>
+  <anchor x="475" y="0" name="bottom"/>
+  <anchor x="903" y="0" name="ogonek"/>
   <anchor x="368" y="1400" name="topleft"/>
   <outline>
     <component base="E"/>

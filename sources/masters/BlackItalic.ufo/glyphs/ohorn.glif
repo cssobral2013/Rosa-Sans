@@ -2,8 +2,8 @@
 <glyph name="ohorn" format="2">
   <advance width="1365"/>
   <unicode hex="01A1"/>
-  <anchor x="539" y="-0" name="bottom"/>
-  <anchor x="813" y="-0" name="ogonek"/>
+  <anchor x="539" y="0" name="bottom"/>
+  <anchor x="813" y="0" name="ogonek"/>
   <anchor x="751" y="1040" name="top"/>
   <outline>
     <component base="o"/>

@@ -2,8 +2,8 @@
 <glyph name="yi-cy" format="2">
   <advance width="513"/>
   <unicode hex="0457"/>
-  <anchor x="124" y="-0" name="bottom"/>
-  <anchor x="224" y="-0" name="ogonek"/>
+  <anchor x="124" y="0" name="bottom"/>
+  <anchor x="224" y="0" name="ogonek"/>
   <anchor x="485" y="1344" name="top"/>
   <outline>
     <component base="idotless"/>

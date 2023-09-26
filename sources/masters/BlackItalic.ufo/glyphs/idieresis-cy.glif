@@ -2,7 +2,7 @@
 <glyph name="idieresis-cy" format="2">
   <advance width="1371"/>
   <unicode hex="04E5"/>
-  <anchor x="546" y="-0" name="bottom"/>
+  <anchor x="546" y="0" name="bottom"/>
   <anchor x="944" y="1484" name="top"/>
   <outline>
     <component base="ii-cy"/>
