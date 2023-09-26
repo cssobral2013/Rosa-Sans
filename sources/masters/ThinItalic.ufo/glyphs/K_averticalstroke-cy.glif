@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Kaverticalstroke-cy" format="2">
-  <advance width="1320"/>
+  <advance width="1319"/>
   <unicode hex="049C"/>
   <outline>
     <component base="_part.Kaverticalstroke-cy"/>
-    <component base="_part.verticalstroke.case" xOffset="97" yOffset="-28"/>
+    <component base="_part.verticalstroke.case" xOffset="79" yOffset="-28"/>
   </outline>
   <lib>
   <dict>

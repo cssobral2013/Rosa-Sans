@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name=".notdef" format="2">
-  <advance width="1273"/>
+  <advance width="1272"/>
   <outline>
     <contour>
-      <point x="952" y="0" type="line"/>
-      <point x="1415" y="1400" type="line"/>
-      <point x="459" y="1400" type="line"/>
-      <point x="-3" y="0" type="line"/>
+      <point x="982" y="0" type="line"/>
+      <point x="1357" y="1400" type="line"/>
+      <point x="402" y="1400" type="line"/>
+      <point x="27" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="584" y="1247" type="line"/>
-      <point x="1189" y="1247" type="line"/>
-      <point x="827" y="154" type="line"/>
-      <point x="222" y="154" type="line"/>
+      <point x="536" y="1247" type="line"/>
+      <point x="1141" y="1247" type="line"/>
+      <point x="847" y="154" type="line"/>
+      <point x="243" y="154" type="line"/>
     </contour>
   </outline>
   <lib>

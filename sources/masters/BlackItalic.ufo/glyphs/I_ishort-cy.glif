@@ -2,11 +2,11 @@
 <glyph name="Iishort-cy" format="2">
   <advance width="1593"/>
   <unicode hex="0419"/>
-  <anchor x="626" y="0" name="bottom"/>
-  <anchor x="1089" y="1400" name="top"/>
+  <anchor x="658" y="-0" name="bottom"/>
+  <anchor x="1033" y="1400" name="top"/>
   <outline>
     <component base="Ii-cy"/>
-    <component base="brevecomb-cy" xOffset="1830" yOffset="360"/>
+    <component base="brevecomb-cy" xOffset="1754" yOffset="360"/>
   </outline>
   <lib>
   <dict>

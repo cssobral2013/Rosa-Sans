@@ -2,12 +2,12 @@
 <glyph name="Uinvertedbreve" format="2">
   <advance width="1444"/>
   <unicode hex="0216"/>
-  <anchor x="619" y="0" name="bottom"/>
-  <anchor x="1560" y="1400" name="horn"/>
-  <anchor x="880" y="0" name="ogonek"/>
+  <anchor x="638" y="-0" name="bottom"/>
+  <anchor x="1502" y="1400" name="horn"/>
+  <anchor x="910" y="-0" name="ogonek"/>
   <outline>
     <component base="U"/>
-    <component base="breveinvertedcomb.case" xOffset="1813" yOffset="2"/>
+    <component base="breveinvertedcomb.case" xOffset="1756" yOffset="2"/>
   </outline>
   <lib>
   <dict>

@@ -2,14 +2,14 @@
 <glyph name="Iotadieresis" format="2">
   <advance width="578"/>
   <unicode hex="03AA"/>
-  <anchor x="590" y="1400" name="_top"/>
-  <anchor x="708" y="1760" name="top"/>
-  <anchor x="127" y="0" name="bottom"/>
-  <anchor x="228" y="0" name="ogonek"/>
-  <anchor x="398" y="1400" name="topleft"/>
+  <anchor x="532" y="1400" name="_top"/>
+  <anchor x="629" y="1760" name="top"/>
+  <anchor x="157" y="-0" name="bottom"/>
+  <anchor x="258" y="-0" name="ogonek"/>
+  <anchor x="340" y="1400" name="topleft"/>
   <outline>
     <component base="Iota"/>
-    <component base="dieresiscomb.narrow" xOffset="1292" yOffset="416"/>
+    <component base="dieresiscomb.narrow" xOffset="1216" yOffset="416"/>
   </outline>
   <lib>
   <dict>

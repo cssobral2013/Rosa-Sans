@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="anoteleia" format="2">
-  <advance width="538"/>
+  <advance width="537"/>
   <unicode hex="0387"/>
   <outline>
-    <component base="period" xOffset="256" yOffset="775"/>
+    <component base="period" xOffset="207" yOffset="775"/>
   </outline>
   <lib>
   <dict>

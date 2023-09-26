@@ -2,10 +2,10 @@
 <glyph name="dollar" format="2">
   <advance width="1296"/>
   <unicode hex="0024"/>
-  <anchor x="537" y="0" name="bottom"/>
+  <anchor x="559" y="-0" name="bottom"/>
   <outline>
     <component base="_part.dollar"/>
-    <component base="_part.currencyVerticalBar" xOffset="-151"/>
+    <component base="_part.currencyVerticalBar" xOffset="-144"/>
   </outline>
   <lib>
   <dict>

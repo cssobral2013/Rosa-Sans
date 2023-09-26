@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="De-cy.loclBGR" format="2">
-  <advance width="1770"/>
+  <advance width="1769"/>
   <outline>
     <contour>
-      <point x="440" y="0" type="line"/>
-      <point x="1059" y="968" type="line"/>
-      <point x="1026" y="0" type="line"/>
-      <point x="1466" y="0" type="line"/>
-      <point x="1430" y="1400" type="line"/>
-      <point x="953" y="1400" type="line"/>
-      <point x="-35" y="0" type="line"/>
+      <point x="467" y="0" type="line"/>
+      <point x="1025" y="971" type="line"/>
+      <point x="1055" y="0" type="line"/>
+      <point x="1498" y="0" type="line"/>
+      <point x="1373" y="1400" type="line"/>
+      <point x="895" y="1400" type="line"/>
+      <point x="-2" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="166" y="-350" type="line"/>
-      <point x="281" y="0" type="line"/>
-      <point x="1143" y="0" type="line"/>
-      <point x="1028" y="-350" type="line"/>
-      <point x="1412" y="-350" type="line"/>
-      <point x="1649" y="368" type="line"/>
-      <point x="19" y="368" type="line"/>
-      <point x="-219" y="-350" type="line"/>
+      <point x="220" y="-350" type="line"/>
+      <point x="314" y="0" type="line"/>
+      <point x="1176" y="0" type="line"/>
+      <point x="1082" y="-350" type="line"/>
+      <point x="1466" y="-350" type="line"/>
+      <point x="1659" y="368" type="line"/>
+      <point x="29" y="368" type="line"/>
+      <point x="-164" y="-350" type="line"/>
     </contour>
   </outline>
   <lib>

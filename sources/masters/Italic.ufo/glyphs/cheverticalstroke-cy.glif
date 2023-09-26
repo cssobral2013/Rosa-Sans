@@ -2,12 +2,12 @@
 <glyph name="cheverticalstroke-cy" format="2">
   <advance width="1095"/>
   <unicode hex="04B9"/>
-  <anchor x="775" y="0" name="descender"/>
-  <anchor x="576" y="0" name="descender_alt"/>
-  <anchor x="667" y="984" name="top"/>
+  <anchor x="805" y="-0" name="descender"/>
+  <anchor x="607" y="-0" name="descender_alt"/>
+  <anchor x="636" y="984" name="top"/>
   <outline>
     <component base="che-cy"/>
-    <component base="_part.verticalstroke" xOffset="-17" yOffset="-319"/>
+    <component base="_part.verticalstroke" xOffset="-16" yOffset="-319"/>
   </outline>
   <lib>
   <dict>

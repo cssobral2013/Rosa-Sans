@@ -2,11 +2,11 @@
 <glyph name="imacron" format="2">
   <advance width="513"/>
   <unicode hex="012B"/>
-  <anchor x="94" y="0" name="bottom"/>
-  <anchor x="193" y="0" name="ogonek"/>
+  <anchor x="124" y="-0" name="bottom"/>
+  <anchor x="224" y="-0" name="ogonek"/>
   <outline>
     <component base="idotless"/>
-    <component base="macroncomb.narrow" xOffset="852"/>
+    <component base="macroncomb.narrow" xOffset="853"/>
   </outline>
   <lib>
   <dict>

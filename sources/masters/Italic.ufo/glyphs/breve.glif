@@ -2,8 +2,8 @@
 <glyph name="breve" format="2">
   <advance width="1000"/>
   <unicode hex="02D8"/>
-  <anchor x="422" y="984" name="_top"/>
-  <anchor x="571" y="1428" name="top"/>
+  <anchor x="444" y="984" name="_top"/>
+  <anchor x="565" y="1428" name="top"/>
   <outline>
     <component base="brevecomb" xOffset="1142"/>
   </outline>

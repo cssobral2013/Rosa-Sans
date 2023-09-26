@@ -2,10 +2,10 @@
 <glyph name="endescender-cy" format="2">
   <advance width="1286"/>
   <unicode hex="04A3"/>
-  <anchor x="741" y="960" name="top"/>
+  <anchor x="711" y="960" name="top"/>
   <outline>
     <component base="en-cy"/>
-    <component base="_part.cy-desc-lc" xOffset="-137"/>
+    <component base="_part.cy-desc-lc" xOffset="-100"/>
   </outline>
   <lib>
   <dict>

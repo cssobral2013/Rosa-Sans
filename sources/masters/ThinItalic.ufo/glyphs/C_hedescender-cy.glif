@@ -2,12 +2,12 @@
 <glyph name="Chedescender-cy" format="2">
   <advance width="1409"/>
   <unicode hex="04B6"/>
-  <anchor x="700" y="634" name="center"/>
-  <anchor x="854" y="0" name="descender_alt"/>
-  <anchor x="953" y="1400" name="top"/>
+  <anchor x="685" y="634" name="center"/>
+  <anchor x="883" y="-0" name="descender_alt"/>
+  <anchor x="890" y="1400" name="top"/>
   <outline>
     <component base="Che-cy"/>
-    <component base="_part.cy-desc-uc" xOffset="1221"/>
+    <component base="_part.cy-desc-uc" xOffset="1259"/>
   </outline>
   <lib>
   <dict>

@@ -2,22 +2,22 @@
 <glyph name="W" format="2">
   <advance width="2000"/>
   <unicode hex="0057"/>
-  <anchor x="1305" y="1400" name="top"/>
+  <anchor x="1248" y="1400" name="top"/>
   <outline>
     <contour>
-      <point x="471" y="0" type="line"/>
-      <point x="1251" y="1212" type="line"/>
-      <point x="1213" y="0" type="line"/>
-      <point x="1364" y="0" type="line"/>
-      <point x="2242" y="1400" type="line"/>
-      <point x="2111" y="1400" type="line"/>
-      <point x="1324" y="131" type="line"/>
-      <point x="1373" y="1400" type="line"/>
-      <point x="1236" y="1400" type="line"/>
-      <point x="436" y="123" type="line"/>
-      <point x="493" y="1400" type="line"/>
-      <point x="370" y="1400" type="line"/>
-      <point x="323" y="0" type="line"/>
+      <point x="501" y="0" type="line"/>
+      <point x="1204" y="1213" type="line"/>
+      <point x="1243" y="0" type="line"/>
+      <point x="1393" y="0" type="line"/>
+      <point x="2184" y="1400" type="line"/>
+      <point x="2054" y="1400" type="line"/>
+      <point x="1347" y="131" type="line"/>
+      <point x="1316" y="1400" type="line"/>
+      <point x="1179" y="1400" type="line"/>
+      <point x="459" y="123" type="line"/>
+      <point x="436" y="1400" type="line"/>
+      <point x="312" y="1400" type="line"/>
+      <point x="353" y="0" type="line"/>
     </contour>
   </outline>
   <lib>

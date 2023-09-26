@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ubreve" format="2">
-  <advance width="1144"/>
+  <advance width="1143"/>
   <unicode hex="016D"/>
-  <anchor x="396" y="0" name="bottom"/>
-  <anchor x="814" y="0" name="descender"/>
-  <anchor x="1133" y="960" name="horn"/>
-  <anchor x="814" y="0" name="ogonek"/>
-  <anchor x="873" y="1404" name="top"/>
+  <anchor x="426" y="-0" name="bottom"/>
+  <anchor x="844" y="-0" name="descender"/>
+  <anchor x="1102" y="960" name="horn"/>
+  <anchor x="844" y="-0" name="ogonek"/>
+  <anchor x="814" y="1404" name="top"/>
   <outline>
     <component base="u"/>
-    <component base="brevecomb" xOffset="1434"/>
+    <component base="brevecomb" xOffset="1380"/>
   </outline>
   <lib>
   <dict>

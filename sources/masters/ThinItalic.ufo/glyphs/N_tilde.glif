@@ -2,11 +2,11 @@
 <glyph name="Ntilde" format="2">
   <advance width="1455"/>
   <unicode hex="00D1"/>
-  <anchor x="570" y="0" name="bottom"/>
-  <anchor x="1151" y="1760" name="top"/>
+  <anchor x="599" y="-0" name="bottom"/>
+  <anchor x="1070" y="1760" name="top"/>
   <outline>
     <component base="N"/>
-    <component base="tildecomb.case" xOffset="1814" yOffset="2"/>
+    <component base="tildecomb.case" xOffset="1757" yOffset="2"/>
   </outline>
   <lib>
   <dict>

@@ -2,11 +2,11 @@
 <glyph name="zhebreve-cy" format="2">
   <advance width="1565"/>
   <unicode hex="04C2"/>
-  <anchor x="1265" y="0" name="descender"/>
-  <anchor x="1090" y="1428" name="top"/>
+  <anchor x="1296" y="-0" name="descender"/>
+  <anchor x="1031" y="1428" name="top"/>
   <outline>
     <component base="zhe-cy"/>
-    <component base="brevecomb-cy" xOffset="1661"/>
+    <component base="brevecomb-cy" xOffset="1608"/>
   </outline>
   <lib>
   <dict>

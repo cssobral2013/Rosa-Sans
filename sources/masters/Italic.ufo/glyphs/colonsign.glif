@@ -2,10 +2,10 @@
 <glyph name="colonsign" format="2">
   <advance width="1296"/>
   <unicode hex="20A1"/>
-  <anchor x="611" y="0" name="bottom"/>
+  <anchor x="633" y="-0" name="bottom"/>
   <outline>
     <component base="_part.cedi"/>
-    <component base="_part.currencyVertDiag" xOffset="-120"/>
+    <component base="_part.currencyVertDiag" xOffset="-113"/>
   </outline>
   <lib>
   <dict>

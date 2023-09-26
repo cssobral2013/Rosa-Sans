@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Q" format="2">
-  <advance width="1707"/>
+  <advance width="1676"/>
   <unicode hex="0051"/>
   <outline>
     <component base="O"/>
     <contour>
-      <point x="1396" y="-120" type="line"/>
-      <point x="1081" y="420" type="line"/>
-      <point x="962" y="420" type="line"/>
-      <point x="1277" y="-120" type="line"/>
+      <point x="1403" y="-120" type="line"/>
+      <point x="1088" y="420" type="line"/>
+      <point x="954" y="420" type="line"/>
+      <point x="1270" y="-120" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.6,0.89,1,1</string>
-  </dict>
-  </lib>
 </glyph>

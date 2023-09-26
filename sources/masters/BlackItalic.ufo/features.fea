@@ -36,7 +36,7 @@
 #/< otclasses
 
 #/> tags
-@noexport = [_part.C _part.Kaverticalstroke-cy _part.R _part.T_M _part.Tse-cy _part.Zhe-cy _part.cedi _part.currencyBarHorizontalDoubl _part.currencyBarHorizontalSingle _part.currencyBar_Manat _part.currencyVertDiag _part.currencyVertDiagAdjusted _part.currencyVerticalBar _part.cy-desc-lc _part.cy-desc-lc-reversed _part.cy-desc-lc-stem _part.cy-desc-uc _part.cy-desc-uc-reversed _part.cy-desc-uc-reversed-stem _part.cy-desc-uc-stem _part.cy-descender-lc-center _part.cy-descender-uc-center _part.dollar _part.franc _part.guarani _part.heng _part.hryvnia _part.hryvniaBase _part.kaverticalstroke-cy _part.kip _part.manat _part.naira _part.ogonek _part.peso _part.registered _part.ring _part.rupee _part.tse-cy _part.verticalstroke _part.verticalstroke.case _part.won four.dnom four.numr nine.ss02 one.dnom one.numr six.ss02 three.dnom three.numr two.dnom two.numr];
+@noexport = [_part.C _part.Kaverticalstroke-cy _part.R _part.T_M _part.Tse-cy _part.Zhe-cy _part.cedi _part.currencyBarHorizontalDoubl _part.currencyBarHorizontalSingle _part.currencyBar_Manat _part.currencyVertDiag _part.currencyVertDiagAdjusted _part.currencyVerticalBar _part.cy-desc-lc _part.cy-desc-lc-reversed _part.cy-desc-lc-stem _part.cy-desc-uc _part.cy-desc-uc-reversed _part.cy-desc-uc-reversed-stem _part.cy-desc-uc-stem _part.cy-descender-lc-center _part.cy-descender-uc-center _part.dollar _part.franc _part.guarani _part.heng _part.hryvnia _part.hryvniaBase _part.kaverticalstroke-cy _part.kip _part.manat _part.naira _part.ogonek _part.peso _part.registered _part.ring _part.rupee _part.tse-cy _part.verticalstroke _part.verticalstroke.case _part.won four.dnom four.numr one.dnom one.numr three.dnom three.numr two.dnom two.numr];
 #/< tags
 #< classes
 
@@ -56,6 +56,7 @@ languagesystem cyrl dflt;
 languagesystem cyrl SRB;
 languagesystem cyrl MKD;
 languagesystem cyrl BGR;
+
 feature aalt {
 sub o from [ordmasculine];
 sub a from [a.ss01 ordfeminine ordfeminine.ss01];

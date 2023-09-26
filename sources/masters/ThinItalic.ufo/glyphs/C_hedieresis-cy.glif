@@ -2,13 +2,13 @@
 <glyph name="Chedieresis-cy" format="2">
   <advance width="1329"/>
   <unicode hex="04F4"/>
-  <anchor x="700" y="634" name="center"/>
-  <anchor x="970" y="0" name="descender"/>
-  <anchor x="854" y="0" name="descender_alt"/>
-  <anchor x="1050" y="1706" name="top"/>
+  <anchor x="685" y="634" name="center"/>
+  <anchor x="999" y="-0" name="descender"/>
+  <anchor x="883" y="-0" name="descender_alt"/>
+  <anchor x="969" y="1706" name="top"/>
   <outline>
     <component base="Che-cy"/>
-    <component base="dieresiscomb.case" xOffset="1703" yOffset="2"/>
+    <component base="dieresiscomb.case" xOffset="1647" yOffset="2"/>
   </outline>
   <lib>
   <dict>

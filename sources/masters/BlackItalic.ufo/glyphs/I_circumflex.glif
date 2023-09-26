@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Icircumflex" format="2">
-  <advance width="716"/>
+  <advance width="715"/>
   <unicode hex="00CE"/>
-  <anchor x="186" y="0" name="bottom"/>
-  <anchor x="388" y="0" name="ogonek"/>
-  <anchor x="793" y="1844" name="top"/>
-  <anchor x="1215" y="1744" name="top_right"/>
-  <anchor x="331" y="1400" name="topleft"/>
+  <anchor x="218" y="-0" name="bottom"/>
+  <anchor x="420" y="-0" name="ogonek"/>
+  <anchor x="709" y="1844" name="top"/>
+  <anchor x="1136" y="1744" name="top_right"/>
+  <anchor x="275" y="1400" name="topleft"/>
   <outline>
     <component base="I"/>
-    <component base="circumflexcomb.narrow" xOffset="1343" yOffset="360"/>
+    <component base="circumflexcomb.narrow" xOffset="1277" yOffset="360"/>
   </outline>
   <lib>
   <dict>

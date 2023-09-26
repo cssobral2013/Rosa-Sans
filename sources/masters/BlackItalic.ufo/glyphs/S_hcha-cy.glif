@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Shcha-cy" format="2">
-  <advance width="2408"/>
+  <advance width="2407"/>
   <unicode hex="0429"/>
   <outline>
     <component base="Sha-cy"/>
-    <component base="_part.cy-desc-uc" xOffset="2123"/>
+    <component base="_part.cy-desc-uc" xOffset="2155"/>
   </outline>
   <lib>
   <dict>

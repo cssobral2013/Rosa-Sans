@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iegrave-cy" format="2">
-  <advance width="1240"/>
+  <advance width="1236"/>
   <unicode hex="0450"/>
-  <anchor x="761" y="1040" name="_top"/>
+  <anchor x="733" y="1040" name="_top"/>
   <outline>
     <component base="ie-cy"/>
-    <component base="gravecomb" xOffset="1506"/>
+    <component base="gravecomb" xOffset="1457"/>
   </outline>
   <lib>
   <dict>

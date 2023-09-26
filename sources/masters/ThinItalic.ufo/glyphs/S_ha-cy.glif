@@ -2,21 +2,21 @@
 <glyph name="Sha-cy" format="2">
   <advance width="2125"/>
   <unicode hex="0428"/>
-  <anchor x="1766" y="0" name="descender"/>
+  <anchor x="1795" y="-0" name="descender"/>
   <outline>
     <contour>
-      <point x="1766" y="0" type="line"/>
-      <point x="2228" y="1400" type="line"/>
-      <point x="2112" y="1400" type="line"/>
-      <point x="1684" y="108" type="line"/>
-      <point x="998" y="108" type="line"/>
-      <point x="1426" y="1400" type="line"/>
-      <point x="1310" y="1400" type="line"/>
-      <point x="882" y="108" type="line"/>
-      <point x="194" y="108" type="line"/>
-      <point x="622" y="1400" type="line"/>
-      <point x="506" y="1400" type="line"/>
-      <point x="44" y="0" type="line"/>
+      <point x="1795" y="0" type="line"/>
+      <point x="2170" y="1400" type="line"/>
+      <point x="2054" y="1400" type="line"/>
+      <point x="1707" y="108" type="line"/>
+      <point x="1021" y="108" type="line"/>
+      <point x="1368" y="1400" type="line"/>
+      <point x="1252" y="1400" type="line"/>
+      <point x="905" y="108" type="line"/>
+      <point x="217" y="108" type="line"/>
+      <point x="564" y="1400" type="line"/>
+      <point x="448" y="1400" type="line"/>
+      <point x="73" y="0" type="line"/>
     </contour>
   </outline>
   <lib>

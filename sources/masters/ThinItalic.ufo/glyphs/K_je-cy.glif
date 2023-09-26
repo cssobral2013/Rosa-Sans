@@ -2,10 +2,10 @@
 <glyph name="Kje-cy" format="2">
   <advance width="1317"/>
   <unicode hex="040C"/>
-  <anchor x="976" y="0" name="descender"/>
+  <anchor x="1005" y="-0" name="descender"/>
   <outline>
     <component base="Ka-cy"/>
-    <component base="acutecomb.case" xOffset="1684" yOffset="2"/>
+    <component base="acutecomb.case" xOffset="1636" yOffset="2"/>
   </outline>
   <lib>
   <dict>

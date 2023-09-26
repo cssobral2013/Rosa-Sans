@@ -2,13 +2,13 @@
 <glyph name="Iotatonos" format="2">
   <advance width="578"/>
   <unicode hex="038A"/>
-  <anchor x="398" y="1400" name="_topleft"/>
-  <anchor x="127" y="0" name="bottom"/>
-  <anchor x="228" y="0" name="ogonek"/>
-  <anchor x="590" y="1400" name="top"/>
+  <anchor x="340" y="1400" name="_topleft"/>
+  <anchor x="157" y="-0" name="bottom"/>
+  <anchor x="258" y="-0" name="ogonek"/>
+  <anchor x="532" y="1400" name="top"/>
   <outline>
     <component base="Iota"/>
-    <component base="tonos.case" xOffset="-332"/>
+    <component base="tonos.case" xOffset="-333"/>
   </outline>
   <lib>
   <dict>

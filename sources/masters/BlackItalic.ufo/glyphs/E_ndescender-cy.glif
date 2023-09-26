@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Endescender-cy" format="2">
-  <advance width="1708"/>
+  <advance width="1707"/>
   <unicode hex="04A2"/>
   <outline>
     <component base="En-cy"/>
-    <component base="_part.cy-desc-uc" xOffset="1418"/>
+    <component base="_part.cy-desc-uc" xOffset="1450"/>
   </outline>
   <lib>
   <dict>

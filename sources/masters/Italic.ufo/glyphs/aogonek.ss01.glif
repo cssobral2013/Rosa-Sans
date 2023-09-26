@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aogonek.ss01" format="2">
-  <advance width="1292"/>
-  <anchor x="496" y="0" name="bottom"/>
-  <anchor x="742" y="984" name="top"/>
+  <advance width="1289"/>
+  <anchor x="518" y="-0" name="bottom"/>
+  <anchor x="716" y="984" name="top"/>
   <outline>
     <component base="a.ss01"/>
-    <component base="_part.ogonek" xOffset="1398"/>
+    <component base="_part.ogonek" xOffset="1437"/>
   </outline>
   <lib>
   <dict>

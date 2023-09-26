@@ -2,12 +2,12 @@
 <glyph name="Uhornhookabove" format="2">
   <advance width="1615"/>
   <unicode hex="1EEC"/>
-  <anchor x="1038" y="1400" name="_top"/>
-  <anchor x="629" y="0" name="bottom"/>
-  <anchor x="920" y="0" name="ogonek"/>
+  <anchor x="981" y="1400" name="_top"/>
+  <anchor x="649" y="-0" name="bottom"/>
+  <anchor x="951" y="-0" name="ogonek"/>
   <outline>
     <component base="Uhorn"/>
-    <component base="hookabovecomb.case" xOffset="1852" yOffset="1"/>
+    <component base="hookabovecomb.case" xOffset="1792" yOffset="1"/>
   </outline>
   <lib>
   <dict>

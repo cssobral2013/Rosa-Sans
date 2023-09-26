@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uhorntilde" format="2">
-  <advance width="1781"/>
+  <advance width="1780"/>
   <unicode hex="1EEE"/>
-  <anchor x="1062" y="1400" name="_top"/>
-  <anchor x="1193" y="1802" name="top"/>
+  <anchor x="1006" y="1400" name="_top"/>
+  <anchor x="1112" y="1802" name="top"/>
   <outline>
     <component base="Uhorn"/>
-    <component base="tildecomb.case" xOffset="1894"/>
+    <component base="tildecomb.case" xOffset="1838"/>
   </outline>
   <lib>
   <dict>

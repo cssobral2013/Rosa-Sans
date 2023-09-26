@@ -2,20 +2,20 @@
 <glyph name="Y" format="2">
   <advance width="1225"/>
   <unicode hex="0059"/>
-  <anchor x="446" y="0" name="bottom"/>
-  <anchor x="908" y="1400" name="top"/>
-  <anchor x="270" y="1400" name="topleft"/>
+  <anchor x="478" y="-0" name="bottom"/>
+  <anchor x="852" y="1400" name="top"/>
+  <anchor x="212" y="1400" name="topleft"/>
   <outline>
     <contour>
-      <point x="548" y="0" type="line"/>
-      <point x="748" y="605" type="line"/>
-      <point x="1509" y="1400" type="line"/>
-      <point x="1265" y="1400" type="line"/>
-      <point x="703" y="809" type="line"/>
-      <point x="538" y="1400" type="line"/>
-      <point x="319" y="1400" type="line"/>
-      <point x="545" y="608" type="line"/>
-      <point x="345" y="0" type="line"/>
+      <point x="579" y="0" type="line"/>
+      <point x="742" y="606" type="line"/>
+      <point x="1453" y="1400" type="line"/>
+      <point x="1211" y="1400" type="line"/>
+      <point x="687" y="809" type="line"/>
+      <point x="482" y="1400" type="line"/>
+      <point x="262" y="1400" type="line"/>
+      <point x="539" y="608" type="line"/>
+      <point x="376" y="0" type="line"/>
     </contour>
   </outline>
   <lib>

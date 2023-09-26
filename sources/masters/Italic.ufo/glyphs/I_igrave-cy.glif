@@ -2,10 +2,10 @@
 <glyph name="Iigrave-cy" format="2">
   <advance width="1494"/>
   <unicode hex="040D"/>
-  <anchor x="587" y="0" name="bottom"/>
+  <anchor x="617" y="-0" name="bottom"/>
   <outline>
     <component base="Ii-cy"/>
-    <component base="gravecomb.case" xOffset="1845" yOffset="1"/>
+    <component base="gravecomb.case" xOffset="1789" yOffset="1"/>
   </outline>
   <lib>
   <dict>

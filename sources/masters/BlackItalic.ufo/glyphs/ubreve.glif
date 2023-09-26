@@ -2,14 +2,14 @@
 <glyph name="ubreve" format="2">
   <advance width="1323"/>
   <unicode hex="016D"/>
-  <anchor x="481" y="0" name="bottom"/>
-  <anchor x="1023" y="0" name="descender"/>
-  <anchor x="1370" y="1040" name="horn"/>
-  <anchor x="1023" y="0" name="ogonek"/>
-  <anchor x="987" y="1484" name="top"/>
+  <anchor x="514" y="-0" name="bottom"/>
+  <anchor x="1056" y="-0" name="descender"/>
+  <anchor x="1337" y="1040" name="horn"/>
+  <anchor x="1056" y="-0" name="ogonek"/>
+  <anchor x="926" y="1484" name="top"/>
   <outline>
     <component base="u"/>
-    <component base="brevecomb" xOffset="1581"/>
+    <component base="brevecomb" xOffset="1528"/>
   </outline>
   <lib>
   <dict>

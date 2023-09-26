@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Jcircumflex" format="2">
-  <advance width="985"/>
+  <advance width="987"/>
   <unicode hex="0134"/>
-  <anchor x="1155" y="1872" name="top"/>
-  <anchor x="1422" y="1688" name="top_right"/>
+  <anchor x="1070" y="1872" name="top"/>
+  <anchor x="1348" y="1688" name="top_right"/>
   <outline>
     <component base="J"/>
-    <component base="circumflexcomb.narrow" xOffset="1674" yOffset="416"/>
+    <component base="circumflexcomb.narrow" xOffset="1604" yOffset="416"/>
   </outline>
   <lib>
   <dict>

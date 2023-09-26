@@ -2,10 +2,10 @@
 <glyph name="Edotaccent" format="2">
   <advance width="1303"/>
   <unicode hex="0116"/>
-  <anchor x="498" y="0" name="bottom"/>
-  <anchor x="1030" y="0" name="ogonek"/>
-  <anchor x="1098" y="1834" name="top"/>
-  <anchor x="331" y="1400" name="topleft"/>
+  <anchor x="530" y="-0" name="bottom"/>
+  <anchor x="1062" y="-0" name="ogonek"/>
+  <anchor x="1016" y="1834" name="top"/>
+  <anchor x="275" y="1400" name="topleft"/>
   <outline>
     <component base="E"/>
     <component base="dotaccentcomb.case" xOffset="1504"/>

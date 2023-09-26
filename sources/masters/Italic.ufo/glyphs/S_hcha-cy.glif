@@ -4,7 +4,7 @@
   <unicode hex="0429"/>
   <outline>
     <component base="Sha-cy"/>
-    <component base="_part.cy-desc-uc" xOffset="2049"/>
+    <component base="_part.cy-desc-uc" xOffset="2085"/>
   </outline>
   <lib>
   <dict>

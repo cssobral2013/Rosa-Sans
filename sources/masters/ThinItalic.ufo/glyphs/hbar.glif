@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hbar" format="2">
-  <advance width="1156"/>
+  <advance width="1155"/>
   <unicode hex="0127"/>
-  <anchor x="548" y="1440" name="top"/>
+  <anchor x="487" y="1440" name="top"/>
   <outline>
     <component base="h"/>
-    <component base="strokeshortcomb" xOffset="1169" yOffset="684"/>
+    <component base="strokeshortcomb" xOffset="1123" yOffset="684"/>
   </outline>
   <lib>
   <dict>

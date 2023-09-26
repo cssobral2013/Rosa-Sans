@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ncaron" format="2">
-  <advance width="1596"/>
+  <advance width="1595"/>
   <unicode hex="0147"/>
-  <anchor x="626" y="0" name="bottom"/>
+  <anchor x="658" y="-0" name="bottom"/>
   <outline>
     <component base="N"/>
-    <component base="caroncomb.case" xOffset="1917"/>
+    <component base="caroncomb.case" xOffset="1862"/>
   </outline>
   <lib>
   <dict>

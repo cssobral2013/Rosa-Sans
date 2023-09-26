@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ustraightstroke-cy" format="2">
-  <advance width="1330"/>
+  <advance width="1331"/>
   <unicode hex="04B0"/>
   <outline>
     <component base="Ustraight-cy"/>
-    <component base="strokeshortcomb.case" xOffset="1478" yOffset="-92"/>
+    <component base="strokeshortcomb.case" xOffset="1483" yOffset="-92"/>
   </outline>
   <lib>
   <dict>

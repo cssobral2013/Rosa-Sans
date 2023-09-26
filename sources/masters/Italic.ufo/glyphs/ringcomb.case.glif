@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ringcomb.case" format="2">
-  <anchor x="-952" y="1400" name="_top"/>
-  <anchor x="-774" y="1938" name="top"/>
+  <anchor x="-931" y="1400" name="_top"/>
+  <anchor x="-785" y="1938" name="top"/>
   <outline>
     <contour>
-      <point x="-882" y="1466" type="curve" smooth="yes"/>
-      <point x="-706" y="1466"/>
-      <point x="-536" y="1605"/>
-      <point x="-536" y="1789" type="curve" smooth="yes"/>
-      <point x="-536" y="1922"/>
-      <point x="-642" y="2027"/>
-      <point x="-792" y="2027" type="curve" smooth="yes"/>
-      <point x="-966" y="2027"/>
-      <point x="-1138" y="1887"/>
-      <point x="-1138" y="1703" type="curve" smooth="yes"/>
-      <point x="-1138" y="1568"/>
-      <point x="-1030" y="1466"/>
+      <point x="-873" y="1466" type="curve" smooth="yes"/>
+      <point x="-700" y="1466"/>
+      <point x="-537" y="1602"/>
+      <point x="-537" y="1781" type="curve" smooth="yes"/>
+      <point x="-537" y="1918"/>
+      <point x="-648" y="2027"/>
+      <point x="-801" y="2027" type="curve" smooth="yes"/>
+      <point x="-972" y="2027"/>
+      <point x="-1137" y="1890"/>
+      <point x="-1137" y="1711" type="curve" smooth="yes"/>
+      <point x="-1137" y="1572"/>
+      <point x="-1024" y="1466"/>
     </contour>
     <contour>
-      <point x="-861" y="1594" type="curve" smooth="yes"/>
-      <point x="-945" y="1594"/>
-      <point x="-998" y="1646"/>
-      <point x="-998" y="1719" type="curve" smooth="yes"/>
-      <point x="-998" y="1825"/>
-      <point x="-912" y="1899"/>
-      <point x="-813" y="1899" type="curve" smooth="yes"/>
-      <point x="-729" y="1899"/>
-      <point x="-675" y="1847"/>
-      <point x="-675" y="1776" type="curve" smooth="yes"/>
-      <point x="-675" y="1671"/>
-      <point x="-761" y="1594"/>
+      <point x="-856" y="1594" type="curve" smooth="yes"/>
+      <point x="-942" y="1594"/>
+      <point x="-998" y="1648"/>
+      <point x="-998" y="1724" type="curve" smooth="yes"/>
+      <point x="-998" y="1826"/>
+      <point x="-915" y="1899"/>
+      <point x="-817" y="1899" type="curve" smooth="yes"/>
+      <point x="-732" y="1899"/>
+      <point x="-675" y="1845"/>
+      <point x="-675" y="1770" type="curve" smooth="yes"/>
+      <point x="-675" y="1669"/>
+      <point x="-758" y="1594"/>
     </contour>
   </outline>
   <lib>

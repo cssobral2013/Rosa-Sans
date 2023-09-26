@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iigrave-cy.loclBGR" format="2">
   <advance width="1323"/>
-  <anchor x="840" y="1040" name="_top"/>
+  <anchor x="807" y="1040" name="_top"/>
   <outline>
     <component base="ii-cy.loclBGR"/>
-    <component base="gravecomb" xOffset="1584"/>
+    <component base="gravecomb" xOffset="1531"/>
   </outline>
   <lib>
   <dict>

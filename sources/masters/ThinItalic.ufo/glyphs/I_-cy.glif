@@ -2,10 +2,10 @@
 <glyph name="I-cy" format="2">
   <advance width="519"/>
   <unicode hex="0406"/>
-  <anchor x="102" y="0" name="bottom"/>
-  <anchor x="160" y="0" name="ogonek"/>
-  <anchor x="564" y="1400" name="top"/>
-  <anchor x="426" y="1400" name="topleft"/>
+  <anchor x="131" y="-0" name="bottom"/>
+  <anchor x="189" y="-0" name="ogonek"/>
+  <anchor x="506" y="1400" name="top"/>
+  <anchor x="368" y="1400" name="topleft"/>
   <outline>
     <component base="I"/>
   </outline>

@@ -3,15 +3,15 @@
   <advance width="1026"/>
   <unicode hex="0490"/>
   <anchor x="478" y="699" name="bar"/>
-  <anchor x="228" y="0" name="descender"/>
-  <anchor x="878" y="1400" name="top"/>
+  <anchor x="258" y="-0" name="descender"/>
+  <anchor x="821" y="1400" name="top"/>
   <outline>
     <component base="Ge-cy"/>
     <contour>
-      <point x="1208" y="1214" type="line"/>
-      <point x="1384" y="1757" type="line"/>
-      <point x="1193" y="1757" type="line"/>
-      <point x="1017" y="1214" type="line"/>
+      <point x="1161" y="1214" type="line"/>
+      <point x="1304" y="1757" type="line"/>
+      <point x="1114" y="1757" type="line"/>
+      <point x="970" y="1214" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uhorn" format="2">
-  <advance width="1781"/>
+  <advance width="1780"/>
   <unicode hex="01AF"/>
-  <anchor x="652" y="0" name="bottom"/>
-  <anchor x="1012" y="0" name="ogonek"/>
-  <anchor x="1062" y="1400" name="top"/>
+  <anchor x="674" y="-0" name="bottom"/>
+  <anchor x="1045" y="-0" name="ogonek"/>
+  <anchor x="1006" y="1400" name="top"/>
   <outline>
     <component base="U"/>
-    <component base="horncomb.alt_case" xOffset="1785"/>
+    <component base="horncomb.alt_case" xOffset="1784"/>
   </outline>
   <lib>
   <dict>

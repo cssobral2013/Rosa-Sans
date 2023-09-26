@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="idotaccent" format="2">
   <advance width="513"/>
-  <anchor x="94" y="0" name="bottom"/>
-  <anchor x="193" y="0" name="ogonek"/>
-  <anchor x="539" y="1344" name="top"/>
+  <anchor x="124" y="-0" name="bottom"/>
+  <anchor x="224" y="-0" name="ogonek"/>
+  <anchor x="485" y="1344" name="top"/>
   <outline>
     <component base="idotless"/>
     <component base="dotaccentcomb" xOffset="855"/>

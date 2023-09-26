@@ -2,9 +2,9 @@
 <glyph name="Gamma" format="2">
   <advance width="1001"/>
   <unicode hex="0393"/>
-  <anchor x="476" y="722" name="bar"/>
-  <anchor x="160" y="0" name="descender"/>
-  <anchor x="870" y="1400" name="top"/>
+  <anchor x="481" y="722" name="bar"/>
+  <anchor x="189" y="-0" name="descender"/>
+  <anchor x="812" y="1400" name="top"/>
   <outline>
     <component base="Ge-cy"/>
   </outline>

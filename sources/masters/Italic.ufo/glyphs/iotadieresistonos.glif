@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iotadieresistonos" format="2">
-  <advance width="626"/>
+  <advance width="629"/>
   <unicode hex="0390"/>
   <outline>
     <component base="iota"/>
-    <component base="dieresistonos" xOffset="1013"/>
+    <component base="dieresistonos" xOffset="981"/>
   </outline>
   <lib>
   <dict>

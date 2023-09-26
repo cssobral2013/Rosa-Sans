@@ -2,15 +2,15 @@
 <glyph name="Ecircumflextilde" format="2">
   <advance width="1219"/>
   <unicode hex="1EC4"/>
-  <anchor x="462" y="0" name="bottom"/>
-  <anchor x="921" y="0" name="ogonek"/>
-  <anchor x="1192" y="2209" name="top"/>
-  <anchor x="1384" y="1674" name="top_right"/>
-  <anchor x="398" y="1400" name="topleft"/>
+  <anchor x="492" y="-0" name="bottom"/>
+  <anchor x="951" y="-0" name="ogonek"/>
+  <anchor x="1084" y="2209" name="top"/>
+  <anchor x="1311" y="1674" name="top_right"/>
+  <anchor x="340" y="1400" name="topleft"/>
   <outline>
     <component base="E"/>
-    <component base="circumflexcomb.case" xOffset="1720" yOffset="1"/>
-    <component base="tildecomb.case" xOffset="1866" yOffset="438"/>
+    <component base="circumflexcomb.case" xOffset="1663" yOffset="1"/>
+    <component base="tildecomb.case" xOffset="1782" yOffset="438"/>
   </outline>
   <lib>
   <dict>

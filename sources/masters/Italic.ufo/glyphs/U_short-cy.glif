@@ -2,10 +2,10 @@
 <glyph name="Ushort-cy" format="2">
   <advance width="1265"/>
   <unicode hex="040E"/>
-  <anchor x="1147" y="1844" name="top"/>
+  <anchor x="1060" y="1844" name="top"/>
   <outline>
     <component base="U-cy"/>
-    <component base="brevecomb-cy" xOffset="1718" yOffset="416"/>
+    <component base="brevecomb-cy" xOffset="1638" yOffset="416"/>
   </outline>
   <lib>
   <dict>

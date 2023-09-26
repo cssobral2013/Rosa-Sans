@@ -2,13 +2,13 @@
 <glyph name="Uring" format="2">
   <advance width="1473"/>
   <unicode hex="016E"/>
-  <anchor x="629" y="0" name="bottom"/>
-  <anchor x="1597" y="1400" name="horn"/>
-  <anchor x="920" y="0" name="ogonek"/>
-  <anchor x="1218" y="1938" name="top"/>
+  <anchor x="649" y="-0" name="bottom"/>
+  <anchor x="1540" y="1400" name="horn"/>
+  <anchor x="951" y="-0" name="ogonek"/>
+  <anchor x="1126" y="1938" name="top"/>
   <outline>
     <component base="U"/>
-    <component base="ringcomb.case" xOffset="1991"/>
+    <component base="ringcomb.case" xOffset="1912"/>
   </outline>
   <lib>
   <dict>

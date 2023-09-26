@@ -5,10 +5,10 @@
   <outline>
     <component base="dcroat" xOffset="-60"/>
     <contour>
-      <point x="878" y="-408" type="line"/>
-      <point x="981" y="-92" type="line"/>
-      <point x="-119" y="-92" type="line"/>
-      <point x="-222" y="-408" type="line"/>
+      <point x="935" y="-408" type="line"/>
+      <point x="1019" y="-92" type="line"/>
+      <point x="-81" y="-92" type="line"/>
+      <point x="-165" y="-408" type="line"/>
     </contour>
   </outline>
   <lib>

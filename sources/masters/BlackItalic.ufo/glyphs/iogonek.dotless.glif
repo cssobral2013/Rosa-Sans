@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iogonek.dotless" format="2">
-  <advance width="656"/>
-  <anchor x="156" y="0" name="bottom"/>
-  <anchor x="356" y="0" name="ogonek"/>
-  <anchor x="500" y="1040" name="top"/>
+  <advance width="655"/>
+  <anchor x="188" y="-0" name="bottom"/>
+  <anchor x="388" y="-0" name="ogonek"/>
+  <anchor x="467" y="1040" name="top"/>
   <outline>
     <component base="idotless"/>
-    <component base="ogonekcomb" xOffset="770"/>
+    <component base="ogonekcomb" xOffset="806"/>
   </outline>
   <lib>
   <dict>

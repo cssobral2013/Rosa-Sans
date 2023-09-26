@@ -4,19 +4,19 @@
   <outline>
     <contour>
       <point x="627" y="490" type="line"/>
-      <point x="693" y="686" type="line"/>
-      <point x="847" y="686" type="line"/>
-      <point x="878" y="778" type="line"/>
-      <point x="721" y="778" type="line"/>
-      <point x="793" y="994" type="line"/>
-      <point x="697" y="994" type="line"/>
-      <point x="625" y="778" type="line"/>
-      <point x="265" y="778" type="line"/>
-      <point x="829" y="1400" type="line"/>
-      <point x="711" y="1400" type="line"/>
-      <point x="142" y="770" type="line"/>
-      <point x="117" y="686" type="line"/>
-      <point x="597" y="686" type="line"/>
+      <point x="680" y="686" type="line"/>
+      <point x="834" y="686" type="line"/>
+      <point x="859" y="778" type="line"/>
+      <point x="702" y="778" type="line"/>
+      <point x="761" y="994" type="line"/>
+      <point x="665" y="994" type="line"/>
+      <point x="606" y="778" type="line"/>
+      <point x="246" y="778" type="line"/>
+      <point x="771" y="1400" type="line"/>
+      <point x="654" y="1400" type="line"/>
+      <point x="124" y="770" type="line"/>
+      <point x="104" y="686" type="line"/>
+      <point x="584" y="686" type="line"/>
       <point x="531" y="490" type="line"/>
     </contour>
   </outline>

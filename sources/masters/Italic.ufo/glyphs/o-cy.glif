@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="o-cy" format="2">
-  <advance width="1222"/>
+  <advance width="1218"/>
   <unicode hex="043E"/>
-  <anchor x="489" y="0" name="bottom"/>
-  <anchor x="1125" y="984" name="horn"/>
-  <anchor x="722" y="0" name="ogonek"/>
-  <anchor x="734" y="984" name="top"/>
+  <anchor x="510" y="-0" name="bottom"/>
+  <anchor x="1100" y="984" name="horn"/>
+  <anchor x="743" y="-0" name="ogonek"/>
+  <anchor x="708" y="984" name="top"/>
   <outline>
     <component base="o"/>
   </outline>

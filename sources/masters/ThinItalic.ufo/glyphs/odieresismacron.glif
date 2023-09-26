@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="odieresismacron" format="2">
-  <advance width="1191"/>
+  <advance width="1187"/>
   <unicode hex="022B"/>
-  <anchor x="477" y="0" name="bottom"/>
-  <anchor x="1102" y="960" name="horn"/>
-  <anchor x="693" y="0" name="ogonek"/>
+  <anchor x="497" y="-0" name="bottom"/>
+  <anchor x="1078" y="960" name="horn"/>
+  <anchor x="713" y="-0" name="ogonek"/>
   <outline>
     <component base="o"/>
-    <component base="dieresiscomb" xOffset="1397"/>
-    <component base="macroncomb" xOffset="1244" yOffset="324"/>
+    <component base="dieresiscomb" xOffset="1354"/>
+    <component base="macroncomb" xOffset="1230" yOffset="324"/>
   </outline>
   <lib>
   <dict>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="umacron-cy" format="2">
-  <advance width="1034"/>
+  <advance width="1035"/>
   <unicode hex="04EF"/>
-  <anchor x="676" y="984" name="_top"/>
-  <anchor x="673" y="0" name="bottom"/>
+  <anchor x="647" y="984" name="_top"/>
+  <anchor x="706" y="-0" name="bottom"/>
   <outline>
     <component base="u-cy"/>
-    <component base="macroncomb" xOffset="1112"/>
+    <component base="macroncomb" xOffset="1114"/>
   </outline>
   <lib>
   <dict>

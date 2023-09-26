@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="_part.registered" format="2">
-  <advance width="1665"/>
-  <anchor x="924" y="290" name="bottom"/>
-  <anchor x="886" y="1074" name="top"/>
+  <advance width="1654"/>
+  <anchor x="909" y="290" name="bottom"/>
+  <anchor x="871" y="1074" name="top"/>
   <outline>
-    <component base="_part.ring" xOffset="48"/>
-    <component base="_part.R" xOffset="504" yOffset="290"/>
+    <component base="_part.ring" xOffset="33"/>
+    <component base="_part.R" xOffset="489" yOffset="290"/>
   </outline>
   <lib>
   <dict>

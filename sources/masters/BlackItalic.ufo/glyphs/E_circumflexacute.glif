@@ -2,14 +2,14 @@
 <glyph name="Ecircumflexacute" format="2">
   <advance width="1303"/>
   <unicode hex="1EBE"/>
-  <anchor x="498" y="0" name="bottom"/>
-  <anchor x="1030" y="0" name="ogonek"/>
-  <anchor x="1565" y="1734" name="top_right"/>
-  <anchor x="331" y="1400" name="topleft"/>
+  <anchor x="530" y="-0" name="bottom"/>
+  <anchor x="1062" y="-0" name="ogonek"/>
+  <anchor x="1489" y="1734" name="top_right"/>
+  <anchor x="275" y="1400" name="topleft"/>
   <outline>
     <component base="E"/>
-    <component base="circumflexcomb.case" xOffset="1789"/>
-    <component base="acutecomb.case" xOffset="2394" yOffset="334"/>
+    <component base="circumflexcomb.case" xOffset="1734"/>
+    <component base="acutecomb.case" xOffset="2318" yOffset="334"/>
   </outline>
   <lib>
   <dict>

@@ -2,10 +2,10 @@
 <glyph name="Iota" format="2">
   <advance width="578"/>
   <unicode hex="0399"/>
-  <anchor x="127" y="0" name="bottom"/>
-  <anchor x="228" y="0" name="ogonek"/>
-  <anchor x="590" y="1400" name="top"/>
-  <anchor x="398" y="1400" name="topleft"/>
+  <anchor x="157" y="-0" name="bottom"/>
+  <anchor x="258" y="-0" name="ogonek"/>
+  <anchor x="532" y="1400" name="top"/>
+  <anchor x="340" y="1400" name="topleft"/>
   <outline>
     <component base="I"/>
   </outline>

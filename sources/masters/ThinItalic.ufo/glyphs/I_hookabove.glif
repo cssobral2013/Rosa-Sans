@@ -2,12 +2,12 @@
 <glyph name="Ihookabove" format="2">
   <advance width="519"/>
   <unicode hex="1EC8"/>
-  <anchor x="102" y="0" name="bottom"/>
-  <anchor x="160" y="0" name="ogonek"/>
-  <anchor x="426" y="1400" name="topleft"/>
+  <anchor x="131" y="-0" name="bottom"/>
+  <anchor x="189" y="-0" name="ogonek"/>
+  <anchor x="368" y="1400" name="topleft"/>
   <outline>
     <component base="I"/>
-    <component base="hookabovecomb.narrow" xOffset="1260" yOffset="440"/>
+    <component base="hookabovecomb.narrow" xOffset="1181" yOffset="440"/>
   </outline>
   <lib>
   <dict>

@@ -4,20 +4,20 @@
   <unicode hex="03B3"/>
   <outline>
     <contour>
-      <point x="479" y="-420" type="line"/>
-      <point x="614" y="-20" type="line"/>
-      <point x="942" y="294"/>
-      <point x="1205" y="653"/>
-      <point x="1358" y="995" type="curve"/>
-      <point x="956" y="1062" type="line"/>
-      <point x="846" y="821"/>
-      <point x="674" y="519"/>
-      <point x="457" y="276" type="curve"/>
-      <point x="541" y="190" type="line"/>
-      <point x="589" y="1040" type="line"/>
-      <point x="179" y="1040" type="line"/>
-      <point x="204" y="-52" type="line"/>
-      <point x="79" y="-420" type="line"/>
+      <point x="539" y="-420" type="line"/>
+      <point x="648" y="-20" type="line"/>
+      <point x="953" y="297"/>
+      <point x="1194" y="654"/>
+      <point x="1328" y="995" type="curve"/>
+      <point x="925" y="1062" type="line"/>
+      <point x="828" y="817"/>
+      <point x="675" y="510"/>
+      <point x="476" y="276" type="curve"/>
+      <point x="565" y="190" type="line"/>
+      <point x="560" y="1040" type="line"/>
+      <point x="146" y="1040" type="line"/>
+      <point x="241" y="-52" type="line"/>
+      <point x="139" y="-420" type="line"/>
     </contour>
   </outline>
   <lib>

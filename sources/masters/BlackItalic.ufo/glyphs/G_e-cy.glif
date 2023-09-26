@@ -2,17 +2,17 @@
 <glyph name="Ge-cy" format="2">
   <advance width="1083"/>
   <unicode hex="0413"/>
-  <anchor x="481" y="644" name="bar"/>
-  <anchor x="388" y="0" name="descender"/>
-  <anchor x="897" y="1400" name="top"/>
+  <anchor x="472" y="644" name="bar"/>
+  <anchor x="420" y="-0" name="descender"/>
+  <anchor x="841" y="1400" name="top"/>
   <outline>
     <contour>
-      <point x="388" y="0" type="line"/>
-      <point x="729" y="1032" type="line"/>
-      <point x="1225" y="1032" type="line"/>
-      <point x="1347" y="1400" type="line"/>
-      <point x="447" y="1400" type="line"/>
-      <point x="-16" y="0" type="line"/>
+      <point x="420" y="0" type="line"/>
+      <point x="696" y="1032" type="line"/>
+      <point x="1192" y="1032" type="line"/>
+      <point x="1291" y="1400" type="line"/>
+      <point x="391" y="1400" type="line"/>
+      <point x="16" y="0" type="line"/>
     </contour>
   </outline>
   <lib>

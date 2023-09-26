@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pe-cy.loclBGR" format="2">
-  <advance width="1156"/>
-  <anchor x="423" y="0" name="bottom"/>
-  <anchor x="751" y="960" name="top"/>
+  <advance width="1155"/>
+  <anchor x="453" y="-0" name="bottom"/>
+  <anchor x="721" y="960" name="top"/>
   <outline>
     <component base="n"/>
   </outline>

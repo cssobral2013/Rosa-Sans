@@ -8,7 +8,7 @@
   <integer>1400</integer>
   <key>copyright</key>
   <string>Copyright 2020 The Geologica Project Authors (https://github.com/googlefonts/geologica)
-Copyright 2021-2023 The Rosa Sans Project Authors (https://github.com/cssobral2013/rosa-sans)</string>
+Copyright 2020-2023 The Rosa Sans Project Authors (https://github.com/cssobral2013/rosa-sans)</string>
   <key>descender</key>
   <integer>-624</integer>
   <key>familyName</key>
@@ -89,7 +89,7 @@ Copyright 2021-2023 The Rosa Sans Project Authors (https://github.com/cssobral20
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Black</string>
   <key>openTypeNameVersion</key>
-  <string>Version 3.000</string>
+  <string>Version 3.002</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -206,7 +206,7 @@ Copyright 2021-2023 The Rosa Sans Project Authors (https://github.com/cssobral20
   <key>versionMajor</key>
   <integer>3</integer>
   <key>versionMinor</key>
-  <integer>0</integer>
+  <integer>2</integer>
   <key>xHeight</key>
   <integer>1040</integer>
 </dict>

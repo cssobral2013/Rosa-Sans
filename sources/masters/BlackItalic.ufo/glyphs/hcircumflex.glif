@@ -2,12 +2,12 @@
 <glyph name="hcircumflex" format="2">
   <advance width="1363"/>
   <unicode hex="0125"/>
-  <anchor x="637" y="1224" name="bar"/>
-  <anchor x="769" y="1846" name="top"/>
-  <anchor x="1239" y="1774" name="top_right"/>
+  <anchor x="593" y="1224" name="bar"/>
+  <anchor x="684" y="1846" name="top"/>
+  <anchor x="1160" y="1774" name="top_right"/>
   <outline>
     <component base="h"/>
-    <component base="circumflexcomb.case" xOffset="1462" yOffset="40"/>
+    <component base="circumflexcomb.case" xOffset="1405" yOffset="40"/>
   </outline>
   <lib>
   <dict>

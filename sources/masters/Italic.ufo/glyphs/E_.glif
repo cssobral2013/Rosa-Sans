@@ -2,24 +2,24 @@
 <glyph name="E" format="2">
   <advance width="1219"/>
   <unicode hex="0045"/>
-  <anchor x="462" y="0" name="bottom"/>
-  <anchor x="921" y="0" name="ogonek"/>
-  <anchor x="924" y="1400" name="top"/>
-  <anchor x="398" y="1400" name="topleft"/>
+  <anchor x="492" y="-0" name="bottom"/>
+  <anchor x="951" y="-0" name="ogonek"/>
+  <anchor x="867" y="1400" name="top"/>
+  <anchor x="340" y="1400" name="topleft"/>
   <outline>
     <contour>
-      <point x="921" y="0" type="line"/>
-      <point x="979" y="181" type="line"/>
-      <point x="287" y="181" type="line"/>
-      <point x="443" y="647" type="line"/>
-      <point x="1038" y="647" type="line"/>
-      <point x="1094" y="818" type="line"/>
-      <point x="498" y="818" type="line"/>
-      <point x="632" y="1220" type="line"/>
-      <point x="1318" y="1220" type="line"/>
-      <point x="1377" y="1400" type="line"/>
-      <point x="488" y="1400" type="line"/>
-      <point x="26" y="0" type="line"/>
+      <point x="951" y="0" type="line"/>
+      <point x="999" y="181" type="line"/>
+      <point x="306" y="181" type="line"/>
+      <point x="432" y="647" type="line"/>
+      <point x="1028" y="647" type="line"/>
+      <point x="1073" y="818" type="line"/>
+      <point x="477" y="818" type="line"/>
+      <point x="586" y="1220" type="line"/>
+      <point x="1271" y="1220" type="line"/>
+      <point x="1319" y="1400" type="line"/>
+      <point x="431" y="1400" type="line"/>
+      <point x="56" y="0" type="line"/>
     </contour>
   </outline>
   <lib>

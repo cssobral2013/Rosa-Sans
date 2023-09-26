@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ldot" format="2">
-  <advance width="1160"/>
+  <advance width="1147"/>
   <unicode hex="0140"/>
-  <anchor x="153" y="0" name="bottom"/>
-  <anchor x="834" y="1440" name="caron"/>
-  <anchor x="634" y="1440" name="top"/>
+  <anchor x="186" y="-0" name="bottom"/>
+  <anchor x="776" y="1440" name="caron"/>
+  <anchor x="576" y="1440" name="top"/>
   <outline>
     <component base="l"/>
-    <component base="periodcentered.loclCAT" xOffset="581"/>
+    <component base="periodcentered.loclCAT" xOffset="595"/>
   </outline>
   <lib>
   <dict>

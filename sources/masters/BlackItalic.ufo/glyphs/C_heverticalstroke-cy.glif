@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Cheverticalstroke-cy" format="2">
-  <advance width="1474"/>
+  <advance width="1472"/>
   <unicode hex="04B8"/>
-  <anchor x="1146" y="0" name="descender"/>
-  <anchor x="742" y="0" name="descender_alt"/>
-  <anchor x="988" y="1400" name="top"/>
+  <anchor x="1178" y="-0" name="descender"/>
+  <anchor x="774" y="-0" name="descender_alt"/>
+  <anchor x="932" y="1400" name="top"/>
   <outline>
     <component base="Che-cy"/>
-    <component base="_part.verticalstroke.case" xOffset="228" yOffset="-144"/>
+    <component base="_part.verticalstroke.case" xOffset="220" yOffset="-144"/>
   </outline>
   <lib>
   <dict>

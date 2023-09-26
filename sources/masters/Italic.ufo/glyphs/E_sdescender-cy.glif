@@ -2,11 +2,11 @@
 <glyph name="Esdescender-cy" format="2">
   <advance width="1395"/>
   <unicode hex="04AA"/>
-  <anchor x="664" y="0" name="_bottom"/>
-  <anchor x="1016" y="1400" name="top"/>
+  <anchor x="686" y="-0" name="_bottom"/>
+  <anchor x="971" y="1400" name="top"/>
   <outline>
     <component base="Es-cy"/>
-    <component base="cedillacomb" xOffset="1203"/>
+    <component base="cedillacomb" xOffset="1238"/>
   </outline>
   <lib>
   <dict>

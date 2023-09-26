@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcroat" format="2">
-  <advance width="1367"/>
+  <advance width="1366"/>
   <unicode hex="0111"/>
-  <anchor x="1239" y="1224" name="bar"/>
-  <anchor x="1549" y="1440" name="caron"/>
+  <anchor x="1192" y="1224" name="bar"/>
+  <anchor x="1489" y="1440" name="caron"/>
   <outline>
     <component base="d"/>
     <contour>
-      <point x="1564" y="1118" type="line"/>
-      <point x="1633" y="1330" type="line"/>
-      <point x="833" y="1330" type="line"/>
-      <point x="764" y="1118" type="line"/>
+      <point x="1525" y="1118" type="line"/>
+      <point x="1580" y="1330" type="line"/>
+      <point x="780" y="1330" type="line"/>
+      <point x="725" y="1118" type="line"/>
     </contour>
   </outline>
   <lib>

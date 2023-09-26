@@ -2,7 +2,7 @@
 <glyph name="kip" format="2">
   <advance width="1296"/>
   <unicode hex="20AD"/>
-  <anchor x="940" y="1402" name="_top"/>
+  <anchor x="884" y="1402" name="_top"/>
   <outline>
     <component base="_part.kip" yOffset="2"/>
     <component base="_part.currencyBarHorizontalSingle" xOffset="-2" yOffset="2"/>

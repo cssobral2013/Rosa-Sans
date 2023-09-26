@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caroncomb" format="2">
   <unicode hex="030C"/>
-  <anchor x="-721" y="984" name="_top"/>
+  <anchor x="-698" y="984" name="_top"/>
   <outline>
     <contour>
-      <point x="-571" y="1170" type="line"/>
-      <point x="-174" y="1516" type="line"/>
-      <point x="-383" y="1516" type="line"/>
-      <point x="-635" y="1289" type="line"/>
-      <point x="-721" y="1516" type="line"/>
-      <point x="-899" y="1516" type="line"/>
-      <point x="-755" y="1170" type="line"/>
+      <point x="-560" y="1170" type="line"/>
+      <point x="-186" y="1516" type="line"/>
+      <point x="-393" y="1516" type="line"/>
+      <point x="-630" y="1289" type="line"/>
+      <point x="-730" y="1516" type="line"/>
+      <point x="-911" y="1516" type="line"/>
+      <point x="-745" y="1170" type="line"/>
     </contour>
   </outline>
   <lib>

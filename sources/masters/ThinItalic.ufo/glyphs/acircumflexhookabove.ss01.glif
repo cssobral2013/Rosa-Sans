@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acircumflexhookabove.ss01" format="2">
-  <advance width="1265"/>
-  <anchor x="488" y="0" name="bottom"/>
-  <anchor x="936" y="0" name="ogonek"/>
-  <anchor x="726" y="960" name="top"/>
+  <advance width="1263"/>
+  <anchor x="509" y="-0" name="bottom"/>
+  <anchor x="964" y="-0" name="ogonek"/>
+  <anchor x="701" y="960" name="top"/>
   <outline>
     <component base="a.ss01"/>
-    <component base="circumflexcomb_hookabovecomb" xOffset="1437"/>
+    <component base="circumflexcomb_hookabovecomb" xOffset="1388"/>
   </outline>
   <lib>
   <dict>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="otildemacron" format="2">
-  <advance width="1222"/>
+  <advance width="1218"/>
   <unicode hex="022D"/>
-  <anchor x="489" y="0" name="bottom"/>
-  <anchor x="1125" y="984" name="horn"/>
-  <anchor x="722" y="0" name="ogonek"/>
+  <anchor x="510" y="-0" name="bottom"/>
+  <anchor x="1100" y="984" name="horn"/>
+  <anchor x="743" y="-0" name="ogonek"/>
   <outline>
     <component base="o"/>
-    <component base="tildecomb" xOffset="1454"/>
-    <component base="macroncomb" xOffset="1302" yOffset="396"/>
+    <component base="tildecomb" xOffset="1407"/>
+    <component base="macroncomb" xOffset="1283" yOffset="396"/>
   </outline>
   <lib>
   <dict>

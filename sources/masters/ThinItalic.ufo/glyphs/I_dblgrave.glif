@@ -2,12 +2,12 @@
 <glyph name="Idblgrave" format="2">
   <advance width="519"/>
   <unicode hex="0208"/>
-  <anchor x="102" y="0" name="bottom"/>
-  <anchor x="160" y="0" name="ogonek"/>
-  <anchor x="426" y="1400" name="topleft"/>
+  <anchor x="131" y="-0" name="bottom"/>
+  <anchor x="189" y="-0" name="ogonek"/>
+  <anchor x="368" y="1400" name="topleft"/>
   <outline>
     <component base="I"/>
-    <component base="dblgravecomb.narrow" xOffset="1200" yOffset="440"/>
+    <component base="dblgravecomb.narrow" xOffset="1133" yOffset="440"/>
   </outline>
   <lib>
   <dict>

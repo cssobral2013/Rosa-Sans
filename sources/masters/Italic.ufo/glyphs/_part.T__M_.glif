@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="_part.T_M" format="2">
-  <advance width="2939"/>
-  <anchor x="627" y="699" name="bar"/>
-  <anchor x="396" y="0" name="bottom"/>
-  <anchor x="859" y="1400" name="top"/>
+  <advance width="2938"/>
+  <anchor x="613" y="699" name="bar"/>
+  <anchor x="426" y="-0" name="bottom"/>
+  <anchor x="801" y="1400" name="top"/>
   <outline>
     <component base="T"/>
     <component base="M" xOffset="1116"/>

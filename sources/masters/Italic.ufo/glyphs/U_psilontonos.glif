@@ -2,12 +2,12 @@
 <glyph name="Upsilontonos" format="2">
   <advance width="1225"/>
   <unicode hex="038E"/>
-  <anchor x="270" y="1400" name="_topleft"/>
-  <anchor x="446" y="0" name="bottom"/>
-  <anchor x="908" y="1400" name="top"/>
+  <anchor x="212" y="1400" name="_topleft"/>
+  <anchor x="478" y="-0" name="bottom"/>
+  <anchor x="852" y="1400" name="top"/>
   <outline>
     <component base="Upsilon"/>
-    <component base="tonos.case" xOffset="-460"/>
+    <component base="tonos.case" xOffset="-461"/>
   </outline>
   <lib>
   <dict>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yerudieresis-cy" format="2">
-  <advance width="1337"/>
+  <advance width="1344"/>
   <unicode hex="04F9"/>
-  <anchor x="522" y="0" name="bottom"/>
-  <anchor x="921" y="1284" name="top"/>
+  <anchor x="551" y="-0" name="bottom"/>
+  <anchor x="882" y="1284" name="top"/>
   <outline>
     <component base="yeru-cy"/>
-    <component base="dieresiscomb" xOffset="1498"/>
+    <component base="dieresiscomb" xOffset="1460"/>
   </outline>
   <lib>
   <dict>

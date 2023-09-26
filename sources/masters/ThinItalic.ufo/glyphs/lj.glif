@@ -2,9 +2,9 @@
 <glyph name="lj" format="2">
   <advance width="907"/>
   <unicode hex="01C9"/>
-  <anchor x="67" y="0" name="bottom"/>
-  <anchor x="604" y="1440" name="caron"/>
-  <anchor x="548" y="1440" name="top"/>
+  <anchor x="97" y="-0" name="bottom"/>
+  <anchor x="543" y="1440" name="caron"/>
+  <anchor x="487" y="1440" name="top"/>
   <outline>
     <component base="l"/>
     <component base="j" xOffset="455"/>

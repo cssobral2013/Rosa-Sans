@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="te-cy.loclSRB" format="2">
   <advance width="1030"/>
-  <anchor x="495" y="452" name="bar"/>
-  <anchor x="343" y="0" name="bottom"/>
-  <anchor x="687" y="1040" name="top"/>
+  <anchor x="499" y="452" name="bar"/>
+  <anchor x="376" y="-0" name="bottom"/>
+  <anchor x="654" y="1040" name="top"/>
   <outline>
     <component base="te-cy"/>
   </outline>

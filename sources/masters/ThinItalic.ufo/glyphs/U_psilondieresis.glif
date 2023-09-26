@@ -2,11 +2,11 @@
 <glyph name="Upsilondieresis" format="2">
   <advance width="1180"/>
   <unicode hex="03AB"/>
-  <anchor x="893" y="1400" name="_top"/>
-  <anchor x="990" y="1706" name="top"/>
+  <anchor x="836" y="1400" name="_top"/>
+  <anchor x="914" y="1706" name="top"/>
   <outline>
     <component base="Upsilon"/>
-    <component base="dieresiscomb.case" xOffset="1643" yOffset="2"/>
+    <component base="dieresiscomb.case" xOffset="1593" yOffset="2"/>
   </outline>
   <lib>
   <dict>

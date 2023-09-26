@@ -2,11 +2,11 @@
 <glyph name="NJ" format="2">
   <advance width="2681"/>
   <unicode hex="01CA"/>
-  <anchor x="626" y="0" name="bottom"/>
-  <anchor x="2619" y="1400" name="top"/>
+  <anchor x="658" y="-0" name="bottom"/>
+  <anchor x="2564" y="1400" name="top"/>
   <outline>
     <component base="N"/>
-    <component base="J" xOffset="1596"/>
+    <component base="J" xOffset="1595"/>
   </outline>
   <lib>
   <dict>

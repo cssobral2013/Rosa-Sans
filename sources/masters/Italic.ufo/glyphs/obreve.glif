@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="obreve" format="2">
-  <advance width="1222"/>
+  <advance width="1218"/>
   <unicode hex="014F"/>
-  <anchor x="489" y="0" name="bottom"/>
-  <anchor x="1125" y="984" name="horn"/>
-  <anchor x="722" y="0" name="ogonek"/>
-  <anchor x="883" y="1428" name="top"/>
+  <anchor x="510" y="-0" name="bottom"/>
+  <anchor x="1100" y="984" name="horn"/>
+  <anchor x="743" y="-0" name="ogonek"/>
+  <anchor x="829" y="1428" name="top"/>
   <outline>
     <component base="o"/>
-    <component base="brevecomb" xOffset="1454"/>
+    <component base="brevecomb" xOffset="1406"/>
   </outline>
   <lib>
   <dict>

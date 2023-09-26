@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Dcaron" format="2">
-  <advance width="1491"/>
+  <advance width="1488"/>
   <unicode hex="010E"/>
-  <anchor x="503" y="712" name="bar"/>
+  <anchor x="490" y="712" name="bar"/>
   <outline>
     <component base="D"/>
-    <component base="caroncomb.case" xOffset="1843"/>
+    <component base="caroncomb.case" xOffset="1788"/>
   </outline>
   <lib>
   <dict>

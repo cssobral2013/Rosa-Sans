@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tse-cy" format="2">
-  <advance width="1278"/>
+  <advance width="1277"/>
   <unicode hex="0446"/>
-  <anchor x="420" y="0" name="bottom"/>
+  <anchor x="449" y="-0" name="bottom"/>
   <outline>
     <component base="_part.tse-cy"/>
-    <component base="_part.cy-desc-lc" xOffset="-144"/>
+    <component base="_part.cy-desc-lc" xOffset="-109"/>
   </outline>
   <lib>
   <dict>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="_part.cy-desc-uc-reversed" format="2">
-  <anchor x="-79" y="0" name="_descender"/>
+  <anchor x="-87" y="-0" name="_descender"/>
   <outline>
     <contour>
-      <point x="-310" y="-360" type="line"/>
-      <point x="-191" y="0" type="line"/>
-      <point x="-31" y="0" type="line"/>
-      <point x="3" y="108" type="line"/>
-      <point x="-262" y="108" type="line"/>
-      <point x="-418" y="-360" type="line"/>
+      <point x="-295" y="-360" type="line"/>
+      <point x="-199" y="0" type="line"/>
+      <point x="-39" y="0" type="line"/>
+      <point x="-11" y="108" type="line"/>
+      <point x="-277" y="108" type="line"/>
+      <point x="-403" y="-360" type="line"/>
     </contour>
   </outline>
   <lib>

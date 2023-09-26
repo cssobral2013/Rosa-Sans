@@ -2,10 +2,10 @@
 <glyph name="uhorngrave" format="2">
   <advance width="1523"/>
   <unicode hex="1EEB"/>
-  <anchor x="840" y="1040" name="_top"/>
+  <anchor x="807" y="1040" name="_top"/>
   <outline>
     <component base="uhorn"/>
-    <component base="gravecomb" xOffset="1584"/>
+    <component base="gravecomb" xOffset="1531"/>
   </outline>
   <lib>
   <dict>

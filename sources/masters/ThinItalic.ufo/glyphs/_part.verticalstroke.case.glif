@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="_part.verticalstroke.case" format="2">
-  <advance width="1136"/>
+  <advance width="1170"/>
   <anchor x="510" y="780" name="_center"/>
   <outline>
     <contour>
-      <point x="454" y="460" type="line"/>
-      <point x="666" y="1100" type="line"/>
-      <point x="566" y="1100" type="line"/>
-      <point x="354" y="460" type="line"/>
+      <point x="474" y="460" type="line"/>
+      <point x="646" y="1100" type="line"/>
+      <point x="546" y="1100" type="line"/>
+      <point x="374" y="460" type="line"/>
     </contour>
   </outline>
   <lib>

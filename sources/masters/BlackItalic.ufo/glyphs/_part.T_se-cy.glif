@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="_part.Tse-cy" format="2">
-  <advance width="1600"/>
-  <anchor x="622" y="0" name="bottom"/>
-  <anchor x="1272" y="0" name="descender"/>
+  <advance width="1592"/>
+  <anchor x="654" y="-0" name="bottom"/>
+  <anchor x="1298" y="-0" name="descender"/>
   <outline>
     <contour>
-      <point x="1272" y="0" type="line"/>
-      <point x="1734" y="1400" type="line"/>
-      <point x="1330" y="1400" type="line"/>
-      <point x="989" y="368" type="line"/>
-      <point x="510" y="368" type="line"/>
-      <point x="851" y="1400" type="line"/>
-      <point x="447" y="1400" type="line"/>
-      <point x="-16" y="0" type="line"/>
+      <point x="1298" y="0" type="line"/>
+      <point x="1672" y="1400" type="line"/>
+      <point x="1268" y="1400" type="line"/>
+      <point x="992" y="368" type="line"/>
+      <point x="519" y="368" type="line"/>
+      <point x="795" y="1400" type="line"/>
+      <point x="391" y="1400" type="line"/>
+      <point x="16" y="0" type="line"/>
     </contour>
   </outline>
   <lib>

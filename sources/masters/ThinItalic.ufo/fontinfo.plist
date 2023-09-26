@@ -8,7 +8,7 @@
   <integer>1400</integer>
   <key>copyright</key>
   <string>Copyright 2020 The Geologica Project Authors (https://github.com/googlefonts/geologica)
-Copyright 2021-2023 The Rosa Sans Project Authors (https://github.com/cssobral2013/rosa-sans)</string>
+Copyright 2020-2023 The Rosa Sans Project Authors (https://github.com/cssobral2013/rosa-sans)</string>
   <key>descender</key>
   <integer>-624</integer>
   <key>familyName</key>
@@ -25,9 +25,69 @@ Copyright 2021-2023 The Rosa Sans Project Authors (https://github.com/cssobral20
     <key>y</key>
     <integer>250</integer>
   </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>cy-desc-lc</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>-300</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>cy-desc-uc</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>-360</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>f1</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>1170</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>90</integer>
+    <key>name</key>
+    <string>f2</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>0</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>90</integer>
+    <key>name</key>
+    <string>f3</string>
+    <key>x</key>
+    <integer>-602</integer>
+    <key>y</key>
+    <integer>0</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>f4</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>0</integer>
+  </dict>
   </array>
   <key>italicAngle</key>
-  <integer>-18</integer>
+  <integer>-15</integer>
   <key>openTypeGaspRangeRecords</key>
   <array>
   <dict>
@@ -43,14 +103,14 @@ Copyright 2021-2023 The Rosa Sans Project Authors (https://github.com/cssobral20
   </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2023/09/23 22:27:08</string>
+  <string>2023/09/25 23:06:58</string>
   <key>openTypeHeadFlags</key>
   <array>
   </array>
   <key>openTypeHheaAscender</key>
   <integer>1874</integer>
   <key>openTypeHheaCaretOffset</key>
-  <integer>-159</integer>
+  <integer>-129</integer>
   <key>openTypeHheaDescender</key>
   <integer>-624</integer>
   <key>openTypeHheaLineGap</key>
@@ -68,7 +128,7 @@ Copyright 2021-2023 The Rosa Sans Project Authors (https://github.com/cssobral20
   <key>openTypeNamePreferredFamilyName</key>
   <string>Rosa Sans VF</string>
   <key>openTypeNamePreferredSubfamilyName</key>
-  <string>Thin</string>
+  <string>Thin Italic</string>
   <key>openTypeNameRecords</key>
   <array>
   <dict>
@@ -97,7 +157,7 @@ Copyright 2021-2023 The Rosa Sans Project Authors (https://github.com/cssobral20
   </dict>
   </array>
   <key>openTypeNameVersion</key>
-  <string>Version 3.000</string>
+  <string>Version 1.000</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -108,19 +168,6 @@ Copyright 2021-2023 The Rosa Sans Project Authors (https://github.com/cssobral20
     <integer>7</integer>
     <integer>8</integer>
     <integer>29</integer>
-  </array>
-  <key>openTypeOS2Panose</key>
-  <array>
-    <integer>0</integer>
-    <integer>0</integer>
-    <integer>0</integer>
-    <integer>0</integer>
-    <integer>0</integer>
-    <integer>0</integer>
-    <integer>0</integer>
-    <integer>0</integer>
-    <integer>0</integer>
-    <integer>0</integer>
   </array>
   <key>openTypeOS2Selection</key>
   <array>
@@ -213,11 +260,11 @@ Copyright 2021-2023 The Rosa Sans Project Authors (https://github.com/cssobral20
     <integer>-420</integer>
   </array>
   <key>postscriptFontName</key>
-  <string>RosaSansVF-Thin</string>
+  <string>RosaSansVF-ThinItalic</string>
   <key>postscriptForceBold</key>
   <false/>
   <key>postscriptFullName</key>
-  <string>Rosa Sans VF Thin</string>
+  <string>Rosa Sans VF Thin Italic</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
   <key>postscriptOtherBlues</key>
@@ -246,14 +293,14 @@ Copyright 2021-2023 The Rosa Sans Project Authors (https://github.com/cssobral20
   <key>styleMapStyleName</key>
   <string>italic</string>
   <key>styleName</key>
-  <string>Thin</string>
+  <string>Thin Italic</string>
   <key>unitsPerEm</key>
   <integer>2000</integer>
   <key>versionMajor</key>
   <integer>3</integer>
   <key>versionMinor</key>
-  <integer>0</integer>
+  <integer>2</integer>
   <key>xHeight</key>
-  <integer>960</integer>
+  <integer>1000</integer>
 </dict>
 </plist>

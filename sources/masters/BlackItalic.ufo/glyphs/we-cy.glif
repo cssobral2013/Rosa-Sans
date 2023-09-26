@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="we-cy" format="2">
-  <advance width="1716"/>
+  <advance width="1715"/>
   <unicode hex="051D"/>
-  <anchor x="1022" y="1034" name="top"/>
+  <anchor x="990" y="1034" name="top"/>
   <outline>
     <component base="w"/>
   </outline>

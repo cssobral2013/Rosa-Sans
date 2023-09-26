@@ -4,7 +4,7 @@
   <unicode hex="049D"/>
   <outline>
     <component base="_part.kaverticalstroke-cy"/>
-    <component base="_part.verticalstroke" xOffset="145" yOffset="-254"/>
+    <component base="_part.verticalstroke" xOffset="144" yOffset="-254"/>
   </outline>
   <lib>
   <dict>

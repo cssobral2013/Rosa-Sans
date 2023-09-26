@@ -2,13 +2,13 @@
 <glyph name="Itilde" format="2">
   <advance width="519"/>
   <unicode hex="0128"/>
-  <anchor x="102" y="0" name="bottom"/>
-  <anchor x="160" y="0" name="ogonek"/>
-  <anchor x="692" y="1784" name="top"/>
-  <anchor x="426" y="1400" name="topleft"/>
+  <anchor x="131" y="-0" name="bottom"/>
+  <anchor x="189" y="-0" name="ogonek"/>
+  <anchor x="610" y="1784" name="top"/>
+  <anchor x="368" y="1400" name="topleft"/>
   <outline>
     <component base="I"/>
-    <component base="tildecomb.narrow" xOffset="1230" yOffset="440"/>
+    <component base="tildecomb.narrow" xOffset="1156" yOffset="440"/>
   </outline>
   <lib>
   <dict>

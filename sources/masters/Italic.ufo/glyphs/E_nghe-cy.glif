@@ -2,16 +2,16 @@
 <glyph name="Enghe-cy" format="2">
   <advance width="1931"/>
   <unicode hex="04A4"/>
-  <anchor x="1133" y="0" name="descender"/>
-  <anchor x="1042" y="1400" name="top"/>
-  <anchor x="398" y="1400" name="topleft"/>
+  <anchor x="1162" y="-0" name="descender"/>
+  <anchor x="985" y="1400" name="top"/>
+  <anchor x="340" y="1400" name="topleft"/>
   <outline>
     <component base="En-cy"/>
     <contour>
-      <point x="2113" y="1214" type="line"/>
-      <point x="2174" y="1400" type="line"/>
-      <point x="1394" y="1400" type="line"/>
-      <point x="1536" y="1214" type="line"/>
+      <point x="2067" y="1214" type="line"/>
+      <point x="2116" y="1400" type="line"/>
+      <point x="1337" y="1400" type="line"/>
+      <point x="1490" y="1214" type="line"/>
     </contour>
   </outline>
   <lib>

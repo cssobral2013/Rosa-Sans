@@ -2,10 +2,10 @@
 <glyph name="upsilondieresis" format="2">
   <advance width="1058"/>
   <unicode hex="03CB"/>
-  <anchor x="771" y="1284" name="top"/>
+  <anchor x="719" y="1284" name="top"/>
   <outline>
     <component base="upsilon"/>
-    <component base="dieresiscomb" xOffset="1348"/>
+    <component base="dieresiscomb" xOffset="1298"/>
   </outline>
   <lib>
   <dict>

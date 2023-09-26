@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="j.calt" format="2">
   <advance width="452"/>
-  <anchor x="492" y="1284" name="top"/>
+  <anchor x="441" y="1284" name="top"/>
   <outline>
     <component base="jdotless.calt"/>
     <component base="dotaccentcomb" xOffset="809"/>

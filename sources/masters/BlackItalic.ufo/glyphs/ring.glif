@@ -2,8 +2,8 @@
 <glyph name="ring" format="2">
   <advance width="1000"/>
   <unicode hex="02DA"/>
-  <anchor x="424" y="1040" name="_top"/>
-  <anchor x="606" y="1584" name="top"/>
+  <anchor x="446" y="1040" name="_top"/>
+  <anchor x="593" y="1584" name="top"/>
   <outline>
     <component base="ringcomb" xOffset="1178"/>
   </outline>

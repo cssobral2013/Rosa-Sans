@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="de-cy.loclSRB" format="2">
-  <advance width="1355"/>
-  <anchor x="751" y="1040" name="top"/>
+  <advance width="1351"/>
+  <anchor x="726" y="1040" name="top"/>
   <outline>
     <component base="g.ss01"/>
   </outline>

@@ -4,7 +4,7 @@
   <unicode hex="20B2"/>
   <outline>
     <component base="_part.guarani"/>
-    <component base="_part.currencyVerticalBar" xOffset="-143"/>
+    <component base="_part.currencyVerticalBar" xOffset="-135"/>
   </outline>
   <lib>
   <dict>

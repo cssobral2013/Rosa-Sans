@@ -4,7 +4,7 @@
   <unicode hex="20BC"/>
   <outline>
     <component base="_part.manat"/>
-    <component base="_part.currencyBar_Manat" xOffset="-124"/>
+    <component base="_part.currencyBar_Manat" xOffset="-126"/>
   </outline>
   <lib>
   <dict>

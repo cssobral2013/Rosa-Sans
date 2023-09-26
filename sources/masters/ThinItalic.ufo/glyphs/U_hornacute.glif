@@ -2,10 +2,10 @@
 <glyph name="Uhornacute" format="2">
   <advance width="1544"/>
   <unicode hex="1EE8"/>
-  <anchor x="1028" y="1400" name="_top"/>
+  <anchor x="970" y="1400" name="_top"/>
   <outline>
     <component base="Uhorn"/>
-    <component base="acutecomb.case" xOffset="1806" yOffset="2"/>
+    <component base="acutecomb.case" xOffset="1750" yOffset="2"/>
   </outline>
   <lib>
   <dict>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="numero" format="2">
-  <advance width="2501"/>
+  <advance width="2496"/>
   <unicode hex="2116"/>
-  <anchor x="2149" y="722" name="bottom"/>
-  <anchor x="2585" y="1398" name="horn"/>
-  <anchor x="2281" y="722" name="ogonek"/>
-  <anchor x="2317" y="1398" name="top"/>
+  <anchor x="2127" y="722" name="bottom"/>
+  <anchor x="2531" y="1398" name="horn"/>
+  <anchor x="2259" y="722" name="ogonek"/>
+  <anchor x="2263" y="1398" name="top"/>
   <outline>
     <component base="N"/>
-    <component base="ordmasculine" xOffset="1596"/>
+    <component base="ordmasculine" xOffset="1595"/>
   </outline>
   <lib>
   <dict>

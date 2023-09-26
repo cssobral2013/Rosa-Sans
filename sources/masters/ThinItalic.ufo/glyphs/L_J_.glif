@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LJ" format="2">
-  <advance width="1999"/>
+  <advance width="2000"/>
   <unicode hex="01C7"/>
-  <anchor x="432" y="0" name="bottom"/>
-  <anchor x="638" y="1440" name="caron"/>
-  <anchor x="2048" y="1400" name="top"/>
+  <anchor x="461" y="-0" name="bottom"/>
+  <anchor x="577" y="1440" name="caron"/>
+  <anchor x="1991" y="1400" name="top"/>
   <outline>
     <component base="L"/>
     <component base="J" xOffset="1057"/>

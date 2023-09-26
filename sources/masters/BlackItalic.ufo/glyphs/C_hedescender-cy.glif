@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Chedescender-cy" format="2">
-  <advance width="1594"/>
+  <advance width="1592"/>
   <unicode hex="04B6"/>
-  <anchor x="738" y="636" name="center"/>
-  <anchor x="742" y="0" name="descender_alt"/>
-  <anchor x="988" y="1400" name="top"/>
+  <anchor x="730" y="636" name="center"/>
+  <anchor x="774" y="-0" name="descender_alt"/>
+  <anchor x="932" y="1400" name="top"/>
   <outline>
     <component base="Che-cy"/>
-    <component base="_part.cy-desc-uc" xOffset="1309"/>
+    <component base="_part.cy-desc-uc" xOffset="1340"/>
   </outline>
   <lib>
   <dict>

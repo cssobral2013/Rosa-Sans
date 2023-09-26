@@ -2,10 +2,10 @@
 <glyph name="rinvertedbreve" format="2">
   <advance width="808"/>
   <unicode hex="0213"/>
-  <anchor x="93" y="0" name="bottom"/>
+  <anchor x="124" y="-0" name="bottom"/>
   <outline>
     <component base="r"/>
-    <component base="breveinvertedcomb" xOffset="1354"/>
+    <component base="breveinvertedcomb" xOffset="1300"/>
   </outline>
   <lib>
   <dict>

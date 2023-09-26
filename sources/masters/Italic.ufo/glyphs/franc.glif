@@ -3,12 +3,12 @@
   <advance width="1296"/>
   <unicode hex="20A3"/>
   <outline>
-    <component base="_part.franc" yxScale="0.00457813" xOffset="191"/>
+    <component base="_part.franc" yxScale="0.00370828" yScale="1" xOffset="179"/>
     <contour>
-      <point x="657" y="223" type="line"/>
-      <point x="706" y="368" type="line"/>
-      <point x="71" y="368" type="line"/>
-      <point x="22" y="223" type="line"/>
+      <point x="674" y="223" type="line"/>
+      <point x="714" y="368" type="line"/>
+      <point x="79" y="368" type="line"/>
+      <point x="39" y="223" type="line"/>
     </contour>
   </outline>
   <lib>

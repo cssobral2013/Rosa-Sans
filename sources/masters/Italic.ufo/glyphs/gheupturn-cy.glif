@@ -2,16 +2,16 @@
 <glyph name="gheupturn-cy" format="2">
   <advance width="851"/>
   <unicode hex="0491"/>
-  <anchor x="341" y="479" name="bar"/>
-  <anchor x="194" y="0" name="descender"/>
-  <anchor x="647" y="984" name="top"/>
+  <anchor x="342" y="479" name="bar"/>
+  <anchor x="224" y="-0" name="descender"/>
+  <anchor x="614" y="984" name="top"/>
   <outline>
     <component base="ge-cy"/>
     <contour>
-      <point x="906" y="818" type="line"/>
-      <point x="1059" y="1284" type="line"/>
-      <point x="877" y="1284" type="line"/>
-      <point x="723" y="818" type="line"/>
+      <point x="886" y="818" type="line"/>
+      <point x="1010" y="1284" type="line"/>
+      <point x="828" y="1284" type="line"/>
+      <point x="703" y="818" type="line"/>
     </contour>
   </outline>
   <lib>

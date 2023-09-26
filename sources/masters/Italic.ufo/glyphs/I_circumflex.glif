@@ -2,14 +2,14 @@
 <glyph name="Icircumflex" format="2">
   <advance width="578"/>
   <unicode hex="00CE"/>
-  <anchor x="127" y="0" name="bottom"/>
-  <anchor x="228" y="0" name="ogonek"/>
-  <anchor x="744" y="1872" name="top"/>
-  <anchor x="1011" y="1688" name="top_right"/>
-  <anchor x="398" y="1400" name="topleft"/>
+  <anchor x="157" y="-0" name="bottom"/>
+  <anchor x="258" y="-0" name="ogonek"/>
+  <anchor x="658" y="1872" name="top"/>
+  <anchor x="935" y="1688" name="top_right"/>
+  <anchor x="340" y="1400" name="topleft"/>
   <outline>
     <component base="I"/>
-    <component base="circumflexcomb.narrow" xOffset="1263" yOffset="416"/>
+    <component base="circumflexcomb.narrow" xOffset="1192" yOffset="416"/>
   </outline>
   <lib>
   <dict>

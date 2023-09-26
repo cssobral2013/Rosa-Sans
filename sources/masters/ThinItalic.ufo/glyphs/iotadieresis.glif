@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iotadieresis" format="2">
-  <advance width="570"/>
+  <advance width="573"/>
   <unicode hex="03CA"/>
-  <anchor x="483" y="1284" name="top"/>
+  <anchor x="432" y="1284" name="top"/>
   <outline>
     <component base="iota"/>
-    <component base="dieresiscomb.narrow" xOffset="1060"/>
+    <component base="dieresiscomb.narrow" xOffset="1011"/>
   </outline>
   <lib>
   <dict>

@@ -2,10 +2,10 @@
 <glyph name="Alphatonos" format="2">
   <advance width="1324"/>
   <unicode hex="0386"/>
-  <anchor x="632" y="1400" name="_topleft"/>
+  <anchor x="575" y="1400" name="_topleft"/>
   <outline>
     <component base="Alpha"/>
-    <component base="tonos.case" xOffset="-79"/>
+    <component base="tonos.case" xOffset="-78"/>
   </outline>
   <lib>
   <dict>

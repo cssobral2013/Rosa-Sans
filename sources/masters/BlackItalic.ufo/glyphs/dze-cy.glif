@@ -2,8 +2,8 @@
 <glyph name="dze-cy" format="2">
   <advance width="1085"/>
   <unicode hex="0455"/>
-  <anchor x="391" y="0" name="bottom"/>
-  <anchor x="656" y="1040" name="top"/>
+  <anchor x="420" y="-0" name="bottom"/>
+  <anchor x="636" y="1040" name="top"/>
   <outline>
     <component base="s"/>
   </outline>

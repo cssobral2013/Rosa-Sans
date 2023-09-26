@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eta" format="2">
-  <advance width="1588"/>
+  <advance width="1587"/>
   <unicode hex="0397"/>
-  <anchor x="1085" y="1400" name="top"/>
-  <anchor x="331" y="1400" name="topleft"/>
+  <anchor x="1029" y="1400" name="top"/>
+  <anchor x="275" y="1400" name="topleft"/>
   <outline>
     <component base="H"/>
   </outline>

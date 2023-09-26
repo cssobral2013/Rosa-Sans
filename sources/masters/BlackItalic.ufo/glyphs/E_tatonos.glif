@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Etatonos" format="2">
-  <advance width="1588"/>
+  <advance width="1587"/>
   <unicode hex="0389"/>
-  <anchor x="331" y="1400" name="_topleft"/>
+  <anchor x="275" y="1400" name="_topleft"/>
   <outline>
     <component base="Eta"/>
-    <component base="tonos.case" xOffset="-445"/>
+    <component base="tonos.case" xOffset="-446"/>
   </outline>
   <lib>
   <dict>

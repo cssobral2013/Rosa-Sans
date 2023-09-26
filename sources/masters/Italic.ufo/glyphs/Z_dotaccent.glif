@@ -2,7 +2,7 @@
 <glyph name="Zdotaccent" format="2">
   <advance width="1167"/>
   <unicode hex="017B"/>
-  <anchor x="1000" y="1744" name="top"/>
+  <anchor x="923" y="1744" name="top"/>
   <outline>
     <component base="Z"/>
     <component base="dotaccentcomb.case" xOffset="1391" yOffset="1"/>

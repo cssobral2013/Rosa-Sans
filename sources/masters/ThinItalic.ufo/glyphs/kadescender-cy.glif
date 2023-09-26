@@ -2,10 +2,10 @@
 <glyph name="kadescender-cy" format="2">
   <advance width="1046"/>
   <unicode hex="049B"/>
-  <anchor x="633" y="960" name="top"/>
+  <anchor x="609" y="960" name="top"/>
   <outline>
     <component base="ka-cy"/>
-    <component base="_part.cy-desc-lc-stem" xOffset="-379"/>
+    <component base="_part.cy-desc-lc-stem" xOffset="-342"/>
   </outline>
   <lib>
   <dict>

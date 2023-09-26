@@ -2,10 +2,10 @@
 <glyph name="uhornhookabove" format="2">
   <advance width="1523"/>
   <unicode hex="1EED"/>
-  <anchor x="840" y="1040" name="_top"/>
+  <anchor x="807" y="1040" name="_top"/>
   <outline>
     <component base="uhorn"/>
-    <component base="hookabovecomb" xOffset="1589"/>
+    <component base="hookabovecomb" xOffset="1533"/>
   </outline>
   <lib>
   <dict>

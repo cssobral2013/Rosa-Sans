@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brevecomb_tildecomb" format="2">
-  <anchor x="-741" y="1040" name="_top"/>
-  <anchor x="-454" y="1908" name="top"/>
+  <anchor x="-722" y="1040" name="_top"/>
+  <anchor x="-489" y="1908" name="top"/>
   <outline>
     <component base="brevecomb"/>
-    <component base="tildecomb" xOffset="150" yOffset="444"/>
+    <component base="tildecomb" xOffset="122" yOffset="444"/>
   </outline>
   <lib>
   <dict>

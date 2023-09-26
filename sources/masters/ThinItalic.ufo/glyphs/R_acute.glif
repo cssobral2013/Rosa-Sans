@@ -2,10 +2,10 @@
 <glyph name="Racute" format="2">
   <advance width="1287"/>
   <unicode hex="0154"/>
-  <anchor x="528" y="0" name="bottom"/>
+  <anchor x="557" y="-0" name="bottom"/>
   <outline>
     <component base="R"/>
-    <component base="acutecomb.case" xOffset="1702" yOffset="2"/>
+    <component base="acutecomb.case" xOffset="1646" yOffset="2"/>
   </outline>
   <lib>
   <dict>

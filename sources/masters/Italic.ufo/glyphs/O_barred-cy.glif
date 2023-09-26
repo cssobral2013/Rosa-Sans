@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Obarred-cy" format="2">
-  <advance width="1695"/>
+  <advance width="1689"/>
   <unicode hex="04E8"/>
-  <anchor x="742" y="0" name="bottom"/>
-  <anchor x="1494" y="1400" name="horn"/>
-  <anchor x="971" y="0" name="ogonek"/>
-  <anchor x="1092" y="1400" name="top"/>
-  <anchor x="433" y="1400" name="topleft"/>
+  <anchor x="759" y="-0" name="bottom"/>
+  <anchor x="1445" y="1400" name="horn"/>
+  <anchor x="988" y="-0" name="ogonek"/>
+  <anchor x="1043" y="1400" name="top"/>
+  <anchor x="376" y="1400" name="topleft"/>
   <outline>
     <component base="O"/>
     <contour>
-      <point x="1496" y="636" type="line"/>
-      <point x="1552" y="802" type="line"/>
-      <point x="355" y="802" type="line"/>
-      <point x="298" y="636" type="line"/>
+      <point x="1484" y="636" type="line"/>
+      <point x="1530" y="802" type="line"/>
+      <point x="332" y="802" type="line"/>
+      <point x="287" y="636" type="line"/>
     </contour>
   </outline>
   <lib>

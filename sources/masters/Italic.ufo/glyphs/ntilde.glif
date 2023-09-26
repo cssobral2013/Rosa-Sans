@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ntilde" format="2">
-  <advance width="1218"/>
+  <advance width="1217"/>
   <unicode hex="00F1"/>
-  <anchor x="450" y="0" name="bottom"/>
-  <anchor x="916" y="1380" name="top"/>
+  <anchor x="481" y="-0" name="bottom"/>
+  <anchor x="860" y="1380" name="top"/>
   <outline>
     <component base="n"/>
-    <component base="tildecomb" xOffset="1505"/>
+    <component base="tildecomb" xOffset="1452"/>
   </outline>
   <lib>
   <dict>

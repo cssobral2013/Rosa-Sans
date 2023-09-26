@@ -2,15 +2,15 @@
 <glyph name="dong" format="2">
   <advance width="1296"/>
   <unicode hex="20AB"/>
-  <anchor x="1276" y="1210" name="bar"/>
-  <anchor x="1502" y="1440" name="caron"/>
+  <anchor x="1219" y="1210" name="bar"/>
+  <anchor x="1430" y="1440" name="caron"/>
   <outline>
-    <component base="dcroat" xOffset="47"/>
+    <component base="dcroat" xOffset="38"/>
     <contour>
-      <point x="917" y="-320" type="line"/>
-      <point x="969" y="-161" type="line"/>
-      <point x="-61" y="-161" type="line"/>
-      <point x="-114" y="-320" type="line"/>
+      <point x="957" y="-320" type="line"/>
+      <point x="1000" y="-161" type="line"/>
+      <point x="-30" y="-161" type="line"/>
+      <point x="-73" y="-320" type="line"/>
     </contour>
   </outline>
   <lib>

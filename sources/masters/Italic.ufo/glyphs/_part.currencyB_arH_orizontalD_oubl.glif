@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="_part.currencyBarHorizontalDoubl" format="2">
   <advance width="1296"/>
-  <anchor x="882" y="1400" name="_top"/>
+  <anchor x="838" y="1400" name="_top"/>
   <outline>
     <contour>
-      <point x="1347" y="776" type="line"/>
-      <point x="1392" y="914" type="line"/>
-      <point x="185" y="914" type="line"/>
-      <point x="140" y="776" type="line"/>
+      <point x="1329" y="776" type="line"/>
+      <point x="1365" y="914" type="line"/>
+      <point x="158" y="914" type="line"/>
+      <point x="122" y="776" type="line"/>
     </contour>
     <contour>
-      <point x="1244" y="459" type="line"/>
-      <point x="1288" y="597" type="line"/>
-      <point x="81" y="597" type="line"/>
-      <point x="36" y="459" type="line"/>
+      <point x="1245" y="459" type="line"/>
+      <point x="1281" y="597" type="line"/>
+      <point x="74" y="597" type="line"/>
+      <point x="38" y="459" type="line"/>
     </contour>
   </outline>
   <lib>

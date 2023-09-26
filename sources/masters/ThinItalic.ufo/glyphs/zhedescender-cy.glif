@@ -2,10 +2,10 @@
 <glyph name="zhedescender-cy" format="2">
   <advance width="1486"/>
   <unicode hex="0497"/>
-  <anchor x="888" y="960" name="top"/>
+  <anchor x="859" y="960" name="top"/>
   <outline>
     <component base="zhe-cy"/>
-    <component base="_part.cy-desc-lc-stem" xOffset="61"/>
+    <component base="_part.cy-desc-lc-stem" xOffset="98"/>
   </outline>
   <lib>
   <dict>

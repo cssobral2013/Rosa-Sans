@@ -2,13 +2,13 @@
 <glyph name="Ebreve" format="2">
   <advance width="1183"/>
   <unicode hex="0114"/>
-  <anchor x="446" y="0" name="bottom"/>
-  <anchor x="874" y="0" name="ogonek"/>
-  <anchor x="1049" y="1814" name="top"/>
-  <anchor x="426" y="1400" name="topleft"/>
+  <anchor x="475" y="-0" name="bottom"/>
+  <anchor x="903" y="-0" name="ogonek"/>
+  <anchor x="964" y="1814" name="top"/>
+  <anchor x="368" y="1400" name="topleft"/>
   <outline>
     <component base="E"/>
-    <component base="brevecomb.case" xOffset="1690" yOffset="2"/>
+    <component base="brevecomb.case" xOffset="1633" yOffset="2"/>
   </outline>
   <lib>
   <dict>

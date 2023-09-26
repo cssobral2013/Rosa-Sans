@@ -2,11 +2,11 @@
 <glyph name="Idieresis-cy" format="2">
   <advance width="1494"/>
   <unicode hex="04E4"/>
-  <anchor x="587" y="0" name="bottom"/>
-  <anchor x="1158" y="1744" name="top"/>
+  <anchor x="617" y="-0" name="bottom"/>
+  <anchor x="1080" y="1744" name="top"/>
   <outline>
     <component base="Ii-cy"/>
-    <component base="dieresiscomb.case" xOffset="1825" yOffset="1"/>
+    <component base="dieresiscomb.case" xOffset="1772" yOffset="1"/>
   </outline>
   <lib>
   <dict>

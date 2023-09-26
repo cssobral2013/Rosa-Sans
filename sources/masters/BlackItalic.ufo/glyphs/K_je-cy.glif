@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Kje-cy" format="2">
-  <advance width="1522"/>
+  <advance width="1521"/>
   <unicode hex="040C"/>
-  <anchor x="1223" y="0" name="descender"/>
+  <anchor x="1255" y="-0" name="descender"/>
   <outline>
     <component base="Ka-cy"/>
-    <component base="acutecomb.case" xOffset="1831"/>
+    <component base="acutecomb.case" xOffset="1785"/>
   </outline>
   <lib>
   <dict>
