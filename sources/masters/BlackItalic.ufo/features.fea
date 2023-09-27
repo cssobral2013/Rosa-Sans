@@ -152,7 +152,6 @@ sub macroncomb from [macroncomb.case macroncomb.narrow macroncomb.wide];
 sub strokeshortcomb from [strokeshortcomb.case];
 sub tonos from [tonos.case];
 } aalt;
-
 feature ccmp {
 lookup cyrillic_breve {
   sub @allCyrillic brevecomb' by brevecomb-cy; } cyrillic_breve;
@@ -184,7 +183,6 @@ lookup comb_ligatures {
   sub circumflexcomb tildecomb by circumflexcomb_tildecomb;
 } comb_ligatures;
 } ccmp;
-
 feature locl {
 script latn;
 language CAT;
@@ -242,7 +240,6 @@ language BGR;
   sub hardsign-cy by hardsign-cy.loclBGR;
   sub iu-cy by iu-cy.loclBGR;
 } locl;
-
 feature frac {
 lookup precomposed_fractions {
   sub one slash four by onequarter;
@@ -250,31 +247,26 @@ lookup precomposed_fractions {
   sub three slash four by threequarters;
 } precomposed_fractions;
 } frac;
-
 feature sups {
 lookup superscript {
   sub @sups_src by @sups_dst;
 } superscript;
 } sups;
-
 feature pnum {
 lookup proportional_figures {
   sub @pnum_src by @pnum_dst;
 } proportional_figures;
 } pnum;
-
 feature tnum {
 lookup tabular_figures {
   sub @tnum_src by @tnum_dst;
 } tabular_figures;
 } tnum;
-
 feature ordn {
 lookup ordinal_indicators {
 	sub @figures @ordn_src' by @ordn_dst;
 } ordinal_indicators;
 } ordn;
-
 feature case {
 lookup grek_dieresisCapInsertion {
   sub [Alphatonos Epsilontonos Omicrontonos Upsilontonos] Iota' by Iotadieresis;
@@ -292,7 +284,6 @@ lookup grek_tonosCap {
   sub @grekCapsTonos' @nonLetter @nonLetter by @grekCapsTonosless; 
 } grek_tonosCap;
 } case;
-
 feature calt {
 lookup grek_anoteleia {
 ignore sub @grekAll periodcentered' @grekAll;
@@ -309,7 +300,6 @@ lookup narrowf {
   sub @f_calt_src' @f_calt_triggers by @f_calt_dst;
 } narrowf;
 } calt;
-
 feature ss01 {
 featureNames {
 name "Single-story alternates";
@@ -319,11 +309,9 @@ lookup italic_alternates {
   sub @ss01_src by @ss01_dst;
 } italic_alternates;
 } ss01;
-
 feature salt {
 lookup italic_alternates;
 } salt;
 feature cpsp {
 pos @Uppercase 40 @Uppercase;
 } cpsp;
-
