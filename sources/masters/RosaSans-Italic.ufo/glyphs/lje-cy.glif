@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lje-cy" format="2">
+  <advance width="1730"/>
+  <unicode hex="0459"/>
+  <outline>
+    <contour>
+      <point x="-5" y="-16" type="line"/>
+      <point x="266" y="54"/>
+      <point x="393" y="275"/>
+      <point x="500" y="674" type="curve" smooth="yes"/>
+      <point x="538" y="818" type="line"/>
+      <point x="905" y="818" type="line"/>
+      <point x="1148" y="984" type="line"/>
+      <point x="396" y="984" type="line"/>
+      <point x="314" y="674" type="line" smooth="yes"/>
+      <point x="231" y="353"/>
+      <point x="168" y="223"/>
+      <point x="-43" y="168" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1174" y="0" type="line" smooth="yes"/>
+      <point x="1414" y="0"/>
+      <point x="1603" y="143"/>
+      <point x="1603" y="353" type="curve" smooth="yes"/>
+      <point x="1603" y="551"/>
+      <point x="1473" y="659"/>
+      <point x="1240" y="659" type="curve" smooth="yes"/>
+      <point x="1030" y="659" type="line"/>
+      <point x="988" y="505" type="line"/>
+      <point x="1205" y="505" type="line" smooth="yes"/>
+      <point x="1337" y="505"/>
+      <point x="1394" y="452"/>
+      <point x="1394" y="347" type="curve" smooth="yes"/>
+      <point x="1394" y="232"/>
+      <point x="1305" y="157"/>
+      <point x="1174" y="157" type="curve" smooth="yes"/>
+      <point x="924" y="157" type="line"/>
+      <point x="1148" y="984" type="line"/>
+      <point x="949" y="984" type="line"/>
+      <point x="684" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.89,1,1</string>
+  </dict>
+  </lib>
+</glyph>

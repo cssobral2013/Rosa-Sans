@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ka-cy.loclBGR" format="2">
+  <advance width="1269"/>
+  <anchor x="530" y="0" name="bottom"/>
+  <anchor x="998" y="0" name="descender"/>
+  <anchor x="777" y="1040" name="top"/>
+  <outline>
+    <contour>
+      <point x="1118" y="0" type="line"/>
+      <point x="906" y="532" type="line"/>
+      <point x="1379" y="1040" type="line"/>
+      <point x="939" y="1040" type="line"/>
+      <point x="480" y="535" type="line"/>
+      <point x="666" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="388" y="0" type="line"/>
+      <point x="487" y="370" type="line"/>
+      <point x="807" y="370" type="line"/>
+      <point x="891" y="682" type="line"/>
+      <point x="571" y="682" type="line"/>
+      <point x="775" y="1440" type="line"/>
+      <point x="375" y="1440" type="line"/>
+      <point x="-12" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

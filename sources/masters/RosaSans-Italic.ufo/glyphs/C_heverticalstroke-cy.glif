@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Cheverticalstroke-cy" format="2">
+  <advance width="1372"/>
+  <unicode hex="04B8"/>
+  <anchor x="1053" y="0" name="descender"/>
+  <anchor x="850" y="0" name="descender_alt"/>
+  <anchor x="903" y="1400" name="top"/>
+  <outline>
+    <component base="Che-cy"/>
+    <contour>
+      <point x="672" y="291" type="line"/>
+      <point x="856" y="979" type="line"/>
+      <point x="726" y="979" type="line"/>
+      <point x="542" y="291" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

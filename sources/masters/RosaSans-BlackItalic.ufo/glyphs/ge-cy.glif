@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ge-cy" format="2">
+  <advance width="899"/>
+  <unicode hex="0433"/>
+  <anchor x="335" y="462" name="bar"/>
+  <anchor x="391" y="0" name="descender"/>
+  <anchor x="643" y="1040" name="top"/>
+  <outline>
+    <contour>
+      <point x="391" y="0" type="line"/>
+      <point x="586" y="728" type="line"/>
+      <point x="917" y="728" type="line"/>
+      <point x="1001" y="1040" type="line"/>
+      <point x="267" y="1040" type="line"/>
+      <point x="-9" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

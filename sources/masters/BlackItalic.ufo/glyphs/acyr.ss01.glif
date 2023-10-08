@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="acyr.ss01" format="2">
-  <advance width="1354"/>
-  <anchor x="730" y="1040" name="top"/>
-  <anchor x="562" y="0" name="bottom"/>
-  <outline>
-    <component base="a.ss01"/>
-  </outline>
-</glyph>

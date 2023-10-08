@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncomb.narrow" format="2">
+  <anchor x="-465" y="984" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-121" y="1230" type="line"/>
+      <point x="-79" y="1372" type="line"/>
+      <point x="-639" y="1372" type="line"/>
+      <point x="-683" y="1230" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.834,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

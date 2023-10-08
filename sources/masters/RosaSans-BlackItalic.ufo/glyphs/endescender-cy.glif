@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="endescender-cy" format="2">
+  <advance width="1555"/>
+  <unicode hex="04A3"/>
+  <anchor x="827" y="1040" name="top"/>
+  <outline>
+    <component base="en-cy"/>
+    <contour>
+      <point x="1311" y="-300" type="line"/>
+      <point x="1479" y="312" type="line"/>
+      <point x="1035" y="312" type="line"/>
+      <point x="948" y="0" type="line"/>
+      <point x="1028" y="0" type="line"/>
+      <point x="947" y="-300" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

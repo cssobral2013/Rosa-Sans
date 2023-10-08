@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gehookcyr" format="2">
+  <advance width="1089"/>
+  <unicode hex="0495"/>
+  <anchor x="478" y="985" name="top"/>
+  <anchor x="344" y="479" name="strokeshort"/>
+  <outline>
+    <contour>
+      <point x="579" y="-73" type="line"/>
+      <point x="653" y="-44"/>
+      <point x="751" y="47"/>
+      <point x="799" y="157"/>
+      <point x="799" y="214" type="qcurve" smooth="yes"/>
+      <point x="799" y="330"/>
+      <point x="638" y="437"/>
+      <point x="510" y="437" type="qcurve" smooth="yes"/>
+      <point x="448" y="437"/>
+      <point x="330" y="418"/>
+      <point x="263" y="397" type="qcurve"/>
+      <point x="263" y="553" type="line"/>
+      <point x="336" y="577"/>
+      <point x="474" y="597"/>
+      <point x="542" y="597" type="qcurve" smooth="yes"/>
+      <point x="674" y="597"/>
+      <point x="875" y="509"/>
+      <point x="989" y="344"/>
+      <point x="989" y="226" type="qcurve" smooth="yes"/>
+      <point x="989" y="134"/>
+      <point x="918" y="-37"/>
+      <point x="776" y="-173"/>
+      <point x="669" y="-214" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="157" y="0" type="line"/>
+      <point x="157" y="985" type="line"/>
+      <point x="800" y="985" type="line"/>
+      <point x="800" y="816" type="line"/>
+      <point x="359" y="816" type="line"/>
+      <point x="359" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zhe-cy" format="2">
+  <advance width="2131"/>
+  <unicode hex="0416"/>
+  <anchor x="1860" y="0" name="descender"/>
+  <anchor x="1301" y="1400" name="top"/>
+  <outline>
+    <contour>
+      <point x="2002" y="0" type="line"/>
+      <point x="1663" y="692" type="line"/>
+      <point x="2325" y="1400" type="line"/>
+      <point x="1841" y="1400" type="line"/>
+      <point x="1221" y="720" type="line"/>
+      <point x="1554" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="321" y="0" type="line"/>
+      <point x="1002" y="709" type="line"/>
+      <point x="732" y="1400" type="line"/>
+      <point x="282" y="1400" type="line"/>
+      <point x="560" y="719" type="line"/>
+      <point x="-152" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1128" y="0" type="line"/>
+      <point x="1273" y="560" type="line"/>
+      <point x="1515" y="560" type="line"/>
+      <point x="1613" y="892" type="line"/>
+      <point x="1371" y="892" type="line"/>
+      <point x="1503" y="1400" type="line"/>
+      <point x="1099" y="1400" type="line"/>
+      <point x="967" y="892" type="line"/>
+      <point x="727" y="892" type="line"/>
+      <point x="629" y="560" type="line"/>
+      <point x="871" y="560" type="line"/>
+      <point x="724" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>
