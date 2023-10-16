@@ -2,12 +2,12 @@
 <glyph name="six.tnum" format="2">
   <advance width="1296"/>
   <outline>
-    <component base="six" xOffset="-8"/>
+    <component base="six" xOffset="-20"/>
   </outline>
   <lib>
   <dict>
   <key>public.markColor</key>
-  <string>0.604,1,0.6,1</string>
+  <string>0.6,0.89,1,1</string>
   </dict>
   </lib>
 </glyph>

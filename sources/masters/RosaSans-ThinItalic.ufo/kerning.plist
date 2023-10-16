@@ -4196,16 +4196,6 @@
     <key>public.kern2.R_seven</key>
     <integer>-60</integer>
   </dict>
-  <key>public.kern1.L_four.numr</key>
-  <dict>
-    <key>public.kern2.R_one.numr</key>
-    <integer>-54</integer>
-  </dict>
-  <key>public.kern1.L_fraction</key>
-  <dict>
-    <key>public.kern2.R_four.dnom</key>
-    <integer>-60</integer>
-  </dict>
   <key>public.kern1.L_g</key>
   <dict>
     <key>public.kern2.R_AE</key>
@@ -6871,16 +6861,6 @@
     <integer>-20</integer>
     <key>public.kern2.R_seven</key>
     <integer>-40</integer>
-  </dict>
-  <key>public.kern1.L_three.dnom</key>
-  <dict>
-    <key>public.kern2.R_one.dnom</key>
-    <integer>-14</integer>
-  </dict>
-  <key>public.kern1.L_three.numr</key>
-  <dict>
-    <key>public.kern2.R_one.numr</key>
-    <integer>-14</integer>
   </dict>
   <key>public.kern1.L_two</key>
   <dict>

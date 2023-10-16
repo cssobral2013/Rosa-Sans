@@ -737,10 +737,10 @@
     <string>three</string>
     <string>four</string>
     <string>five</string>
-    <string>six</string>
+    <string>six.ss02</string>
     <string>seven</string>
     <string>eight</string>
-    <string>nine</string>
+    <string>nine.ss02</string>
   </array>
   <key>grekAll</key>
   <array>
@@ -948,20 +948,20 @@
     <string>three</string>
     <string>four</string>
     <string>five</string>
-    <string>six</string>
+    <string>six.ss02</string>
     <string>seven</string>
     <string>eight</string>
-    <string>nine</string>
+    <string>nine.ss02</string>
     <string>zero.tnum</string>
     <string>one.tnum</string>
     <string>two.tnum</string>
     <string>three.tnum</string>
     <string>four.tnum</string>
     <string>five.tnum</string>
-    <string>six.tnum</string>
+    <string>six.ss02.tnum</string>
     <string>seven.tnum</string>
     <string>eight.tnum</string>
-    <string>nine.tnum</string>
+    <string>nine.ss02.tnum</string>
     <string>onesuperior</string>
     <string>twosuperior</string>
     <string>threesuperior</string>
@@ -1118,6 +1118,8 @@
     <string>seven</string>
     <string>eight</string>
     <string>nine</string>
+    <string>six.ss02</string>
+    <string>nine.ss02</string>
   </array>
   <key>pnum_src</key>
   <array>
@@ -1131,6 +1133,8 @@
     <string>seven.tnum</string>
     <string>eight.tnum</string>
     <string>nine.tnum</string>
+    <string>six.tnum.ss02</string>
+    <string>nine.tnum.ss02</string>
   </array>
   <key>public.kern1.L_A</key>
   <array>
@@ -1829,13 +1833,8 @@
   </array>
   <key>public.kern1.L_four.dnom</key>
   <array>
-    <string>four.dnom</string>
     <string>onequarter</string>
     <string>threequarters</string>
-  </array>
-  <key>public.kern1.L_four.numr</key>
-  <array>
-    <string>four.numr</string>
   </array>
   <key>public.kern1.L_fraction</key>
   <array>
@@ -2095,13 +2094,13 @@
     <string>lozenge</string>
     <string>minus</string>
     <string>multiply</string>
-    <string>nine.tnum</string>
+    <string>nine.ss02.tnum</string>
     <string>notequal</string>
     <string>one.tnum</string>
     <string>plus</string>
     <string>plusminus</string>
     <string>seven.tnum</string>
-    <string>six.tnum</string>
+    <string>six.ss02.tnum</string>
     <string>three.tnum</string>
     <string>two.tnum</string>
     <string>zero.tnum</string>
@@ -2152,7 +2151,7 @@
   </array>
   <key>public.kern1.L_nine.ss02</key>
   <array>
-    <string>nine.ss02</string>
+    <string>nine.tnum.ss02</string>
   </array>
   <key>public.kern1.L_numbersign</key>
   <array>
@@ -2256,14 +2255,6 @@
   <key>public.kern1.L_one</key>
   <array>
     <string>one</string>
-  </array>
-  <key>public.kern1.L_one.dnom</key>
-  <array>
-    <string>one.dnom</string>
-  </array>
-  <key>public.kern1.L_one.numr</key>
-  <array>
-    <string>one.numr</string>
   </array>
   <key>public.kern1.L_oslash</key>
   <array>
@@ -2381,11 +2372,11 @@
   </array>
   <key>public.kern1.L_six</key>
   <array>
-    <string>six</string>
+    <string>six.ss02</string>
   </array>
   <key>public.kern1.L_six.ss02</key>
   <array>
-    <string>six.ss02</string>
+    <string>six.tnum.ss02</string>
   </array>
   <key>public.kern1.L_slash</key>
   <array>
@@ -2473,14 +2464,6 @@
   <array>
     <string>three</string>
   </array>
-  <key>public.kern1.L_three.dnom</key>
-  <array>
-    <string>three.dnom</string>
-  </array>
-  <key>public.kern1.L_three.numr</key>
-  <array>
-    <string>three.numr</string>
-  </array>
   <key>public.kern1.L_two</key>
   <array>
     <string>two</string>
@@ -2488,11 +2471,6 @@
   <key>public.kern1.L_two.dnom</key>
   <array>
     <string>onehalf</string>
-    <string>two.dnom</string>
-  </array>
-  <key>public.kern1.L_two.numr</key>
-  <array>
-    <string>two.numr</string>
   </array>
   <key>public.kern1.L_u</key>
   <array>
@@ -2674,7 +2652,7 @@
   </array>
   <key>public.kern1.L_zero</key>
   <array>
-    <string>nine</string>
+    <string>nine.ss02</string>
     <string>zero</string>
   </array>
   <key>public.kern1.L_zeta</key>
@@ -3333,14 +3311,6 @@
   <array>
     <string>four</string>
   </array>
-  <key>public.kern2.R_four.dnom</key>
-  <array>
-    <string>four.dnom</string>
-  </array>
-  <key>public.kern2.R_four.numr</key>
-  <array>
-    <string>four.numr</string>
-  </array>
   <key>public.kern2.R_fraction</key>
   <array>
     <string>fraction</string>
@@ -3585,13 +3555,13 @@
     <string>lozenge</string>
     <string>minus</string>
     <string>multiply</string>
-    <string>nine.tnum</string>
+    <string>nine.ss02.tnum</string>
     <string>notequal</string>
     <string>one.tnum</string>
     <string>plus</string>
     <string>plusminus</string>
     <string>seven.tnum</string>
-    <string>six.tnum</string>
+    <string>six.ss02.tnum</string>
     <string>three.tnum</string>
     <string>two.tnum</string>
     <string>zero.tnum</string>
@@ -3652,11 +3622,11 @@
   </array>
   <key>public.kern2.R_nine</key>
   <array>
-    <string>nine</string>
+    <string>nine.ss02</string>
   </array>
   <key>public.kern2.R_nine.ss02</key>
   <array>
-    <string>nine.ss02</string>
+    <string>nine.tnum.ss02</string>
   </array>
   <key>public.kern2.R_numbersign</key>
   <array>
@@ -3801,13 +3771,8 @@
   <array>
     <string>one</string>
   </array>
-  <key>public.kern2.R_one.dnom</key>
-  <array>
-    <string>one.dnom</string>
-  </array>
   <key>public.kern2.R_one.numr</key>
   <array>
-    <string>one.numr</string>
     <string>onehalf</string>
     <string>onequarter</string>
   </array>
@@ -3912,7 +3877,7 @@
   </array>
   <key>public.kern2.R_six.ss02</key>
   <array>
-    <string>six.ss02</string>
+    <string>six.tnum.ss02</string>
   </array>
   <key>public.kern2.R_slash</key>
   <array>
@@ -3981,26 +3946,13 @@
   <array>
     <string>three</string>
   </array>
-  <key>public.kern2.R_three.dnom</key>
-  <array>
-    <string>three.dnom</string>
-  </array>
   <key>public.kern2.R_three.numr</key>
   <array>
-    <string>three.numr</string>
     <string>threequarters</string>
   </array>
   <key>public.kern2.R_two</key>
   <array>
     <string>two</string>
-  </array>
-  <key>public.kern2.R_two.dnom</key>
-  <array>
-    <string>two.dnom</string>
-  </array>
-  <key>public.kern2.R_two.numr</key>
-  <array>
-    <string>two.numr</string>
   </array>
   <key>public.kern2.R_u</key>
   <array>
@@ -4142,7 +4094,7 @@
   </array>
   <key>public.kern2.R_zero</key>
   <array>
-    <string>six</string>
+    <string>six.ss02</string>
     <string>zero</string>
   </array>
   <key>public.kern2.R_zeta</key>
@@ -4270,6 +4222,8 @@
     <string>seven.tnum</string>
     <string>eight.tnum</string>
     <string>nine.tnum</string>
+    <string>six.tnum.ss02</string>
+    <string>nine.tnum.ss02</string>
   </array>
   <key>tnum_src</key>
   <array>
@@ -4283,6 +4237,8 @@
     <string>seven</string>
     <string>eight</string>
     <string>nine</string>
+    <string>six.ss02</string>
+    <string>nine.ss02</string>
   </array>
 </dict>
 </plist>

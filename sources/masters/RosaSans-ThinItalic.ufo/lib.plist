@@ -91,15 +91,15 @@
     </dict>
   </array>
   <key>com.schriftgestaltung.fontMaster.GSCornerRadius</key>
-  <integer>15</integer>
+  <real>15</real>
   <key>com.schriftgestaltung.fontMaster.GSOffsetHorizontal</key>
-  <integer>-30</integer>
+  <real>-30</real>
   <key>com.schriftgestaltung.fontMaster.GSOffsetProportional</key>
-  <integer>1</integer>
+  <real>1</real>
   <key>com.schriftgestaltung.fontMaster.GSOffsetVertical</key>
-  <integer>-22</integer>
+  <real>-22</real>
   <key>com.schriftgestaltung.fontMaster.Master Icon Glyph Name</key>
-  <integer>0</integer>
+  <real>0</real>
   <key>public.glyphOrder</key>
   <array>
     <string>A</string>
@@ -839,22 +839,22 @@
     <string>three</string>
     <string>four</string>
     <string>five</string>
-    <string>six</string>
+    <string>six.ss02</string>
     <string>seven</string>
     <string>eight</string>
-    <string>nine</string>
+    <string>nine.ss02</string>
     <string>zero.tnum</string>
     <string>one.tnum</string>
     <string>two.tnum</string>
     <string>three.tnum</string>
     <string>four.tnum</string>
     <string>five.tnum</string>
-    <string>six.tnum</string>
+    <string>six.tnum.ss02</string>
     <string>seven.tnum</string>
     <string>eight.tnum</string>
-    <string>nine.tnum</string>
-    <string>six.ss02</string>
-    <string>nine.ss02</string>
+    <string>nine.tnum.ss02</string>
+    <string>six</string>
+    <string>nine</string>
     <string>onesuperior</string>
     <string>twosuperior</string>
     <string>threesuperior</string>
@@ -863,14 +863,6 @@
     <string>onehalf</string>
     <string>onequarter</string>
     <string>threequarters</string>
-    <string>one.dnom</string>
-    <string>two.dnom</string>
-    <string>three.dnom</string>
-    <string>four.dnom</string>
-    <string>one.numr</string>
-    <string>two.numr</string>
-    <string>three.numr</string>
-    <string>four.numr</string>
     <string>period</string>
     <string>comma</string>
     <string>colon</string>
@@ -1077,8 +1069,10 @@
     <string>circumflexcomb_hookabovecomb</string>
     <string>circumflexcomb_tildecomb</string>
     <string>Ka-cy.loclBGR</string>
-    <string>six.tnum.ss02</string>
-    <string>nine.tnum.ss02</string>
+    <string>six.tnum</string>
+    <string>nine.tnum</string>
+    <string>six.ss02.tnum</string>
+    <string>nine.ss02.tnum</string>
   </array>
 </dict>
 </plist>

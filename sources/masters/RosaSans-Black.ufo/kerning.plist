@@ -464,7 +464,7 @@
     <key>public.kern2.R_jaccent</key>
     <integer>120</integer>
   </dict>
-  <key>nine</key>
+  <key>nine.ss02</key>
   <dict>
     <key>public.kern2.R_A</key>
     <integer>-0</integer>
@@ -647,7 +647,7 @@
   </dict>
   <key>public.kern1.L_A</key>
   <dict>
-    <key>six</key>
+    <key>six.ss02</key>
     <integer>-0</integer>
     <key>zero</key>
     <integer>-20</integer>
@@ -709,8 +709,6 @@
     <integer>-100</integer>
     <key>public.kern2.R_quote</key>
     <integer>-160</integer>
-    <key>public.kern2.R_six.ss02</key>
-    <integer>-20</integer>
     <key>public.kern2.R_slash</key>
     <integer>80</integer>
     <key>public.kern2.R_t</key>
@@ -736,7 +734,7 @@
   </dict>
   <key>public.kern1.L_Aogonek</key>
   <dict>
-    <key>six</key>
+    <key>six.ss02</key>
     <integer>-0</integer>
     <key>zero</key>
     <integer>-20</integer>
@@ -802,8 +800,6 @@
     <integer>-100</integer>
     <key>public.kern2.R_quote</key>
     <integer>-160</integer>
-    <key>public.kern2.R_six.ss02</key>
-    <integer>-20</integer>
     <key>public.kern2.R_slash</key>
     <integer>80</integer>
     <key>public.kern2.R_t</key>
@@ -829,7 +825,7 @@
   </dict>
   <key>public.kern1.L_Aviet</key>
   <dict>
-    <key>six</key>
+    <key>six.ss02</key>
     <integer>-0</integer>
     <key>zero</key>
     <integer>-20</integer>
@@ -895,8 +891,6 @@
     <integer>-100</integer>
     <key>public.kern2.R_quote</key>
     <integer>-160</integer>
-    <key>public.kern2.R_six.ss02</key>
-    <integer>-20</integer>
     <key>public.kern2.R_slash</key>
     <integer>80</integer>
     <key>public.kern2.R_t</key>
@@ -937,7 +931,7 @@
   </dict>
   <key>public.kern1.L_C</key>
   <dict>
-    <key>six</key>
+    <key>six.ss02</key>
     <integer>-0</integer>
     <key>zero</key>
     <integer>-40</integer>
@@ -955,12 +949,10 @@
     <integer>80</integer>
     <key>public.kern2.R_jaccent</key>
     <integer>80</integer>
-    <key>public.kern2.R_six.ss02</key>
-    <integer>-40</integer>
   </dict>
   <key>public.kern1.L_Caccent</key>
   <dict>
-    <key>six</key>
+    <key>six.ss02</key>
     <integer>-0</integer>
     <key>zero</key>
     <integer>-40</integer>
@@ -986,8 +978,6 @@
     <integer>120</integer>
     <key>public.kern2.R_jaccent</key>
     <integer>80</integer>
-    <key>public.kern2.R_six.ss02</key>
-    <integer>-40</integer>
   </dict>
   <key>public.kern1.L_E</key>
   <dict>
@@ -1255,7 +1245,7 @@
   </dict>
   <key>public.kern1.L_K</key>
   <dict>
-    <key>six</key>
+    <key>six.ss02</key>
     <integer>-0</integer>
     <key>zero</key>
     <integer>-60</integer>
@@ -1299,8 +1289,6 @@
     <integer>-60</integer>
     <key>public.kern2.R_oslash</key>
     <integer>-40</integer>
-    <key>public.kern2.R_six.ss02</key>
-    <integer>-60</integer>
     <key>public.kern2.R_slash</key>
     <integer>40</integer>
     <key>public.kern2.R_t</key>
@@ -1326,7 +1314,7 @@
   </dict>
   <key>public.kern1.L_L</key>
   <dict>
-    <key>six</key>
+    <key>six.ss02</key>
     <integer>-0</integer>
     <key>zero</key>
     <integer>-40</integer>
@@ -1376,8 +1364,6 @@
     <integer>-200</integer>
     <key>public.kern2.R_seven</key>
     <integer>-40</integer>
-    <key>public.kern2.R_six.ss02</key>
-    <integer>-40</integer>
     <key>public.kern2.R_v</key>
     <integer>-60</integer>
     <key>public.kern2.R_y</key>
@@ -1387,7 +1373,7 @@
   </dict>
   <key>public.kern1.L_Lcaron</key>
   <dict>
-    <key>six</key>
+    <key>six.ss02</key>
     <integer>-0</integer>
     <key>zero</key>
     <integer>-40</integer>
@@ -1438,8 +1424,6 @@
     <key>public.kern2.R_quote</key>
     <integer>-100</integer>
     <key>public.kern2.R_seven</key>
-    <integer>-40</integer>
-    <key>public.kern2.R_six.ss02</key>
     <integer>-40</integer>
     <key>public.kern2.R_v</key>
     <integer>-60</integer>
@@ -2405,7 +2389,7 @@
   </dict>
   <key>public.kern1.L_V</key>
   <dict>
-    <key>six</key>
+    <key>six.ss02</key>
     <integer>-0</integer>
     <key>zero</key>
     <integer>-20</integer>
@@ -2499,8 +2483,6 @@
     <integer>-20</integer>
     <key>public.kern2.R_semicolon</key>
     <integer>-20</integer>
-    <key>public.kern2.R_six.ss02</key>
-    <integer>-20</integer>
     <key>public.kern2.R_slash</key>
     <integer>-80</integer>
     <key>public.kern2.R_u</key>
@@ -2518,7 +2500,7 @@
   </dict>
   <key>public.kern1.L_X</key>
   <dict>
-    <key>six</key>
+    <key>six.ss02</key>
     <integer>-0</integer>
     <key>zero</key>
     <integer>-20</integer>
@@ -2560,8 +2542,6 @@
     <integer>-40</integer>
     <key>public.kern2.R_period</key>
     <integer>40</integer>
-    <key>public.kern2.R_six.ss02</key>
-    <integer>-20</integer>
     <key>public.kern2.R_slash</key>
     <integer>60</integer>
     <key>public.kern2.R_u</key>
@@ -2595,7 +2575,7 @@
     <integer>-60</integer>
     <key>fl</key>
     <integer>-60</integer>
-    <key>six</key>
+    <key>six.ss02</key>
     <integer>-0</integer>
     <key>zero</key>
     <integer>-40</integer>
@@ -2695,8 +2675,6 @@
     <integer>-20</integer>
     <key>public.kern2.R_semicolon</key>
     <integer>-100</integer>
-    <key>public.kern2.R_six.ss02</key>
-    <integer>-40</integer>
     <key>public.kern2.R_slash</key>
     <integer>-140</integer>
     <key>public.kern2.R_t</key>
@@ -3131,7 +3109,7 @@
     <integer>-100</integer>
     <key>fl</key>
     <integer>-100</integer>
-    <key>six</key>
+    <key>six.ss02</key>
     <integer>-0</integer>
     <key>zero</key>
     <integer>-20</integer>
@@ -3195,8 +3173,6 @@
     <integer>-20</integer>
     <key>public.kern2.R_quote</key>
     <integer>-200</integer>
-    <key>public.kern2.R_six.ss02</key>
-    <integer>-20</integer>
     <key>public.kern2.R_slash</key>
     <integer>80</integer>
     <key>public.kern2.R_t</key>
@@ -3510,8 +3486,6 @@
     <integer>40</integer>
     <key>public.kern2.R_nine</key>
     <integer>-0</integer>
-    <key>public.kern2.R_nine.ss02</key>
-    <integer>-60</integer>
     <key>public.kern2.R_one</key>
     <integer>-80</integer>
     <key>public.kern2.R_quote</key>
@@ -3635,8 +3609,6 @@
     <integer>120</integer>
     <key>public.kern2.R_nine</key>
     <integer>-0</integer>
-    <key>public.kern2.R_nine.ss02</key>
-    <integer>-20</integer>
     <key>public.kern2.R_one</key>
     <integer>-180</integer>
     <key>public.kern2.R_seven</key>
@@ -3816,8 +3788,6 @@
     <key>public.kern2.R_saccent</key>
     <integer>80</integer>
     <key>public.kern2.R_seven</key>
-    <integer>120</integer>
-    <key>public.kern2.R_six.ss02</key>
     <integer>120</integer>
     <key>public.kern2.R_three</key>
     <integer>120</integer>
@@ -4330,37 +4300,6 @@
     <integer>-20</integer>
     <key>public.kern2.R_yaccent</key>
     <integer>-20</integer>
-  </dict>
-  <key>public.kern1.L_nine.ss02</key>
-  <dict>
-    <key>public.kern2.R_A</key>
-    <integer>-20</integer>
-    <key>public.kern2.R_Aaccent</key>
-    <integer>-20</integer>
-    <key>public.kern2.R_J</key>
-    <integer>-40</integer>
-    <key>public.kern2.R_Lslash</key>
-    <integer>80</integer>
-    <key>public.kern2.R_V</key>
-    <integer>-20</integer>
-    <key>public.kern2.R_X</key>
-    <integer>-20</integer>
-    <key>public.kern2.R_Y</key>
-    <integer>-40</integer>
-    <key>public.kern2.R_Yaccent</key>
-    <integer>-40</integer>
-    <key>public.kern2.R_comma</key>
-    <integer>-20</integer>
-    <key>public.kern2.R_four</key>
-    <integer>20</integer>
-    <key>public.kern2.R_period</key>
-    <integer>-20</integer>
-    <key>public.kern2.R_seven</key>
-    <integer>-40</integer>
-    <key>public.kern2.R_six.ss02</key>
-    <integer>-0</integer>
-    <key>public.kern2.R_two</key>
-    <integer>-40</integer>
   </dict>
   <key>public.kern1.L_nviet</key>
   <dict>
@@ -4983,7 +4922,7 @@
     <integer>-100</integer>
     <key>fl</key>
     <integer>-100</integer>
-    <key>six</key>
+    <key>six.ss02</key>
     <integer>-0</integer>
     <key>zero</key>
     <integer>-20</integer>
@@ -5047,8 +4986,6 @@
     <integer>-20</integer>
     <key>public.kern2.R_quote</key>
     <integer>-200</integer>
-    <key>public.kern2.R_six.ss02</key>
-    <integer>-20</integer>
     <key>public.kern2.R_slash</key>
     <integer>80</integer>
     <key>public.kern2.R_t</key>
@@ -5441,7 +5378,7 @@
   </dict>
   <key>public.kern1.L_seven</key>
   <dict>
-    <key>six</key>
+    <key>six.ss02</key>
     <integer>-0</integer>
     <key>zero</key>
     <integer>-20</integer>
@@ -5469,8 +5406,6 @@
     <integer>120</integer>
     <key>public.kern2.R_nine</key>
     <integer>-0</integer>
-    <key>public.kern2.R_nine.ss02</key>
-    <integer>-20</integer>
     <key>public.kern2.R_o</key>
     <integer>-80</integer>
     <key>public.kern2.R_oaccent</key>
@@ -5485,8 +5420,6 @@
     <integer>-220</integer>
     <key>public.kern2.R_quote</key>
     <integer>40</integer>
-    <key>public.kern2.R_six.ss02</key>
-    <integer>-20</integer>
     <key>public.kern2.R_two</key>
     <integer>-40</integer>
   </dict>
@@ -5598,21 +5531,6 @@
     <integer>-0</integer>
     <key>public.kern2.R_three</key>
     <integer>-0</integer>
-  </dict>
-  <key>public.kern1.L_six.ss02</key>
-  <dict>
-    <key>public.kern2.R_four</key>
-    <integer>40</integer>
-    <key>public.kern2.R_nine.ss02</key>
-    <integer>-20</integer>
-    <key>public.kern2.R_one</key>
-    <integer>-60</integer>
-    <key>public.kern2.R_quote</key>
-    <integer>-80</integer>
-    <key>public.kern2.R_seven</key>
-    <integer>-40</integer>
-    <key>public.kern2.R_three</key>
-    <integer>-20</integer>
   </dict>
   <key>public.kern1.L_slash</key>
   <dict>

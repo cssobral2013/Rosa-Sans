@@ -99,8 +99,48 @@ Copyright 2020-2023 The Rosa Sans Project Authors (https://github.com/cssobral20
   <string>Rosa Sans VF</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
+  <key>openTypeNameRecords</key>
+  <array>
+  <dict>
+    <key>nameID</key>
+    <integer>256</integer>
+    <key>platformID</key>
+    <integer>1</integer>
+    <key>encodingID</key>
+    <integer>0</integer>
+    <key>languageID</key>
+    <integer>0</integer>
+    <key>string</key>
+    <string>Single-story alternates</string>
+  </dict>
+  <dict>
+    <key>nameID</key>
+    <integer>256</integer>
+    <key>platformID</key>
+    <integer>3</integer>
+    <key>encodingID</key>
+    <integer>1</integer>
+    <key>languageID</key>
+    <integer>1033</integer>
+    <key>string</key>
+    <string>Single-story alternates</string>
+  </dict>
+  </array>
   <key>openTypeNameVersion</key>
   <string>Version 3.004</string>
+  <key>openTypeOS2Panose</key>
+  <array>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+  </array>
   <key>openTypeOS2Selection</key>
   <array>
     <integer>7</integer>

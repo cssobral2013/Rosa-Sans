@@ -395,10 +395,8 @@
     <string>three</string>
     <string>four</string>
     <string>five</string>
-    <string>six.ss02</string>
     <string>seven</string>
     <string>eight</string>
-    <string>nine.ss02</string>
   </array>
   <key>grekAll</key>
   <array>
@@ -648,10 +646,8 @@
     <string>three</string>
     <string>four</string>
     <string>five</string>
-    <string>six.ss02</string>
     <string>seven</string>
     <string>eight</string>
-    <string>nine.ss02</string>
     <string>zero.tnum</string>
     <string>one.tnum</string>
     <string>two.tnum</string>
@@ -789,9 +785,11 @@
     <string>three</string>
     <string>four</string>
     <string>five</string>
-    <string>six.ss02</string>
+    <string>six</string>
     <string>seven</string>
     <string>eight</string>
+    <string>nine</string>
+    <string>six.ss02</string>
     <string>nine.ss02</string>
   </array>
   <key>pnum_src</key>
@@ -802,8 +800,12 @@
     <string>three.tnum</string>
     <string>four.tnum</string>
     <string>five.tnum</string>
+    <string>six.tnum</string>
     <string>seven.tnum</string>
     <string>eight.tnum</string>
+    <string>nine.tnum</string>
+    <string>six.tnum.ss02</string>
+    <string>nine.tnum.ss02</string>
   </array>
   <key>public.kern1.L_A</key>
   <array>
@@ -1533,13 +1535,11 @@
     <string>lozenge</string>
     <string>minus</string>
     <string>multiply</string>
-    <string>nine.tnum</string>
     <string>notequal</string>
     <string>one.tnum</string>
     <string>plus</string>
     <string>plusminus</string>
     <string>seven.tnum</string>
-    <string>six.tnum</string>
     <string>three.tnum</string>
     <string>two.tnum</string>
     <string>zero.tnum</string>
@@ -1577,10 +1577,6 @@
     <string>nacute</string>
     <string>ncaron</string>
     <string>ntilde</string>
-  </array>
-  <key>public.kern1.L_nine.ss02</key>
-  <array>
-    <string>nine.ss02</string>
   </array>
   <key>public.kern1.L_numbersign</key>
   <array>
@@ -1769,10 +1765,6 @@
   </array>
   <key>public.kern1.L_six</key>
   <array>
-    <string>six</string>
-  </array>
-  <key>public.kern1.L_six.ss02</key>
-  <array>
     <string>six.ss02</string>
   </array>
   <key>public.kern1.L_slash</key>
@@ -1954,7 +1946,7 @@
   </array>
   <key>public.kern1.L_zero</key>
   <array>
-    <string>nine</string>
+    <string>nine.ss02</string>
     <string>zero</string>
   </array>
   <key>public.kern1.L_zeta</key>
@@ -2645,13 +2637,11 @@
     <string>lozenge</string>
     <string>minus</string>
     <string>multiply</string>
-    <string>nine.tnum</string>
     <string>notequal</string>
     <string>one.tnum</string>
     <string>plus</string>
     <string>plusminus</string>
     <string>seven.tnum</string>
-    <string>six.tnum</string>
     <string>three.tnum</string>
     <string>two.tnum</string>
     <string>zero.tnum</string>
@@ -2680,10 +2670,6 @@
     <string>rinvertedbreve</string>
   </array>
   <key>public.kern2.R_nine</key>
-  <array>
-    <string>nine</string>
-  </array>
-  <key>public.kern2.R_nine.ss02</key>
   <array>
     <string>nine.ss02</string>
   </array>
@@ -2898,10 +2884,6 @@
   <array>
     <string>seven</string>
   </array>
-  <key>public.kern2.R_six.ss02</key>
-  <array>
-    <string>six.ss02</string>
-  </array>
   <key>public.kern2.R_slash</key>
   <array>
     <string>slash</string>
@@ -3044,7 +3026,7 @@
   </array>
   <key>public.kern2.R_zero</key>
   <array>
-    <string>six</string>
+    <string>six.ss02</string>
     <string>zero</string>
   </array>
   <key>public.kern2.R_zeta</key>
@@ -3139,8 +3121,12 @@
     <string>three.tnum</string>
     <string>four.tnum</string>
     <string>five.tnum</string>
+    <string>six.tnum</string>
     <string>seven.tnum</string>
     <string>eight.tnum</string>
+    <string>nine.tnum</string>
+    <string>six.tnum.ss02</string>
+    <string>nine.tnum.ss02</string>
   </array>
   <key>tnum_src</key>
   <array>
@@ -3150,9 +3136,11 @@
     <string>three</string>
     <string>four</string>
     <string>five</string>
-    <string>six.ss02</string>
+    <string>six</string>
     <string>seven</string>
     <string>eight</string>
+    <string>nine</string>
+    <string>six.ss02</string>
     <string>nine.ss02</string>
   </array>
 </dict>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
   <key>com.schriftgestaltung.fontMaster.com.fontlab.masterFilename</key>
-  <integer>0</integer>
+  <real>0</real>
   <key>public.glyphOrder</key>
   <array>
     <string>.notdef</string>
@@ -29,10 +29,10 @@
     <string>three</string>
     <string>four</string>
     <string>five</string>
-    <string>six.ss02</string>
+    <string>six</string>
     <string>seven</string>
     <string>eight</string>
-    <string>nine.ss02</string>
+    <string>nine</string>
     <string>colon</string>
     <string>semicolon</string>
     <string>less</string>
@@ -844,10 +844,10 @@
     <string>three.tnum</string>
     <string>four.tnum</string>
     <string>five.tnum</string>
-    <string>six.tnum.ss02</string>
+    <string>six.tnum</string>
     <string>seven.tnum</string>
     <string>eight.tnum</string>
-    <string>nine.tnum.ss02</string>
+    <string>nine.tnum</string>
     <string>a.ss01</string>
     <string>f.calt</string>
     <string>g.ss01</string>
@@ -970,10 +970,10 @@
     <string>f_f</string>
     <string>f_f_i</string>
     <string>f_f_l</string>
-    <string>six</string>
-    <string>nine</string>
-    <string>six.tnum</string>
-    <string>nine.tnum</string>
+    <string>six.ss02</string>
+    <string>nine.ss02</string>
+    <string>six.tnum.ss02</string>
+    <string>nine.tnum.ss02</string>
   </array>
 </dict>
 </plist>
