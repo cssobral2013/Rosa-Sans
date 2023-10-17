@@ -5,7 +5,7 @@
   <anchor x="1289" y="0" name="descender"/>
   <anchor x="1140" y="1400" name="top"/>
   <outline>
-    <component base="Ka-cy"/>
+    <component base="Ka-cy" xOffset="288"/>
     <contour>
       <point x="848" y="1400" type="line"/>
       <point x="318" y="1400" type="line"/>
