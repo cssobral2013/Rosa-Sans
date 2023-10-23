@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="umacroncyr" format="2">
-  <advance width="1049"/>
+  <advance width="1100"/>
   <unicode hex="04EF"/>
-  <anchor x="525" y="985" name="top"/>
-  <anchor x="852" y="0" name="bottom"/>
+  <anchor x="550" y="1000" name="top"/>
+  <anchor x="924" y="-0" name="bottom"/>
   <outline>
     <component base="ucyr"/>
-    <component base="macroncomb" xOffset="1127"/>
+    <component base="macroncomb" xOffset="1162"/>
   </outline>
 </glyph>

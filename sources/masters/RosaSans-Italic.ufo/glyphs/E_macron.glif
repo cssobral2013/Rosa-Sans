@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Emacron" format="2">
-  <advance width="1219"/>
+  <advance width="1243"/>
   <unicode hex="0112"/>
-  <anchor x="492" y="0" name="bottom"/>
-  <anchor x="951" y="0" name="ogonek"/>
-  <anchor x="340" y="1400" name="topleft"/>
+  <anchor x="503" y="-0" name="bottom"/>
+  <anchor x="983" y="-0" name="ogonek"/>
+  <anchor x="322" y="1400" name="topleft"/>
   <outline>
     <component base="E"/>
-    <component base="macroncomb.case" xOffset="1424" yOffset="1"/>
+    <component base="macroncomb.case" xOffset="1447" yOffset="1"/>
   </outline>
   <lib>
   <dict>

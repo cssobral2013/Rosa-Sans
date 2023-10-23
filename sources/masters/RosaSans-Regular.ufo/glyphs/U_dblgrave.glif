@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Udblgrave" format="2">
-  <advance width="1475"/>
+  <advance width="1493"/>
   <unicode hex="0214"/>
-  <anchor x="737" y="1400" name="top"/>
-  <anchor x="1297" y="1400" name="horn"/>
-  <anchor x="737" y="0" name="bottom"/>
+  <anchor x="747" y="1400" name="top"/>
+  <anchor x="1324" y="1400" name="horn"/>
+  <anchor x="747" y="-0" name="bottom"/>
   <outline>
     <component base="U"/>
-    <component base="dblgravecomb.case" xOffset="1540" yOffset="1"/>
+    <component base="dblgravecomb.case" xOffset="1558" yOffset="1"/>
   </outline>
 </glyph>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="jcircumflex.calt" format="2">
-  <advance width="513"/>
-  <anchor x="514" y="1456" name="top"/>
-  <anchor x="792" y="1272" name="top_right"/>
+  <advance width="554"/>
+  <anchor x="535" y="1464" name="top"/>
+  <anchor x="855" y="1304" name="top_right"/>
   <outline>
     <component base="jdotless.calt"/>
-    <component base="circumflexcomb.narrow" xOffset="1048"/>
+    <component base="circumflexcomb.narrow" xOffset="1078"/>
   </outline>
   <lib>
   <dict>

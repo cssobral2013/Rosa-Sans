@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="commaturnedabovecomb.case" format="2">
-  <anchor x="-802" y="1399" name="top"/>
+  <anchor x="-810" y="1399" name="top"/>
   <outline>
     <contour>
-      <point x="-800" y="1610" type="qcurve" smooth="yes"/>
-      <point x="-863" y="1610"/>
-      <point x="-941" y="1686"/>
-      <point x="-941" y="1747" type="qcurve" smooth="yes"/>
-      <point x="-941" y="1802"/>
-      <point x="-885" y="1906"/>
-      <point x="-777" y="2002"/>
-      <point x="-698" y="2045" type="qcurve"/>
-      <point x="-622" y="1968" type="line"/>
-      <point x="-672" y="1944"/>
-      <point x="-769" y="1881"/>
-      <point x="-787" y="1846" type="qcurve"/>
-      <point x="-736" y="1840"/>
-      <point x="-666" y="1773"/>
-      <point x="-666" y="1726" type="qcurve" smooth="yes"/>
-      <point x="-666" y="1693"/>
-      <point x="-701" y="1640"/>
-      <point x="-762" y="1610"/>
+      <point x="-808" y="1580" type="qcurve" smooth="yes"/>
+      <point x="-881" y="1580"/>
+      <point x="-973" y="1667"/>
+      <point x="-973" y="1736" type="qcurve" smooth="yes"/>
+      <point x="-973" y="1797"/>
+      <point x="-911" y="1912"/>
+      <point x="-791" y="2016"/>
+      <point x="-702" y="2062" type="qcurve"/>
+      <point x="-611" y="1972" type="line"/>
+      <point x="-660" y="1951"/>
+      <point x="-758" y="1891"/>
+      <point x="-784" y="1854" type="qcurve"/>
+      <point x="-728" y="1845"/>
+      <point x="-651" y="1767"/>
+      <point x="-651" y="1717" type="qcurve" smooth="yes"/>
+      <point x="-651" y="1678"/>
+      <point x="-692" y="1616"/>
+      <point x="-763" y="1580"/>
     </contour>
   </outline>
 </glyph>

@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brevecomb.narrow" format="2">
-  <anchor x="-600" y="985" name="top"/>
-  <anchor x="-600" y="1429" name="top.1"/>
+  <anchor x="-610" y="1000" name="top"/>
+  <anchor x="-610" y="1444" name="top.1"/>
   <outline>
     <contour>
-      <point x="-600" y="1160" type="qcurve" smooth="yes"/>
-      <point x="-697" y="1160"/>
-      <point x="-842" y="1252"/>
-      <point x="-922" y="1413"/>
-      <point x="-919" y="1517" type="qcurve"/>
-      <point x="-751" y="1517" type="line"/>
-      <point x="-755" y="1421"/>
-      <point x="-670" y="1304"/>
-      <point x="-600" y="1304" type="qcurve" smooth="yes"/>
-      <point x="-531" y="1304"/>
-      <point x="-447" y="1421"/>
-      <point x="-452" y="1517" type="qcurve"/>
-      <point x="-283" y="1517" type="line"/>
-      <point x="-281" y="1414"/>
-      <point x="-361" y="1253"/>
-      <point x="-506" y="1160"/>
+      <point x="-610" y="1160" type="qcurve" smooth="yes"/>
+      <point x="-713" y="1160"/>
+      <point x="-868" y="1253"/>
+      <point x="-952" y="1417"/>
+      <point x="-950" y="1524" type="qcurve"/>
+      <point x="-741" y="1524" type="line"/>
+      <point x="-745" y="1438"/>
+      <point x="-671" y="1333"/>
+      <point x="-610" y="1333" type="qcurve" smooth="yes"/>
+      <point x="-550" y="1333"/>
+      <point x="-477" y="1438"/>
+      <point x="-481" y="1524" type="qcurve"/>
+      <point x="-271" y="1524" type="line"/>
+      <point x="-270" y="1419"/>
+      <point x="-355" y="1254"/>
+      <point x="-509" y="1160"/>
     </contour>
   </outline>
 </glyph>

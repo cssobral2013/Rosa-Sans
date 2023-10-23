@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gje-cy" format="2">
-  <advance width="851"/>
+  <advance width="865"/>
   <unicode hex="0453"/>
-  <anchor x="342" y="479" name="bar"/>
-  <anchor x="224" y="0" name="descender"/>
+  <anchor x="340" y="474" name="bar"/>
+  <anchor x="272" y="-0" name="descender"/>
   <outline>
     <component base="ge-cy"/>
-    <component base="acutecomb" xOffset="1312"/>
+    <component base="acutecomb" xOffset="1328"/>
   </outline>
   <lib>
   <dict>

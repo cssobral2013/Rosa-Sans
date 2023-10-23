@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gcommaaccent.ss01" format="2">
-  <advance width="1287"/>
+  <advance width="1306"/>
   <outline>
     <component base="g.ss01"/>
-    <component base="commaturnedabovecomb" xOffset="1417"/>
+    <component base="commaturnedabovecomb" xOffset="1436"/>
   </outline>
   <lib>
   <dict>

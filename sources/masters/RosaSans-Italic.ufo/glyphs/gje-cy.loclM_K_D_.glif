@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gje-cy.loclMKD" format="2">
-  <advance width="851"/>
-  <anchor x="342" y="479" name="bar"/>
-  <anchor x="224" y="0" name="descender"/>
+  <advance width="865"/>
+  <anchor x="340" y="474" name="bar"/>
+  <anchor x="272" y="-0" name="descender"/>
   <outline>
     <component base="gje-cy"/>
   </outline>

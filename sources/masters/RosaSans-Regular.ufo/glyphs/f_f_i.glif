@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f_f_i" format="2">
-  <advance width="2050"/>
+  <advance width="2152"/>
   <unicode hex="FB03"/>
-  <anchor x="1792" y="985" name="top"/>
-  <anchor x="1792" y="0" name="bottom"/>
-  <anchor x="1792" y="1347" name="top.1"/>
+  <anchor x="1875" y="1384" name="top"/>
+  <anchor x="1875" y="-0" name="bottom"/>
   <outline>
     <component base="f"/>
-    <component base="f" xOffset="767"/>
-    <component base="i" xOffset="1534"/>
+    <component base="f" xOffset="799"/>
+    <component base="dotlessi" xOffset="1598"/>
+    <component base="dotaccentcomb" xOffset="2487"/>
   </outline>
 </glyph>

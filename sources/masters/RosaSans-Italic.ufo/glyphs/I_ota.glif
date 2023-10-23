@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iota" format="2">
-  <advance width="578"/>
+  <advance width="617"/>
   <unicode hex="0399"/>
-  <anchor x="157" y="0" name="bottom"/>
-  <anchor x="258" y="0" name="ogonek"/>
-  <anchor x="532" y="1400" name="top"/>
-  <anchor x="340" y="1400" name="topleft"/>
+  <anchor x="175" y="-0" name="bottom"/>
+  <anchor x="305" y="-0" name="ogonek"/>
+  <anchor x="550" y="1400" name="top"/>
+  <anchor x="322" y="1400" name="topleft"/>
   <outline>
     <component base="I"/>
   </outline>

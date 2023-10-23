@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ymacron" format="2">
-  <advance width="1035"/>
+  <advance width="1090"/>
   <unicode hex="0233"/>
-  <anchor x="706" y="0" name="bottom"/>
+  <anchor x="782" y="-0" name="bottom"/>
   <outline>
     <component base="y"/>
-    <component base="macroncomb" xOffset="1114"/>
+    <component base="macroncomb" xOffset="1154"/>
   </outline>
   <lib>
   <dict>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idieresis.calt2" format="2">
+  <advance width="554"/>
+  <anchor x="277" y="1000" name="top"/>
+  <anchor x="277" y="-0" name="bottom"/>
+  <anchor x="277" y="1384" name="top.1"/>
+  <outline>
+    <contour>
+      <point x="149" y="0" type="line"/>
+      <point x="149" y="1000" type="line"/>
+      <point x="405" y="1000" type="line"/>
+      <point x="405" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="505" y="1166" type="qcurve" smooth="yes"/>
+      <point x="445" y="1166"/>
+      <point x="353" y="1249"/>
+      <point x="353" y="1315" type="qcurve" smooth="yes"/>
+      <point x="353" y="1360"/>
+      <point x="396" y="1427"/>
+      <point x="465" y="1464"/>
+      <point x="505" y="1464" type="qcurve" smooth="yes"/>
+      <point x="565" y="1464"/>
+      <point x="657" y="1382"/>
+      <point x="657" y="1315" type="qcurve" smooth="yes"/>
+      <point x="657" y="1271"/>
+      <point x="615" y="1204"/>
+      <point x="545" y="1166"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>idieresis</string>
+  </dict>
+  </lib>
+</glyph>

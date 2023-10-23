@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Shhacyr" format="2">
-  <advance width="1372"/>
+  <advance width="1399"/>
   <unicode hex="04BA"/>
   <outline>
     <contour>
-      <point x="186" y="0" type="line"/>
-      <point x="186" y="1400" type="line"/>
-      <point x="392" y="1400" type="line"/>
-      <point x="392" y="843" type="line"/>
-      <point x="483" y="868"/>
-      <point x="656" y="895"/>
-      <point x="756" y="895" type="qcurve" smooth="yes"/>
-      <point x="918" y="895"/>
-      <point x="1146" y="791"/>
-      <point x="1265" y="567"/>
-      <point x="1265" y="389" type="qcurve" smooth="yes"/>
-      <point x="1265" y="0" type="line"/>
-      <point x="1059" y="0" type="line"/>
-      <point x="1059" y="358" type="line" smooth="yes"/>
-      <point x="1059" y="549"/>
-      <point x="890" y="704"/>
-      <point x="729" y="704" type="qcurve" smooth="yes"/>
-      <point x="628" y="704"/>
-      <point x="470" y="682"/>
-      <point x="392" y="664" type="qcurve"/>
-      <point x="392" y="0" type="line"/>
+      <point x="178" y="0" type="line"/>
+      <point x="178" y="1400" type="line"/>
+      <point x="438" y="1400" type="line"/>
+      <point x="438" y="862" type="line"/>
+      <point x="525" y="887"/>
+      <point x="691" y="913"/>
+      <point x="784" y="913" type="qcurve" smooth="yes"/>
+      <point x="946" y="913"/>
+      <point x="1177" y="807"/>
+      <point x="1301" y="579"/>
+      <point x="1301" y="395" type="qcurve" smooth="yes"/>
+      <point x="1301" y="0" type="line"/>
+      <point x="1041" y="0" type="line"/>
+      <point x="1041" y="358" type="line" smooth="yes"/>
+      <point x="1041" y="535"/>
+      <point x="888" y="678"/>
+      <point x="742" y="678" type="qcurve" smooth="yes"/>
+      <point x="651" y="678"/>
+      <point x="508" y="658"/>
+      <point x="438" y="642" type="qcurve"/>
+      <point x="438" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

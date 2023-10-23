@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zhedescender-cy" format="2">
-  <advance width="1609"/>
+  <advance width="1692"/>
   <unicode hex="0497"/>
-  <anchor x="911" y="984" name="top"/>
+  <anchor x="945" y="1000" name="top"/>
+  <anchor x="1362" y="-0" name="descender"/>
   <outline>
     <component base="zhe-cy"/>
     <contour>
-      <point x="1344" y="-300" type="line"/>
-      <point x="1469" y="166" type="line"/>
-      <point x="1287" y="166" type="line"/>
-      <point x="1162" y="-300" type="line"/>
+      <point x="1426" y="-300" type="line"/>
+      <point x="1563" y="208" type="line"/>
+      <point x="1329" y="208" type="line"/>
+      <point x="1192" y="-300" type="line"/>
     </contour>
   </outline>
   <lib>

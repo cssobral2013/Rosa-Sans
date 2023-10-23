@@ -2,7 +2,7 @@
 <glyph name="five.tnum" format="2">
   <advance width="1296"/>
   <outline>
-    <component base="five" xOffset="77"/>
+    <component base="five" xOffset="73"/>
   </outline>
   <lib>
   <dict>

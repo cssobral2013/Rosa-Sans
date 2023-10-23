@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lslash" format="2">
-  <advance width="1124"/>
+  <advance width="1142"/>
   <unicode hex="0141"/>
-  <anchor x="508" y="0" name="bottom"/>
-  <anchor x="691" y="1440" name="caron"/>
-  <anchor x="576" y="1400" name="top"/>
+  <anchor x="473" y="-0" name="bottom"/>
+  <anchor x="693" y="1440" name="caron"/>
+  <anchor x="550" y="1400" name="top"/>
   <outline>
-    <component base="L" yxScale="0.00296707" xOffset="40"/>
+    <component base="L"/>
     <contour>
-      <point x="349" y="591" type="line"/>
-      <point x="343" y="572" type="line"/>
-      <point x="1097" y="887" type="line"/>
-      <point x="1042" y="1018" type="line"/>
-      <point x="389" y="745" type="line"/>
-      <point x="394" y="764" type="line"/>
-      <point x="31" y="612" type="line"/>
-      <point x="85" y="481" type="line"/>
+      <point x="358" y="576" type="line"/>
+      <point x="351" y="551" type="line"/>
+      <point x="1128" y="875" type="line"/>
+      <point x="1058" y="1045" type="line"/>
+      <point x="410" y="774" type="line"/>
+      <point x="417" y="799" type="line"/>
+      <point x="2" y="627" type="line"/>
+      <point x="72" y="458" type="line"/>
     </contour>
   </outline>
   <lib>

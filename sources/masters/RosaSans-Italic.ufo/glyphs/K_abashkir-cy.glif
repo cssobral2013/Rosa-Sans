@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Kabashkir-cy" format="2">
-  <advance width="1648"/>
+  <advance width="1679"/>
   <unicode hex="04A0"/>
-  <anchor x="1349" y="0" name="descender"/>
-  <anchor x="1155" y="1400" name="top"/>
+  <anchor x="1391" y="-0" name="descender"/>
+  <anchor x="1167" y="1400" name="top"/>
   <outline>
-    <component base="Ka-cy" xOffset="269"/>
+    <component base="Ka-cy" xOffset="261"/>
     <contour>
-      <point x="903" y="1400" type="line"/>
-      <point x="302" y="1400" type="line"/>
-      <point x="253" y="1214" type="line"/>
-      <point x="651" y="1214" type="line"/>
+      <point x="939" y="1400" type="line"/>
+      <point x="292" y="1400" type="line"/>
+      <point x="228" y="1162" type="line"/>
+      <point x="615" y="1162" type="line"/>
     </contour>
   </outline>
   <lib>

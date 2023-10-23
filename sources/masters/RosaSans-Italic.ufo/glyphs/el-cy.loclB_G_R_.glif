@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="el-cy.loclBGR" format="2">
-  <advance width="1023"/>
+  <advance width="1065"/>
   <outline>
     <contour>
-      <point x="529" y="984" type="line"/>
-      <point x="-101" y="0" type="line"/>
-      <point x="124" y="0" type="line"/>
-      <point x="637" y="849" type="line"/>
-      <point x="584" y="860" type="line"/>
-      <point x="647" y="0" type="line"/>
-      <point x="860" y="0" type="line"/>
-      <point x="756" y="984" type="line"/>
+      <point x="516" y="1000" type="line"/>
+      <point x="-111" y="0" type="line"/>
+      <point x="175" y="0" type="line"/>
+      <point x="657" y="832" type="line"/>
+      <point x="592" y="846" type="line"/>
+      <point x="635" y="0" type="line"/>
+      <point x="907" y="0" type="line"/>
+      <point x="812" y="1000" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -20,7 +20,7 @@
     <string>asterisk</string>
     <string>plus</string>
     <string>comma</string>
-    <string>hyphenminus</string>
+    <string>hyphen</string>
     <string>period</string>
     <string>slash</string>
     <string>zero</string>
@@ -776,7 +776,7 @@
     <string>yhoi</string>
     <string>Ytilde</string>
     <string>ytilde</string>
-    <string>hyphen</string>
+    <string>hyphen-gnrl</string>
     <string>endash</string>
     <string>emdash</string>
     <string>quoteleft</string>
@@ -836,18 +836,26 @@
     <string>lozenge</string>
     <string>bracketangleleft</string>
     <string>bracketangleright</string>
+    <string>f_f</string>
     <string>fi</string>
     <string>fl</string>
+    <string>f_f_i</string>
+    <string>f_f_l</string>
+    <string>hyphenminus</string>
     <string>zero.tnum</string>
     <string>one.tnum</string>
     <string>two.tnum</string>
     <string>three.tnum</string>
     <string>four.tnum</string>
     <string>five.tnum</string>
+    <string>six.ss02</string>
     <string>six.tnum</string>
+    <string>six.tnum.ss02</string>
     <string>seven.tnum</string>
     <string>eight.tnum</string>
+    <string>nine.ss02</string>
     <string>nine.tnum</string>
+    <string>nine.tnum.ss02</string>
     <string>a.ss01</string>
     <string>f.calt</string>
     <string>g.ss01</string>
@@ -856,6 +864,8 @@
     <string>ordfeminine.ss01</string>
     <string>periodcentered.loclCAT</string>
     <string>periodcentered.loclCAT.case</string>
+    <string>Idieresis.calt</string>
+    <string>Idieresis.calt2</string>
     <string>agrave.ss01</string>
     <string>aacute.ss01</string>
     <string>acircumflex.ss01</string>
@@ -863,6 +873,8 @@
     <string>adieresis.ss01</string>
     <string>aring.ss01</string>
     <string>ae.ss01</string>
+    <string>idieresis.calt</string>
+    <string>idieresis.calt2</string>
     <string>amacron.ss01</string>
     <string>abreve.ss01</string>
     <string>aogonek.ss01</string>
@@ -966,14 +978,6 @@
     <string>abrevehoi.ss01</string>
     <string>abrevetilde.ss01</string>
     <string>abrevedotbelow.ss01</string>
-    <string>hyphen-gnrl</string>
-    <string>f_f</string>
-    <string>f_f_i</string>
-    <string>f_f_l</string>
-    <string>six.ss02</string>
-    <string>nine.ss02</string>
-    <string>six.tnum.ss02</string>
-    <string>nine.tnum.ss02</string>
   </array>
 </dict>
 </plist>

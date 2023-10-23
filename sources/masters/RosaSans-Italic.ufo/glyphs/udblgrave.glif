@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="udblgrave" format="2">
-  <advance width="1197"/>
+  <advance width="1233"/>
   <unicode hex="0215"/>
-  <anchor x="452" y="0" name="bottom"/>
-  <anchor x="908" y="0" name="descender"/>
-  <anchor x="1173" y="984" name="horn"/>
-  <anchor x="908" y="0" name="ogonek"/>
+  <anchor x="470" y="-0" name="bottom"/>
+  <anchor x="950" y="-0" name="descender"/>
+  <anchor x="1220" y="1000" name="horn"/>
+  <anchor x="950" y="-0" name="ogonek"/>
   <outline>
     <component base="u"/>
-    <component base="dblgravecomb" xOffset="1425"/>
+    <component base="dblgravecomb" xOffset="1456"/>
   </outline>
   <lib>
   <dict>

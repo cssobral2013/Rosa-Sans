@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="a-cy.ss01" format="2">
-  <advance width="1289"/>
-  <anchor x="518" y="0" name="bottom"/>
-  <anchor x="1000" y="0" name="ogonek"/>
-  <anchor x="716" y="984" name="top"/>
+  <advance width="1307"/>
+  <anchor x="524" y="-0" name="bottom"/>
+  <anchor x="1024" y="-0" name="ogonek"/>
+  <anchor x="726" y="1000" name="top"/>
   <outline>
     <component base="a.ss01"/>
   </outline>

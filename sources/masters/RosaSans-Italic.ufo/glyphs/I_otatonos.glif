@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iotatonos" format="2">
-  <advance width="578"/>
+  <advance width="617"/>
   <unicode hex="038A"/>
-  <anchor x="340" y="1400" name="_topleft"/>
-  <anchor x="157" y="0" name="bottom"/>
-  <anchor x="258" y="0" name="ogonek"/>
-  <anchor x="532" y="1400" name="top"/>
+  <anchor x="322" y="1400" name="_topleft"/>
+  <anchor x="175" y="-0" name="bottom"/>
+  <anchor x="305" y="-0" name="ogonek"/>
+  <anchor x="550" y="1400" name="top"/>
   <outline>
     <component base="Iota"/>
-    <component base="tonos.case" xOffset="-333"/>
+    <component base="tonos.case" xOffset="-366"/>
   </outline>
   <lib>
   <dict>

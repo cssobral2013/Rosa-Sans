@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="adieresis-cy" format="2">
-  <advance width="1106"/>
+  <advance width="1138"/>
   <unicode hex="04D3"/>
-  <anchor x="657" y="984" name="_top"/>
-  <anchor x="753" y="1344" name="top"/>
-  <anchor x="396" y="0" name="bottom"/>
-  <anchor x="828" y="0" name="ogonek"/>
+  <anchor x="675" y="1000" name="_top"/>
+  <anchor x="778" y="1384" name="top"/>
+  <anchor x="410" y="-0" name="bottom"/>
+  <anchor x="867" y="-0" name="ogonek"/>
   <outline>
     <component base="a-cy"/>
-    <component base="dieresiscomb" xOffset="1340"/>
+    <component base="dieresiscomb" xOffset="1371"/>
   </outline>
   <lib>
   <dict>

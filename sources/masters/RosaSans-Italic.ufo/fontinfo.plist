@@ -25,36 +25,6 @@ Copyright 2020-2023 The Rosa Sans Project Authors (https://github.com/cssobral20
     <key>y</key>
     <integer>250</integer>
   </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>f1</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>250</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>90</integer>
-    <key>name</key>
-    <string>f2</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>0</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>90</integer>
-    <key>name</key>
-    <string>f3</string>
-    <key>x</key>
-    <integer>-602</integer>
-    <key>y</key>
-    <integer>0</integer>
-  </dict>
   </array>
   <key>italicAngle</key>
   <integer>-15</integer>
@@ -80,7 +50,7 @@ Copyright 2020-2023 The Rosa Sans Project Authors (https://github.com/cssobral20
   <key>openTypeHheaAscender</key>
   <integer>1874</integer>
   <key>openTypeHheaCaretOffset</key>
-  <integer>-131</integer>
+  <integer>-134</integer>
   <key>openTypeHheaDescender</key>
   <integer>-624</integer>
   <key>openTypeHheaLineGap</key>
@@ -98,9 +68,9 @@ Copyright 2020-2023 The Rosa Sans Project Authors (https://github.com/cssobral20
   <key>openTypeNamePreferredFamilyName</key>
   <string>Rosa Sans VF</string>
   <key>openTypeNamePreferredSubfamilyName</key>
-  <string>Regular</string>
+  <string>Italic</string>
   <key>openTypeNameVersion</key>
-  <string>Version 3.004</string>
+  <string>Version 3.005</string>
   <key>openTypeOS2Panose</key>
   <array>
     <integer>0</integer>
@@ -168,22 +138,22 @@ Copyright 2020-2023 The Rosa Sans Project Authors (https://github.com/cssobral20
     <integer>0</integer>
   </array>
   <key>postscriptFontName</key>
-  <string>RosaSansVF-Regular</string>
+  <string>RosaSansVF-Italic</string>
   <key>postscriptForceBold</key>
   <false/>
   <key>postscriptFullName</key>
-  <string>Rosa Sans VF Regular</string>
+  <string>Rosa Sans VF Italic</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
   <key>postscriptStemSnapH</key>
   <array>
-    <integer>166</integer>
-    <integer>196</integer>
+    <integer>208</integer>
+    <integer>254</integer>
   </array>
   <key>postscriptStemSnapV</key>
   <array>
-    <integer>198</integer>
-    <integer>213</integer>
+    <integer>256</integer>
+    <integer>278</integer>
   </array>
   <key>postscriptUnderlinePosition</key>
   <integer>-100</integer>
@@ -194,16 +164,16 @@ Copyright 2020-2023 The Rosa Sans Project Authors (https://github.com/cssobral20
   <key>styleMapFamilyName</key>
   <string>Rosa Sans VF</string>
   <key>styleMapStyleName</key>
-  <string>regular</string>
+  <string>italic</string>
   <key>styleName</key>
-  <string>Regular</string>
+  <string>Italic</string>
   <key>unitsPerEm</key>
   <integer>2000</integer>
   <key>versionMajor</key>
   <integer>3</integer>
   <key>versionMinor</key>
-  <integer>4</integer>
+  <integer>5</integer>
   <key>xHeight</key>
-  <integer>984</integer>
+  <integer>1000</integer>
 </dict>
 </plist>

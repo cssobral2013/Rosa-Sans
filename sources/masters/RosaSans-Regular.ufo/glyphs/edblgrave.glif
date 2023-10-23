@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="edblgrave" format="2">
-  <advance width="1139"/>
+  <advance width="1162"/>
   <unicode hex="0205"/>
-  <anchor x="586" y="985" name="top"/>
-  <anchor x="569" y="0" name="bottom"/>
+  <anchor x="594" y="1000" name="top"/>
+  <anchor x="576" y="-0" name="bottom"/>
   <outline>
     <component base="e"/>
-    <component base="dblgravecomb" xOffset="1188"/>
+    <component base="dblgravecomb" xOffset="1206"/>
   </outline>
 </glyph>

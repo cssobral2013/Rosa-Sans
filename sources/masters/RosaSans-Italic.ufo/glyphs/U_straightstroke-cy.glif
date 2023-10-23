@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ustraightstroke-cy" format="2">
-  <advance width="1225"/>
+  <advance width="1256"/>
   <unicode hex="04B0"/>
-  <anchor x="478" y="0" name="bottom"/>
-  <anchor x="852" y="1400" name="top"/>
-  <anchor x="212" y="1400" name="topleft"/>
+  <anchor x="489" y="-0" name="bottom"/>
+  <anchor x="863" y="1400" name="top"/>
+  <anchor x="202" y="1400" name="topleft"/>
   <outline>
     <component base="Ustraight-cy"/>
-    <component base="strokeshortcomb.case" xOffset="1434" yOffset="-85"/>
+    <component base="strokeshortcomb.case" xOffset="1448" yOffset="-87"/>
   </outline>
   <lib>
   <dict>

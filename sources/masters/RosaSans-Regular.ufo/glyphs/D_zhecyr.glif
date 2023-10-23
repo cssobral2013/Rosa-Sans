@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Dzhecyr" format="2">
-  <advance width="1464"/>
+  <advance width="1492"/>
   <unicode hex="040F"/>
-  <anchor x="742" y="0" name="bottom"/>
+  <anchor x="756" y="-0" name="bottom"/>
   <outline>
     <contour>
-      <point x="186" y="0" type="line"/>
-      <point x="186" y="1400" type="line"/>
-      <point x="392" y="1400" type="line"/>
-      <point x="392" y="189" type="line"/>
-      <point x="1071" y="189" type="line"/>
-      <point x="1071" y="1400" type="line"/>
-      <point x="1277" y="1400" type="line"/>
-      <point x="1277" y="0" type="line"/>
+      <point x="178" y="0" type="line"/>
+      <point x="178" y="1400" type="line"/>
+      <point x="438" y="1400" type="line"/>
+      <point x="438" y="238" type="line"/>
+      <point x="1054" y="238" type="line"/>
+      <point x="1054" y="1400" type="line"/>
+      <point x="1314" y="1400" type="line"/>
+      <point x="1314" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="645" y="-357" type="line"/>
-      <point x="645" y="109" type="line"/>
-      <point x="839" y="109" type="line"/>
-      <point x="839" y="-357" type="line"/>
+      <point x="633" y="-355" type="line"/>
+      <point x="633" y="158" type="line"/>
+      <point x="879" y="158" type="line"/>
+      <point x="879" y="-355" type="line"/>
     </contour>
   </outline>
 </glyph>

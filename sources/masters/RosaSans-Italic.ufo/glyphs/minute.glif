@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="minute" format="2">
-  <advance width="449"/>
+  <advance width="468"/>
   <unicode hex="2032"/>
   <outline>
     <contour>
-      <point x="348" y="905" type="line"/>
-      <point x="611" y="1400" type="line"/>
-      <point x="426" y="1400" type="line"/>
-      <point x="202" y="905" type="line"/>
+      <point x="352" y="847" type="line"/>
+      <point x="642" y="1400" type="line"/>
+      <point x="407" y="1400" type="line"/>
+      <point x="167" y="847" type="line"/>
     </contour>
   </outline>
   <lib>

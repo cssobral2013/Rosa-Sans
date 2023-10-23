@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iota" format="2">
-  <advance width="643"/>
+  <advance width="678"/>
   <unicode hex="03B9"/>
-  <anchor x="248" y="985" name="top"/>
+  <anchor x="267" y="1000" name="top"/>
   <outline>
     <contour>
-      <point x="414" y="-28" type="qcurve" smooth="yes"/>
-      <point x="336" y="-28"/>
-      <point x="215" y="29"/>
-      <point x="147" y="150"/>
-      <point x="147" y="244" type="qcurve" smooth="yes"/>
-      <point x="147" y="985" type="line"/>
-      <point x="349" y="985" type="line"/>
-      <point x="349" y="309" type="line" smooth="yes"/>
-      <point x="349" y="220"/>
-      <point x="399" y="151"/>
-      <point x="458" y="151" type="qcurve" smooth="yes"/>
-      <point x="480" y="151"/>
-      <point x="529" y="163"/>
-      <point x="555" y="174" type="qcurve"/>
-      <point x="592" y="7" type="line"/>
-      <point x="547" y="-9"/>
-      <point x="456" y="-28"/>
+      <point x="438" y="-28" type="qcurve" smooth="yes"/>
+      <point x="350" y="-28"/>
+      <point x="215" y="38"/>
+      <point x="139" y="175"/>
+      <point x="139" y="282" type="qcurve" smooth="yes"/>
+      <point x="139" y="1000" type="line"/>
+      <point x="395" y="1000" type="line"/>
+      <point x="395" y="341" type="line" smooth="yes"/>
+      <point x="395" y="259"/>
+      <point x="445" y="193"/>
+      <point x="499" y="193" type="qcurve" smooth="yes"/>
+      <point x="520" y="193"/>
+      <point x="567" y="205"/>
+      <point x="592" y="214" type="qcurve"/>
+      <point x="632" y="7" type="line"/>
+      <point x="582" y="-10"/>
+      <point x="483" y="-28"/>
     </contour>
   </outline>
 </glyph>

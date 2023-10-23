@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="numero" format="2">
-  <advance width="2349"/>
+  <advance width="2387"/>
   <unicode hex="2116"/>
-  <anchor x="2186" y="1368" name="horn"/>
-  <anchor x="1922" y="722" name="bottom"/>
-  <anchor x="1922" y="1368" name="top"/>
+  <anchor x="2220" y="1376" name="horn"/>
+  <anchor x="1955" y="722" name="bottom"/>
+  <anchor x="1955" y="1376" name="top"/>
   <outline>
     <component base="N"/>
-    <component base="ordmasculine" xOffset="1497"/>
+    <component base="ordmasculine" xOffset="1524"/>
   </outline>
 </glyph>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gcircumflex" format="2">
-  <advance width="1197"/>
+  <advance width="1209"/>
   <unicode hex="011D"/>
-  <anchor x="779" y="1456" name="top"/>
-  <anchor x="1091" y="1272" name="top_right"/>
+  <anchor x="781" y="1464" name="top"/>
+  <anchor x="1134" y="1304" name="top_right"/>
   <outline>
     <component base="g"/>
-    <component base="circumflexcomb" xOffset="1351"/>
+    <component base="circumflexcomb" xOffset="1363"/>
   </outline>
   <lib>
   <dict>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ghestroke-cy" format="2">
-  <advance width="1126"/>
+  <advance width="1142"/>
   <unicode hex="0492"/>
-  <anchor x="338" y="0" name="descender"/>
-  <anchor x="901" y="1400" name="top"/>
+  <anchor x="385" y="-0" name="descender"/>
+  <anchor x="907" y="1400" name="top"/>
   <outline>
     <component base="Ge-cy" xOffset="80"/>
-    <component base="strokeshortcomb.case" xOffset="1340" yOffset="-34"/>
+    <component base="strokeshortcomb.case" xOffset="1342" yOffset="-44"/>
   </outline>
   <lib>
   <dict>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ylongdieresiscyr" format="2">
-  <advance width="1506"/>
+  <advance width="1585"/>
   <unicode hex="04F9"/>
-  <anchor x="767" y="985" name="top"/>
-  <anchor x="749" y="0" name="bottom"/>
-  <anchor x="767" y="1347" name="top.1"/>
+  <anchor x="800" y="1000" name="top"/>
+  <anchor x="795" y="-0" name="bottom"/>
+  <anchor x="800" y="1384" name="top.1"/>
   <outline>
     <component base="ylongcyr"/>
-    <component base="dieresiscomb" xOffset="1369"/>
+    <component base="dieresiscomb" xOffset="1412"/>
   </outline>
 </glyph>

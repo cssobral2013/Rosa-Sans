@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Odieresiscyr" format="2">
-  <advance width="1667"/>
+  <advance width="1662"/>
   <unicode hex="04E6"/>
-  <anchor x="834" y="1400" name="top"/>
-  <anchor x="1236" y="1400" name="horn"/>
-  <anchor x="834" y="0" name="bottom"/>
-  <anchor x="834" y="1746" name="top.1"/>
+  <anchor x="831" y="1400" name="top"/>
+  <anchor x="1234" y="1400" name="horn"/>
+  <anchor x="831" y="-0" name="bottom"/>
+  <anchor x="831" y="1770" name="top.1"/>
   <outline>
     <component base="Ocyr"/>
-    <component base="dieresiscomb.case" xOffset="1637" yOffset="1"/>
+    <component base="dieresiscomb.case" xOffset="1642" yOffset="1"/>
   </outline>
 </glyph>

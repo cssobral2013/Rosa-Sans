@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tecyr.loclSRB" format="2">
-  <advance width="965"/>
-  <anchor x="482" y="985" name="top"/>
-  <anchor x="482" y="0" name="bottom"/>
-  <anchor x="483" y="475" name="strokeshort"/>
+  <advance width="984"/>
+  <anchor x="492" y="1000" name="top"/>
+  <anchor x="492" y="-0" name="bottom"/>
+  <anchor x="493" y="469" name="strokeshort"/>
   <outline>
     <component base="tecyr"/>
   </outline>

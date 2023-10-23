@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="shha-cy" format="2">
-  <advance width="1217"/>
+  <advance width="1259"/>
   <unicode hex="04BB"/>
-  <anchor x="554" y="1210" name="bar"/>
-  <anchor x="514" y="1440" name="top"/>
+  <anchor x="565" y="1214" name="bar"/>
+  <anchor x="532" y="1440" name="top"/>
   <outline>
     <component base="h"/>
   </outline>

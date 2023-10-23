@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="shcha-cy" format="2">
-  <advance width="1906"/>
+  <advance width="1958"/>
   <unicode hex="0449"/>
+  <anchor x="1525" y="-0" name="descender"/>
   <outline>
     <component base="sha-cy"/>
     <contour>
-      <point x="1650" y="-300" type="line"/>
-      <point x="1775" y="166" type="line"/>
-      <point x="1420" y="166" type="line"/>
-      <point x="1374" y="0" type="line"/>
-      <point x="1547" y="0" type="line"/>
-      <point x="1468" y="-300" type="line"/>
+      <point x="1706" y="-300" type="line"/>
+      <point x="1843" y="208" type="line"/>
+      <point x="1463" y="208" type="line"/>
+      <point x="1405" y="0" type="line"/>
+      <point x="1551" y="0" type="line"/>
+      <point x="1472" y="-300" type="line"/>
     </contour>
   </outline>
   <lib>

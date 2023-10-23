@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kgreenlandic" format="2">
-  <advance width="1101"/>
+  <advance width="1149"/>
   <unicode hex="0138"/>
   <outline>
     <contour>
-      <point x="223" y="0" type="line"/>
-      <point x="312" y="330" type="line"/>
-      <point x="503" y="483" type="line"/>
-      <point x="695" y="0" type="line"/>
-      <point x="923" y="0" type="line"/>
-      <point x="676" y="604" type="line"/>
-      <point x="1128" y="984" type="line"/>
-      <point x="880" y="984" type="line"/>
-      <point x="381" y="583" type="line"/>
-      <point x="490" y="984" type="line"/>
-      <point x="289" y="984" type="line"/>
-      <point x="25" y="0" type="line"/>
+      <point x="270" y="0" type="line"/>
+      <point x="354" y="312" type="line"/>
+      <point x="515" y="443" type="line"/>
+      <point x="687" y="0" type="line"/>
+      <point x="979" y="0" type="line"/>
+      <point x="737" y="600" type="line"/>
+      <point x="1199" y="1000" type="line"/>
+      <point x="882" y="1000" type="line"/>
+      <point x="442" y="637" type="line"/>
+      <point x="541" y="1000" type="line"/>
+      <point x="283" y="1000" type="line"/>
+      <point x="14" y="0" type="line"/>
     </contour>
   </outline>
   <lib>

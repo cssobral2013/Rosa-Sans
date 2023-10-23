@@ -262,6 +262,10 @@
   <string>I_dieresis.glif</string>
   <key>Idieresis-cy</key>
   <string>I_dieresis-cy.glif</string>
+  <key>Idieresis.calt</key>
+  <string>I_dieresis.calt.glif</string>
+  <key>Idieresis.calt2</key>
+  <string>I_dieresis.calt2.glif</string>
   <key>Idotaccent</key>
   <string>I_dotaccent.glif</string>
   <key>Idotbelow</key>
@@ -1260,6 +1264,10 @@
   <string>idieresis.glif</string>
   <key>idieresis-cy</key>
   <string>idieresis-cy.glif</string>
+  <key>idieresis.calt</key>
+  <string>idieresis.calt.glif</string>
+  <key>idieresis.calt2</key>
+  <string>idieresis.calt2.glif</string>
   <key>idotaccent</key>
   <string>idotaccent.glif</string>
   <key>idotbelow</key>
@@ -1434,8 +1442,6 @@
   <string>nine.glif</string>
   <key>nine.ss02</key>
   <string>nine.ss02.glif</string>
-  <key>nine.ss02.tnum</key>
-  <string>nine.ss02.tnum.glif</string>
   <key>nine.tnum</key>
   <string>nine.tnum.glif</string>
   <key>nine.tnum.ss02</key>
@@ -1702,8 +1708,6 @@
   <string>six.glif</string>
   <key>six.ss02</key>
   <string>six.ss02.glif</string>
-  <key>six.ss02.tnum</key>
-  <string>six.ss02.tnum.glif</string>
   <key>six.tnum</key>
   <string>six.tnum.glif</string>
   <key>six.tnum.ss02</key>

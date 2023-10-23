@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Acircumflextilde" format="2">
-  <advance width="1376"/>
+  <advance width="1411"/>
   <unicode hex="1EAA"/>
-  <anchor x="550" y="0" name="bottom"/>
-  <anchor x="1207" y="0" name="ogonek"/>
-  <anchor x="1141" y="2209" name="top"/>
-  <anchor x="1368" y="1674" name="top_right"/>
-  <anchor x="554" y="1400" name="topleft"/>
+  <anchor x="570" y="-0" name="bottom"/>
+  <anchor x="1239" y="-0" name="ogonek"/>
+  <anchor x="1160" y="2209" name="top"/>
+  <anchor x="1428" y="1691" name="top_right"/>
+  <anchor x="540" y="1400" name="topleft"/>
   <outline>
     <component base="A"/>
-    <component base="circumflexcomb.case" xOffset="1721" yOffset="1"/>
-    <component base="tildecomb.case" xOffset="1840" yOffset="438"/>
+    <component base="circumflexcomb.case" xOffset="1750" yOffset="1"/>
+    <component base="tildecomb.case" xOffset="1867" yOffset="429"/>
   </outline>
   <lib>
   <dict>

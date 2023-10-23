@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iebreve-cy" format="2">
-  <advance width="1219"/>
+  <advance width="1243"/>
   <unicode hex="04D6"/>
-  <anchor x="492" y="0" name="bottom"/>
-  <anchor x="951" y="0" name="ogonek"/>
-  <anchor x="987" y="1844" name="top"/>
-  <anchor x="340" y="1400" name="topleft"/>
+  <anchor x="503" y="-0" name="bottom"/>
+  <anchor x="983" y="-0" name="ogonek"/>
+  <anchor x="997" y="1844" name="top"/>
+  <anchor x="322" y="1400" name="topleft"/>
   <outline>
     <component base="Ie-cy"/>
-    <component base="brevecomb-cy" xOffset="1564" yOffset="416"/>
+    <component base="brevecomb-cy" xOffset="1582" yOffset="400"/>
   </outline>
   <lib>
   <dict>

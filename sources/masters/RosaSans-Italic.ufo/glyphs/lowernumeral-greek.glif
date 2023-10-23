@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lowernumeral-greek" format="2">
-  <advance width="449"/>
+  <advance width="468"/>
   <unicode hex="0375"/>
   <outline>
     <contour>
-      <point x="-18" y="-420" type="line"/>
-      <point x="206" y="75" type="line"/>
-      <point x="60" y="75" type="line"/>
-      <point x="-203" y="-420" type="line"/>
+      <point x="17" y="-420" type="line"/>
+      <point x="256" y="133" type="line"/>
+      <point x="71" y="133" type="line"/>
+      <point x="-219" y="-420" type="line"/>
     </contour>
   </outline>
   <lib>

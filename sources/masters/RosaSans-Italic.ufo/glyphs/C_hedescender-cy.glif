@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Chedescender-cy" format="2">
-  <advance width="1464"/>
+  <advance width="1501"/>
   <unicode hex="04B6"/>
-  <anchor x="699" y="635" name="center"/>
-  <anchor x="850" y="0" name="descender_alt"/>
-  <anchor x="903" y="1400" name="top"/>
+  <anchor x="708" y="635" name="center"/>
+  <anchor x="829" y="-0" name="descender_alt"/>
+  <anchor x="911" y="1400" name="top"/>
+  <anchor x="1089" y="-0" name="descender"/>
   <outline>
     <component base="Che-cy"/>
     <contour>
-      <point x="1180" y="-357" type="line"/>
-      <point x="1326" y="186" type="line"/>
-      <point x="993" y="186" type="line"/>
-      <point x="942" y="0" type="line"/>
-      <point x="1084" y="0" type="line"/>
-      <point x="989" y="-357" type="line"/>
+      <point x="1218" y="-355" type="line"/>
+      <point x="1378" y="238" type="line"/>
+      <point x="1001" y="238" type="line"/>
+      <point x="937" y="0" type="line"/>
+      <point x="1067" y="0" type="line"/>
+      <point x="972" y="-355" type="line"/>
     </contour>
   </outline>
   <lib>

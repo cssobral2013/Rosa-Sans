@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iegrave-cy" format="2">
-  <advance width="1148"/>
+  <advance width="1173"/>
   <unicode hex="0450"/>
-  <anchor x="692" y="984" name="_top"/>
-  <anchor x="477" y="0" name="bottom"/>
-  <anchor x="819" y="0" name="ogonek"/>
+  <anchor x="704" y="1000" name="_top"/>
+  <anchor x="484" y="-0" name="bottom"/>
+  <anchor x="862" y="-0" name="ogonek"/>
   <outline>
     <component base="ie-cy"/>
-    <component base="gravecomb" xOffset="1391"/>
+    <component base="gravecomb" xOffset="1410"/>
   </outline>
   <lib>
   <dict>

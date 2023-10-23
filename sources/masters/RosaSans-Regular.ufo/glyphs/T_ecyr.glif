@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tecyr" format="2">
-  <advance width="1116"/>
+  <advance width="1135"/>
   <unicode hex="0422"/>
-  <anchor x="558" y="1400" name="top"/>
-  <anchor x="558" y="0" name="bottom"/>
-  <anchor x="558" y="698" name="strokeshort"/>
+  <anchor x="567" y="1400" name="top"/>
+  <anchor x="567" y="-0" name="bottom"/>
+  <anchor x="568" y="683" name="strokeshort"/>
   <outline>
     <component base="T"/>
   </outline>

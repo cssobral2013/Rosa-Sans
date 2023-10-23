@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Elcyr" format="2">
-  <advance width="1488"/>
+  <advance width="1507"/>
   <unicode hex="041B"/>
   <outline>
     <contour>
-      <point x="53" y="166" type="line"/>
-      <point x="120" y="188"/>
-      <point x="216" y="249"/>
-      <point x="282" y="353"/>
-      <point x="320" y="524"/>
-      <point x="336" y="783"/>
-      <point x="336" y="970" type="qcurve" smooth="yes"/>
-      <point x="336" y="1400" type="line"/>
-      <point x="1302" y="1400" type="line"/>
-      <point x="1302" y="0" type="line"/>
-      <point x="1096" y="0" type="line"/>
-      <point x="1096" y="1211" type="line"/>
-      <point x="534" y="1211" type="line"/>
-      <point x="534" y="976" type="line" smooth="yes"/>
-      <point x="534" y="758"/>
-      <point x="508" y="444"/>
-      <point x="451" y="228"/>
-      <point x="357" y="89"/>
-      <point x="223" y="4"/>
-      <point x="133" y="-23" type="qcurve"/>
+      <point x="47" y="214" type="line"/>
+      <point x="114" y="235"/>
+      <point x="210" y="292"/>
+      <point x="274" y="390"/>
+      <point x="310" y="551"/>
+      <point x="325" y="798"/>
+      <point x="325" y="976" type="qcurve" smooth="yes"/>
+      <point x="325" y="1400" type="line"/>
+      <point x="1329" y="1400" type="line"/>
+      <point x="1329" y="0" type="line"/>
+      <point x="1069" y="0" type="line"/>
+      <point x="1069" y="1162" type="line"/>
+      <point x="573" y="1162" type="line"/>
+      <point x="573" y="986" type="line" smooth="yes"/>
+      <point x="573" y="770"/>
+      <point x="547" y="454"/>
+      <point x="486" y="234"/>
+      <point x="386" y="90"/>
+      <point x="239" y="2"/>
+      <point x="139" y="-25" type="qcurve"/>
     </contour>
   </outline>
 </glyph>

@@ -2,10 +2,10 @@
 <glyph name="ring" format="2">
   <advance width="1000"/>
   <unicode hex="02DA"/>
-  <anchor x="441" y="984" name="_top"/>
-  <anchor x="580" y="1500" name="top"/>
+  <anchor x="443" y="1000" name="_top"/>
+  <anchor x="584" y="1524" name="top"/>
   <outline>
-    <component base="ringcomb" xOffset="1142"/>
+    <component base="ringcomb" xOffset="1152"/>
   </outline>
   <lib>
   <dict>

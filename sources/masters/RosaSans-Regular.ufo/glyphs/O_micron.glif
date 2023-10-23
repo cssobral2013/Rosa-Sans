@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Omicron" format="2">
-  <advance width="1667"/>
+  <advance width="1662"/>
   <unicode hex="039F"/>
-  <anchor x="834" y="1400" name="top"/>
-  <anchor x="1236" y="1400" name="horn"/>
-  <anchor x="834" y="0" name="bottom"/>
+  <anchor x="831" y="1400" name="top"/>
+  <anchor x="1234" y="1400" name="horn"/>
+  <anchor x="831" y="-0" name="bottom"/>
   <outline>
     <component base="O"/>
   </outline>

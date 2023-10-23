@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="endescender-cy" format="2">
-  <advance width="1367"/>
+  <advance width="1421"/>
   <unicode hex="04A3"/>
-  <anchor x="746" y="984" name="top"/>
+  <anchor x="769" y="1000" name="top"/>
+  <anchor x="988" y="-0" name="descender"/>
   <outline>
     <component base="en-cy"/>
     <contour>
-      <point x="1111" y="-300" type="line"/>
-      <point x="1236" y="166" type="line"/>
-      <point x="881" y="166" type="line"/>
-      <point x="835" y="0" type="line"/>
-      <point x="1008" y="0" type="line"/>
-      <point x="929" y="-300" type="line"/>
+      <point x="1168" y="-300" type="line"/>
+      <point x="1305" y="208" type="line"/>
+      <point x="925" y="208" type="line"/>
+      <point x="867" y="0" type="line"/>
+      <point x="1013" y="0" type="line"/>
+      <point x="934" y="-300" type="line"/>
     </contour>
   </outline>
   <lib>

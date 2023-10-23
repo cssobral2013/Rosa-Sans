@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ustraightcyr" format="2">
-  <advance width="1032"/>
+  <advance width="1072"/>
   <unicode hex="04AF"/>
-  <anchor x="520" y="-80" name="strokeshort"/>
+  <anchor x="541" y="-80" name="strokeshort"/>
   <outline>
     <contour>
-      <point x="419" y="-420" type="line"/>
-      <point x="419" y="0" type="line"/>
-      <point x="32" y="985" type="line"/>
-      <point x="255" y="985" type="line"/>
-      <point x="549" y="167" type="line"/>
-      <point x="492" y="167" type="line"/>
-      <point x="784" y="985" type="line"/>
-      <point x="1000" y="985" type="line"/>
-      <point x="621" y="0" type="line"/>
-      <point x="621" y="-420" type="line"/>
+      <point x="413" y="-420" type="line"/>
+      <point x="413" y="0" type="line"/>
+      <point x="26" y="1000" type="line"/>
+      <point x="304" y="1000" type="line"/>
+      <point x="576" y="211" type="line"/>
+      <point x="507" y="211" type="line"/>
+      <point x="775" y="1000" type="line"/>
+      <point x="1046" y="1000" type="line"/>
+      <point x="669" y="0" type="line"/>
+      <point x="669" y="-420" type="line"/>
     </contour>
   </outline>
 </glyph>

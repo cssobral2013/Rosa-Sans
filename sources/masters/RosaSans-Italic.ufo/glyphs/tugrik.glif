@@ -2,30 +2,30 @@
 <glyph name="tugrik" format="2">
   <advance width="1296"/>
   <unicode hex="20AE"/>
-  <anchor x="704" y="699" name="bar"/>
-  <anchor x="516" y="0" name="bottom"/>
-  <anchor x="891" y="1400" name="top"/>
+  <anchor x="617" y="683" name="bar"/>
+  <anchor x="434" y="-0" name="bottom"/>
+  <anchor x="809" y="1400" name="top"/>
   <outline>
-    <component base="T" xOffset="90"/>
+    <component base="T"/>
     <contour>
-      <point x="714" y="740" type="line"/>
-      <point x="708" y="713" type="line"/>
-      <point x="1172" y="929" type="line"/>
-      <point x="1210" y="1080" type="line"/>
-      <point x="746" y="864" type="line"/>
-      <point x="752" y="890" type="line"/>
-      <point x="289" y="674" type="line"/>
-      <point x="251" y="524" type="line"/>
+      <point x="700" y="697" type="line"/>
+      <point x="693" y="663" type="line"/>
+      <point x="1152" y="876" type="line"/>
+      <point x="1198" y="1058" type="line"/>
+      <point x="739" y="845" type="line"/>
+      <point x="747" y="879" type="line"/>
+      <point x="289" y="665" type="line"/>
+      <point x="243" y="484" type="line"/>
     </contour>
     <contour>
-      <point x="632" y="427" type="line"/>
-      <point x="626" y="400" type="line"/>
-      <point x="1088" y="617" type="line"/>
-      <point x="1127" y="767" type="line"/>
-      <point x="664" y="551" type="line"/>
-      <point x="670" y="577" type="line"/>
-      <point x="206" y="361" type="line"/>
-      <point x="168" y="211" type="line"/>
+      <point x="616" y="374" type="line"/>
+      <point x="608" y="340" type="line"/>
+      <point x="1065" y="555" type="line"/>
+      <point x="1112" y="735" type="line"/>
+      <point x="654" y="522" type="line"/>
+      <point x="662" y="556" type="line"/>
+      <point x="203" y="343" type="line"/>
+      <point x="156" y="161" type="line"/>
     </contour>
   </outline>
   <lib>

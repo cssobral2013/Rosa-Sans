@@ -2,10 +2,10 @@
 <glyph name="breve" format="2">
   <advance width="1000"/>
   <unicode hex="02D8"/>
-  <anchor x="444" y="984" name="_top"/>
-  <anchor x="565" y="1428" name="top"/>
+  <anchor x="448" y="1000" name="_top"/>
+  <anchor x="568" y="1444" name="top"/>
   <outline>
-    <component base="brevecomb" xOffset="1142"/>
+    <component base="brevecomb" xOffset="1152"/>
   </outline>
   <lib>
   <dict>

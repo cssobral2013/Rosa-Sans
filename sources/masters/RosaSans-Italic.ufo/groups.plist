@@ -550,6 +550,127 @@
     <string>te-cy.loclSRB.ss01</string>
     <string>brevecomb-cy</string>
   </array>
+  <key>calt</key>
+  <array>
+    <string>mu</string>
+    <string>Alpha</string>
+    <string>Beta</string>
+    <string>Chi</string>
+    <string>Delta</string>
+    <string>Epsilon</string>
+    <string>Phi</string>
+    <string>Gamma</string>
+    <string>Eta</string>
+    <string>Iota</string>
+    <string>Kappa</string>
+    <string>Lambda</string>
+    <string>Mu</string>
+    <string>Nu</string>
+    <string>Omicron</string>
+    <string>Pi</string>
+    <string>Theta</string>
+    <string>Rho</string>
+    <string>Sigma</string>
+    <string>Tau</string>
+    <string>Upsilon</string>
+    <string>Omega</string>
+    <string>Xi</string>
+    <string>Psi</string>
+    <string>Zeta</string>
+    <string>alpha</string>
+    <string>beta</string>
+    <string>chi</string>
+    <string>delta</string>
+    <string>epsilon</string>
+    <string>phi</string>
+    <string>gamma</string>
+    <string>eta</string>
+    <string>iota</string>
+    <string>kappa</string>
+    <string>lambda</string>
+    <string>nu</string>
+    <string>omicron</string>
+    <string>pi</string>
+    <string>theta</string>
+    <string>rho</string>
+    <string>sigma</string>
+    <string>tau</string>
+    <string>upsilon</string>
+    <string>omega</string>
+    <string>xi</string>
+    <string>psi</string>
+    <string>zeta</string>
+    <string>Iotadieresis</string>
+    <string>Upsilondieresis</string>
+    <string>alphatonos</string>
+    <string>Alphatonos</string>
+    <string>Epsilontonos</string>
+    <string>Etatonos</string>
+    <string>Iotatonos</string>
+    <string>Omicrontonos</string>
+    <string>Upsilontonos</string>
+    <string>epsilontonos</string>
+    <string>etatonos</string>
+    <string>iotatonos</string>
+    <string>omicrontonos</string>
+    <string>Omegatonos</string>
+    <string>upsilontonos</string>
+    <string>omegatonos</string>
+    <string>iotadieresis</string>
+    <string>upsilondieresis</string>
+    <string>iotadieresistonos</string>
+    <string>upsilondieresistonos</string>
+    <string>sigmafinal</string>
+  </array>
+  <key>calt2</key>
+  <array>
+    <string>parenleft</string>
+    <string>semicolon</string>
+    <string>bracketleft</string>
+    <string>backslash</string>
+    <string>underscore</string>
+    <string>q</string>
+    <string>braceleft</string>
+    <string>exclamdown</string>
+    <string>questiondown</string>
+    <string>chi</string>
+    <string>eta</string>
+    <string>xi</string>
+    <string>zeta</string>
+    <string>Aogonek</string>
+    <string>Eogonek</string>
+    <string>eogonek</string>
+    <string>iogonek</string>
+    <string>etatonos</string>
+    <string>lcommaaccent</string>
+    <string>tcedilla</string>
+    <string>tcommaaccent</string>
+    <string>questiongreek</string>
+    <string>sigmafinal</string>
+    <string>Idotbelow</string>
+    <string>idotbelow</string>
+    <string>ydotbelow</string>
+  </array>
+  <key>calt3</key>
+  <array>
+    <string>igrave</string>
+    <string>icircumflex</string>
+    <string>idieresis</string>
+    <string>imacron</string>
+    <string>itilde</string>
+    <string>ibreve</string>
+    <string>jcircumflex</string>
+    <string>adblgrave</string>
+    <string>edblgrave</string>
+    <string>idblgrave</string>
+    <string>iinvertedbreve</string>
+    <string>odblgrave</string>
+    <string>rdblgrave</string>
+    <string>rinvertedbreve</string>
+    <string>udblgrave</string>
+    <string>jcircumflex.calt</string>
+    <string>adblgrave.ss01</string>
+  </array>
   <key>comb_bottom</key>
   <array>
     <string>dotbelowcomb</string>
@@ -958,10 +1079,8 @@
     <string>three.tnum</string>
     <string>four.tnum</string>
     <string>five.tnum</string>
-    <string>six.ss02.tnum</string>
     <string>seven.tnum</string>
     <string>eight.tnum</string>
-    <string>nine.ss02.tnum</string>
     <string>onesuperior</string>
     <string>twosuperior</string>
     <string>threesuperior</string>
@@ -1091,6 +1210,19 @@
     <string>numero</string>
     <string>numeral-greek</string>
     <string>lowernumeral-greek</string>
+  </array>
+  <key>ordn</key>
+  <array>
+    <string>zero</string>
+    <string>one</string>
+    <string>two</string>
+    <string>three</string>
+    <string>four</string>
+    <string>five</string>
+    <string>six</string>
+    <string>seven</string>
+    <string>eight</string>
+    <string>nine</string>
   </array>
   <key>ordn_dst</key>
   <array>
@@ -2094,13 +2226,11 @@
     <string>lozenge</string>
     <string>minus</string>
     <string>multiply</string>
-    <string>nine.ss02.tnum</string>
     <string>notequal</string>
     <string>one.tnum</string>
     <string>plus</string>
     <string>plusminus</string>
     <string>seven.tnum</string>
-    <string>six.ss02.tnum</string>
     <string>three.tnum</string>
     <string>two.tnum</string>
     <string>zero.tnum</string>
@@ -3555,13 +3685,11 @@
     <string>lozenge</string>
     <string>minus</string>
     <string>multiply</string>
-    <string>nine.ss02.tnum</string>
     <string>notequal</string>
     <string>one.tnum</string>
     <string>plus</string>
     <string>plusminus</string>
     <string>seven.tnum</string>
-    <string>six.ss02.tnum</string>
     <string>three.tnum</string>
     <string>two.tnum</string>
     <string>zero.tnum</string>
