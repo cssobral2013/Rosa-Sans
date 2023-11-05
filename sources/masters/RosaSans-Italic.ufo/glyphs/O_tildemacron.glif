@@ -2,9 +2,9 @@
 <glyph name="Otildemacron" format="2">
   <advance width="1682"/>
   <unicode hex="022C"/>
-  <anchor x="753" y="-0" name="bottom"/>
+  <anchor x="753" y="0" name="bottom"/>
   <anchor x="1440" y="1400" name="horn"/>
-  <anchor x="993" y="-0" name="ogonek"/>
+  <anchor x="993" y="0" name="ogonek"/>
   <anchor x="361" y="1400" name="topleft"/>
   <outline>
     <component base="O"/>

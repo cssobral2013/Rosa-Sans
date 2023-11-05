@@ -3,7 +3,7 @@
   <advance width="1256"/>
   <unicode hex="038E"/>
   <anchor x="202" y="1400" name="_topleft"/>
-  <anchor x="489" y="-0" name="bottom"/>
+  <anchor x="489" y="0" name="bottom"/>
   <anchor x="863" y="1400" name="top"/>
   <outline>
     <component base="Upsilon"/>

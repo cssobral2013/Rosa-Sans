@@ -2,7 +2,7 @@
 <glyph name="racute" format="2">
   <advance width="843"/>
   <unicode hex="0155"/>
-  <anchor x="142" y="-0" name="bottom"/>
+  <anchor x="142" y="0" name="bottom"/>
   <outline>
     <component base="r"/>
     <component base="acutecomb" xOffset="1325"/>

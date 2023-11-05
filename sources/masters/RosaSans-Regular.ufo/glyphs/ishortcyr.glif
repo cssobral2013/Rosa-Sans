@@ -3,7 +3,7 @@
   <advance width="1275"/>
   <unicode hex="0439"/>
   <anchor x="637" y="1000" name="top"/>
-  <anchor x="637" y="-0" name="bottom"/>
+  <anchor x="637" y="0" name="bottom"/>
   <outline>
     <component base="icyr"/>
     <component base="brevecomb.ccmp" xOffset="1249"/>

@@ -3,7 +3,7 @@
   <advance width="1234"/>
   <anchor x="615" y="1000" name="top"/>
   <anchor x="1085" y="1000" name="horn"/>
-  <anchor x="605" y="-0" name="bottom"/>
+  <anchor x="605" y="0" name="bottom"/>
   <outline>
     <component base="icyr.loclBGR"/>
     <component base="gravecomb" xOffset="1227"/>

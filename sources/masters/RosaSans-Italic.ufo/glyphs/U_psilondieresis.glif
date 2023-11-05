@@ -4,7 +4,7 @@
   <unicode hex="03AB"/>
   <anchor x="863" y="1400" name="_top"/>
   <anchor x="958" y="1770" name="top"/>
-  <anchor x="489" y="-0" name="bottom"/>
+  <anchor x="489" y="0" name="bottom"/>
   <anchor x="202" y="1400" name="topleft"/>
   <outline>
     <component base="Upsilon"/>

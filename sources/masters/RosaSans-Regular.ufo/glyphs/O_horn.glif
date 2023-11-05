@@ -4,7 +4,7 @@
   <unicode hex="01A0"/>
   <anchor x="831" y="1400" name="top"/>
   <anchor x="1234" y="1400" name="horn"/>
-  <anchor x="831" y="-0" name="bottom"/>
+  <anchor x="831" y="0" name="bottom"/>
   <outline>
     <component base="O"/>
     <component base="horncomb.case" xOffset="1667"/>

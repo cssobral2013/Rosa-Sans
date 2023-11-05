@@ -2,7 +2,7 @@
 <glyph name="hadescender-cy" format="2">
   <advance width="1152"/>
   <unicode hex="04B3"/>
-  <anchor x="851" y="-0" name="descender"/>
+  <anchor x="851" y="0" name="descender"/>
   <outline>
     <component base="ha-cy"/>
     <contour>

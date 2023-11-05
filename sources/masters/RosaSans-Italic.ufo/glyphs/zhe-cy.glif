@@ -2,7 +2,7 @@
 <glyph name="zhe-cy" format="2">
   <advance width="1632"/>
   <unicode hex="0436"/>
-  <anchor x="1362" y="-0" name="descender"/>
+  <anchor x="1362" y="0" name="descender"/>
   <anchor x="945" y="1000" name="top"/>
   <outline>
     <contour>

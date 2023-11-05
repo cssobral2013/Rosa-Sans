@@ -2,7 +2,7 @@
 <glyph name="gecyr.loclSRB" format="2">
   <advance width="1018"/>
   <anchor x="506" y="1000" name="top"/>
-  <anchor x="516" y="-0" name="bottom"/>
+  <anchor x="516" y="0" name="bottom"/>
   <outline>
     <component base="gecyr.loclBGR"/>
   </outline>

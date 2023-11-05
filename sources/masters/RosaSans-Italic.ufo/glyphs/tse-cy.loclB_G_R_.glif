@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tse-cy.loclBGR" format="2">
   <advance width="1383"/>
-  <anchor x="470" y="-0" name="bottom"/>
+  <anchor x="470" y="0" name="bottom"/>
   <anchor x="1220" y="1000" name="horn"/>
-  <anchor x="950" y="-0" name="ogonek"/>
+  <anchor x="950" y="0" name="ogonek"/>
   <anchor x="750" y="1000" name="top"/>
-  <anchor x="950" y="-0" name="descender"/>
+  <anchor x="950" y="0" name="descender"/>
   <outline>
     <component base="u"/>
     <contour>

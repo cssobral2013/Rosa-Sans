@@ -2,7 +2,7 @@
 <glyph name="te-cy.loclSRB" format="2">
   <advance width="981"/>
   <anchor x="484" y="469" name="bar"/>
-  <anchor x="357" y="-0" name="bottom"/>
+  <anchor x="357" y="0" name="bottom"/>
   <anchor x="625" y="1000" name="top"/>
   <outline>
     <component base="te-cy"/>

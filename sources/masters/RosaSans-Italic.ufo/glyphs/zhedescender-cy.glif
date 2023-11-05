@@ -3,7 +3,7 @@
   <advance width="1692"/>
   <unicode hex="0497"/>
   <anchor x="945" y="1000" name="top"/>
-  <anchor x="1362" y="-0" name="descender"/>
+  <anchor x="1362" y="0" name="descender"/>
   <outline>
     <component base="zhe-cy"/>
     <contour>

@@ -4,8 +4,8 @@
   <unicode hex="1EE0"/>
   <anchor x="1037" y="1400" name="_top"/>
   <anchor x="1138" y="1781" name="top"/>
-  <anchor x="753" y="-0" name="bottom"/>
-  <anchor x="993" y="-0" name="ogonek"/>
+  <anchor x="753" y="0" name="bottom"/>
+  <anchor x="993" y="0" name="ogonek"/>
   <anchor x="361" y="1400" name="topleft"/>
   <outline>
     <component base="Ohorn"/>

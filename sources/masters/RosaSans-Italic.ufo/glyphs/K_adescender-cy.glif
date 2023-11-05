@@ -3,7 +3,7 @@
   <advance width="1469"/>
   <unicode hex="049A"/>
   <anchor x="906" y="1400" name="top"/>
-  <anchor x="1130" y="-0" name="descender"/>
+  <anchor x="1130" y="0" name="descender"/>
   <outline>
     <component base="Ka-cy"/>
     <contour>

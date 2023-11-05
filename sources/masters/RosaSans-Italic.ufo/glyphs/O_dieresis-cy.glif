@@ -4,9 +4,9 @@
   <unicode hex="04E6"/>
   <anchor x="1037" y="1400" name="_top"/>
   <anchor x="1132" y="1770" name="top"/>
-  <anchor x="753" y="-0" name="bottom"/>
+  <anchor x="753" y="0" name="bottom"/>
   <anchor x="1440" y="1400" name="horn"/>
-  <anchor x="993" y="-0" name="ogonek"/>
+  <anchor x="993" y="0" name="ogonek"/>
   <anchor x="361" y="1400" name="topleft"/>
   <outline>
     <component base="O-cy"/>

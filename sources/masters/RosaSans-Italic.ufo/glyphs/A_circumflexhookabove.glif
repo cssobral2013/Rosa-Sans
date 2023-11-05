@@ -2,8 +2,8 @@
 <glyph name="Acircumflexhookabove" format="2">
   <advance width="1411"/>
   <unicode hex="1EA8"/>
-  <anchor x="570" y="-0" name="bottom"/>
-  <anchor x="1239" y="-0" name="ogonek"/>
+  <anchor x="570" y="0" name="bottom"/>
+  <anchor x="1239" y="0" name="ogonek"/>
   <anchor x="1428" y="1691" name="top_right"/>
   <anchor x="540" y="1400" name="topleft"/>
   <outline>

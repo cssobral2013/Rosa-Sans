@@ -3,9 +3,9 @@
   <advance width="1353"/>
   <unicode hex="1EE9"/>
   <anchor x="750" y="1000" name="_top"/>
-  <anchor x="470" y="-0" name="bottom"/>
-  <anchor x="950" y="-0" name="descender"/>
-  <anchor x="950" y="-0" name="ogonek"/>
+  <anchor x="470" y="0" name="bottom"/>
+  <anchor x="950" y="0" name="descender"/>
+  <anchor x="950" y="0" name="ogonek"/>
   <outline>
     <component base="uhorn"/>
     <component base="acutecomb" xOffset="1456"/>

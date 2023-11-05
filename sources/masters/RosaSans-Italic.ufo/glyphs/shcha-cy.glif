@@ -2,7 +2,7 @@
 <glyph name="shcha-cy" format="2">
   <advance width="1958"/>
   <unicode hex="0449"/>
-  <anchor x="1525" y="-0" name="descender"/>
+  <anchor x="1525" y="0" name="descender"/>
   <outline>
     <component base="sha-cy"/>
     <contour>

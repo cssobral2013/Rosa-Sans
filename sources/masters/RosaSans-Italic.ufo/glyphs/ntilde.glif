@@ -2,7 +2,7 @@
 <glyph name="ntilde" format="2">
   <advance width="1259"/>
   <unicode hex="00F1"/>
-  <anchor x="500" y="-0" name="bottom"/>
+  <anchor x="500" y="0" name="bottom"/>
   <anchor x="884" y="1404" name="top"/>
   <outline>
     <component base="n"/>

@@ -2,9 +2,9 @@
 <glyph name="omicron" format="2">
   <advance width="1239"/>
   <unicode hex="03BF"/>
-  <anchor x="518" y="-0" name="bottom"/>
+  <anchor x="518" y="0" name="bottom"/>
   <anchor x="1115" y="1000" name="horn"/>
-  <anchor x="763" y="-0" name="ogonek"/>
+  <anchor x="763" y="0" name="ogonek"/>
   <anchor x="721" y="1000" name="top"/>
   <outline>
     <component base="o"/>

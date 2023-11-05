@@ -2,7 +2,7 @@
 <glyph name="Ka-cy" format="2">
   <advance width="1419"/>
   <unicode hex="041A"/>
-  <anchor x="1130" y="-0" name="descender"/>
+  <anchor x="1130" y="0" name="descender"/>
   <anchor x="906" y="1400" name="top"/>
   <outline>
     <contour>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iu-cy.loclBGR" format="2">
   <advance width="1780"/>
-  <anchor x="142" y="-0" name="bottom"/>
+  <anchor x="142" y="0" name="bottom"/>
   <anchor x="660" y="1440" name="caron"/>
   <anchor x="532" y="1440" name="top"/>
   <outline>

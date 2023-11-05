@@ -4,7 +4,7 @@
   <unicode hex="04F6"/>
   <anchor x="477" y="683" name="bar"/>
   <anchor x="827" y="1400" name="top"/>
-  <anchor x="305" y="-0" name="descender"/>
+  <anchor x="305" y="0" name="descender"/>
   <outline>
     <component base="Ge-cy"/>
     <contour>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ge-cy.loclSRB" format="2">
   <advance width="1010"/>
-  <anchor x="351" y="-0" name="bottom"/>
+  <anchor x="351" y="0" name="bottom"/>
   <anchor x="669" y="1000" name="top"/>
   <outline>
     <component base="ge-cy.loclBGR"/>

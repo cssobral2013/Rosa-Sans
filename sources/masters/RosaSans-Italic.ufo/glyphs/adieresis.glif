@@ -2,8 +2,8 @@
 <glyph name="adieresis" format="2">
   <advance width="1138"/>
   <unicode hex="00E4"/>
-  <anchor x="410" y="-0" name="bottom"/>
-  <anchor x="867" y="-0" name="ogonek"/>
+  <anchor x="410" y="0" name="bottom"/>
+  <anchor x="867" y="0" name="ogonek"/>
   <anchor x="778" y="1384" name="top"/>
   <outline>
     <component base="a"/>

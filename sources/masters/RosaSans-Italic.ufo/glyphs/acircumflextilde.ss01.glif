@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acircumflextilde.ss01" format="2">
   <advance width="1307"/>
-  <anchor x="524" y="-0" name="bottom"/>
-  <anchor x="1024" y="-0" name="ogonek"/>
+  <anchor x="524" y="0" name="bottom"/>
+  <anchor x="1024" y="0" name="ogonek"/>
   <anchor x="960" y="1868" name="top"/>
   <anchor x="1203" y="1304" name="top_right"/>
   <outline>

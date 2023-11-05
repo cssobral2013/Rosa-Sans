@@ -2,7 +2,7 @@
 <glyph name="Zedieresis-cy" format="2">
   <advance width="1236"/>
   <unicode hex="04DE"/>
-  <anchor x="488" y="-0" name="bottom"/>
+  <anchor x="488" y="0" name="bottom"/>
   <anchor x="886" y="1770" name="top"/>
   <outline>
     <component base="Ze-cy"/>

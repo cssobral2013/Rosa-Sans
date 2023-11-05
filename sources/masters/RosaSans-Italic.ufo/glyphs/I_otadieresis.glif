@@ -4,8 +4,8 @@
   <unicode hex="03AA"/>
   <anchor x="550" y="1400" name="_top"/>
   <anchor x="653" y="1784" name="top"/>
-  <anchor x="175" y="-0" name="bottom"/>
-  <anchor x="305" y="-0" name="ogonek"/>
+  <anchor x="175" y="0" name="bottom"/>
+  <anchor x="305" y="0" name="ogonek"/>
   <anchor x="322" y="1400" name="topleft"/>
   <outline>
     <component base="Iota"/>

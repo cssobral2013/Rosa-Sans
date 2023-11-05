@@ -4,7 +4,7 @@
   <unicode hex="016A"/>
   <anchor x="747" y="1400" name="top"/>
   <anchor x="1324" y="1400" name="horn"/>
-  <anchor x="747" y="-0" name="bottom"/>
+  <anchor x="747" y="0" name="bottom"/>
   <outline>
     <component base="U"/>
     <component base="macroncomb.case" xOffset="1557" yOffset="1"/>

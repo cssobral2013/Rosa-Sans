@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sha-cy.loclBGR" format="2">
   <advance width="1901"/>
-  <anchor x="1618" y="-0" name="descender"/>
+  <anchor x="1618" y="0" name="descender"/>
   <anchor x="1081" y="1000" name="top"/>
   <outline>
     <contour>

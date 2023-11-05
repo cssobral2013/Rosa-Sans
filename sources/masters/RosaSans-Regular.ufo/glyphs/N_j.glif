@@ -2,7 +2,7 @@
 <glyph name="Nj" format="2">
   <advance width="2078"/>
   <unicode hex="01CB"/>
-  <anchor x="762" y="-0" name="bottom"/>
+  <anchor x="762" y="0" name="bottom"/>
   <anchor x="1801" y="1384" name="top"/>
   <outline>
     <component base="N"/>

@@ -2,10 +2,10 @@
 <glyph name="uinvertedbreve" format="2">
   <advance width="1233"/>
   <unicode hex="0217"/>
-  <anchor x="470" y="-0" name="bottom"/>
-  <anchor x="950" y="-0" name="descender"/>
+  <anchor x="470" y="0" name="bottom"/>
+  <anchor x="950" y="0" name="descender"/>
   <anchor x="1220" y="1000" name="horn"/>
-  <anchor x="950" y="-0" name="ogonek"/>
+  <anchor x="950" y="0" name="ogonek"/>
   <outline>
     <component base="u"/>
     <component base="breveinvertedcomb" xOffset="1457"/>

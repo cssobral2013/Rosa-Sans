@@ -82,7 +82,6 @@ languagesystem cyrl SRB ; # Cyrillic Serbian
 #
 # Feature definitions
 #
-
 feature aalt useExtension {
 # GSUB feature: Access All Alternates
 # Lookups: 2
@@ -201,7 +200,6 @@ feature aalt useExtension {
   sub six.tnum.ss02 from [six];
   sub nine.tnum.ss02 from [nine];
 } aalt;
-
 feature case {
 # GSUB feature: Case-Sensitive Forms
 # Lookups: 1
@@ -227,7 +225,6 @@ feature case {
   sub periodcentered.loclCAT by periodcentered.loclCAT.case;
 
 } case;
-
 feature calt {
 # GSUB feature: Contextual Alternates
 # Lookups: 4
@@ -242,7 +239,6 @@ feature calt {
   sub idieresis.calt [idieresis yukrcyr]' by idieresis.calt2;
 
 } calt;
-
 feature salt {
 # GSUB feature: Stylistic Alternates
 # Lookups: 1
@@ -298,7 +294,6 @@ feature salt {
   sub gjecyr.loclMKD from [gjecyr.loclMKD.ss01];
 
 } salt;
-
 feature ss01 {
 # GSUB feature: Stylistic Set 1
 # Lookups: 1
@@ -346,7 +341,6 @@ feature ss01 {
   sub gjecyr.loclMKD by gjecyr.loclMKD.ss01;
 
 } ss01;
-
 feature ccmp {
 # GSUB feature: Glyph Composition / Decomposition
 # Lookups: 1
@@ -361,7 +355,6 @@ feature ccmp {
   sub brevecomb hookabovecomb by brevecomb_hookabovecomb;
 
 } ccmp;
-
 feature locl {
 # GSUB feature: Localized Forms
 # Lookups: 7
@@ -422,7 +415,6 @@ feature locl {
 
 
 } locl;
-
 feature frac {
 # GSUB feature: Fractions
 # Lookups: 1
@@ -435,7 +427,6 @@ feature frac {
   sub three fraction four by threequarters;
 
 } frac;
-
 feature sups {
 # GSUB feature: Superscript
 # Lookups: 1
@@ -446,7 +437,6 @@ feature sups {
   sub four by four.superior;
 
 } sups;
-
 feature pnum {
 # GSUB feature: Proportional Figures
 # Lookups: 1
@@ -463,7 +453,6 @@ feature pnum {
   sub nine.tnum.ss02 by nine;
 
 } pnum;
-
 feature tnum {
 # GSUB feature: Tabular Figures
 # Lookups: 1
@@ -480,7 +469,6 @@ feature tnum {
   sub nine by nine.tnum;
 
 } tnum;
-
 feature ordn {
 # GSUB feature: Ordinals
 # Lookups: 2
@@ -490,7 +478,6 @@ feature ordn {
   sub N o period by numero;
 
 } ordn;
-
 feature ss02 {
 # GSUB feature: Stylistic Set 2
 # Lookups: 1
@@ -501,7 +488,6 @@ feature ss02 {
   sub nine.tnum by nine.tnum.ss02;
 
 } ss02;
-
 feature cpsp {
 # GPOS feature: Capital Spacing
 # Lookups: 1
@@ -512,4 +498,3 @@ feature cpsp {
   pos @_J @_A 40;
 
 } cpsp;
-
