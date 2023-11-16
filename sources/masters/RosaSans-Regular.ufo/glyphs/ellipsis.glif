@@ -3,8 +3,47 @@
   <advance width="2000"/>
   <unicode hex="2026"/>
   <outline>
-    <component base="period" xOffset="725"/>
-    <component base="period" xOffset="1392"/>
-    <component base="period" xOffset="58"/>
+    <contour>
+      <point x="1000" y="-30" type="curve" smooth="yes"/>
+      <point x="905" y="-30"/>
+      <point x="828" y="36"/>
+      <point x="828" y="133" type="curve" smooth="yes"/>
+      <point x="828" y="233"/>
+      <point x="906" y="297"/>
+      <point x="1000" y="297" type="curve"/>
+      <point x="1097" y="299"/>
+      <point x="1172" y="232"/>
+      <point x="1172" y="133" type="curve" smooth="yes"/>
+      <point x="1172" y="34"/>
+      <point x="1094" y="-30"/>
+    </contour>
+    <contour>
+      <point x="1667" y="-30" type="curve" smooth="yes"/>
+      <point x="1572" y="-30"/>
+      <point x="1495" y="36"/>
+      <point x="1495" y="133" type="curve" smooth="yes"/>
+      <point x="1495" y="233"/>
+      <point x="1573" y="297"/>
+      <point x="1667" y="297" type="curve"/>
+      <point x="1764" y="299"/>
+      <point x="1839" y="232"/>
+      <point x="1839" y="133" type="curve" smooth="yes"/>
+      <point x="1839" y="34"/>
+      <point x="1761" y="-30"/>
+    </contour>
+    <contour>
+      <point x="333" y="-30" type="curve" smooth="yes"/>
+      <point x="238" y="-30"/>
+      <point x="161" y="36"/>
+      <point x="161" y="133" type="curve" smooth="yes"/>
+      <point x="161" y="233"/>
+      <point x="239" y="297"/>
+      <point x="333" y="297" type="curve"/>
+      <point x="430" y="299"/>
+      <point x="505" y="232"/>
+      <point x="505" y="133" type="curve" smooth="yes"/>
+      <point x="505" y="34"/>
+      <point x="427" y="-30"/>
+    </contour>
   </outline>
 </glyph>

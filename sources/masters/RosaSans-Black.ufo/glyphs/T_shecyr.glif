@@ -14,22 +14,30 @@
       <point x="392" y="1400" type="line"/>
       <point x="796" y="1400" type="line"/>
       <point x="796" y="872" type="line"/>
-      <point x="874" y="895"/>
-      <point x="1018" y="920"/>
-      <point x="1096" y="920" type="qcurve"/>
-      <point x="1256" y="920"/>
-      <point x="1497" y="809"/>
-      <point x="1632" y="568"/>
-      <point x="1632" y="372" type="qcurve"/>
+      <point x="900" y="903"/>
+      <point x="992" y="920"/>
+      <point x="1096" y="920" type="curve" smooth="yes"/>
+      <point x="1203" y="920"/>
+      <point x="1296" y="902"/>
+      <point x="1377" y="865" type="curve" smooth="yes"/>
+      <point x="1537" y="791"/>
+      <point x="1632" y="633"/>
+      <point x="1632" y="372" type="curve" smooth="yes"/>
       <point x="1632" y="0" type="line"/>
       <point x="1228" y="0" type="line"/>
-      <point x="1228" y="318" type="line"/>
-      <point x="1228" y="456"/>
-      <point x="1117" y="568"/>
-      <point x="1012" y="568" type="qcurve"/>
-      <point x="948" y="568"/>
-      <point x="846" y="554"/>
-      <point x="796" y="542" type="qcurve"/>
+      <point x="1228" y="318" type="line" smooth="yes"/>
+      <point x="1228" y="410"/>
+      <point x="1210" y="475"/>
+      <point x="1173" y="512" type="curve" smooth="yes"/>
+      <point x="1136" y="549"/>
+      <point x="1082" y="568"/>
+      <point x="1012" y="568" type="curve" smooth="yes"/>
+      <point x="969" y="568"/>
+      <point x="931" y="566"/>
+      <point x="897" y="561" type="curve" smooth="yes"/>
+      <point x="863" y="556"/>
+      <point x="829" y="550"/>
+      <point x="796" y="542" type="curve"/>
       <point x="796" y="0" type="line"/>
     </contour>
   </outline>
