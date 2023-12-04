@@ -4,7 +4,7 @@
   <anchor x="277" y="1000" name="top"/>
   <anchor x="277" y="1464" name="top.1"/>
   <outline>
-    <component base="dotlessj.calt"/>
-    <component base="circumflexcomb.narrow" xOffset="889"/>
+    <component base="uni0237.calt"/>
+    <component base="uni0302.narrow" xOffset="889"/>
   </outline>
 </glyph>

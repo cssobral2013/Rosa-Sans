@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="omicrontonos" format="2">
-  <advance width="1290"/>
+  <advance width="1276"/>
   <unicode hex="03CC"/>
-  <anchor x="751" y="1040" name="_top"/>
+  <anchor x="744" y="1040" name="_top"/>
   <outline>
     <component base="omicron"/>
-    <component base="tonos" xOffset="362"/>
+    <component base="tonos" xOffset="361"/>
   </outline>
   <lib>
   <dict>

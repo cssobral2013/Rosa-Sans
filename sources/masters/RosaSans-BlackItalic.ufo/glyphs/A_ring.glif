@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aring" format="2">
-  <advance width="1497"/>
+  <advance width="1498"/>
   <unicode hex="00C5"/>
   <anchor x="618" y="0" name="bottom"/>
   <anchor x="1319" y="0" name="ogonek"/>
   <anchor x="1170" y="2056" name="top"/>
   <anchor x="505" y="1400" name="topleft"/>
   <outline>
-    <component base="A"/>
-    <component base="ringcomb.case" xOffset="1933"/>
+    <component base="A" xOffset="-1"/>
+    <component base="uni030A.case" xOffset="1933"/>
   </outline>
   <lib>
   <dict>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0331" format="2">
+  <unicode hex="0331"/>
+  <anchor x="-612" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="-950" y="-398" type="line"/>
+      <point x="-950" y="-230" type="line"/>
+      <point x="-274" y="-230" type="line"/>
+      <point x="-274" y="-398" type="line"/>
+    </contour>
+  </outline>
+</glyph>

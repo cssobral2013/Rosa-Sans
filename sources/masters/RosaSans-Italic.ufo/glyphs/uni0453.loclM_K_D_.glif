@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0453.loclMKD" format="2">
+  <advance width="866"/>
+  <anchor x="340" y="474" name="bar"/>
+  <anchor x="272" y="0" name="descender"/>
+  <outline>
+    <component base="uni0453" xOffset="-1"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.805,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

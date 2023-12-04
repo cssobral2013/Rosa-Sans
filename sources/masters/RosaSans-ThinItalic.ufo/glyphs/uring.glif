@@ -9,7 +9,7 @@
   <anchor x="829" y="1464" name="top"/>
   <outline>
     <component base="u"/>
-    <component base="ringcomb" xOffset="1380"/>
+    <component base="uni030A" xOffset="1380"/>
   </outline>
   <lib>
   <dict>

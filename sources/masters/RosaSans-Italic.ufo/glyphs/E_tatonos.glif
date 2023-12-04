@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Etatonos" format="2">
-  <advance width="1513"/>
+  <advance width="1512"/>
   <unicode hex="0389"/>
-  <anchor x="322" y="1400" name="_topleft"/>
-  <anchor x="998" y="1400" name="top"/>
+  <anchor x="321" y="1400" name="_topleft"/>
+  <anchor x="997" y="1400" name="top"/>
   <outline>
     <component base="Eta"/>
-    <component base="tonos.case" xOffset="-366"/>
+    <component base="tonos.case" xOffset="-362"/>
   </outline>
   <lib>
   <dict>

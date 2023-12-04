@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lslash" format="2">
-  <advance width="830"/>
+  <advance width="836"/>
   <unicode hex="0142"/>
-  <anchor x="271" y="0" name="bottom"/>
-  <anchor x="865" y="1440" name="caron"/>
-  <anchor x="665" y="1440" name="top"/>
+  <anchor x="274" y="-0" name="bottom"/>
+  <anchor x="868" y="1440" name="caron"/>
+  <anchor x="668" y="1440" name="top"/>
   <outline>
-    <component base="l"/>
+    <component base="l" xOffset="-3"/>
     <contour>
-      <point x="433" y="530" type="line"/>
-      <point x="425" y="490" type="line"/>
-      <point x="922" y="688" type="line"/>
-      <point x="813" y="969" type="line"/>
-      <point x="486" y="838" type="line"/>
-      <point x="491" y="878" type="line"/>
-      <point x="-7" y="670" type="line"/>
-      <point x="101" y="393" type="line"/>
+      <point x="436" y="530" type="line"/>
+      <point x="428" y="490" type="line"/>
+      <point x="925" y="688" type="line"/>
+      <point x="816" y="969" type="line"/>
+      <point x="489" y="838" type="line"/>
+      <point x="494" y="878" type="line"/>
+      <point x="-4" y="670" type="line"/>
+      <point x="104" y="393" type="line"/>
     </contour>
   </outline>
   <lib>

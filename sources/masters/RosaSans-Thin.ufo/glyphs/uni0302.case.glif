@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0302.case" format="2">
+  <anchor x="-788" y="1398" name="top"/>
+  <anchor x="-788" y="1848" name="top.1"/>
+  <outline>
+    <contour>
+      <point x="-1112" y="1592" type="line"/>
+      <point x="-842" y="1904" type="line"/>
+      <point x="-716" y="1904" type="line"/>
+      <point x="-464" y="1592" type="line"/>
+      <point x="-584" y="1592" type="line"/>
+      <point x="-782" y="1828" type="line"/>
+      <point x="-988" y="1592" type="line"/>
+    </contour>
+  </outline>
+</glyph>

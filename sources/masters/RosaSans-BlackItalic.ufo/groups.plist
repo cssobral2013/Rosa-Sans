@@ -7,23 +7,23 @@
     <string>A</string>
     <string>Aacute</string>
     <string>Abreve</string>
-    <string>Abreveacute</string>
-    <string>Abrevedotbelow</string>
-    <string>Abrevegrave</string>
-    <string>Abrevehookabove</string>
-    <string>Abrevetilde</string>
+    <string>uni1EAE</string>
+    <string>uni1EB6</string>
+    <string>uni1EB0</string>
+    <string>uni1EB2</string>
+    <string>uni1EB4</string>
     <string>Acircumflex</string>
-    <string>Acircumflexacute</string>
-    <string>Acircumflexdotbelow</string>
-    <string>Acircumflexgrave</string>
-    <string>Acircumflexhookabove</string>
-    <string>Acircumflextilde</string>
-    <string>Adblgrave</string>
+    <string>uni1EA4</string>
+    <string>uni1EAC</string>
+    <string>uni1EA6</string>
+    <string>uni1EA8</string>
+    <string>uni1EAA</string>
+    <string>uni0200</string>
     <string>Adieresis</string>
-    <string>Adotbelow</string>
+    <string>uni1EA0</string>
     <string>Agrave</string>
-    <string>Ahookabove</string>
-    <string>Ainvertedbreve</string>
+    <string>uni1EA2</string>
+    <string>uni0202</string>
     <string>Amacron</string>
     <string>Aogonek</string>
     <string>Aring</string>
@@ -39,37 +39,37 @@
     <string>Ccircumflex</string>
     <string>Cdotaccent</string>
     <string>D</string>
-    <string>DZcaron</string>
+    <string>uni01C4</string>
     <string>Eth</string>
     <string>Dcaron</string>
     <string>Dcroat</string>
-    <string>Dzcaron</string>
+    <string>uni01C5</string>
     <string>E</string>
     <string>Eacute</string>
     <string>Ebreve</string>
     <string>Ecaron</string>
     <string>Ecircumflex</string>
-    <string>Ecircumflexacute</string>
-    <string>Ecircumflexdotbelow</string>
-    <string>Ecircumflexgrave</string>
-    <string>Ecircumflexhookabove</string>
-    <string>Ecircumflextilde</string>
-    <string>Edblgrave</string>
+    <string>uni1EBE</string>
+    <string>uni1EC6</string>
+    <string>uni1EC0</string>
+    <string>uni1EC2</string>
+    <string>uni1EC4</string>
+    <string>uni0204</string>
     <string>Edieresis</string>
     <string>Edotaccent</string>
-    <string>Edotbelow</string>
+    <string>uni1EB8</string>
     <string>Egrave</string>
-    <string>Ehookabove</string>
-    <string>Einvertedbreve</string>
+    <string>uni1EBA</string>
+    <string>uni0206</string>
     <string>Emacron</string>
     <string>Eogonek</string>
-    <string>Etilde</string>
+    <string>uni1EBC</string>
     <string>F</string>
     <string>G</string>
     <string>Gbreve</string>
     <string>Gcaron</string>
     <string>Gcircumflex</string>
-    <string>Gcommaaccent</string>
+    <string>uni0122</string>
     <string>Gdotaccent</string>
     <string>H</string>
     <string>Hbar</string>
@@ -78,67 +78,67 @@
     <string>Iacute</string>
     <string>Ibreve</string>
     <string>Icircumflex</string>
-    <string>Idblgrave</string>
+    <string>uni0208</string>
     <string>Idieresis</string>
     <string>Idotaccent</string>
-    <string>Idotbelow</string>
+    <string>uni1ECA</string>
     <string>Igrave</string>
-    <string>Ihookabove</string>
-    <string>Iinvertedbreve</string>
+    <string>uni1EC8</string>
+    <string>uni020A</string>
     <string>Imacron</string>
     <string>Iogonek</string>
     <string>Itilde</string>
     <string>J</string>
     <string>Jcircumflex</string>
     <string>K</string>
-    <string>Kcommaaccent</string>
+    <string>uni0136</string>
     <string>L</string>
-    <string>LJ</string>
+    <string>uni01C7</string>
     <string>Lacute</string>
     <string>Lcaron</string>
-    <string>Lcommaaccent</string>
+    <string>uni013B</string>
     <string>Ldot</string>
-    <string>Lj</string>
+    <string>uni01C8</string>
     <string>Lslash</string>
     <string>M</string>
     <string>N</string>
-    <string>NJ</string>
+    <string>uni01CA</string>
     <string>Nacute</string>
     <string>Ncaron</string>
-    <string>Ncommaaccent</string>
+    <string>uni0145</string>
     <string>Eng</string>
-    <string>Nj</string>
+    <string>uni01CB</string>
     <string>Ntilde</string>
     <string>O</string>
     <string>Oacute</string>
     <string>Obreve</string>
     <string>Ocircumflex</string>
-    <string>Ocircumflexacute</string>
-    <string>Ocircumflexdotbelow</string>
-    <string>Ocircumflexgrave</string>
-    <string>Ocircumflexhookabove</string>
-    <string>Ocircumflextilde</string>
-    <string>Odblgrave</string>
+    <string>uni1ED0</string>
+    <string>uni1ED8</string>
+    <string>uni1ED2</string>
+    <string>uni1ED4</string>
+    <string>uni1ED6</string>
+    <string>uni020C</string>
     <string>Odieresis</string>
-    <string>Odieresismacron</string>
-    <string>Odotaccentmacron</string>
-    <string>Odotbelow</string>
+    <string>uni022A</string>
+    <string>uni0230</string>
+    <string>uni1ECC</string>
     <string>Ograve</string>
-    <string>Ohookabove</string>
+    <string>uni1ECE</string>
     <string>Ohorn</string>
-    <string>Ohornacute</string>
-    <string>Ohorndotbelow</string>
-    <string>Ohorngrave</string>
-    <string>Ohornhookabove</string>
-    <string>Ohorntilde</string>
+    <string>uni1EDA</string>
+    <string>uni1EE2</string>
+    <string>uni1EDC</string>
+    <string>uni1EDE</string>
+    <string>uni1EE0</string>
     <string>Ohungarumlaut</string>
-    <string>Oinvertedbreve</string>
+    <string>uni020E</string>
     <string>Omacron</string>
-    <string>Oogonek</string>
+    <string>uni01EA</string>
     <string>Oslash</string>
     <string>Oslashacute</string>
     <string>Otilde</string>
-    <string>Otildemacron</string>
+    <string>uni022C</string>
     <string>OE</string>
     <string>P</string>
     <string>Thorn</string>
@@ -146,39 +146,39 @@
     <string>R</string>
     <string>Racute</string>
     <string>Rcaron</string>
-    <string>Rcommaaccent</string>
-    <string>Rdblgrave</string>
-    <string>Rinvertedbreve</string>
+    <string>uni0156</string>
+    <string>uni0210</string>
+    <string>uni0212</string>
     <string>S</string>
     <string>Sacute</string>
     <string>Scaron</string>
     <string>Scedilla</string>
     <string>Scircumflex</string>
-    <string>Scommaaccent</string>
+    <string>uni0218</string>
     <string>Germandbls</string>
-    <string>Schwa</string>
+    <string>uni018F</string>
     <string>T</string>
     <string>Tbar</string>
     <string>Tcaron</string>
-    <string>Tcedilla</string>
-    <string>Tcommaaccent</string>
+    <string>uni0162</string>
+    <string>uni021A</string>
     <string>U</string>
     <string>Uacute</string>
     <string>Ubreve</string>
     <string>Ucircumflex</string>
-    <string>Udblgrave</string>
+    <string>uni0214</string>
     <string>Udieresis</string>
-    <string>Udotbelow</string>
+    <string>uni1EE4</string>
     <string>Ugrave</string>
-    <string>Uhookabove</string>
+    <string>uni1EE6</string>
     <string>Uhorn</string>
-    <string>Uhornacute</string>
-    <string>Uhorndotbelow</string>
-    <string>Uhorngrave</string>
-    <string>Uhornhookabove</string>
-    <string>Uhorntilde</string>
+    <string>uni1EE8</string>
+    <string>uni1EF0</string>
+    <string>uni1EEA</string>
+    <string>uni1EEC</string>
+    <string>uni1EEE</string>
     <string>Uhungarumlaut</string>
-    <string>Uinvertedbreve</string>
+    <string>uni0216</string>
     <string>Umacron</string>
     <string>Uogonek</string>
     <string>Uring</string>
@@ -194,112 +194,112 @@
     <string>Yacute</string>
     <string>Ycircumflex</string>
     <string>Ydieresis</string>
-    <string>Ydotbelow</string>
+    <string>uni1EF4</string>
     <string>Ygrave</string>
-    <string>Yhookabove</string>
-    <string>Ymacron</string>
-    <string>Ytilde</string>
+    <string>uni1EF6</string>
+    <string>uni0232</string>
+    <string>uni1EF8</string>
     <string>Z</string>
     <string>Zacute</string>
     <string>Zcaron</string>
     <string>Zdotaccent</string>
-    <string>A-cy</string>
-    <string>Be-cy</string>
-    <string>Ve-cy</string>
-    <string>Ge-cy</string>
-    <string>Gje-cy</string>
-    <string>Gheupturn-cy</string>
-    <string>De-cy</string>
-    <string>Ie-cy</string>
-    <string>Iegrave-cy</string>
-    <string>Io-cy</string>
-    <string>Zhe-cy</string>
-    <string>Ze-cy</string>
-    <string>Ii-cy</string>
-    <string>Iishort-cy</string>
-    <string>Iigrave-cy</string>
-    <string>Ka-cy</string>
-    <string>Kje-cy</string>
-    <string>El-cy</string>
-    <string>Em-cy</string>
-    <string>En-cy</string>
-    <string>O-cy</string>
-    <string>Pe-cy</string>
-    <string>Er-cy</string>
-    <string>Es-cy</string>
-    <string>Te-cy</string>
-    <string>U-cy</string>
-    <string>Ushort-cy</string>
-    <string>Ef-cy</string>
-    <string>Ha-cy</string>
-    <string>Che-cy</string>
-    <string>Tse-cy</string>
-    <string>Sha-cy</string>
-    <string>Shcha-cy</string>
-    <string>Dzhe-cy</string>
-    <string>Softsign-cy</string>
-    <string>Hardsign-cy</string>
-    <string>Yeru-cy</string>
-    <string>Lje-cy</string>
-    <string>Nje-cy</string>
-    <string>Dze-cy</string>
-    <string>E-cy</string>
-    <string>Ereversed-cy</string>
-    <string>I-cy</string>
-    <string>Yi-cy</string>
-    <string>Je-cy</string>
-    <string>Tshe-cy</string>
-    <string>Iu-cy</string>
-    <string>Ia-cy</string>
-    <string>Dje-cy</string>
-    <string>Yat-cy</string>
-    <string>Yusbig-cy</string>
-    <string>Fita-cy</string>
-    <string>Izhitsa-cy</string>
-    <string>Ghestroke-cy</string>
-    <string>Ghemiddlehook-cy</string>
-    <string>Zhedescender-cy</string>
-    <string>Zedescender-cy</string>
-    <string>Kadescender-cy</string>
-    <string>Kaverticalstroke-cy</string>
-    <string>Kabashkir-cy</string>
-    <string>Endescender-cy</string>
-    <string>Enghe-cy</string>
-    <string>Esdescender-cy</string>
-    <string>Ustraight-cy</string>
-    <string>Ustraightstroke-cy</string>
-    <string>Hadescender-cy</string>
-    <string>Chedescender-cy</string>
-    <string>Cheverticalstroke-cy</string>
-    <string>Shha-cy</string>
-    <string>Palochka-cy</string>
-    <string>Zhebreve-cy</string>
-    <string>Chekhakassian-cy</string>
-    <string>Abreve-cy</string>
-    <string>Adieresis-cy</string>
-    <string>Aie-cy</string>
-    <string>Iebreve-cy</string>
-    <string>Schwa-cy</string>
-    <string>Zhedieresis-cy</string>
-    <string>Zedieresis-cy</string>
-    <string>Imacron-cy</string>
-    <string>Idieresis-cy</string>
-    <string>Odieresis-cy</string>
-    <string>Obarred-cy</string>
-    <string>Umacron-cy</string>
-    <string>Udieresis-cy</string>
-    <string>Uhungarumlaut-cy</string>
-    <string>Chedieresis-cy</string>
-    <string>Gedescender-cy</string>
-    <string>Yerudieresis-cy</string>
-    <string>Qa-cy</string>
-    <string>We-cy</string>
-    <string>De-cy.loclBGR</string>
-    <string>El-cy.loclBGR</string>
+    <string>uni0410</string>
+    <string>uni0411</string>
+    <string>uni0412</string>
+    <string>uni0413</string>
+    <string>uni0403</string>
+    <string>uni0490</string>
+    <string>uni0414</string>
+    <string>uni0415</string>
+    <string>uni0400</string>
+    <string>uni0401</string>
+    <string>uni0416</string>
+    <string>uni0417</string>
+    <string>uni0418</string>
+    <string>uni0419</string>
+    <string>uni040D</string>
+    <string>uni041A</string>
+    <string>uni040C</string>
+    <string>uni041B</string>
+    <string>uni041C</string>
+    <string>uni041D</string>
+    <string>uni041E</string>
+    <string>uni041F</string>
+    <string>uni0420</string>
+    <string>uni0421</string>
+    <string>uni0422</string>
+    <string>uni0423</string>
+    <string>uni040E</string>
+    <string>uni0424</string>
+    <string>uni0425</string>
+    <string>uni0427</string>
+    <string>uni0426</string>
+    <string>uni0428</string>
+    <string>uni0429</string>
+    <string>uni040F</string>
+    <string>uni042C</string>
+    <string>uni042A</string>
+    <string>uni042B</string>
+    <string>uni0409</string>
+    <string>uni040A</string>
+    <string>uni0405</string>
+    <string>uni0404</string>
+    <string>uni042D</string>
+    <string>uni0406</string>
+    <string>uni0407</string>
+    <string>uni0408</string>
+    <string>uni040B</string>
+    <string>uni042E</string>
+    <string>uni042F</string>
+    <string>uni0402</string>
+    <string>uni0462</string>
+    <string>uni046A</string>
+    <string>uni0472</string>
+    <string>uni0474</string>
+    <string>uni0492</string>
+    <string>uni0494</string>
+    <string>uni0496</string>
+    <string>uni0498</string>
+    <string>uni049A</string>
+    <string>uni049C</string>
+    <string>uni04A0</string>
+    <string>uni04A2</string>
+    <string>uni04A4</string>
+    <string>uni04AA</string>
+    <string>uni04AE</string>
+    <string>uni04B0</string>
+    <string>uni04B2</string>
+    <string>uni04B6</string>
+    <string>uni04B8</string>
+    <string>uni04BA</string>
+    <string>uni04C0</string>
+    <string>uni04C1</string>
+    <string>uni04CB</string>
+    <string>uni04D0</string>
+    <string>uni04D2</string>
+    <string>uni04D4</string>
+    <string>uni04D6</string>
+    <string>uni04D8</string>
+    <string>uni04DC</string>
+    <string>uni04DE</string>
+    <string>uni04E2</string>
+    <string>uni04E4</string>
+    <string>uni04E6</string>
+    <string>uni04E8</string>
+    <string>uni04EE</string>
+    <string>uni04F0</string>
+    <string>uni04F2</string>
+    <string>uni04F4</string>
+    <string>uni04F6</string>
+    <string>uni04F8</string>
+    <string>uni051A</string>
+    <string>uni051C</string>
+    <string>uni0414.loclBGR</string>
+    <string>uni041B.loclBGR</string>
     <string>Alpha</string>
     <string>Beta</string>
     <string>Gamma</string>
-    <string>Delta</string>
+    <string>uni0394</string>
     <string>Epsilon</string>
     <string>Zeta</string>
     <string>Eta</string>
@@ -319,7 +319,7 @@
     <string>Phi</string>
     <string>Chi</string>
     <string>Psi</string>
-    <string>Omega</string>
+    <string>uni03A9</string>
     <string>Alphatonos</string>
     <string>Epsilontonos</string>
     <string>Etatonos</string>
@@ -329,234 +329,234 @@
     <string>Omegatonos</string>
     <string>Iotadieresis</string>
     <string>Upsilondieresis</string>
-    <string>KaiSymbol</string>
+    <string>uni03CF</string>
   </array>
   <key>allCyrillic</key>
   <array>
-    <string>A-cy</string>
-    <string>Be-cy</string>
-    <string>Ve-cy</string>
-    <string>Ge-cy</string>
-    <string>Gje-cy</string>
-    <string>Gheupturn-cy</string>
-    <string>De-cy</string>
-    <string>Ie-cy</string>
-    <string>Iegrave-cy</string>
-    <string>Io-cy</string>
-    <string>Zhe-cy</string>
-    <string>Ze-cy</string>
-    <string>Ii-cy</string>
-    <string>Iishort-cy</string>
-    <string>Iigrave-cy</string>
-    <string>Ka-cy</string>
-    <string>Kje-cy</string>
-    <string>El-cy</string>
-    <string>Em-cy</string>
-    <string>En-cy</string>
-    <string>O-cy</string>
-    <string>Pe-cy</string>
-    <string>Er-cy</string>
-    <string>Es-cy</string>
-    <string>Te-cy</string>
-    <string>U-cy</string>
-    <string>Ushort-cy</string>
-    <string>Ef-cy</string>
-    <string>Ha-cy</string>
-    <string>Che-cy</string>
-    <string>Tse-cy</string>
-    <string>Sha-cy</string>
-    <string>Shcha-cy</string>
-    <string>Dzhe-cy</string>
-    <string>Softsign-cy</string>
-    <string>Hardsign-cy</string>
-    <string>Yeru-cy</string>
-    <string>Lje-cy</string>
-    <string>Nje-cy</string>
-    <string>Dze-cy</string>
-    <string>E-cy</string>
-    <string>Ereversed-cy</string>
-    <string>I-cy</string>
-    <string>Yi-cy</string>
-    <string>Je-cy</string>
-    <string>Tshe-cy</string>
-    <string>Iu-cy</string>
-    <string>Ia-cy</string>
-    <string>Dje-cy</string>
-    <string>Yat-cy</string>
-    <string>Yusbig-cy</string>
-    <string>Fita-cy</string>
-    <string>Izhitsa-cy</string>
-    <string>Ghestroke-cy</string>
-    <string>Ghemiddlehook-cy</string>
-    <string>Zhedescender-cy</string>
-    <string>Zedescender-cy</string>
-    <string>Kadescender-cy</string>
-    <string>Kaverticalstroke-cy</string>
-    <string>Kabashkir-cy</string>
-    <string>Endescender-cy</string>
-    <string>Enghe-cy</string>
-    <string>Esdescender-cy</string>
-    <string>Ustraight-cy</string>
-    <string>Ustraightstroke-cy</string>
-    <string>Hadescender-cy</string>
-    <string>Chedescender-cy</string>
-    <string>Cheverticalstroke-cy</string>
-    <string>Shha-cy</string>
-    <string>Palochka-cy</string>
-    <string>Zhebreve-cy</string>
-    <string>Chekhakassian-cy</string>
-    <string>Abreve-cy</string>
-    <string>Adieresis-cy</string>
-    <string>Aie-cy</string>
-    <string>Iebreve-cy</string>
-    <string>Schwa-cy</string>
-    <string>Zhedieresis-cy</string>
-    <string>Zedieresis-cy</string>
-    <string>Imacron-cy</string>
-    <string>Idieresis-cy</string>
-    <string>Odieresis-cy</string>
-    <string>Obarred-cy</string>
-    <string>Umacron-cy</string>
-    <string>Udieresis-cy</string>
-    <string>Uhungarumlaut-cy</string>
-    <string>Chedieresis-cy</string>
-    <string>Gedescender-cy</string>
-    <string>Yerudieresis-cy</string>
-    <string>Qa-cy</string>
-    <string>We-cy</string>
-    <string>De-cy.loclBGR</string>
-    <string>El-cy.loclBGR</string>
-    <string>a-cy</string>
-    <string>be-cy</string>
-    <string>ve-cy</string>
-    <string>ge-cy</string>
-    <string>gje-cy</string>
-    <string>gheupturn-cy</string>
-    <string>de-cy</string>
-    <string>ie-cy</string>
-    <string>iegrave-cy</string>
-    <string>io-cy</string>
-    <string>zhe-cy</string>
-    <string>ze-cy</string>
-    <string>ii-cy</string>
-    <string>iishort-cy</string>
-    <string>iigrave-cy</string>
-    <string>ka-cy</string>
-    <string>kje-cy</string>
-    <string>el-cy</string>
-    <string>em-cy</string>
-    <string>en-cy</string>
-    <string>o-cy</string>
-    <string>pe-cy</string>
-    <string>er-cy</string>
-    <string>es-cy</string>
-    <string>te-cy</string>
-    <string>u-cy</string>
-    <string>ushort-cy</string>
-    <string>ef-cy</string>
-    <string>ha-cy</string>
-    <string>che-cy</string>
-    <string>tse-cy</string>
-    <string>sha-cy</string>
-    <string>shcha-cy</string>
-    <string>dzhe-cy</string>
-    <string>softsign-cy</string>
-    <string>hardsign-cy</string>
-    <string>yeru-cy</string>
-    <string>lje-cy</string>
-    <string>nje-cy</string>
-    <string>dze-cy</string>
-    <string>e-cy</string>
-    <string>ereversed-cy</string>
-    <string>i-cy</string>
-    <string>yi-cy</string>
-    <string>je-cy</string>
-    <string>tshe-cy</string>
-    <string>iu-cy</string>
-    <string>ia-cy</string>
-    <string>dje-cy</string>
-    <string>yat-cy</string>
-    <string>yusbig-cy</string>
-    <string>fita-cy</string>
-    <string>izhitsa-cy</string>
-    <string>ghestroke-cy</string>
-    <string>ghemiddlehook-cy</string>
-    <string>zhedescender-cy</string>
-    <string>zedescender-cy</string>
-    <string>kadescender-cy</string>
-    <string>kaverticalstroke-cy</string>
-    <string>kabashkir-cy</string>
-    <string>endescender-cy</string>
-    <string>enghe-cy</string>
-    <string>esdescender-cy</string>
-    <string>ustraight-cy</string>
-    <string>ustraightstroke-cy</string>
-    <string>hadescender-cy</string>
-    <string>chedescender-cy</string>
-    <string>cheverticalstroke-cy</string>
-    <string>shha-cy</string>
-    <string>palochka-cy</string>
-    <string>zhebreve-cy</string>
-    <string>chekhakassian-cy</string>
-    <string>abreve-cy</string>
-    <string>adieresis-cy</string>
-    <string>aie-cy</string>
-    <string>iebreve-cy</string>
-    <string>schwa-cy</string>
-    <string>zhedieresis-cy</string>
-    <string>zedieresis-cy</string>
-    <string>imacron-cy</string>
-    <string>idieresis-cy</string>
-    <string>odieresis-cy</string>
-    <string>obarred-cy</string>
-    <string>umacron-cy</string>
-    <string>udieresis-cy</string>
-    <string>uhungarumlaut-cy</string>
-    <string>chedieresis-cy</string>
-    <string>gedescender-cy</string>
-    <string>yerudieresis-cy</string>
-    <string>qa-cy</string>
-    <string>we-cy</string>
-    <string>ve-cy.loclBGR</string>
-    <string>ge-cy.loclBGR</string>
-    <string>de-cy.loclBGR</string>
-    <string>zhe-cy.loclBGR</string>
-    <string>ze-cy.loclBGR</string>
-    <string>ii-cy.loclBGR</string>
-    <string>iishort-cy.loclBGR</string>
-    <string>iigrave-cy.loclBGR</string>
-    <string>ka-cy.loclBGR</string>
-    <string>el-cy.loclBGR</string>
-    <string>pe-cy.loclBGR</string>
-    <string>te-cy.loclBGR</string>
-    <string>tse-cy.loclBGR</string>
-    <string>sha-cy.loclBGR</string>
-    <string>shcha-cy.loclBGR</string>
-    <string>softsign-cy.loclBGR</string>
-    <string>hardsign-cy.loclBGR</string>
-    <string>iu-cy.loclBGR</string>
-    <string>gje-cy.loclMKD</string>
-    <string>be-cy.loclSRB</string>
-    <string>ge-cy.loclSRB</string>
-    <string>de-cy.loclSRB</string>
-    <string>pe-cy.loclSRB</string>
-    <string>te-cy.loclSRB</string>
-    <string>a-cy.ss01</string>
-    <string>abreve-cy.ss01</string>
-    <string>adieresis-cy.ss01</string>
-    <string>aie-cy.ss01</string>
-    <string>gje-cy.loclMKD.ss01</string>
-    <string>pe-cy.loclSRB.ss01</string>
-    <string>te-cy.loclSRB.ss01</string>
-    <string>brevecomb-cy</string>
+    <string>uni0410</string>
+    <string>uni0411</string>
+    <string>uni0412</string>
+    <string>uni0413</string>
+    <string>uni0403</string>
+    <string>uni0490</string>
+    <string>uni0414</string>
+    <string>uni0415</string>
+    <string>uni0400</string>
+    <string>uni0401</string>
+    <string>uni0416</string>
+    <string>uni0417</string>
+    <string>uni0418</string>
+    <string>uni0419</string>
+    <string>uni040D</string>
+    <string>uni041A</string>
+    <string>uni040C</string>
+    <string>uni041B</string>
+    <string>uni041C</string>
+    <string>uni041D</string>
+    <string>uni041E</string>
+    <string>uni041F</string>
+    <string>uni0420</string>
+    <string>uni0421</string>
+    <string>uni0422</string>
+    <string>uni0423</string>
+    <string>uni040E</string>
+    <string>uni0424</string>
+    <string>uni0425</string>
+    <string>uni0427</string>
+    <string>uni0426</string>
+    <string>uni0428</string>
+    <string>uni0429</string>
+    <string>uni040F</string>
+    <string>uni042C</string>
+    <string>uni042A</string>
+    <string>uni042B</string>
+    <string>uni0409</string>
+    <string>uni040A</string>
+    <string>uni0405</string>
+    <string>uni0404</string>
+    <string>uni042D</string>
+    <string>uni0406</string>
+    <string>uni0407</string>
+    <string>uni0408</string>
+    <string>uni040B</string>
+    <string>uni042E</string>
+    <string>uni042F</string>
+    <string>uni0402</string>
+    <string>uni0462</string>
+    <string>uni046A</string>
+    <string>uni0472</string>
+    <string>uni0474</string>
+    <string>uni0492</string>
+    <string>uni0494</string>
+    <string>uni0496</string>
+    <string>uni0498</string>
+    <string>uni049A</string>
+    <string>uni049C</string>
+    <string>uni04A0</string>
+    <string>uni04A2</string>
+    <string>uni04A4</string>
+    <string>uni04AA</string>
+    <string>uni04AE</string>
+    <string>uni04B0</string>
+    <string>uni04B2</string>
+    <string>uni04B6</string>
+    <string>uni04B8</string>
+    <string>uni04BA</string>
+    <string>uni04C0</string>
+    <string>uni04C1</string>
+    <string>uni04CB</string>
+    <string>uni04D0</string>
+    <string>uni04D2</string>
+    <string>uni04D4</string>
+    <string>uni04D6</string>
+    <string>uni04D8</string>
+    <string>uni04DC</string>
+    <string>uni04DE</string>
+    <string>uni04E2</string>
+    <string>uni04E4</string>
+    <string>uni04E6</string>
+    <string>uni04E8</string>
+    <string>uni04EE</string>
+    <string>uni04F0</string>
+    <string>uni04F2</string>
+    <string>uni04F4</string>
+    <string>uni04F6</string>
+    <string>uni04F8</string>
+    <string>uni051A</string>
+    <string>uni051C</string>
+    <string>uni0414.loclBGR</string>
+    <string>uni041B.loclBGR</string>
+    <string>uni0430</string>
+    <string>uni0431</string>
+    <string>uni0432</string>
+    <string>uni0433</string>
+    <string>uni0453</string>
+    <string>uni0491</string>
+    <string>uni0434</string>
+    <string>uni0435</string>
+    <string>uni0450</string>
+    <string>uni0451</string>
+    <string>uni0436</string>
+    <string>uni0437</string>
+    <string>uni0438</string>
+    <string>uni0439</string>
+    <string>uni045D</string>
+    <string>uni043A</string>
+    <string>uni045C</string>
+    <string>uni043B</string>
+    <string>uni043C</string>
+    <string>uni043D</string>
+    <string>uni043E</string>
+    <string>uni043F</string>
+    <string>uni0440</string>
+    <string>uni0441</string>
+    <string>uni0442</string>
+    <string>uni0443</string>
+    <string>uni045E</string>
+    <string>uni0444</string>
+    <string>uni0445</string>
+    <string>uni0447</string>
+    <string>uni0446</string>
+    <string>uni0448</string>
+    <string>uni0449</string>
+    <string>uni045F</string>
+    <string>uni044C</string>
+    <string>uni044A</string>
+    <string>uni044B</string>
+    <string>uni0459</string>
+    <string>uni045A</string>
+    <string>uni0455</string>
+    <string>uni0454</string>
+    <string>uni044D</string>
+    <string>uni0456</string>
+    <string>uni0457</string>
+    <string>uni0458</string>
+    <string>uni045B</string>
+    <string>uni044E</string>
+    <string>uni044F</string>
+    <string>uni0452</string>
+    <string>uni0463</string>
+    <string>uni046B</string>
+    <string>uni0473</string>
+    <string>uni0475</string>
+    <string>uni0493</string>
+    <string>uni0495</string>
+    <string>uni0497</string>
+    <string>uni0499</string>
+    <string>uni049B</string>
+    <string>uni049D</string>
+    <string>uni04A1</string>
+    <string>uni04A3</string>
+    <string>uni04A5</string>
+    <string>uni04AB</string>
+    <string>uni04AF</string>
+    <string>uni04B1</string>
+    <string>uni04B3</string>
+    <string>uni04B7</string>
+    <string>uni04B9</string>
+    <string>uni04BB</string>
+    <string>uni04CF</string>
+    <string>uni04C2</string>
+    <string>uni04CC</string>
+    <string>uni04D1</string>
+    <string>uni04D3</string>
+    <string>uni04D5</string>
+    <string>uni04D7</string>
+    <string>uni04D9</string>
+    <string>uni04DD</string>
+    <string>uni04DF</string>
+    <string>uni04E3</string>
+    <string>uni04E5</string>
+    <string>uni04E7</string>
+    <string>uni04E9</string>
+    <string>uni04EF</string>
+    <string>uni04F1</string>
+    <string>uni04F3</string>
+    <string>uni04F5</string>
+    <string>uni04F7</string>
+    <string>uni04F9</string>
+    <string>uni051B</string>
+    <string>uni051D</string>
+    <string>uni0432.loclBGR</string>
+    <string>uni0433.loclBGR</string>
+    <string>uni0434.loclBGR</string>
+    <string>uni0436.loclBGR</string>
+    <string>uni0437.loclBGR</string>
+    <string>uni0438.loclBGR</string>
+    <string>uni0439.loclBGR</string>
+    <string>uni045D.loclBGR</string>
+    <string>uni043A.loclBGR</string>
+    <string>uni043B.loclBGR</string>
+    <string>uni043F.loclBGR</string>
+    <string>uni0442.loclBGR</string>
+    <string>uni0446.loclBGR</string>
+    <string>uni0448.loclBGR</string>
+    <string>uni0449.loclBGR</string>
+    <string>uni044C.loclBGR</string>
+    <string>uni044A.loclBGR</string>
+    <string>uni044E.loclBGR</string>
+    <string>uni0453.loclMKD</string>
+    <string>uni0431.loclSRB</string>
+    <string>uni0433.loclSRB</string>
+    <string>uni0434.loclSRB</string>
+    <string>uni043F.loclSRB</string>
+    <string>uni0442.loclSRB</string>
+    <string>uni0430.ss01</string>
+    <string>uni04D1.ss01</string>
+    <string>uni04D3.ss01</string>
+    <string>uni04D5.ss01</string>
+    <string>uni0453.loclMKD.ss01</string>
+    <string>uni043F.loclSRB.ss01</string>
+    <string>uni0442.loclSRB.ss01</string>
+    <string>uni0306.ccmp</string>
   </array>
   <key>calt</key>
   <array>
-    <string>mu</string>
+    <string>uni03BC</string>
     <string>Alpha</string>
     <string>Beta</string>
     <string>Chi</string>
-    <string>Delta</string>
+    <string>uni0394</string>
     <string>Epsilon</string>
     <string>Phi</string>
     <string>Gamma</string>
@@ -573,7 +573,7 @@
     <string>Sigma</string>
     <string>Tau</string>
     <string>Upsilon</string>
-    <string>Omega</string>
+    <string>uni03A9</string>
     <string>Xi</string>
     <string>Psi</string>
     <string>Zeta</string>
@@ -620,7 +620,7 @@
     <string>upsilondieresis</string>
     <string>iotadieresistonos</string>
     <string>upsilondieresistonos</string>
-    <string>sigmafinal</string>
+    <string>uni03C2</string>
   </array>
   <key>calt2</key>
   <array>
@@ -642,14 +642,14 @@
     <string>eogonek</string>
     <string>iogonek</string>
     <string>etatonos</string>
-    <string>lcommaaccent</string>
-    <string>tcedilla</string>
-    <string>tcommaaccent</string>
-    <string>questiongreek</string>
-    <string>sigmafinal</string>
-    <string>Idotbelow</string>
-    <string>idotbelow</string>
-    <string>ydotbelow</string>
+    <string>uni013C</string>
+    <string>uni0163</string>
+    <string>uni021B</string>
+    <string>uni037E</string>
+    <string>uni03C2</string>
+    <string>uni1ECA</string>
+    <string>uni1ECB</string>
+    <string>uni1EF5</string>
   </array>
   <key>calt3</key>
   <array>
@@ -660,166 +660,165 @@
     <string>itilde</string>
     <string>ibreve</string>
     <string>jcircumflex</string>
-    <string>adblgrave</string>
-    <string>edblgrave</string>
-    <string>idblgrave</string>
-    <string>iinvertedbreve</string>
-    <string>odblgrave</string>
-    <string>rdblgrave</string>
-    <string>rinvertedbreve</string>
-    <string>udblgrave</string>
+    <string>uni0201</string>
+    <string>uni0205</string>
+    <string>uni0209</string>
+    <string>uni020B</string>
+    <string>uni020D</string>
+    <string>uni0211</string>
+    <string>uni0213</string>
+    <string>uni0215</string>
     <string>jcircumflex.calt</string>
-    <string>adblgrave.ss01</string>
+    <string>uni0201.ss01</string>
   </array>
   <key>comb_bottom</key>
   <array>
     <string>dotbelowcomb</string>
-    <string>dieresisbelowcomb</string>
-    <string>commaaccentcomb</string>
-    <string>cedillacomb</string>
-    <string>ogonekcomb</string>
-    <string>brevebelowcomb</string>
-    <string>macronbelowcomb</string>
+    <string>uni0324</string>
+    <string>uni0326</string>
+    <string>uni0327</string>
+    <string>uni0328</string>
+    <string>uni032E</string>
+    <string>uni0331</string>
   </array>
   <key>comb_case_dst</key>
   <array>
-    <string>dieresiscomb.case</string>
-    <string>dotaccentcomb.case</string>
+    <string>uni0308.case</string>
+    <string>uni0307.case</string>
     <string>gravecomb.case</string>
     <string>acutecomb.case</string>
-    <string>hungarumlautcomb.case</string>
-    <string>circumflexcomb.case</string>
-    <string>caroncomb.case</string>
-    <string>brevecomb.case</string>
-    <string>ringcomb.case</string>
+    <string>uni030B.case</string>
+    <string>uni0302.case</string>
+    <string>uni030C.case</string>
+    <string>uni0306.case</string>
+    <string>uni030A.case</string>
     <string>tildecomb.case</string>
     <string>hookabovecomb.case</string>
-    <string>dblgravecomb.case</string>
-    <string>breveinvertedcomb.case</string>
-    <string>commaturnedabovecomb.case</string>
-    <string>horncomb.case</string>
-    <string>strokeshortcomb.case</string>
-    <string>macroncomb.case</string>
+    <string>uni030F.case</string>
+    <string>uni0311.case</string>
+    <string>uni0312.case</string>
+    <string>uni031B.case</string>
+    <string>uni0335.case</string>
+    <string>uni0304.case</string>
   </array>
   <key>comb_case_src</key>
   <array>
-    <string>dieresiscomb</string>
-    <string>dotaccentcomb</string>
+    <string>uni0308</string>
+    <string>uni0307</string>
     <string>gravecomb</string>
     <string>acutecomb</string>
-    <string>hungarumlautcomb</string>
-    <string>circumflexcomb</string>
-    <string>caroncomb</string>
-    <string>brevecomb</string>
-    <string>ringcomb</string>
+    <string>uni030B</string>
+    <string>uni0302</string>
+    <string>uni030C</string>
+    <string>uni0306</string>
+    <string>uni030A</string>
     <string>tildecomb</string>
     <string>hookabovecomb</string>
-    <string>dblgravecomb</string>
-    <string>breveinvertedcomb</string>
-    <string>commaturnedabovecomb</string>
-    <string>horncomb</string>
-    <string>strokeshortcomb</string>
-    <string>macroncomb</string>
+    <string>uni030F</string>
+    <string>uni0311</string>
+    <string>uni0312</string>
+    <string>uni031B</string>
+    <string>uni0335</string>
+    <string>uni0304</string>
   </array>
   <key>comb_narrow_dst</key>
   <array>
-    <string>macroncomb.narrow</string>
-    <string>dieresiscomb.narrow</string>
+    <string>uni0304.narrow</string>
+    <string>uni0308.narrow</string>
     <string>gravecomb.narrow</string>
     <string>acutecomb.narrow</string>
-    <string>circumflexcomb.narrow</string>
-    <string>brevecomb.narrow</string>
+    <string>uni0302.narrow</string>
+    <string>uni0306.narrow</string>
     <string>tildecomb.narrow</string>
     <string>hookabovecomb.narrow</string>
-    <string>dblgravecomb.narrow</string>
-    <string>breveinvertedcomb.narrow</string>
+    <string>uni030F.narrow</string>
+    <string>uni0311.narrow</string>
   </array>
   <key>comb_narrow_src</key>
   <array>
-    <string>macroncomb</string>
-    <string>dieresiscomb</string>
+    <string>uni0304</string>
+    <string>uni0308</string>
     <string>gravecomb</string>
     <string>acutecomb</string>
-    <string>circumflexcomb</string>
-    <string>brevecomb</string>
+    <string>uni0302</string>
+    <string>uni0306</string>
     <string>tildecomb</string>
     <string>hookabovecomb</string>
-    <string>dblgravecomb</string>
-    <string>breveinvertedcomb</string>
+    <string>uni030F</string>
+    <string>uni0311</string>
   </array>
   <key>comb_narrow_triggers</key>
   <array>
-    <string>idotless</string>
-    <string>jdotless</string>
+    <string>dotlessi</string>
+    <string>uni0237</string>
   </array>
   <key>comb_top</key>
   <array>
-    <string>dieresiscomb</string>
-    <string>dotaccentcomb</string>
+    <string>uni0308</string>
+    <string>uni0307</string>
     <string>gravecomb</string>
     <string>acutecomb</string>
-    <string>hungarumlautcomb</string>
-    <string>circumflexcomb</string>
-    <string>caroncomb</string>
-    <string>brevecomb</string>
-    <string>ringcomb</string>
+    <string>uni030B</string>
+    <string>uni0302</string>
+    <string>uni030C</string>
+    <string>uni0306</string>
+    <string>uni030A</string>
     <string>tildecomb</string>
-    <string>macroncomb</string>
+    <string>uni0304</string>
     <string>hookabovecomb</string>
-    <string>dblgravecomb</string>
-    <string>breveinvertedcomb</string>
-    <string>commaturnedabovecomb</string>
-    <string>dieresiscomb.case</string>
-    <string>dotaccentcomb.case</string>
+    <string>uni030F</string>
+    <string>uni0311</string>
+    <string>uni0312</string>
+    <string>uni0308.case</string>
+    <string>uni0307.case</string>
     <string>gravecomb.case</string>
     <string>acutecomb.case</string>
-    <string>hungarumlautcomb.case</string>
-    <string>circumflexcomb.case</string>
-    <string>caroncomb.case</string>
-    <string>brevecomb.case</string>
-    <string>ringcomb.case</string>
+    <string>uni030B.case</string>
+    <string>uni0302.case</string>
+    <string>uni030C.case</string>
+    <string>uni0306.case</string>
+    <string>uni030A.case</string>
     <string>tildecomb.case</string>
     <string>hookabovecomb.case</string>
-    <string>dblgravecomb.case</string>
-    <string>breveinvertedcomb.case</string>
-    <string>commaturnedabovecomb.case</string>
-    <string>macroncomb.case</string>
-    <string>macroncomb.narrow</string>
-    <string>macroncomb.wide</string>
-    <string>dieresiscomb.narrow</string>
+    <string>uni030F.case</string>
+    <string>uni0311.case</string>
+    <string>uni0312.case</string>
+    <string>uni0304.case</string>
+    <string>uni0304.narrow</string>
+    <string>uni0304.wide</string>
+    <string>uni0308.narrow</string>
     <string>gravecomb.narrow</string>
     <string>acutecomb.narrow</string>
-    <string>circumflexcomb.narrow</string>
-    <string>brevecomb.narrow</string>
+    <string>uni0302.narrow</string>
+    <string>uni0306.narrow</string>
     <string>tildecomb.narrow</string>
     <string>hookabovecomb.narrow</string>
-    <string>dblgravecomb.narrow</string>
-    <string>breveinvertedcomb.narrow</string>
-    <string>brevecomb-cy</string>
-    <string>brevecomb_acutecomb</string>
-    <string>brevecomb_gravecomb</string>
-    <string>brevecomb_hookabovecomb</string>
-    <string>brevecomb_tildecomb</string>
-    <string>circumflexcomb_acutecomb</string>
-    <string>circumflexcomb_gravecomb</string>
-    <string>circumflexcomb_hookabovecomb</string>
-    <string>circumflexcomb_tildecomb</string>
+    <string>uni030F.narrow</string>
+    <string>uni0311.narrow</string>
+    <string>uni0306.ccmp</string>
+    <string>uni0306_acutecomb</string>
+    <string>uni0306_gravecomb</string>
+    <string>uni0306_hookabovecomb</string>
+    <string>uni0306_tildecomb</string>
+    <string>uni0302_acutecomb</string>
+    <string>uni0302_gravecomb</string>
+    <string>uni0302_hookabovecomb</string>
+    <string>uni0302_tildecomb</string>
   </array>
   <key>dotless_dst</key>
   <array>
-    <string>idotless</string>
-    <string>iogonek.dotless</string>
-    <string>jdotless</string>
-    <string>idotless</string>
-    <string>jdotless</string>
+    <string>dotlessi</string>
+    <string>uni0237</string>
+    <string>dotlessi</string>
+    <string>uni0237</string>
   </array>
   <key>dotless_src</key>
   <array>
     <string>i</string>
     <string>iogonek</string>
     <string>j</string>
-    <string>i-cy</string>
-    <string>je-cy</string>
+    <string>uni0456</string>
+    <string>uni0458</string>
   </array>
   <key>f_calt_dst</key>
   <array>
@@ -831,24 +830,24 @@
   </array>
   <key>f_calt_triggers</key>
   <array>
-    <string>adblgrave</string>
-    <string>edblgrave</string>
+    <string>uni0201</string>
+    <string>uni0205</string>
     <string>ibreve</string>
     <string>icircumflex</string>
-    <string>idblgrave</string>
+    <string>uni0209</string>
     <string>idieresis</string>
     <string>igrave</string>
-    <string>ihookabove</string>
-    <string>iinvertedbreve</string>
+    <string>uni1EC9</string>
+    <string>uni020B</string>
     <string>imacron</string>
     <string>itilde</string>
     <string>jcircumflex</string>
     <string>jcircumflex.calt</string>
-    <string>odblgrave</string>
-    <string>rdblgrave</string>
-    <string>rinvertedbreve</string>
-    <string>udblgrave</string>
-    <string>adblgrave.ss01</string>
+    <string>uni020D</string>
+    <string>uni0211</string>
+    <string>uni0213</string>
+    <string>uni0215</string>
+    <string>uni0201.ss01</string>
   </array>
   <key>figures</key>
   <array>
@@ -868,7 +867,7 @@
     <string>Alpha</string>
     <string>Beta</string>
     <string>Gamma</string>
-    <string>Delta</string>
+    <string>uni0394</string>
     <string>Epsilon</string>
     <string>Zeta</string>
     <string>Eta</string>
@@ -888,7 +887,7 @@
     <string>Phi</string>
     <string>Chi</string>
     <string>Psi</string>
-    <string>Omega</string>
+    <string>uni03A9</string>
     <string>Alphatonos</string>
     <string>Epsilontonos</string>
     <string>Etatonos</string>
@@ -898,7 +897,7 @@
     <string>Omegatonos</string>
     <string>Iotadieresis</string>
     <string>Upsilondieresis</string>
-    <string>KaiSymbol</string>
+    <string>uni03CF</string>
     <string>alpha</string>
     <string>beta</string>
     <string>gamma</string>
@@ -910,13 +909,13 @@
     <string>iota</string>
     <string>kappa</string>
     <string>lambda</string>
-    <string>mu</string>
+    <string>uni03BC</string>
     <string>nu</string>
     <string>xi</string>
     <string>omicron</string>
     <string>pi</string>
     <string>rho</string>
-    <string>sigmafinal</string>
+    <string>uni03C2</string>
     <string>sigma</string>
     <string>tau</string>
     <string>upsilon</string>
@@ -935,14 +934,14 @@
     <string>alphatonos</string>
     <string>epsilontonos</string>
     <string>etatonos</string>
-    <string>kaiSymbol</string>
+    <string>uni03D7</string>
   </array>
   <key>grekCaps</key>
   <array>
     <string>Alpha</string>
     <string>Beta</string>
     <string>Gamma</string>
-    <string>Delta</string>
+    <string>uni0394</string>
     <string>Epsilon</string>
     <string>Zeta</string>
     <string>Eta</string>
@@ -962,7 +961,7 @@
     <string>Phi</string>
     <string>Chi</string>
     <string>Psi</string>
-    <string>Omega</string>
+    <string>uni03A9</string>
     <string>Alphatonos</string>
     <string>Epsilontonos</string>
     <string>Etatonos</string>
@@ -972,7 +971,7 @@
     <string>Omegatonos</string>
     <string>Iotadieresis</string>
     <string>Upsilondieresis</string>
-    <string>KaiSymbol</string>
+    <string>uni03CF</string>
   </array>
   <key>grekCapsTonos</key>
   <array>
@@ -992,65 +991,64 @@
     <string>Iota</string>
     <string>Omicron</string>
     <string>Upsilon</string>
-    <string>Omega</string>
+    <string>uni03A9</string>
   </array>
   <key>j_calt_dst</key>
   <array>
     <string>j.calt</string>
-    <string>jdotless.calt</string>
+    <string>uni0237.calt</string>
     <string>jcircumflex.calt</string>
-    <string>je-cy.calt</string>
+    <string>uni0458.calt</string>
   </array>
   <key>j_calt_src</key>
   <array>
     <string>j</string>
-    <string>jdotless</string>
+    <string>uni0237</string>
     <string>jcircumflex</string>
-    <string>je-cy</string>
+    <string>uni0458</string>
   </array>
   <key>j_calt_triggers</key>
   <array>
     <string>Aogonek</string>
     <string>Eogonek</string>
-    <string>Idotbelow</string>
+    <string>uni1ECA</string>
     <string>eogonek</string>
-    <string>idotbelow</string>
+    <string>uni1ECB</string>
     <string>iogonek</string>
-    <string>iogonek.dotless</string>
-    <string>lcommaaccent</string>
+    <string>uni013C</string>
     <string>q</string>
-    <string>tcedilla</string>
-    <string>tcommaaccent</string>
-    <string>ydotbelow</string>
-    <string>De-cy</string>
-    <string>De-cy.loclBGR</string>
-    <string>Tse-cy</string>
-    <string>Shcha-cy</string>
-    <string>Zhedescender-cy</string>
-    <string>Kadescender-cy</string>
-    <string>Endescender-cy</string>
-    <string>Hadescender-cy</string>
-    <string>Chedescender-cy</string>
-    <string>de-cy</string>
-    <string>tse-cy</string>
-    <string>shcha-cy</string>
-    <string>zhedescender-cy</string>
-    <string>kadescender-cy</string>
-    <string>endescender-cy</string>
-    <string>hadescender-cy</string>
-    <string>chedescender-cy</string>
-    <string>qa-cy</string>
-    <string>ze-cy.loclBGR</string>
-    <string>tse-cy.loclBGR</string>
-    <string>shcha-cy.loclBGR</string>
-    <string>KaiSymbol</string>
+    <string>uni0163</string>
+    <string>uni021B</string>
+    <string>uni1EF5</string>
+    <string>uni0414</string>
+    <string>uni0414.loclBGR</string>
+    <string>uni0426</string>
+    <string>uni0429</string>
+    <string>uni0496</string>
+    <string>uni049A</string>
+    <string>uni04A2</string>
+    <string>uni04B2</string>
+    <string>uni04B6</string>
+    <string>uni0434</string>
+    <string>uni0446</string>
+    <string>uni0449</string>
+    <string>uni0497</string>
+    <string>uni049B</string>
+    <string>uni04A3</string>
+    <string>uni04B3</string>
+    <string>uni04B7</string>
+    <string>uni051B</string>
+    <string>uni0437.loclBGR</string>
+    <string>uni0446.loclBGR</string>
+    <string>uni0449.loclBGR</string>
+    <string>uni03CF</string>
     <string>zeta</string>
     <string>eta</string>
     <string>xi</string>
-    <string>sigmafinal</string>
+    <string>uni03C2</string>
     <string>chi</string>
     <string>etatonos</string>
-    <string>kaiSymbol</string>
+    <string>uni03D7</string>
     <string>semicolon</string>
     <string>exclamdown</string>
     <string>questiondown</string>
@@ -1059,7 +1057,7 @@
     <string>braceleft</string>
     <string>bracketleft</string>
     <string>underscore</string>
-    <string>questiongreek</string>
+    <string>uni037E</string>
   </array>
   <key>nonLetter</key>
   <array>
@@ -1084,7 +1082,7 @@
     <string>onesuperior</string>
     <string>twosuperior</string>
     <string>threesuperior</string>
-    <string>foursuperior</string>
+    <string>uni2074</string>
     <string>fraction</string>
     <string>onehalf</string>
     <string>onequarter</string>
@@ -1113,10 +1111,10 @@
     <string>bracketleft</string>
     <string>bracketright</string>
     <string>hyphen</string>
-    <string>softhyphen</string>
+    <string>uni00AD</string>
     <string>endash</string>
     <string>emdash</string>
-    <string>hyphentwo</string>
+    <string>uni2010</string>
     <string>underscore</string>
     <string>quotesinglbase</string>
     <string>quotedblbase</string>
@@ -1124,48 +1122,47 @@
     <string>quotedblright</string>
     <string>quoteleft</string>
     <string>quoteright</string>
-    <string>guillemetleft</string>
-    <string>guillemetright</string>
+    <string>guillemotleft</string>
+    <string>guillemotright</string>
     <string>guilsinglleft</string>
     <string>guilsinglright</string>
     <string>quotedbl</string>
     <string>quotesingle</string>
-    <string>leftanglebracket-math</string>
-    <string>rightanglebracket-math</string>
+    <string>uni27E8</string>
+    <string>uni27E9</string>
     <string>anoteleia</string>
-    <string>questiongreek</string>
+    <string>uni037E</string>
     <string>space</string>
-    <string>nbspace</string>
-    <string>CR</string>
+    <string>uni00A0</string>
     <string>.notdef</string>
-    <string>cedi</string>
+    <string>uni20B5</string>
     <string>cent</string>
-    <string>colonsign</string>
+    <string>colonmonetary</string>
     <string>currency</string>
     <string>dollar</string>
     <string>dong</string>
-    <string>euro</string>
+    <string>Euro</string>
     <string>florin</string>
     <string>franc</string>
-    <string>guarani</string>
-    <string>hryvnia</string>
-    <string>kip</string>
+    <string>uni20B2</string>
+    <string>uni20B4</string>
+    <string>uni20AD</string>
     <string>lira</string>
-    <string>liraTurkish</string>
-    <string>manat</string>
-    <string>naira</string>
+    <string>uni20BA</string>
+    <string>uni20BC</string>
+    <string>uni20A6</string>
     <string>peseta</string>
-    <string>peso</string>
-    <string>ruble</string>
-    <string>rupeeIndian</string>
+    <string>uni20B1</string>
+    <string>uni20BD</string>
+    <string>uni20B9</string>
     <string>sterling</string>
-    <string>tenge</string>
-    <string>tugrik</string>
-    <string>won</string>
+    <string>uni20B8</string>
+    <string>uni20AE</string>
+    <string>uni20A9</string>
     <string>yen</string>
-    <string>bulletoperator</string>
-    <string>commercialMinusSign</string>
-    <string>divisionslash</string>
+    <string>uni2219</string>
+    <string>uni2052</string>
+    <string>uni2215</string>
     <string>plus</string>
     <string>minus</string>
     <string>multiply</string>
@@ -1181,17 +1178,17 @@
     <string>logicalnot</string>
     <string>asciitilde</string>
     <string>asciicircum</string>
-    <string>micro</string>
+    <string>uni00B5</string>
     <string>percent</string>
     <string>perthousand</string>
-    <string>upArrow</string>
-    <string>northEastArrow</string>
-    <string>rightArrow</string>
-    <string>southEastArrow</string>
-    <string>downArrow</string>
-    <string>southWestArrow</string>
-    <string>leftArrow</string>
-    <string>northWestArrow</string>
+    <string>arrowup</string>
+    <string>uni2197</string>
+    <string>arrowright</string>
+    <string>uni2198</string>
+    <string>arrowdown</string>
+    <string>uni2199</string>
+    <string>arrowleft</string>
+    <string>uni2196</string>
     <string>lozenge</string>
     <string>at</string>
     <string>ampersand</string>
@@ -1207,9 +1204,9 @@
     <string>brokenbar</string>
     <string>dagger</string>
     <string>daggerdbl</string>
-    <string>numero</string>
-    <string>numeral-greek</string>
-    <string>lowernumeral-greek</string>
+    <string>uni2116</string>
+    <string>uni0374</string>
+    <string>uni0375</string>
   </array>
   <key>ordn</key>
   <array>
@@ -1271,34 +1268,34 @@
   <key>public.kern1.L_A</key>
   <array>
     <string>A</string>
-    <string>A-cy</string>
     <string>Aacute</string>
     <string>Abreve</string>
-    <string>Abreve-cy</string>
-    <string>Abreveacute</string>
-    <string>Abrevedotbelow</string>
-    <string>Abrevegrave</string>
-    <string>Abrevehookabove</string>
-    <string>Abrevetilde</string>
     <string>Acircumflex</string>
-    <string>Acircumflexdotbelow</string>
-    <string>Acircumflextilde</string>
-    <string>Adblgrave</string>
     <string>Adieresis</string>
-    <string>Adieresis-cy</string>
-    <string>Adotbelow</string>
     <string>Agrave</string>
-    <string>Ahookabove</string>
-    <string>Ainvertedbreve</string>
     <string>Alpha</string>
     <string>Alphatonos</string>
     <string>Amacron</string>
     <string>Aring</string>
     <string>Aringacute</string>
     <string>Atilde</string>
-    <string>Delta</string>
-    <string>El-cy.loclBGR</string>
     <string>Lambda</string>
+    <string>uni0200</string>
+    <string>uni0202</string>
+    <string>uni0394</string>
+    <string>uni0410</string>
+    <string>uni041B.loclBGR</string>
+    <string>uni04D0</string>
+    <string>uni04D2</string>
+    <string>uni1EA0</string>
+    <string>uni1EA2</string>
+    <string>uni1EAA</string>
+    <string>uni1EAC</string>
+    <string>uni1EAE</string>
+    <string>uni1EB0</string>
+    <string>uni1EB2</string>
+    <string>uni1EB4</string>
+    <string>uni1EB6</string>
   </array>
   <key>public.kern1.L_Aogonek</key>
   <array>
@@ -1306,31 +1303,31 @@
   </array>
   <key>public.kern1.L_Aviet</key>
   <array>
-    <string>Acircumflexacute</string>
-    <string>Acircumflexgrave</string>
-    <string>Acircumflexhookabove</string>
+    <string>uni1EA4</string>
+    <string>uni1EA6</string>
+    <string>uni1EA8</string>
   </array>
   <key>public.kern1.L_B</key>
   <array>
     <string>B</string>
-    <string>Be-cy</string>
     <string>Beta</string>
-    <string>Dje-cy</string>
-    <string>Ghemiddlehook-cy</string>
-    <string>Tshe-cy</string>
-    <string>Ve-cy</string>
-    <string>Ze-cy</string>
-    <string>Zedescender-cy</string>
-    <string>Zedieresis-cy</string>
+    <string>uni0402</string>
+    <string>uni040B</string>
+    <string>uni0411</string>
+    <string>uni0412</string>
+    <string>uni0417</string>
+    <string>uni0494</string>
+    <string>uni0498</string>
+    <string>uni04DE</string>
   </array>
   <key>public.kern1.L_C</key>
   <array>
     <string>C</string>
     <string>Ccedilla</string>
     <string>Cdotaccent</string>
-    <string>E-cy</string>
-    <string>Es-cy</string>
-    <string>Esdescender-cy</string>
+    <string>uni0404</string>
+    <string>uni0421</string>
+    <string>uni04AA</string>
   </array>
   <key>public.kern1.L_Caccent</key>
   <array>
@@ -1340,44 +1337,44 @@
   </array>
   <key>public.kern1.L_De</key>
   <array>
-    <string>Chedescender-cy</string>
-    <string>De-cy</string>
-    <string>Endescender-cy</string>
-    <string>Shcha-cy</string>
-    <string>Tse-cy</string>
+    <string>uni0414</string>
+    <string>uni0426</string>
+    <string>uni0429</string>
+    <string>uni04A2</string>
+    <string>uni04B6</string>
   </array>
   <key>public.kern1.L_DeBGR</key>
   <array>
-    <string>De-cy.loclBGR</string>
+    <string>uni0414.loclBGR</string>
   </array>
   <key>public.kern1.L_E</key>
   <array>
     <string>AE</string>
     <string>AEacute</string>
-    <string>Aie-cy</string>
     <string>E</string>
     <string>Eacute</string>
     <string>Ebreve</string>
     <string>Ecircumflex</string>
-    <string>Ecircumflexdotbelow</string>
-    <string>Edblgrave</string>
     <string>Edieresis</string>
     <string>Edotaccent</string>
-    <string>Edotbelow</string>
     <string>Egrave</string>
-    <string>Ehookabove</string>
-    <string>Einvertedbreve</string>
     <string>Emacron</string>
     <string>Epsilon</string>
     <string>Epsilontonos</string>
-    <string>Etilde</string>
-    <string>Ie-cy</string>
-    <string>Iebreve-cy</string>
-    <string>Iegrave-cy</string>
-    <string>Io-cy</string>
     <string>OE</string>
     <string>Sigma</string>
     <string>Xi</string>
+    <string>uni0204</string>
+    <string>uni0206</string>
+    <string>uni0400</string>
+    <string>uni0401</string>
+    <string>uni0415</string>
+    <string>uni04D4</string>
+    <string>uni04D6</string>
+    <string>uni1EB8</string>
+    <string>uni1EBA</string>
+    <string>uni1EBC</string>
+    <string>uni1EC6</string>
   </array>
   <key>public.kern1.L_Ecaron</key>
   <array>
@@ -1385,8 +1382,8 @@
   </array>
   <key>public.kern1.L_Ef</key>
   <array>
-    <string>Ef-cy</string>
     <string>Phi</string>
+    <string>uni0424</string>
   </array>
   <key>public.kern1.L_Eogonek</key>
   <array>
@@ -1394,15 +1391,15 @@
   </array>
   <key>public.kern1.L_Eviet</key>
   <array>
-    <string>Ecircumflexacute</string>
-    <string>Ecircumflexgrave</string>
-    <string>Ecircumflexhookabove</string>
-    <string>Ecircumflextilde</string>
+    <string>uni1EBE</string>
+    <string>uni1EC0</string>
+    <string>uni1EC2</string>
+    <string>uni1EC4</string>
   </array>
   <key>public.kern1.L_F</key>
   <array>
     <string>F</string>
-    <string>Ghestroke-cy</string>
+    <string>uni0492</string>
   </array>
   <key>public.kern1.L_G</key>
   <array>
@@ -1410,36 +1407,21 @@
     <string>Gbreve</string>
     <string>Gcaron</string>
     <string>Gcircumflex</string>
-    <string>Gcommaaccent</string>
     <string>Gdotaccent</string>
+    <string>uni0122</string>
   </array>
   <key>public.kern1.L_Gheupturn</key>
   <array>
-    <string>Gheupturn-cy</string>
+    <string>uni0490</string>
   </array>
   <key>public.kern1.L_H</key>
   <array>
-    <string>Che-cy</string>
-    <string>Chedieresis-cy</string>
-    <string>Chekhakassian-cy</string>
-    <string>Cheverticalstroke-cy</string>
-    <string>Dzhe-cy</string>
-    <string>El-cy</string>
-    <string>Em-cy</string>
-    <string>En-cy</string>
     <string>Eng</string>
     <string>Eta</string>
     <string>Etatonos</string>
     <string>H</string>
     <string>Hcircumflex</string>
     <string>I</string>
-    <string>I-cy</string>
-    <string>Ia-cy</string>
-    <string>Idieresis-cy</string>
-    <string>Ii-cy</string>
-    <string>Iigrave-cy</string>
-    <string>Iishort-cy</string>
-    <string>Imacron-cy</string>
     <string>Iota</string>
     <string>Iotatonos</string>
     <string>M</string>
@@ -1447,19 +1429,34 @@
     <string>N</string>
     <string>Nacute</string>
     <string>Ncaron</string>
-    <string>Ncommaaccent</string>
     <string>Ntilde</string>
     <string>Nu</string>
-    <string>Palochka-cy</string>
-    <string>Pe-cy</string>
     <string>Pi</string>
-    <string>Sha-cy</string>
-    <string>Yeru-cy</string>
-    <string>Yerudieresis-cy</string>
+    <string>uni0145</string>
+    <string>uni0406</string>
+    <string>uni040D</string>
+    <string>uni040F</string>
+    <string>uni0418</string>
+    <string>uni0419</string>
+    <string>uni041B</string>
+    <string>uni041C</string>
+    <string>uni041D</string>
+    <string>uni041F</string>
+    <string>uni0427</string>
+    <string>uni0428</string>
+    <string>uni042B</string>
+    <string>uni042F</string>
+    <string>uni04B8</string>
+    <string>uni04C0</string>
+    <string>uni04CB</string>
+    <string>uni04E2</string>
+    <string>uni04E4</string>
+    <string>uni04F4</string>
+    <string>uni04F8</string>
   </array>
   <key>public.kern1.L_Hadescender</key>
   <array>
-    <string>Hadescender-cy</string>
+    <string>uni04B2</string>
   </array>
   <key>public.kern1.L_Hbar</key>
   <array>
@@ -1470,18 +1467,18 @@
     <string>Iacute</string>
     <string>Ibreve</string>
     <string>Icircumflex</string>
-    <string>Idblgrave</string>
     <string>Idieresis</string>
-    <string>Ihookabove</string>
-    <string>Iinvertedbreve</string>
     <string>Imacron</string>
     <string>Iotadieresis</string>
     <string>Itilde</string>
-    <string>Yi-cy</string>
+    <string>uni0208</string>
+    <string>uni020A</string>
+    <string>uni0407</string>
+    <string>uni1EC8</string>
   </array>
   <key>public.kern1.L_Iaccentbelow</key>
   <array>
-    <string>Idotbelow</string>
+    <string>uni1ECA</string>
   </array>
   <key>public.kern1.L_Idot</key>
   <array>
@@ -1494,7 +1491,7 @@
   </array>
   <key>public.kern1.L_Izhitsa</key>
   <array>
-    <string>Izhitsa-cy</string>
+    <string>uni0474</string>
   </array>
   <key>public.kern1.L_Jaccent</key>
   <array>
@@ -1503,26 +1500,26 @@
   <key>public.kern1.L_K</key>
   <array>
     <string>K</string>
-    <string>Ka-cy</string>
-    <string>Kabashkir-cy</string>
     <string>Kappa</string>
-    <string>Kaverticalstroke-cy</string>
-    <string>Kcommaaccent</string>
-    <string>Kje-cy</string>
-    <string>Yusbig-cy</string>
-    <string>Zhe-cy</string>
-    <string>Zhebreve-cy</string>
-    <string>Zhedieresis-cy</string>
+    <string>uni0136</string>
+    <string>uni040C</string>
+    <string>uni0416</string>
+    <string>uni041A</string>
+    <string>uni046A</string>
+    <string>uni049C</string>
+    <string>uni04A0</string>
+    <string>uni04C1</string>
+    <string>uni04DC</string>
   </array>
   <key>public.kern1.L_Kai</key>
   <array>
-    <string>KaiSymbol</string>
+    <string>uni03CF</string>
   </array>
   <key>public.kern1.L_L</key>
   <array>
     <string>L</string>
     <string>Lacute</string>
-    <string>Lcommaaccent</string>
+    <string>uni013B</string>
   </array>
   <key>public.kern1.L_Lcaron</key>
   <array>
@@ -1541,38 +1538,38 @@
     <string>D</string>
     <string>Dcaron</string>
     <string>Dcroat</string>
-    <string>Ereversed-cy</string>
     <string>Eth</string>
-    <string>Fita-cy</string>
-    <string>Iu-cy</string>
     <string>O</string>
-    <string>O-cy</string>
     <string>Oacute</string>
-    <string>Obarred-cy</string>
     <string>Obreve</string>
     <string>Ocircumflex</string>
-    <string>Ocircumflexdotbelow</string>
-    <string>Ocircumflexhookabove</string>
-    <string>Ocircumflextilde</string>
-    <string>Odblgrave</string>
     <string>Odieresis</string>
-    <string>Odieresis-cy</string>
-    <string>Odieresismacron</string>
-    <string>Odotaccentmacron</string>
-    <string>Odotbelow</string>
     <string>Ograve</string>
-    <string>Ohookabove</string>
-    <string>Oinvertedbreve</string>
     <string>Omacron</string>
     <string>Omicron</string>
     <string>Omicrontonos</string>
-    <string>Oogonek</string>
     <string>Otilde</string>
-    <string>Otildemacron</string>
-    <string>Qa-cy</string>
-    <string>Schwa</string>
-    <string>Schwa-cy</string>
     <string>Theta</string>
+    <string>uni018F</string>
+    <string>uni01EA</string>
+    <string>uni020C</string>
+    <string>uni020E</string>
+    <string>uni022A</string>
+    <string>uni022C</string>
+    <string>uni0230</string>
+    <string>uni041E</string>
+    <string>uni042D</string>
+    <string>uni042E</string>
+    <string>uni0472</string>
+    <string>uni04D8</string>
+    <string>uni04E6</string>
+    <string>uni04E8</string>
+    <string>uni051A</string>
+    <string>uni1ECC</string>
+    <string>uni1ECE</string>
+    <string>uni1ED4</string>
+    <string>uni1ED6</string>
+    <string>uni1ED8</string>
   </array>
   <key>public.kern1.L_Oaccent</key>
   <array>
@@ -1581,16 +1578,16 @@
   <key>public.kern1.L_Ohorn</key>
   <array>
     <string>Ohorn</string>
-    <string>Ohornacute</string>
-    <string>Ohorndotbelow</string>
-    <string>Ohorngrave</string>
-    <string>Ohornhookabove</string>
-    <string>Ohorntilde</string>
+    <string>uni1EDA</string>
+    <string>uni1EDC</string>
+    <string>uni1EDE</string>
+    <string>uni1EE0</string>
+    <string>uni1EE2</string>
   </array>
   <key>public.kern1.L_Omega</key>
   <array>
-    <string>Omega</string>
     <string>Omegatonos</string>
+    <string>uni03A9</string>
   </array>
   <key>public.kern1.L_Oslash</key>
   <array>
@@ -1599,14 +1596,14 @@
   </array>
   <key>public.kern1.L_Oviet</key>
   <array>
-    <string>Ocircumflexacute</string>
-    <string>Ocircumflexgrave</string>
+    <string>uni1ED0</string>
+    <string>uni1ED2</string>
   </array>
   <key>public.kern1.L_P</key>
   <array>
-    <string>Er-cy</string>
     <string>P</string>
     <string>Rho</string>
+    <string>uni0420</string>
   </array>
   <key>public.kern1.L_Psi</key>
   <array>
@@ -1621,18 +1618,18 @@
     <string>R</string>
     <string>Racute</string>
     <string>Rcaron</string>
-    <string>Rcommaaccent</string>
-    <string>Rdblgrave</string>
-    <string>Rinvertedbreve</string>
+    <string>uni0156</string>
+    <string>uni0210</string>
+    <string>uni0212</string>
   </array>
   <key>public.kern1.L_S</key>
   <array>
-    <string>Dze-cy</string>
     <string>Germandbls</string>
     <string>S</string>
     <string>Sacute</string>
     <string>Scedilla</string>
-    <string>Scommaaccent</string>
+    <string>uni0218</string>
+    <string>uni0405</string>
   </array>
   <key>public.kern1.L_Saccent</key>
   <array>
@@ -1641,32 +1638,32 @@
   </array>
   <key>public.kern1.L_Shha</key>
   <array>
-    <string>Shha-cy</string>
+    <string>uni04BA</string>
   </array>
   <key>public.kern1.L_Softsign</key>
   <array>
-    <string>Hardsign-cy</string>
-    <string>Lje-cy</string>
-    <string>Nje-cy</string>
-    <string>Softsign-cy</string>
-    <string>Yat-cy</string>
+    <string>uni0409</string>
+    <string>uni040A</string>
+    <string>uni042A</string>
+    <string>uni042C</string>
+    <string>uni0462</string>
   </array>
   <key>public.kern1.L_T</key>
   <array>
-    <string>Enghe-cy</string>
     <string>Gamma</string>
-    <string>Ge-cy</string>
-    <string>Gedescender-cy</string>
     <string>T</string>
     <string>Tau</string>
-    <string>Tcedilla</string>
-    <string>Tcommaaccent</string>
-    <string>Te-cy</string>
+    <string>uni0162</string>
+    <string>uni021A</string>
+    <string>uni0413</string>
+    <string>uni0422</string>
+    <string>uni04A4</string>
+    <string>uni04F6</string>
   </array>
   <key>public.kern1.L_Taccent</key>
   <array>
-    <string>Gje-cy</string>
     <string>Tcaron</string>
+    <string>uni0403</string>
   </array>
   <key>public.kern1.L_Tbar</key>
   <array>
@@ -1679,27 +1676,27 @@
   <key>public.kern1.L_U</key>
   <array>
     <string>J</string>
-    <string>Je-cy</string>
-    <string>LJ</string>
-    <string>NJ</string>
     <string>U</string>
     <string>Uacute</string>
     <string>Ubreve</string>
     <string>Ucircumflex</string>
-    <string>Udblgrave</string>
     <string>Udieresis</string>
-    <string>Udotbelow</string>
     <string>Ugrave</string>
-    <string>Uhookabove</string>
-    <string>Uinvertedbreve</string>
     <string>Umacron</string>
     <string>Uogonek</string>
     <string>Uring</string>
     <string>Utilde</string>
+    <string>uni01C7</string>
+    <string>uni01CA</string>
+    <string>uni0214</string>
+    <string>uni0216</string>
+    <string>uni0408</string>
+    <string>uni1EE4</string>
+    <string>uni1EE6</string>
   </array>
   <key>public.kern1.L_U-cy</key>
   <array>
-    <string>U-cy</string>
+    <string>uni0423</string>
   </array>
   <key>public.kern1.L_Uaccent</key>
   <array>
@@ -1708,51 +1705,51 @@
   <key>public.kern1.L_Uhorn</key>
   <array>
     <string>Uhorn</string>
-    <string>Uhornacute</string>
-    <string>Uhorndotbelow</string>
-    <string>Uhorngrave</string>
-    <string>Uhornhookabove</string>
-    <string>Uhorntilde</string>
+    <string>uni1EE8</string>
+    <string>uni1EEA</string>
+    <string>uni1EEC</string>
+    <string>uni1EEE</string>
+    <string>uni1EF0</string>
   </array>
   <key>public.kern1.L_V</key>
   <array>
-    <string>Udieresis-cy</string>
-    <string>Umacron-cy</string>
-    <string>Ushort-cy</string>
     <string>V</string>
     <string>W</string>
     <string>Wacute</string>
     <string>Wcircumflex</string>
     <string>Wdieresis</string>
-    <string>We-cy</string>
     <string>Wgrave</string>
+    <string>uni040E</string>
+    <string>uni04EE</string>
+    <string>uni04F0</string>
+    <string>uni051C</string>
   </array>
   <key>public.kern1.L_Vaccent</key>
   <array>
-    <string>Uhungarumlaut-cy</string>
+    <string>uni04F2</string>
   </array>
   <key>public.kern1.L_X</key>
   <array>
     <string>Chi</string>
-    <string>Ha-cy</string>
     <string>X</string>
+    <string>uni0425</string>
   </array>
   <key>public.kern1.L_Y</key>
   <array>
     <string>Upsilon</string>
     <string>Upsilondieresis</string>
     <string>Upsilontonos</string>
-    <string>Ustraight-cy</string>
-    <string>Ustraightstroke-cy</string>
     <string>Y</string>
     <string>Yacute</string>
     <string>Ycircumflex</string>
     <string>Ydieresis</string>
-    <string>Ydotbelow</string>
     <string>Ygrave</string>
-    <string>Yhookabove</string>
-    <string>Ymacron</string>
-    <string>Ytilde</string>
+    <string>uni0232</string>
+    <string>uni04AE</string>
+    <string>uni04B0</string>
+    <string>uni1EF4</string>
+    <string>uni1EF6</string>
+    <string>uni1EF8</string>
   </array>
   <key>public.kern1.L_Z</key>
   <array>
@@ -1762,14 +1759,14 @@
   </array>
   <key>public.kern1.L_Zcaron</key>
   <array>
-    <string>DZcaron</string>
     <string>Zacute</string>
     <string>Zcaron</string>
+    <string>uni01C4</string>
   </array>
   <key>public.kern1.L_Zhedescender</key>
   <array>
-    <string>Kadescender-cy</string>
-    <string>Zhedescender-cy</string>
+    <string>uni0496</string>
+    <string>uni049A</string>
   </array>
   <key>public.kern1.L_a</key>
   <array>
@@ -1787,8 +1784,6 @@
   <array>
     <string>asterisk</string>
     <string>degree</string>
-    <string>foursuperior</string>
-    <string>numero</string>
     <string>onesuperior</string>
     <string>ordfeminine</string>
     <string>ordfeminine.ss01</string>
@@ -1797,6 +1792,8 @@
     <string>threesuperior</string>
     <string>trademark</string>
     <string>twosuperior</string>
+    <string>uni2074</string>
+    <string>uni2116</string>
   </array>
   <key>public.kern1.L_at</key>
   <array>
@@ -1816,7 +1813,7 @@
   <key>public.kern1.L_beta</key>
   <array>
     <string>beta</string>
-    <string>ve-cy.loclBGR</string>
+    <string>uni0432.loclBGR</string>
   </array>
   <key>public.kern1.L_braceright</key>
   <array>
@@ -1831,10 +1828,10 @@
     <string>c</string>
     <string>ccedilla</string>
     <string>cdotaccent</string>
-    <string>e-cy</string>
     <string>epsilon</string>
-    <string>es-cy</string>
-    <string>esdescender-cy</string>
+    <string>uni0441</string>
+    <string>uni0454</string>
+    <string>uni04AB</string>
   </array>
   <key>public.kern1.L_caccent</key>
   <array>
@@ -1850,42 +1847,42 @@
   <array>
     <string>colon</string>
     <string>exclamdown</string>
-    <string>questiongreek</string>
     <string>semicolon</string>
+    <string>uni037E</string>
   </array>
   <key>public.kern1.L_comma</key>
   <array>
     <string>comma</string>
-    <string>lowernumeral-greek</string>
     <string>quotedblbase</string>
     <string>quotesinglbase</string>
+    <string>uni0375</string>
   </array>
   <key>public.kern1.L_currency</key>
   <array>
-    <string>cedi</string>
+    <string>Euro</string>
     <string>cent</string>
-    <string>colonsign</string>
+    <string>colonmonetary</string>
     <string>currency</string>
     <string>dollar</string>
     <string>dong</string>
-    <string>euro</string>
     <string>florin</string>
     <string>franc</string>
-    <string>guarani</string>
-    <string>hryvnia</string>
-    <string>kip</string>
     <string>lira</string>
-    <string>liraTurkish</string>
-    <string>manat</string>
-    <string>naira</string>
     <string>peseta</string>
-    <string>peso</string>
-    <string>ruble</string>
-    <string>rupeeIndian</string>
     <string>sterling</string>
-    <string>tenge</string>
-    <string>tugrik</string>
-    <string>won</string>
+    <string>uni20A6</string>
+    <string>uni20A9</string>
+    <string>uni20AD</string>
+    <string>uni20AE</string>
+    <string>uni20B1</string>
+    <string>uni20B2</string>
+    <string>uni20B4</string>
+    <string>uni20B5</string>
+    <string>uni20B8</string>
+    <string>uni20B9</string>
+    <string>uni20BA</string>
+    <string>uni20BC</string>
+    <string>uni20BD</string>
     <string>yen</string>
   </array>
   <key>public.kern1.L_d</key>
@@ -1895,7 +1892,7 @@
     <string>f_f_l</string>
     <string>fl</string>
     <string>l</string>
-    <string>palochka-cy</string>
+    <string>uni04CF</string>
   </array>
   <key>public.kern1.L_daccent</key>
   <array>
@@ -1920,13 +1917,13 @@
   </array>
   <key>public.kern1.L_de</key>
   <array>
-    <string>chedescender-cy</string>
-    <string>de-cy</string>
-    <string>endescender-cy</string>
-    <string>shcha-cy</string>
-    <string>shcha-cy.loclBGR</string>
-    <string>tse-cy</string>
-    <string>tse-cy.loclBGR</string>
+    <string>uni0434</string>
+    <string>uni0446</string>
+    <string>uni0446.loclBGR</string>
+    <string>uni0449</string>
+    <string>uni0449.loclBGR</string>
+    <string>uni04A3</string>
+    <string>uni04B7</string>
   </array>
   <key>public.kern1.L_eight</key>
   <array>
@@ -1934,7 +1931,7 @@
   </array>
   <key>public.kern1.L_elBGR</key>
   <array>
-    <string>el-cy.loclBGR</string>
+    <string>uni043B.loclBGR</string>
   </array>
   <key>public.kern1.L_eogonek</key>
   <array>
@@ -1975,8 +1972,8 @@
   <key>public.kern1.L_g</key>
   <array>
     <string>g</string>
-    <string>gcommaaccent</string>
     <string>gdotaccent</string>
+    <string>uni0123</string>
   </array>
   <key>public.kern1.L_gaccent</key>
   <array>
@@ -1986,73 +1983,72 @@
   </array>
   <key>public.kern1.L_geSRB</key>
   <array>
-    <string>ge-cy.loclBGR</string>
-    <string>ge-cy.loclSRB</string>
-    <string>gje-cy.loclMKD.ss01</string>
+    <string>uni0433.loclBGR</string>
+    <string>uni0433.loclSRB</string>
+    <string>uni0453.loclMKD.ss01</string>
   </array>
   <key>public.kern1.L_gedescender</key>
   <array>
-    <string>gedescender-cy</string>
+    <string>uni04F7</string>
   </array>
   <key>public.kern1.L_gheupturn</key>
   <array>
-    <string>gheupturn-cy</string>
+    <string>uni0491</string>
   </array>
   <key>public.kern1.L_guilsinglleft</key>
   <array>
-    <string>guillemetleft</string>
+    <string>guillemotleft</string>
     <string>guilsinglleft</string>
   </array>
   <key>public.kern1.L_guilsinglright</key>
   <array>
-    <string>guillemetright</string>
+    <string>guillemotright</string>
     <string>guilsinglright</string>
   </array>
   <key>public.kern1.L_hadescender</key>
   <array>
-    <string>hadescender-cy</string>
-    <string>kadescender-cy</string>
-    <string>zhedescender-cy</string>
+    <string>uni0497</string>
+    <string>uni049B</string>
+    <string>uni04B3</string>
   </array>
   <key>public.kern1.L_hyphen</key>
   <array>
     <string>emdash</string>
     <string>endash</string>
     <string>hyphen</string>
-    <string>hyphentwo</string>
     <string>periodcentered</string>
-    <string>softhyphen</string>
+    <string>uni00AD</string>
+    <string>uni2010</string>
   </array>
   <key>public.kern1.L_i</key>
   <array>
-    <string>Lj</string>
-    <string>Nj</string>
     <string>f_f_i</string>
     <string>fi</string>
     <string>i</string>
-    <string>i-cy</string>
-    <string>idotaccent</string>
     <string>igrave</string>
     <string>j</string>
     <string>j.calt</string>
-    <string>je-cy</string>
-    <string>je-cy.calt</string>
-    <string>lj</string>
-    <string>nj</string>
+    <string>uni01C8</string>
+    <string>uni01C9</string>
+    <string>uni01CB</string>
+    <string>uni01CC</string>
+    <string>uni0456</string>
+    <string>uni0458</string>
+    <string>uni0458.calt</string>
   </array>
   <key>public.kern1.L_iaccent</key>
   <array>
     <string>ibreve</string>
     <string>icircumflex</string>
-    <string>idblgrave</string>
     <string>idieresis</string>
-    <string>ihookabove</string>
-    <string>iinvertedbreve</string>
     <string>imacron</string>
     <string>itilde</string>
     <string>jcircumflex</string>
     <string>jcircumflex.calt</string>
-    <string>yi-cy</string>
+    <string>uni0209</string>
+    <string>uni020B</string>
+    <string>uni0457</string>
+    <string>uni1EC9</string>
   </array>
   <key>public.kern1.L_iacute</key>
   <array>
@@ -2060,13 +2056,12 @@
   </array>
   <key>public.kern1.L_idotless</key>
   <array>
-    <string>ii-cy.loclBGR</string>
+    <string>uni0438.loclBGR</string>
   </array>
   <key>public.kern1.L_iogonek</key>
   <array>
-    <string>idotbelow</string>
     <string>iogonek</string>
-    <string>iogonek.dotless</string>
+    <string>uni1ECB</string>
   </array>
   <key>public.kern1.L_iota</key>
   <array>
@@ -2085,36 +2080,36 @@
   </array>
   <key>public.kern1.L_izhitsa</key>
   <array>
-    <string>izhitsa-cy</string>
+    <string>uni0475</string>
   </array>
   <key>public.kern1.L_jdotless</key>
   <array>
-    <string>de-cy.loclBGR</string>
-    <string>de-cy.loclSRB</string>
+    <string>uni0434.loclBGR</string>
+    <string>uni0434.loclSRB</string>
   </array>
   <key>public.kern1.L_k</key>
   <array>
     <string>k</string>
-    <string>ka-cy</string>
-    <string>ka-cy.loclBGR</string>
-    <string>kabashkir-cy</string>
     <string>kappa</string>
-    <string>kaverticalstroke-cy</string>
-    <string>kcommaaccent</string>
     <string>kgreenlandic</string>
-    <string>yusbig-cy</string>
-    <string>zhe-cy</string>
-    <string>zhe-cy.loclBGR</string>
-    <string>zhebreve-cy</string>
-    <string>zhedieresis-cy</string>
+    <string>uni0137</string>
+    <string>uni0436</string>
+    <string>uni0436.loclBGR</string>
+    <string>uni043A</string>
+    <string>uni043A.loclBGR</string>
+    <string>uni046B</string>
+    <string>uni049D</string>
+    <string>uni04A1</string>
+    <string>uni04C2</string>
+    <string>uni04DD</string>
   </array>
   <key>public.kern1.L_kaccent</key>
   <array>
-    <string>kje-cy</string>
+    <string>uni045C</string>
   </array>
   <key>public.kern1.L_kai</key>
   <array>
-    <string>kaiSymbol</string>
+    <string>uni03D7</string>
   </array>
   <key>public.kern1.L_lambda</key>
   <array>
@@ -2122,7 +2117,7 @@
   </array>
   <key>public.kern1.L_lcommaaccent</key>
   <array>
-    <string>lcommaaccent</string>
+    <string>uni013C</string>
   </array>
   <key>public.kern1.L_ldot</key>
   <array>
@@ -2130,7 +2125,7 @@
   </array>
   <key>public.kern1.L_leftanglebracket</key>
   <array>
-    <string>leftanglebracket-math</string>
+    <string>uni27E8</string>
   </array>
   <key>public.kern1.L_lslash</key>
   <array>
@@ -2141,43 +2136,7 @@
     <string>acutecomb</string>
     <string>acutecomb.case</string>
     <string>acutecomb.narrow</string>
-    <string>brevebelowcomb</string>
-    <string>brevecomb</string>
-    <string>brevecomb-cy</string>
-    <string>brevecomb.case</string>
-    <string>brevecomb.narrow</string>
-    <string>brevecomb_acutecomb</string>
-    <string>brevecomb_gravecomb</string>
-    <string>brevecomb_hookabovecomb</string>
-    <string>brevecomb_tildecomb</string>
-    <string>breveinvertedcomb</string>
-    <string>breveinvertedcomb.case</string>
-    <string>breveinvertedcomb.narrow</string>
-    <string>caroncomb</string>
-    <string>caroncomb.alt</string>
-    <string>caroncomb.alt_case</string>
-    <string>caroncomb.case</string>
-    <string>cedillacomb</string>
-    <string>circumflexcomb</string>
-    <string>circumflexcomb.case</string>
-    <string>circumflexcomb.narrow</string>
-    <string>circumflexcomb_acutecomb</string>
-    <string>circumflexcomb_gravecomb</string>
-    <string>circumflexcomb_hookabovecomb</string>
-    <string>circumflexcomb_tildecomb</string>
-    <string>commaaccentcomb</string>
-    <string>commaturnedabovecomb</string>
-    <string>commaturnedabovecomb.case</string>
-    <string>dblgravecomb</string>
-    <string>dblgravecomb.case</string>
-    <string>dblgravecomb.narrow</string>
-    <string>dieresisbelowcomb</string>
-    <string>dieresiscomb</string>
-    <string>dieresiscomb.case</string>
-    <string>dieresiscomb.narrow</string>
     <string>dieresistonos</string>
-    <string>dotaccentcomb</string>
-    <string>dotaccentcomb.case</string>
     <string>dotbelowcomb</string>
     <string>gravecomb</string>
     <string>gravecomb.case</string>
@@ -2185,35 +2144,68 @@
     <string>hookabovecomb</string>
     <string>hookabovecomb.case</string>
     <string>hookabovecomb.narrow</string>
-    <string>horncomb</string>
-    <string>horncomb.alt</string>
-    <string>horncomb.alt_case</string>
-    <string>horncomb.case</string>
-    <string>hungarumlautcomb</string>
-    <string>hungarumlautcomb.case</string>
-    <string>macronbelowcomb</string>
-    <string>macroncomb</string>
-    <string>macroncomb.case</string>
-    <string>macroncomb.narrow</string>
-    <string>macroncomb.wide</string>
-    <string>ogonekcomb</string>
-    <string>ringcomb</string>
-    <string>ringcomb.case</string>
-    <string>strokeshortcomb</string>
-    <string>strokeshortcomb.case</string>
     <string>tildecomb</string>
     <string>tildecomb.case</string>
     <string>tildecomb.narrow</string>
+    <string>uni0302</string>
+    <string>uni0302.case</string>
+    <string>uni0302.narrow</string>
+    <string>uni0302_acutecomb</string>
+    <string>uni0302_gravecomb</string>
+    <string>uni0302_hookabovecomb</string>
+    <string>uni0302_tildecomb</string>
+    <string>uni0304</string>
+    <string>uni0304.case</string>
+    <string>uni0304.narrow</string>
+    <string>uni0304.wide</string>
+    <string>uni0306</string>
+    <string>uni0306.case</string>
+    <string>uni0306.ccmp</string>
+    <string>uni0306.narrow</string>
+    <string>uni0306_acutecomb</string>
+    <string>uni0306_gravecomb</string>
+    <string>uni0306_hookabovecomb</string>
+    <string>uni0306_tildecomb</string>
+    <string>uni0307</string>
+    <string>uni0307.case</string>
+    <string>uni0308</string>
+    <string>uni0308.case</string>
+    <string>uni0308.narrow</string>
+    <string>uni030A</string>
+    <string>uni030A.case</string>
+    <string>uni030B</string>
+    <string>uni030B.case</string>
+    <string>uni030C</string>
+    <string>uni030C.alt</string>
+    <string>uni030C.alt_case</string>
+    <string>uni030C.case</string>
+    <string>uni030F</string>
+    <string>uni030F.case</string>
+    <string>uni030F.narrow</string>
+    <string>uni0311</string>
+    <string>uni0311.case</string>
+    <string>uni0311.narrow</string>
+    <string>uni0312</string>
+    <string>uni0312.case</string>
+    <string>uni031B</string>
+    <string>uni031B.alt</string>
+    <string>uni031B.alt_case</string>
+    <string>uni031B.case</string>
+    <string>uni0324</string>
+    <string>uni0326</string>
+    <string>uni0327</string>
+    <string>uni0328</string>
+    <string>uni032E</string>
+    <string>uni0331</string>
+    <string>uni0335</string>
+    <string>uni0335.case</string>
   </array>
   <key>public.kern1.L_math</key>
   <array>
     <string>approxequal</string>
     <string>asciicircum</string>
     <string>asciitilde</string>
-    <string>bulletoperator</string>
-    <string>commercialMinusSign</string>
     <string>divide</string>
-    <string>divisionslash</string>
     <string>eight.tnum</string>
     <string>equal</string>
     <string>five.tnum</string>
@@ -2233,51 +2225,54 @@
     <string>seven.tnum</string>
     <string>three.tnum</string>
     <string>two.tnum</string>
+    <string>uni2052</string>
+    <string>uni2215</string>
+    <string>uni2219</string>
     <string>zero.tnum</string>
   </array>
   <key>public.kern1.L_n</key>
   <array>
     <string>a</string>
-    <string>a-cy</string>
-    <string>acircumflexdotbelow</string>
-    <string>adblgrave</string>
-    <string>adotbelow</string>
     <string>agrave</string>
-    <string>dje-cy</string>
     <string>eng</string>
     <string>h</string>
     <string>hbar</string>
     <string>hcircumflex</string>
     <string>m</string>
     <string>n</string>
-    <string>ncommaaccent</string>
-    <string>pe-cy.loclBGR</string>
-    <string>shha-cy</string>
-    <string>te-cy.loclBGR</string>
-    <string>tshe-cy</string>
+    <string>uni0146</string>
+    <string>uni0201</string>
+    <string>uni0430</string>
+    <string>uni043F.loclBGR</string>
+    <string>uni0442.loclBGR</string>
+    <string>uni0452</string>
+    <string>uni045B</string>
+    <string>uni04BB</string>
+    <string>uni1EA1</string>
+    <string>uni1EAD</string>
   </array>
   <key>public.kern1.L_naccent</key>
   <array>
     <string>aacute</string>
     <string>abreve</string>
-    <string>abreve-cy</string>
-    <string>abreveacute</string>
-    <string>abrevedotbelow</string>
-    <string>abrevegrave</string>
-    <string>abrevehookabove</string>
-    <string>abrevetilde</string>
     <string>acircumflex</string>
-    <string>acircumflextilde</string>
     <string>adieresis</string>
-    <string>adieresis-cy</string>
-    <string>ahookabove</string>
-    <string>ainvertedbreve</string>
     <string>amacron</string>
     <string>aringacute</string>
     <string>atilde</string>
     <string>nacute</string>
     <string>ncaron</string>
     <string>ntilde</string>
+    <string>uni0203</string>
+    <string>uni04D1</string>
+    <string>uni04D3</string>
+    <string>uni1EA3</string>
+    <string>uni1EAB</string>
+    <string>uni1EAF</string>
+    <string>uni1EB1</string>
+    <string>uni1EB3</string>
+    <string>uni1EB5</string>
+    <string>uni1EB7</string>
   </array>
   <key>public.kern1.L_nine.ss02</key>
   <array>
@@ -2289,9 +2284,9 @@
   </array>
   <key>public.kern1.L_nviet</key>
   <array>
-    <string>acircumflexacute</string>
-    <string>acircumflexgrave</string>
-    <string>acircumflexhookabove</string>
+    <string>uni1EA5</string>
+    <string>uni1EA7</string>
+    <string>uni1EA9</string>
   </array>
   <key>public.kern1.L_o</key>
   <array>
@@ -2299,88 +2294,88 @@
     <string>ae.ss01</string>
     <string>aeacute</string>
     <string>aeacute.ss01</string>
-    <string>aie-cy</string>
-    <string>aie-cy.ss01</string>
     <string>b</string>
     <string>e</string>
     <string>edotaccent</string>
-    <string>edotbelow</string>
-    <string>ef-cy</string>
     <string>egrave</string>
-    <string>er-cy</string>
-    <string>ereversed-cy</string>
-    <string>fita-cy</string>
-    <string>ie-cy</string>
-    <string>iegrave-cy</string>
-    <string>iu-cy</string>
-    <string>iu-cy.loclBGR</string>
     <string>o</string>
-    <string>o-cy</string>
-    <string>obarred-cy</string>
-    <string>odotbelow</string>
     <string>oe</string>
     <string>ograve</string>
     <string>omega</string>
     <string>omegatonos</string>
     <string>omicron</string>
-    <string>oogonek</string>
     <string>p</string>
     <string>phi</string>
     <string>psi</string>
     <string>rho</string>
-    <string>schwa</string>
-    <string>schwa-cy</string>
     <string>thorn</string>
+    <string>uni01EB</string>
+    <string>uni0259</string>
+    <string>uni0435</string>
+    <string>uni043E</string>
+    <string>uni0440</string>
+    <string>uni0444</string>
+    <string>uni044D</string>
+    <string>uni044E</string>
+    <string>uni044E.loclBGR</string>
+    <string>uni0450</string>
+    <string>uni0473</string>
+    <string>uni04D5</string>
+    <string>uni04D5.ss01</string>
+    <string>uni04D9</string>
+    <string>uni04E9</string>
+    <string>uni1EB9</string>
+    <string>uni1ECD</string>
     <string>upsilon</string>
   </array>
   <key>public.kern1.L_oaccent</key>
   <array>
-    <string>be-cy</string>
-    <string>be-cy.loclSRB</string>
     <string>delta</string>
     <string>eacute</string>
     <string>ebreve</string>
     <string>ecaron</string>
     <string>ecircumflex</string>
-    <string>ecircumflexdotbelow</string>
-    <string>ecircumflextilde</string>
-    <string>edblgrave</string>
     <string>edieresis</string>
-    <string>ehookabove</string>
-    <string>einvertedbreve</string>
     <string>emacron</string>
     <string>eth</string>
-    <string>etilde</string>
-    <string>iebreve-cy</string>
-    <string>io-cy</string>
     <string>oacute</string>
     <string>obreve</string>
     <string>ocircumflex</string>
-    <string>ocircumflexdotbelow</string>
-    <string>ocircumflextilde</string>
-    <string>odblgrave</string>
     <string>odieresis</string>
-    <string>odieresis-cy</string>
-    <string>odieresismacron</string>
-    <string>odotaccentmacron</string>
-    <string>ohookabove</string>
     <string>ohungarumlaut</string>
-    <string>oinvertedbreve</string>
     <string>omacron</string>
     <string>omicrontonos</string>
     <string>otilde</string>
-    <string>otildemacron</string>
+    <string>uni0205</string>
+    <string>uni0207</string>
+    <string>uni020D</string>
+    <string>uni020F</string>
+    <string>uni022B</string>
+    <string>uni022D</string>
+    <string>uni0231</string>
+    <string>uni0431</string>
+    <string>uni0431.loclSRB</string>
+    <string>uni0451</string>
+    <string>uni04D7</string>
+    <string>uni04E7</string>
+    <string>uni1EBB</string>
+    <string>uni1EBD</string>
+    <string>uni1EC5</string>
+    <string>uni1EC7</string>
+    <string>uni1ECF</string>
+    <string>uni1ED7</string>
+    <string>uni1ED9</string>
     <string>upsilondieresis</string>
     <string>upsilontonos</string>
   </array>
   <key>public.kern1.L_ohorn</key>
   <array>
     <string>ohorn</string>
-    <string>ohornacute</string>
-    <string>ohorndotbelow</string>
-    <string>ohorngrave</string>
-    <string>ohornhookabove</string>
-    <string>ohorntilde</string>
+    <string>uni1EDB</string>
+    <string>uni1EDD</string>
+    <string>uni1EDF</string>
+    <string>uni1EE1</string>
+    <string>uni1EE3</string>
   </array>
   <key>public.kern1.L_one</key>
   <array>
@@ -2393,12 +2388,12 @@
   </array>
   <key>public.kern1.L_oviet</key>
   <array>
-    <string>ecircumflexacute</string>
-    <string>ecircumflexgrave</string>
-    <string>ecircumflexhookabove</string>
-    <string>ocircumflexacute</string>
-    <string>ocircumflexgrave</string>
-    <string>ocircumflexhookabove</string>
+    <string>uni1EBF</string>
+    <string>uni1EC1</string>
+    <string>uni1EC3</string>
+    <string>uni1ED1</string>
+    <string>uni1ED3</string>
+    <string>uni1ED5</string>
   </array>
   <key>public.kern1.L_paragraph</key>
   <array>
@@ -2427,7 +2422,7 @@
   <key>public.kern1.L_q</key>
   <array>
     <string>q</string>
-    <string>qa-cy</string>
+    <string>uni051B</string>
   </array>
   <key>public.kern1.L_question</key>
   <array>
@@ -2439,11 +2434,7 @@
   </array>
   <key>public.kern1.L_quote</key>
   <array>
-    <string>apostrophemod</string>
-    <string>doubleprimemod</string>
     <string>minute</string>
-    <string>numeral-greek</string>
-    <string>primemod</string>
     <string>quotedbl</string>
     <string>quotedblleft</string>
     <string>quotedblright</string>
@@ -2453,29 +2444,33 @@
     <string>second</string>
     <string>tonos</string>
     <string>tonos.case</string>
+    <string>uni02B9</string>
+    <string>uni02BA</string>
+    <string>uni02BC</string>
+    <string>uni0374</string>
   </array>
   <key>public.kern1.L_r</key>
   <array>
     <string>r</string>
-    <string>rcommaaccent</string>
+    <string>uni0157</string>
   </array>
   <key>public.kern1.L_raccent</key>
   <array>
     <string>racute</string>
     <string>rcaron</string>
-    <string>rdblgrave</string>
-    <string>rinvertedbreve</string>
+    <string>uni0211</string>
+    <string>uni0213</string>
   </array>
   <key>public.kern1.L_rightanglebracket</key>
   <array>
-    <string>rightanglebracket-math</string>
+    <string>uni27E9</string>
   </array>
   <key>public.kern1.L_s</key>
   <array>
-    <string>dze-cy</string>
     <string>s</string>
     <string>scedilla</string>
-    <string>scommaaccent</string>
+    <string>uni0219</string>
+    <string>uni0455</string>
   </array>
   <key>public.kern1.L_saccent</key>
   <array>
@@ -2498,7 +2493,7 @@
   </array>
   <key>public.kern1.L_sigmafinal</key>
   <array>
-    <string>sigmafinal</string>
+    <string>uni03C2</string>
   </array>
   <key>public.kern1.L_six</key>
   <array>
@@ -2514,18 +2509,18 @@
   </array>
   <key>public.kern1.L_softsign</key>
   <array>
-    <string>hardsign-cy</string>
-    <string>hardsign-cy.loclBGR</string>
-    <string>lje-cy</string>
-    <string>nje-cy</string>
-    <string>softsign-cy</string>
-    <string>softsign-cy.loclBGR</string>
-    <string>yat-cy</string>
+    <string>uni044A</string>
+    <string>uni044A.loclBGR</string>
+    <string>uni044C</string>
+    <string>uni044C.loclBGR</string>
+    <string>uni0459</string>
+    <string>uni045A</string>
+    <string>uni0463</string>
   </array>
   <key>public.kern1.L_space</key>
   <array>
-    <string>nbspace</string>
     <string>space</string>
+    <string>uni00A0</string>
   </array>
   <key>public.kern1.L_spacingmark</key>
   <array>
@@ -2545,14 +2540,14 @@
   </array>
   <key>public.kern1.L_symbol</key>
   <array>
-    <string>downArrow</string>
-    <string>leftArrow</string>
-    <string>northEastArrow</string>
-    <string>northWestArrow</string>
-    <string>rightArrow</string>
-    <string>southEastArrow</string>
-    <string>southWestArrow</string>
-    <string>upArrow</string>
+    <string>arrowdown</string>
+    <string>arrowleft</string>
+    <string>arrowright</string>
+    <string>arrowup</string>
+    <string>uni2196</string>
+    <string>uni2197</string>
+    <string>uni2198</string>
+    <string>uni2199</string>
   </array>
   <key>public.kern1.L_t</key>
   <array>
@@ -2562,8 +2557,8 @@
   </array>
   <key>public.kern1.L_taccentbelow</key>
   <array>
-    <string>tcedilla</string>
-    <string>tcommaaccent</string>
+    <string>uni0163</string>
+    <string>uni021B</string>
   </array>
   <key>public.kern1.L_tau</key>
   <array>
@@ -2575,16 +2570,16 @@
   </array>
   <key>public.kern1.L_te</key>
   <array>
-    <string>enghe-cy</string>
-    <string>ge-cy</string>
-    <string>ghestroke-cy</string>
-    <string>te-cy</string>
-    <string>te-cy.loclSRB</string>
+    <string>uni0433</string>
+    <string>uni0442</string>
+    <string>uni0442.loclSRB</string>
+    <string>uni0493</string>
+    <string>uni04A5</string>
   </array>
   <key>public.kern1.L_teaccent</key>
   <array>
-    <string>gje-cy</string>
-    <string>gje-cy.loclMKD</string>
+    <string>uni0453</string>
+    <string>uni0453.loclMKD</string>
   </array>
   <key>public.kern1.L_theta</key>
   <array>
@@ -2604,90 +2599,90 @@
   </array>
   <key>public.kern1.L_u</key>
   <array>
-    <string>a-cy.ss01</string>
     <string>a.ss01</string>
-    <string>adieresis-cy.ss01</string>
-    <string>adotbelow.ss01</string>
     <string>agrave.ss01</string>
-    <string>che-cy</string>
-    <string>chekhakassian-cy</string>
-    <string>cheverticalstroke-cy</string>
-    <string>dzhe-cy</string>
-    <string>el-cy</string>
-    <string>em-cy</string>
-    <string>en-cy</string>
+    <string>dotlessi</string>
     <string>g.ss01</string>
-    <string>gcommaaccent.ss01</string>
     <string>gdotaccent.ss01</string>
-    <string>idotless</string>
-    <string>ii-cy</string>
-    <string>iigrave-cy</string>
-    <string>iigrave-cy.loclBGR</string>
-    <string>jdotless</string>
-    <string>jdotless.calt</string>
-    <string>micro</string>
-    <string>mu</string>
-    <string>sha-cy</string>
-    <string>sha-cy.loclBGR</string>
     <string>u</string>
-    <string>udotbelow</string>
     <string>ugrave</string>
-    <string>yeru-cy</string>
-    <string>yerudieresis-cy</string>
+    <string>uni00B5</string>
+    <string>uni0123.ss01</string>
+    <string>uni0237</string>
+    <string>uni0237.calt</string>
+    <string>uni03BC</string>
+    <string>uni0430.ss01</string>
+    <string>uni0438</string>
+    <string>uni043B</string>
+    <string>uni043C</string>
+    <string>uni043D</string>
+    <string>uni0447</string>
+    <string>uni0448</string>
+    <string>uni0448.loclBGR</string>
+    <string>uni044B</string>
+    <string>uni045D</string>
+    <string>uni045D.loclBGR</string>
+    <string>uni045F</string>
+    <string>uni04B9</string>
+    <string>uni04CC</string>
+    <string>uni04D3.ss01</string>
+    <string>uni04F9</string>
+    <string>uni1EA1.ss01</string>
+    <string>uni1EE5</string>
   </array>
   <key>public.kern1.L_uaccent</key>
   <array>
     <string>aacute.ss01</string>
-    <string>abreve-cy.ss01</string>
     <string>abreve.ss01</string>
-    <string>abreveacute.ss01</string>
-    <string>abrevedotbelow.ss01</string>
-    <string>abrevegrave.ss01</string>
-    <string>abrevehookabove.ss01</string>
-    <string>abrevetilde.ss01</string>
     <string>acircumflex.ss01</string>
-    <string>acircumflexdotbelow.ss01</string>
-    <string>acircumflexgrave.ss01</string>
-    <string>acircumflextilde.ss01</string>
-    <string>adblgrave.ss01</string>
     <string>adieresis.ss01</string>
-    <string>ahookabove.ss01</string>
-    <string>ainvertedbreve.ss01</string>
     <string>amacron.ss01</string>
     <string>aring.ss01</string>
     <string>aringacute.ss01</string>
     <string>atilde.ss01</string>
-    <string>chedieresis-cy</string>
     <string>gbreve.ss01</string>
     <string>gcaron.ss01</string>
     <string>gcircumflex.ss01</string>
-    <string>idieresis-cy</string>
-    <string>iishort-cy</string>
-    <string>iishort-cy.loclBGR</string>
-    <string>imacron-cy</string>
-    <string>pe-cy.loclSRB</string>
-    <string>pe-cy.loclSRB.ss01</string>
-    <string>te-cy.loclSRB.ss01</string>
     <string>uacute</string>
     <string>ubreve</string>
     <string>ucircumflex</string>
-    <string>udblgrave</string>
     <string>udieresis</string>
-    <string>uhookabove</string>
     <string>uhungarumlaut</string>
-    <string>uinvertedbreve</string>
     <string>umacron</string>
+    <string>uni0201.ss01</string>
+    <string>uni0203.ss01</string>
+    <string>uni0215</string>
+    <string>uni0217</string>
+    <string>uni0439</string>
+    <string>uni0439.loclBGR</string>
+    <string>uni043F.loclSRB</string>
+    <string>uni043F.loclSRB.ss01</string>
+    <string>uni0442.loclSRB.ss01</string>
+    <string>uni04D1.ss01</string>
+    <string>uni04E3</string>
+    <string>uni04E5</string>
+    <string>uni04F5</string>
+    <string>uni1EA3.ss01</string>
+    <string>uni1EA7.ss01</string>
+    <string>uni1EAB.ss01</string>
+    <string>uni1EAD.ss01</string>
+    <string>uni1EAF.ss01</string>
+    <string>uni1EB1.ss01</string>
+    <string>uni1EB3.ss01</string>
+    <string>uni1EB5.ss01</string>
+    <string>uni1EB7.ss01</string>
+    <string>uni1EE7</string>
     <string>uring</string>
     <string>utilde</string>
   </array>
   <key>public.kern1.L_uhorn</key>
   <array>
     <string>uhorn</string>
-    <string>uhornacute</string>
-    <string>uhorndotbelow</string>
-    <string>uhorngrave</string>
-    <string>uhornhookabove</string>
-    <string>uhorntilde</string>
+    <string>uni1EE9</string>
+    <string>uni1EEB</string>
+    <string>uni1EED</string>
+    <string>uni1EEF</string>
+    <string>uni1EF1</string>
   </array>
   <key>public.kern1.L_underscore</key>
   <array>
@@ -2704,56 +2699,56 @@
   </array>
   <key>public.kern1.L_uviet</key>
   <array>
-    <string>acircumflexacute.ss01</string>
-    <string>acircumflexhookabove.ss01</string>
+    <string>uni1EA5.ss01</string>
+    <string>uni1EA9.ss01</string>
   </array>
   <key>public.kern1.L_v</key>
   <array>
     <string>gamma</string>
     <string>nu</string>
-    <string>u-cy</string>
-    <string>ustraight-cy</string>
-    <string>ustraightstroke-cy</string>
+    <string>uni0443</string>
+    <string>uni04AF</string>
+    <string>uni04B1</string>
+    <string>uni051D</string>
     <string>v</string>
     <string>w</string>
     <string>wacute</string>
     <string>wcircumflex</string>
     <string>wdieresis</string>
-    <string>we-cy</string>
     <string>wgrave</string>
     <string>y</string>
     <string>ygrave</string>
   </array>
   <key>public.kern1.L_vaccent</key>
   <array>
-    <string>udieresis-cy</string>
-    <string>uhungarumlaut-cy</string>
-    <string>umacron-cy</string>
-    <string>ushort-cy</string>
+    <string>uni0233</string>
+    <string>uni045E</string>
+    <string>uni04EF</string>
+    <string>uni04F1</string>
+    <string>uni04F3</string>
+    <string>uni1EF7</string>
+    <string>uni1EF9</string>
     <string>yacute</string>
     <string>ycircumflex</string>
     <string>ydieresis</string>
-    <string>yhookabove</string>
-    <string>ymacron</string>
-    <string>ytilde</string>
   </array>
   <key>public.kern1.L_ve</key>
   <array>
-    <string>ghemiddlehook-cy</string>
-    <string>ia-cy</string>
-    <string>pe-cy</string>
-    <string>ve-cy</string>
-    <string>ze-cy</string>
-    <string>zedescender-cy</string>
+    <string>uni0432</string>
+    <string>uni0437</string>
+    <string>uni043F</string>
+    <string>uni044F</string>
+    <string>uni0495</string>
+    <string>uni0499</string>
   </array>
   <key>public.kern1.L_veaccent</key>
   <array>
-    <string>zedieresis-cy</string>
+    <string>uni04DF</string>
   </array>
   <key>public.kern1.L_x</key>
   <array>
     <string>ampersand</string>
-    <string>ha-cy</string>
+    <string>uni0445</string>
     <string>x</string>
   </array>
   <key>public.kern1.L_xi</key>
@@ -2762,7 +2757,7 @@
   </array>
   <key>public.kern1.L_ydotbelow</key>
   <array>
-    <string>ydotbelow</string>
+    <string>uni1EF5</string>
   </array>
   <key>public.kern1.L_z</key>
   <array>
@@ -2771,14 +2766,14 @@
   </array>
   <key>public.kern1.L_zaccent</key>
   <array>
-    <string>Dzcaron</string>
-    <string>dzcaron</string>
+    <string>uni01C5</string>
+    <string>uni01C6</string>
     <string>zacute</string>
     <string>zcaron</string>
   </array>
   <key>public.kern1.L_zeBGR</key>
   <array>
-    <string>ze-cy.loclBGR</string>
+    <string>uni0437.loclBGR</string>
   </array>
   <key>public.kern1.L_zero</key>
   <array>
@@ -2792,27 +2787,11 @@
   <key>public.kern2.R_A</key>
   <array>
     <string>A</string>
-    <string>A-cy</string>
     <string>Aacute</string>
     <string>Abreve</string>
-    <string>Abreve-cy</string>
-    <string>Abreveacute</string>
-    <string>Abrevedotbelow</string>
-    <string>Abrevegrave</string>
-    <string>Abrevehookabove</string>
-    <string>Abrevetilde</string>
     <string>Acircumflex</string>
-    <string>Acircumflexacute</string>
-    <string>Acircumflexdotbelow</string>
-    <string>Acircumflexgrave</string>
-    <string>Acircumflexhookabove</string>
-    <string>Acircumflextilde</string>
     <string>Adieresis</string>
-    <string>Adieresis-cy</string>
-    <string>Adotbelow</string>
     <string>Agrave</string>
-    <string>Ahookabove</string>
-    <string>Ainvertedbreve</string>
     <string>Alpha</string>
     <string>Alphatonos</string>
     <string>Amacron</string>
@@ -2820,165 +2799,181 @@
     <string>Aring</string>
     <string>Aringacute</string>
     <string>Atilde</string>
-    <string>Delta</string>
-    <string>El-cy.loclBGR</string>
     <string>Lambda</string>
+    <string>uni0202</string>
+    <string>uni0394</string>
+    <string>uni0410</string>
+    <string>uni041B.loclBGR</string>
+    <string>uni04D0</string>
+    <string>uni04D2</string>
+    <string>uni1EA0</string>
+    <string>uni1EA2</string>
+    <string>uni1EA4</string>
+    <string>uni1EA6</string>
+    <string>uni1EA8</string>
+    <string>uni1EAA</string>
+    <string>uni1EAC</string>
+    <string>uni1EAE</string>
+    <string>uni1EB0</string>
+    <string>uni1EB2</string>
+    <string>uni1EB4</string>
+    <string>uni1EB6</string>
   </array>
   <key>public.kern2.R_AE</key>
   <array>
     <string>AE</string>
     <string>AEacute</string>
-    <string>Aie-cy</string>
+    <string>uni04D4</string>
   </array>
   <key>public.kern2.R_Aaccent</key>
   <array>
-    <string>Adblgrave</string>
+    <string>uni0200</string>
   </array>
   <key>public.kern2.R_Che</key>
   <array>
-    <string>Che-cy</string>
-    <string>Chedescender-cy</string>
-    <string>Chedieresis-cy</string>
-    <string>Chekhakassian-cy</string>
-    <string>Cheverticalstroke-cy</string>
+    <string>uni0427</string>
+    <string>uni04B6</string>
+    <string>uni04B8</string>
+    <string>uni04CB</string>
+    <string>uni04F4</string>
   </array>
   <key>public.kern2.R_De</key>
   <array>
-    <string>De-cy</string>
-    <string>El-cy</string>
-    <string>Lje-cy</string>
+    <string>uni0409</string>
+    <string>uni0414</string>
+    <string>uni041B</string>
   </array>
   <key>public.kern2.R_DeBGR</key>
   <array>
-    <string>De-cy.loclBGR</string>
+    <string>uni0414.loclBGR</string>
   </array>
   <key>public.kern2.R_Edblgrave</key>
   <array>
-    <string>Edblgrave</string>
-    <string>Rdblgrave</string>
+    <string>uni0204</string>
+    <string>uni0210</string>
   </array>
   <key>public.kern2.R_Ef</key>
   <array>
-    <string>Ef-cy</string>
     <string>Phi</string>
+    <string>uni0424</string>
   </array>
   <key>public.kern2.R_Eth</key>
   <array>
     <string>Dcroat</string>
     <string>Eth</string>
-    <string>Ghestroke-cy</string>
+    <string>uni0492</string>
   </array>
   <key>public.kern2.R_H</key>
   <array>
     <string>B</string>
-    <string>Be-cy</string>
     <string>Beta</string>
     <string>D</string>
-    <string>DZcaron</string>
-    <string>Dzcaron</string>
-    <string>Dzhe-cy</string>
     <string>E</string>
     <string>Eacute</string>
     <string>Ecircumflex</string>
-    <string>Ecircumflexacute</string>
-    <string>Ecircumflexdotbelow</string>
-    <string>Ecircumflexgrave</string>
-    <string>Ecircumflexhookabove</string>
     <string>Edotaccent</string>
-    <string>Edotbelow</string>
     <string>Egrave</string>
-    <string>Ehookabove</string>
-    <string>Einvertedbreve</string>
-    <string>Em-cy</string>
     <string>Emacron</string>
-    <string>En-cy</string>
-    <string>Endescender-cy</string>
     <string>Eng</string>
-    <string>Enghe-cy</string>
     <string>Eogonek</string>
     <string>Epsilon</string>
     <string>Epsilontonos</string>
-    <string>Er-cy</string>
     <string>Eta</string>
     <string>Etatonos</string>
-    <string>Etilde</string>
     <string>F</string>
     <string>Gamma</string>
-    <string>Ge-cy</string>
-    <string>Gedescender-cy</string>
     <string>Germandbls</string>
-    <string>Ghemiddlehook-cy</string>
-    <string>Gheupturn-cy</string>
-    <string>Gje-cy</string>
     <string>H</string>
     <string>Hcircumflex</string>
     <string>I</string>
-    <string>I-cy</string>
-    <string>Idieresis-cy</string>
-    <string>Ie-cy</string>
-    <string>Iegrave-cy</string>
-    <string>Ii-cy</string>
-    <string>Iigrave-cy</string>
-    <string>Iishort-cy</string>
-    <string>Imacron-cy</string>
     <string>Iota</string>
     <string>Iotatonos</string>
-    <string>Iu-cy</string>
     <string>K</string>
-    <string>Ka-cy</string>
-    <string>Kadescender-cy</string>
-    <string>KaiSymbol</string>
     <string>Kappa</string>
-    <string>Kaverticalstroke-cy</string>
-    <string>Kcommaaccent</string>
-    <string>Kje-cy</string>
     <string>L</string>
-    <string>LJ</string>
     <string>Lcaron</string>
-    <string>Lcommaaccent</string>
     <string>Ldot</string>
-    <string>Lj</string>
     <string>M</string>
     <string>Mu</string>
     <string>N</string>
-    <string>NJ</string>
     <string>Nacute</string>
     <string>Ncaron</string>
-    <string>Ncommaaccent</string>
-    <string>Nj</string>
-    <string>Nje-cy</string>
     <string>Ntilde</string>
     <string>Nu</string>
     <string>P</string>
-    <string>Palochka-cy</string>
-    <string>Pe-cy</string>
     <string>Pi</string>
     <string>R</string>
     <string>Racute</string>
-    <string>Rcommaaccent</string>
     <string>Rho</string>
-    <string>Rinvertedbreve</string>
-    <string>Sha-cy</string>
-    <string>Shcha-cy</string>
-    <string>Shha-cy</string>
-    <string>Softsign-cy</string>
     <string>Thorn</string>
-    <string>Tse-cy</string>
-    <string>Ve-cy</string>
-    <string>Yeru-cy</string>
-    <string>Yerudieresis-cy</string>
-    <string>numero</string>
+    <string>uni0136</string>
+    <string>uni013B</string>
+    <string>uni0145</string>
+    <string>uni0156</string>
+    <string>uni01C4</string>
+    <string>uni01C5</string>
+    <string>uni01C7</string>
+    <string>uni01C8</string>
+    <string>uni01CA</string>
+    <string>uni01CB</string>
+    <string>uni0206</string>
+    <string>uni0212</string>
+    <string>uni03CF</string>
+    <string>uni0400</string>
+    <string>uni0403</string>
+    <string>uni0406</string>
+    <string>uni040A</string>
+    <string>uni040C</string>
+    <string>uni040D</string>
+    <string>uni040F</string>
+    <string>uni0411</string>
+    <string>uni0412</string>
+    <string>uni0413</string>
+    <string>uni0415</string>
+    <string>uni0418</string>
+    <string>uni0419</string>
+    <string>uni041A</string>
+    <string>uni041C</string>
+    <string>uni041D</string>
+    <string>uni041F</string>
+    <string>uni0420</string>
+    <string>uni0426</string>
+    <string>uni0428</string>
+    <string>uni0429</string>
+    <string>uni042B</string>
+    <string>uni042C</string>
+    <string>uni042E</string>
+    <string>uni0490</string>
+    <string>uni0494</string>
+    <string>uni049A</string>
+    <string>uni049C</string>
+    <string>uni04A2</string>
+    <string>uni04A4</string>
+    <string>uni04BA</string>
+    <string>uni04C0</string>
+    <string>uni04E2</string>
+    <string>uni04E4</string>
+    <string>uni04F6</string>
+    <string>uni04F8</string>
+    <string>uni1EB8</string>
+    <string>uni1EBA</string>
+    <string>uni1EBC</string>
+    <string>uni1EBE</string>
+    <string>uni1EC0</string>
+    <string>uni1EC2</string>
+    <string>uni1EC6</string>
+    <string>uni2116</string>
   </array>
   <key>public.kern2.R_Haccent</key>
   <array>
     <string>Dcaron</string>
     <string>Ebreve</string>
     <string>Ecaron</string>
-    <string>Ecircumflextilde</string>
     <string>Edieresis</string>
-    <string>Iebreve-cy</string>
-    <string>Io-cy</string>
     <string>Rcaron</string>
+    <string>uni0401</string>
+    <string>uni04D6</string>
+    <string>uni1EC4</string>
   </array>
   <key>public.kern2.R_Hbar</key>
   <array>
@@ -2986,7 +2981,7 @@
   </array>
   <key>public.kern2.R_Ia</key>
   <array>
-    <string>Ia-cy</string>
+    <string>uni042F</string>
   </array>
   <key>public.kern2.R_Iaccent</key>
   <array>
@@ -2994,20 +2989,20 @@
     <string>Icircumflex</string>
     <string>Idieresis</string>
     <string>Igrave</string>
-    <string>Ihookabove</string>
-    <string>Iinvertedbreve</string>
     <string>Imacron</string>
     <string>Iotadieresis</string>
     <string>Itilde</string>
-    <string>Yi-cy</string>
+    <string>uni020A</string>
+    <string>uni0407</string>
+    <string>uni1EC8</string>
   </array>
   <key>public.kern2.R_Iaccentbelow</key>
   <array>
-    <string>Idotbelow</string>
+    <string>uni1ECA</string>
   </array>
   <key>public.kern2.R_Idblgrave</key>
   <array>
-    <string>Idblgrave</string>
+    <string>uni0208</string>
   </array>
   <key>public.kern2.R_Idot</key>
   <array>
@@ -3023,7 +3018,7 @@
   <array>
     <string>J</string>
     <string>Jcircumflex</string>
-    <string>Je-cy</string>
+    <string>uni0408</string>
   </array>
   <key>public.kern2.R_Lslash</key>
   <array>
@@ -3037,63 +3032,63 @@
     <string>Ccedilla</string>
     <string>Ccircumflex</string>
     <string>Cdotaccent</string>
-    <string>E-cy</string>
-    <string>Es-cy</string>
-    <string>Esdescender-cy</string>
-    <string>Fita-cy</string>
     <string>G</string>
     <string>Gbreve</string>
     <string>Gcaron</string>
     <string>Gcircumflex</string>
-    <string>Gcommaaccent</string>
     <string>Gdotaccent</string>
     <string>O</string>
-    <string>O-cy</string>
     <string>OE</string>
     <string>Oacute</string>
-    <string>Obarred-cy</string>
     <string>Obreve</string>
     <string>Ocircumflex</string>
-    <string>Ocircumflexacute</string>
-    <string>Ocircumflexdotbelow</string>
-    <string>Ocircumflexgrave</string>
-    <string>Ocircumflexhookabove</string>
-    <string>Ocircumflextilde</string>
     <string>Odieresis</string>
-    <string>Odieresis-cy</string>
-    <string>Odieresismacron</string>
-    <string>Odotaccentmacron</string>
-    <string>Odotbelow</string>
     <string>Ograve</string>
-    <string>Ohookabove</string>
     <string>Ohorn</string>
-    <string>Ohornacute</string>
-    <string>Ohorndotbelow</string>
-    <string>Ohorngrave</string>
-    <string>Ohornhookabove</string>
-    <string>Ohorntilde</string>
     <string>Ohungarumlaut</string>
-    <string>Oinvertedbreve</string>
     <string>Omacron</string>
     <string>Omicron</string>
     <string>Omicrontonos</string>
-    <string>Oogonek</string>
     <string>Otilde</string>
-    <string>Otildemacron</string>
     <string>Q</string>
-    <string>Qa-cy</string>
-    <string>Schwa</string>
-    <string>Schwa-cy</string>
     <string>Theta</string>
+    <string>uni0122</string>
+    <string>uni018F</string>
+    <string>uni01EA</string>
+    <string>uni020E</string>
+    <string>uni022A</string>
+    <string>uni022C</string>
+    <string>uni0230</string>
+    <string>uni0404</string>
+    <string>uni041E</string>
+    <string>uni0421</string>
+    <string>uni0472</string>
+    <string>uni04AA</string>
+    <string>uni04D8</string>
+    <string>uni04E6</string>
+    <string>uni04E8</string>
+    <string>uni051A</string>
+    <string>uni1ECC</string>
+    <string>uni1ECE</string>
+    <string>uni1ED0</string>
+    <string>uni1ED2</string>
+    <string>uni1ED4</string>
+    <string>uni1ED6</string>
+    <string>uni1ED8</string>
+    <string>uni1EDA</string>
+    <string>uni1EDC</string>
+    <string>uni1EDE</string>
+    <string>uni1EE0</string>
+    <string>uni1EE2</string>
   </array>
   <key>public.kern2.R_Oaccent</key>
   <array>
-    <string>Odblgrave</string>
+    <string>uni020C</string>
   </array>
   <key>public.kern2.R_Omega</key>
   <array>
-    <string>Omega</string>
     <string>Omegatonos</string>
+    <string>uni03A9</string>
   </array>
   <key>public.kern2.R_Oslash</key>
   <array>
@@ -3106,12 +3101,12 @@
   </array>
   <key>public.kern2.R_S</key>
   <array>
-    <string>Dze-cy</string>
     <string>S</string>
     <string>Sacute</string>
     <string>Scedilla</string>
     <string>Scircumflex</string>
-    <string>Scommaaccent</string>
+    <string>uni0218</string>
+    <string>uni0405</string>
   </array>
   <key>public.kern2.R_Saccent</key>
   <array>
@@ -3123,15 +3118,15 @@
   </array>
   <key>public.kern2.R_T</key>
   <array>
-    <string>Dje-cy</string>
-    <string>Hardsign-cy</string>
-    <string>Kabashkir-cy</string>
     <string>T</string>
     <string>Tau</string>
-    <string>Tcedilla</string>
-    <string>Tcommaaccent</string>
-    <string>Te-cy</string>
-    <string>Tshe-cy</string>
+    <string>uni0162</string>
+    <string>uni021A</string>
+    <string>uni0402</string>
+    <string>uni040B</string>
+    <string>uni0422</string>
+    <string>uni042A</string>
+    <string>uni04A0</string>
   </array>
   <key>public.kern2.R_Taccent</key>
   <array>
@@ -3148,51 +3143,51 @@
     <string>Ubreve</string>
     <string>Ucircumflex</string>
     <string>Udieresis</string>
-    <string>Udotbelow</string>
     <string>Ugrave</string>
-    <string>Uhookabove</string>
     <string>Uhorn</string>
-    <string>Uhornacute</string>
-    <string>Uhorndotbelow</string>
-    <string>Uhorngrave</string>
-    <string>Uhornhookabove</string>
-    <string>Uhorntilde</string>
     <string>Uhungarumlaut</string>
-    <string>Uinvertedbreve</string>
     <string>Umacron</string>
     <string>Uogonek</string>
     <string>Uring</string>
     <string>Utilde</string>
+    <string>uni0216</string>
+    <string>uni1EE4</string>
+    <string>uni1EE6</string>
+    <string>uni1EE8</string>
+    <string>uni1EEA</string>
+    <string>uni1EEC</string>
+    <string>uni1EEE</string>
+    <string>uni1EF0</string>
   </array>
   <key>public.kern2.R_U-cy</key>
   <array>
-    <string>U-cy</string>
-    <string>Udieresis-cy</string>
-    <string>Uhungarumlaut-cy</string>
-    <string>Umacron-cy</string>
-    <string>Ushort-cy</string>
+    <string>uni040E</string>
+    <string>uni0423</string>
+    <string>uni04EE</string>
+    <string>uni04F0</string>
+    <string>uni04F2</string>
   </array>
   <key>public.kern2.R_Uaccent</key>
   <array>
-    <string>Udblgrave</string>
+    <string>uni0214</string>
   </array>
   <key>public.kern2.R_V</key>
   <array>
-    <string>Izhitsa-cy</string>
     <string>V</string>
     <string>W</string>
     <string>Wacute</string>
     <string>Wcircumflex</string>
     <string>Wdieresis</string>
-    <string>We-cy</string>
     <string>Wgrave</string>
+    <string>uni0474</string>
+    <string>uni051C</string>
   </array>
   <key>public.kern2.R_X</key>
   <array>
     <string>Chi</string>
-    <string>Ha-cy</string>
-    <string>Hadescender-cy</string>
     <string>X</string>
+    <string>uni0425</string>
+    <string>uni04B2</string>
   </array>
   <key>public.kern2.R_Xi</key>
   <array>
@@ -3202,16 +3197,16 @@
   <array>
     <string>Upsilon</string>
     <string>Upsilontonos</string>
-    <string>Ustraight-cy</string>
-    <string>Ustraightstroke-cy</string>
     <string>Y</string>
     <string>Yacute</string>
     <string>Ycircumflex</string>
-    <string>Ydotbelow</string>
     <string>Ygrave</string>
-    <string>Yhookabove</string>
-    <string>Ymacron</string>
-    <string>Ytilde</string>
+    <string>uni0232</string>
+    <string>uni04AE</string>
+    <string>uni04B0</string>
+    <string>uni1EF4</string>
+    <string>uni1EF6</string>
+    <string>uni1EF8</string>
   </array>
   <key>public.kern2.R_Yaccent</key>
   <array>
@@ -3220,7 +3215,7 @@
   </array>
   <key>public.kern2.R_Yat</key>
   <array>
-    <string>Yat-cy</string>
+    <string>uni0462</string>
   </array>
   <key>public.kern2.R_Z</key>
   <array>
@@ -3235,61 +3230,61 @@
   </array>
   <key>public.kern2.R_Ze</key>
   <array>
-    <string>Ereversed-cy</string>
-    <string>Ze-cy</string>
-    <string>Zedescender-cy</string>
+    <string>uni0417</string>
+    <string>uni042D</string>
+    <string>uni0498</string>
   </array>
   <key>public.kern2.R_Zeaccent</key>
   <array>
-    <string>Zedieresis-cy</string>
+    <string>uni04DE</string>
   </array>
   <key>public.kern2.R_Zhe</key>
   <array>
-    <string>Yusbig-cy</string>
-    <string>Zhe-cy</string>
-    <string>Zhebreve-cy</string>
-    <string>Zhedescender-cy</string>
-    <string>Zhedieresis-cy</string>
+    <string>uni0416</string>
+    <string>uni046A</string>
+    <string>uni0496</string>
+    <string>uni04C1</string>
+    <string>uni04DC</string>
   </array>
   <key>public.kern2.R_a</key>
   <array>
     <string>a</string>
-    <string>a-cy</string>
     <string>aacute</string>
-    <string>adotbelow</string>
     <string>ae</string>
     <string>aeacute</string>
-    <string>aie-cy</string>
     <string>aogonek</string>
     <string>aring</string>
+    <string>uni0430</string>
+    <string>uni04D5</string>
+    <string>uni1EA1</string>
   </array>
   <key>public.kern2.R_aaccent</key>
   <array>
     <string>abreve</string>
-    <string>abreve-cy</string>
-    <string>abreveacute</string>
-    <string>abrevedotbelow</string>
-    <string>abrevegrave</string>
-    <string>abrevehookabove</string>
-    <string>abrevetilde</string>
     <string>acircumflex</string>
-    <string>acircumflexacute</string>
-    <string>acircumflexdotbelow</string>
-    <string>acircumflexgrave</string>
-    <string>acircumflexhookabove</string>
-    <string>acircumflextilde</string>
     <string>adieresis</string>
-    <string>adieresis-cy</string>
     <string>agrave</string>
-    <string>ahookabove</string>
-    <string>ainvertedbreve</string>
     <string>amacron</string>
     <string>aringacute</string>
     <string>atilde</string>
+    <string>uni0203</string>
+    <string>uni04D1</string>
+    <string>uni04D3</string>
+    <string>uni1EA3</string>
+    <string>uni1EA5</string>
+    <string>uni1EA7</string>
+    <string>uni1EA9</string>
+    <string>uni1EAB</string>
+    <string>uni1EAD</string>
+    <string>uni1EAF</string>
+    <string>uni1EB1</string>
+    <string>uni1EB3</string>
+    <string>uni1EB5</string>
+    <string>uni1EB7</string>
   </array>
   <key>public.kern2.R_adblgrave</key>
   <array>
-    <string>adblgrave</string>
+    <string>uni0201</string>
   </array>
   <key>public.kern2.R_ampersand</key>
   <array>
@@ -3303,7 +3298,6 @@
   <array>
     <string>asterisk</string>
     <string>degree</string>
-    <string>foursuperior</string>
     <string>onesuperior</string>
     <string>ordfeminine</string>
     <string>ordfeminine.ss01</string>
@@ -3312,6 +3306,7 @@
     <string>threesuperior</string>
     <string>trademark</string>
     <string>twosuperior</string>
+    <string>uni2074</string>
   </array>
   <key>public.kern2.R_at</key>
   <array>
@@ -3330,7 +3325,7 @@
   </array>
   <key>public.kern2.R_be</key>
   <array>
-    <string>be-cy</string>
+    <string>uni0431</string>
   </array>
   <key>public.kern2.R_braceleft</key>
   <array>
@@ -3342,14 +3337,14 @@
   </array>
   <key>public.kern2.R_che</key>
   <array>
-    <string>che-cy</string>
-    <string>chedescender-cy</string>
-    <string>chekhakassian-cy</string>
-    <string>cheverticalstroke-cy</string>
+    <string>uni0447</string>
+    <string>uni04B7</string>
+    <string>uni04B9</string>
+    <string>uni04CC</string>
   </array>
   <key>public.kern2.R_cheaccent</key>
   <array>
-    <string>chedieresis-cy</string>
+    <string>uni04F5</string>
   </array>
   <key>public.kern2.R_chi</key>
   <array>
@@ -3359,41 +3354,41 @@
   <array>
     <string>colon</string>
     <string>exclamdown</string>
-    <string>questiongreek</string>
+    <string>uni037E</string>
   </array>
   <key>public.kern2.R_comma</key>
   <array>
     <string>comma</string>
-    <string>lowernumeral-greek</string>
     <string>quotedblbase</string>
     <string>quotesinglbase</string>
+    <string>uni0375</string>
   </array>
   <key>public.kern2.R_currency</key>
   <array>
-    <string>cedi</string>
+    <string>Euro</string>
     <string>cent</string>
-    <string>colonsign</string>
+    <string>colonmonetary</string>
     <string>currency</string>
     <string>dollar</string>
     <string>dong</string>
-    <string>euro</string>
     <string>florin</string>
     <string>franc</string>
-    <string>guarani</string>
-    <string>hryvnia</string>
-    <string>kip</string>
     <string>lira</string>
-    <string>liraTurkish</string>
-    <string>manat</string>
-    <string>naira</string>
     <string>peseta</string>
-    <string>peso</string>
-    <string>ruble</string>
-    <string>rupeeIndian</string>
     <string>sterling</string>
-    <string>tenge</string>
-    <string>tugrik</string>
-    <string>won</string>
+    <string>uni20A6</string>
+    <string>uni20A9</string>
+    <string>uni20AD</string>
+    <string>uni20AE</string>
+    <string>uni20B1</string>
+    <string>uni20B2</string>
+    <string>uni20B4</string>
+    <string>uni20B5</string>
+    <string>uni20B8</string>
+    <string>uni20B9</string>
+    <string>uni20BA</string>
+    <string>uni20BC</string>
+    <string>uni20BD</string>
     <string>yen</string>
   </array>
   <key>public.kern2.R_dagger</key>
@@ -3406,9 +3401,9 @@
   </array>
   <key>public.kern2.R_de</key>
   <array>
-    <string>de-cy</string>
-    <string>el-cy</string>
-    <string>lje-cy</string>
+    <string>uni0434</string>
+    <string>uni043B</string>
+    <string>uni0459</string>
   </array>
   <key>public.kern2.R_eight</key>
   <array>
@@ -3416,7 +3411,7 @@
   </array>
   <key>public.kern2.R_elBGR</key>
   <array>
-    <string>el-cy.loclBGR</string>
+    <string>uni043B.loclBGR</string>
   </array>
   <key>public.kern2.R_epsilon</key>
   <array>
@@ -3448,8 +3443,8 @@
   <key>public.kern2.R_g</key>
   <array>
     <string>g</string>
-    <string>gcommaaccent</string>
     <string>gdotaccent</string>
+    <string>uni0123</string>
   </array>
   <key>public.kern2.R_gaccent</key>
   <array>
@@ -3459,22 +3454,22 @@
   </array>
   <key>public.kern2.R_geSRB</key>
   <array>
-    <string>ge-cy.loclBGR</string>
-    <string>ge-cy.loclSRB</string>
-    <string>gje-cy.loclMKD.ss01</string>
+    <string>uni0433.loclBGR</string>
+    <string>uni0433.loclSRB</string>
+    <string>uni0453.loclMKD.ss01</string>
   </array>
   <key>public.kern2.R_ghestroke</key>
   <array>
-    <string>ghestroke-cy</string>
+    <string>uni0493</string>
   </array>
   <key>public.kern2.R_guilsinglleft</key>
   <array>
-    <string>guillemetleft</string>
+    <string>guillemotleft</string>
     <string>guilsinglleft</string>
   </array>
   <key>public.kern2.R_guilsinglright</key>
   <array>
-    <string>guillemetright</string>
+    <string>guillemotright</string>
     <string>guilsinglright</string>
   </array>
   <key>public.kern2.R_h</key>
@@ -3484,17 +3479,17 @@
     <string>exclam</string>
     <string>germandbls</string>
     <string>h</string>
-    <string>iu-cy.loclBGR</string>
     <string>k</string>
-    <string>ka-cy.loclBGR</string>
-    <string>kcommaaccent</string>
     <string>l</string>
     <string>lcaron</string>
     <string>ldot</string>
-    <string>lj</string>
-    <string>palochka-cy</string>
-    <string>shha-cy</string>
     <string>thorn</string>
+    <string>uni0137</string>
+    <string>uni01C9</string>
+    <string>uni043A.loclBGR</string>
+    <string>uni044E.loclBGR</string>
+    <string>uni04BB</string>
+    <string>uni04CF</string>
   </array>
   <key>public.kern2.R_haccent</key>
   <array>
@@ -3502,9 +3497,9 @@
   </array>
   <key>public.kern2.R_hbar</key>
   <array>
-    <string>dje-cy</string>
     <string>hbar</string>
-    <string>tshe-cy</string>
+    <string>uni0452</string>
+    <string>uni045B</string>
   </array>
   <key>public.kern2.R_hdot</key>
   <array>
@@ -3515,38 +3510,37 @@
     <string>emdash</string>
     <string>endash</string>
     <string>hyphen</string>
-    <string>hyphentwo</string>
     <string>periodcentered</string>
-    <string>softhyphen</string>
+    <string>uni00AD</string>
+    <string>uni2010</string>
   </array>
   <key>public.kern2.R_i</key>
   <array>
     <string>i</string>
-    <string>i-cy</string>
     <string>iacute</string>
-    <string>idotaccent</string>
     <string>iotatonos</string>
+    <string>uni0456</string>
   </array>
   <key>public.kern2.R_ia</key>
   <array>
-    <string>ia-cy</string>
+    <string>uni044F</string>
   </array>
   <key>public.kern2.R_iaccent</key>
   <array>
     <string>ibreve</string>
     <string>icircumflex</string>
     <string>idieresis</string>
-    <string>ihookabove</string>
-    <string>iinvertedbreve</string>
     <string>imacron</string>
     <string>iotadieresis</string>
     <string>itilde</string>
-    <string>yi-cy</string>
+    <string>uni020B</string>
+    <string>uni0457</string>
+    <string>uni1EC9</string>
   </array>
   <key>public.kern2.R_idblgrave</key>
   <array>
-    <string>idblgrave</string>
-    <string>rdblgrave</string>
+    <string>uni0209</string>
+    <string>uni0211</string>
   </array>
   <key>public.kern2.R_igrave</key>
   <array>
@@ -3554,9 +3548,8 @@
   </array>
   <key>public.kern2.R_iogonek</key>
   <array>
-    <string>idotbelow</string>
     <string>iogonek</string>
-    <string>iogonek.dotless</string>
+    <string>uni1ECB</string>
   </array>
   <key>public.kern2.R_iotadieresistonos</key>
   <array>
@@ -3566,8 +3559,8 @@
   <array>
     <string>j</string>
     <string>j.calt</string>
-    <string>je-cy</string>
-    <string>je-cy.calt</string>
+    <string>uni0458</string>
+    <string>uni0458.calt</string>
   </array>
   <key>public.kern2.R_jaccent</key>
   <array>
@@ -3576,8 +3569,8 @@
   </array>
   <key>public.kern2.R_jdotless</key>
   <array>
-    <string>jdotless</string>
-    <string>jdotless.calt</string>
+    <string>uni0237</string>
+    <string>uni0237.calt</string>
   </array>
   <key>public.kern2.R_lamda</key>
   <array>
@@ -3585,11 +3578,11 @@
   </array>
   <key>public.kern2.R_lcommaaccent</key>
   <array>
-    <string>lcommaaccent</string>
+    <string>uni013C</string>
   </array>
   <key>public.kern2.R_leftanglebracket</key>
   <array>
-    <string>leftanglebracket-math</string>
+    <string>uni27E8</string>
   </array>
   <key>public.kern2.R_lslash</key>
   <array>
@@ -3600,43 +3593,7 @@
     <string>acutecomb</string>
     <string>acutecomb.case</string>
     <string>acutecomb.narrow</string>
-    <string>brevebelowcomb</string>
-    <string>brevecomb</string>
-    <string>brevecomb-cy</string>
-    <string>brevecomb.case</string>
-    <string>brevecomb.narrow</string>
-    <string>brevecomb_acutecomb</string>
-    <string>brevecomb_gravecomb</string>
-    <string>brevecomb_hookabovecomb</string>
-    <string>brevecomb_tildecomb</string>
-    <string>breveinvertedcomb</string>
-    <string>breveinvertedcomb.case</string>
-    <string>breveinvertedcomb.narrow</string>
-    <string>caroncomb</string>
-    <string>caroncomb.alt</string>
-    <string>caroncomb.alt_case</string>
-    <string>caroncomb.case</string>
-    <string>cedillacomb</string>
-    <string>circumflexcomb</string>
-    <string>circumflexcomb.case</string>
-    <string>circumflexcomb.narrow</string>
-    <string>circumflexcomb_acutecomb</string>
-    <string>circumflexcomb_gravecomb</string>
-    <string>circumflexcomb_hookabovecomb</string>
-    <string>circumflexcomb_tildecomb</string>
-    <string>commaaccentcomb</string>
-    <string>commaturnedabovecomb</string>
-    <string>commaturnedabovecomb.case</string>
-    <string>dblgravecomb</string>
-    <string>dblgravecomb.case</string>
-    <string>dblgravecomb.narrow</string>
-    <string>dieresisbelowcomb</string>
-    <string>dieresiscomb</string>
-    <string>dieresiscomb.case</string>
-    <string>dieresiscomb.narrow</string>
     <string>dieresistonos</string>
-    <string>dotaccentcomb</string>
-    <string>dotaccentcomb.case</string>
     <string>dotbelowcomb</string>
     <string>gravecomb</string>
     <string>gravecomb.case</string>
@@ -3644,35 +3601,68 @@
     <string>hookabovecomb</string>
     <string>hookabovecomb.case</string>
     <string>hookabovecomb.narrow</string>
-    <string>horncomb</string>
-    <string>horncomb.alt</string>
-    <string>horncomb.alt_case</string>
-    <string>horncomb.case</string>
-    <string>hungarumlautcomb</string>
-    <string>hungarumlautcomb.case</string>
-    <string>macronbelowcomb</string>
-    <string>macroncomb</string>
-    <string>macroncomb.case</string>
-    <string>macroncomb.narrow</string>
-    <string>macroncomb.wide</string>
-    <string>ogonekcomb</string>
-    <string>ringcomb</string>
-    <string>ringcomb.case</string>
-    <string>strokeshortcomb</string>
-    <string>strokeshortcomb.case</string>
     <string>tildecomb</string>
     <string>tildecomb.case</string>
     <string>tildecomb.narrow</string>
+    <string>uni0302</string>
+    <string>uni0302.case</string>
+    <string>uni0302.narrow</string>
+    <string>uni0302_acutecomb</string>
+    <string>uni0302_gravecomb</string>
+    <string>uni0302_hookabovecomb</string>
+    <string>uni0302_tildecomb</string>
+    <string>uni0304</string>
+    <string>uni0304.case</string>
+    <string>uni0304.narrow</string>
+    <string>uni0304.wide</string>
+    <string>uni0306</string>
+    <string>uni0306.case</string>
+    <string>uni0306.ccmp</string>
+    <string>uni0306.narrow</string>
+    <string>uni0306_acutecomb</string>
+    <string>uni0306_gravecomb</string>
+    <string>uni0306_hookabovecomb</string>
+    <string>uni0306_tildecomb</string>
+    <string>uni0307</string>
+    <string>uni0307.case</string>
+    <string>uni0308</string>
+    <string>uni0308.case</string>
+    <string>uni0308.narrow</string>
+    <string>uni030A</string>
+    <string>uni030A.case</string>
+    <string>uni030B</string>
+    <string>uni030B.case</string>
+    <string>uni030C</string>
+    <string>uni030C.alt</string>
+    <string>uni030C.alt_case</string>
+    <string>uni030C.case</string>
+    <string>uni030F</string>
+    <string>uni030F.case</string>
+    <string>uni030F.narrow</string>
+    <string>uni0311</string>
+    <string>uni0311.case</string>
+    <string>uni0311.narrow</string>
+    <string>uni0312</string>
+    <string>uni0312.case</string>
+    <string>uni031B</string>
+    <string>uni031B.alt</string>
+    <string>uni031B.alt_case</string>
+    <string>uni031B.case</string>
+    <string>uni0324</string>
+    <string>uni0326</string>
+    <string>uni0327</string>
+    <string>uni0328</string>
+    <string>uni032E</string>
+    <string>uni0331</string>
+    <string>uni0335</string>
+    <string>uni0335.case</string>
   </array>
   <key>public.kern2.R_math</key>
   <array>
     <string>approxequal</string>
     <string>asciicircum</string>
     <string>asciitilde</string>
-    <string>bulletoperator</string>
-    <string>commercialMinusSign</string>
     <string>divide</string>
-    <string>divisionslash</string>
     <string>eight.tnum</string>
     <string>equal</string>
     <string>five.tnum</string>
@@ -3692,61 +3682,64 @@
     <string>seven.tnum</string>
     <string>three.tnum</string>
     <string>two.tnum</string>
+    <string>uni2052</string>
+    <string>uni2215</string>
+    <string>uni2219</string>
     <string>zero.tnum</string>
   </array>
   <key>public.kern2.R_n</key>
   <array>
-    <string>dzhe-cy</string>
-    <string>en-cy</string>
-    <string>endescender-cy</string>
+    <string>dotlessi</string>
     <string>eng</string>
-    <string>enghe-cy</string>
-    <string>er-cy</string>
     <string>eta</string>
     <string>etatonos</string>
-    <string>gedescender-cy</string>
-    <string>ghemiddlehook-cy</string>
-    <string>idotless</string>
-    <string>ii-cy</string>
-    <string>iu-cy</string>
-    <string>ka-cy</string>
-    <string>kadescender-cy</string>
-    <string>kaiSymbol</string>
     <string>kappa</string>
-    <string>kaverticalstroke-cy</string>
     <string>kgreenlandic</string>
-    <string>kje-cy</string>
     <string>m</string>
-    <string>micro</string>
-    <string>mu</string>
     <string>n</string>
     <string>nacute</string>
-    <string>ncommaaccent</string>
-    <string>nj</string>
-    <string>nje-cy</string>
     <string>p</string>
-    <string>pe-cy.loclBGR</string>
     <string>r</string>
     <string>racute</string>
-    <string>sha-cy</string>
-    <string>shcha-cy</string>
-    <string>softsign-cy</string>
-    <string>te-cy.loclBGR</string>
-    <string>tse-cy</string>
-    <string>yeru-cy</string>
-    <string>yerudieresis-cy</string>
+    <string>uni00B5</string>
+    <string>uni0146</string>
+    <string>uni01CC</string>
+    <string>uni03BC</string>
+    <string>uni03D7</string>
+    <string>uni0438</string>
+    <string>uni043A</string>
+    <string>uni043D</string>
+    <string>uni043F.loclBGR</string>
+    <string>uni0440</string>
+    <string>uni0442.loclBGR</string>
+    <string>uni0446</string>
+    <string>uni0448</string>
+    <string>uni0449</string>
+    <string>uni044B</string>
+    <string>uni044C</string>
+    <string>uni044E</string>
+    <string>uni045A</string>
+    <string>uni045C</string>
+    <string>uni045F</string>
+    <string>uni0495</string>
+    <string>uni049B</string>
+    <string>uni049D</string>
+    <string>uni04A3</string>
+    <string>uni04A5</string>
+    <string>uni04F7</string>
+    <string>uni04F9</string>
   </array>
   <key>public.kern2.R_naccent</key>
   <array>
-    <string>gje-cy</string>
-    <string>gje-cy.loclMKD</string>
-    <string>idieresis-cy</string>
-    <string>iigrave-cy</string>
-    <string>iishort-cy</string>
-    <string>imacron-cy</string>
     <string>ncaron</string>
     <string>ntilde</string>
-    <string>rinvertedbreve</string>
+    <string>uni0213</string>
+    <string>uni0439</string>
+    <string>uni0453</string>
+    <string>uni0453.loclMKD</string>
+    <string>uni045D</string>
+    <string>uni04E3</string>
+    <string>uni04E5</string>
   </array>
   <key>public.kern2.R_nine</key>
   <array>
@@ -3762,14 +3755,10 @@
   </array>
   <key>public.kern2.R_o</key>
   <array>
-    <string>a-cy.ss01</string>
     <string>a.ss01</string>
     <string>aacute.ss01</string>
-    <string>adieresis-cy.ss01</string>
-    <string>adotbelow.ss01</string>
     <string>ae.ss01</string>
     <string>aeacute.ss01</string>
-    <string>aie-cy.ss01</string>
     <string>alpha</string>
     <string>alphatonos</string>
     <string>aogonek.ss01</string>
@@ -3780,120 +3769,124 @@
     <string>d</string>
     <string>dcaron</string>
     <string>dcroat</string>
-    <string>de-cy.loclBGR</string>
-    <string>de-cy.loclSRB</string>
-    <string>dzcaron</string>
     <string>e</string>
-    <string>e-cy</string>
     <string>eacute</string>
     <string>edotaccent</string>
-    <string>edotbelow</string>
-    <string>ef-cy</string>
     <string>eogonek</string>
-    <string>es-cy</string>
-    <string>esdescender-cy</string>
-    <string>fita-cy</string>
     <string>g.ss01</string>
-    <string>gcommaaccent.ss01</string>
     <string>gdotaccent.ss01</string>
-    <string>ie-cy</string>
     <string>o</string>
-    <string>o-cy</string>
     <string>oacute</string>
-    <string>obarred-cy</string>
-    <string>odotbelow</string>
     <string>oe</string>
     <string>ohorn</string>
-    <string>ohornacute</string>
-    <string>ohorndotbelow</string>
     <string>ohungarumlaut</string>
     <string>omega</string>
     <string>omegatonos</string>
     <string>omicron</string>
     <string>omicrontonos</string>
-    <string>oogonek</string>
     <string>phi</string>
     <string>q</string>
-    <string>qa-cy</string>
-    <string>schwa</string>
-    <string>schwa-cy</string>
     <string>sigma</string>
-    <string>sigmafinal</string>
+    <string>uni0123.ss01</string>
+    <string>uni01C6</string>
+    <string>uni01EB</string>
+    <string>uni0259</string>
+    <string>uni03C2</string>
+    <string>uni0430.ss01</string>
+    <string>uni0434.loclBGR</string>
+    <string>uni0434.loclSRB</string>
+    <string>uni0435</string>
+    <string>uni043E</string>
+    <string>uni0441</string>
+    <string>uni0444</string>
+    <string>uni0454</string>
+    <string>uni0473</string>
+    <string>uni04AB</string>
+    <string>uni04D3.ss01</string>
+    <string>uni04D5.ss01</string>
+    <string>uni04D9</string>
+    <string>uni04E9</string>
+    <string>uni051B</string>
+    <string>uni1EA1.ss01</string>
+    <string>uni1EB9</string>
+    <string>uni1ECD</string>
+    <string>uni1EDB</string>
+    <string>uni1EE3</string>
   </array>
   <key>public.kern2.R_oaccent</key>
   <array>
-    <string>abreve-cy.ss01</string>
     <string>abreve.ss01</string>
-    <string>abreveacute.ss01</string>
-    <string>abrevedotbelow.ss01</string>
-    <string>abrevegrave.ss01</string>
-    <string>abrevehookabove.ss01</string>
-    <string>abrevetilde.ss01</string>
     <string>acircumflex.ss01</string>
-    <string>acircumflexacute.ss01</string>
-    <string>acircumflexdotbelow.ss01</string>
-    <string>acircumflexgrave.ss01</string>
-    <string>acircumflexhookabove.ss01</string>
-    <string>acircumflextilde.ss01</string>
     <string>adieresis.ss01</string>
     <string>agrave.ss01</string>
-    <string>ahookabove.ss01</string>
-    <string>ainvertedbreve.ss01</string>
     <string>amacron.ss01</string>
     <string>aring.ss01</string>
     <string>aringacute.ss01</string>
     <string>atilde.ss01</string>
-    <string>be-cy.loclSRB</string>
     <string>ccaron</string>
     <string>ccircumflex</string>
     <string>delta</string>
     <string>ebreve</string>
     <string>ecaron</string>
     <string>ecircumflex</string>
-    <string>ecircumflexacute</string>
-    <string>ecircumflexdotbelow</string>
-    <string>ecircumflexgrave</string>
-    <string>ecircumflexhookabove</string>
-    <string>ecircumflextilde</string>
     <string>edieresis</string>
     <string>egrave</string>
-    <string>ehookabove</string>
-    <string>einvertedbreve</string>
     <string>emacron</string>
     <string>eth</string>
-    <string>etilde</string>
     <string>gbreve.ss01</string>
     <string>gcaron.ss01</string>
     <string>gcircumflex.ss01</string>
-    <string>iebreve-cy</string>
-    <string>iegrave-cy</string>
-    <string>io-cy</string>
     <string>obreve</string>
     <string>ocircumflex</string>
-    <string>ocircumflexacute</string>
-    <string>ocircumflexdotbelow</string>
-    <string>ocircumflexgrave</string>
-    <string>ocircumflexhookabove</string>
-    <string>ocircumflextilde</string>
     <string>odieresis</string>
-    <string>odieresis-cy</string>
-    <string>odieresismacron</string>
-    <string>odotaccentmacron</string>
     <string>ograve</string>
-    <string>ohookabove</string>
-    <string>ohorngrave</string>
-    <string>ohornhookabove</string>
-    <string>ohorntilde</string>
-    <string>oinvertedbreve</string>
     <string>omacron</string>
     <string>otilde</string>
-    <string>otildemacron</string>
+    <string>uni0203.ss01</string>
+    <string>uni0207</string>
+    <string>uni020F</string>
+    <string>uni022B</string>
+    <string>uni022D</string>
+    <string>uni0231</string>
+    <string>uni0431.loclSRB</string>
+    <string>uni0450</string>
+    <string>uni0451</string>
+    <string>uni04D1.ss01</string>
+    <string>uni04D7</string>
+    <string>uni04E7</string>
+    <string>uni1EA3.ss01</string>
+    <string>uni1EA5.ss01</string>
+    <string>uni1EA7.ss01</string>
+    <string>uni1EA9.ss01</string>
+    <string>uni1EAB.ss01</string>
+    <string>uni1EAD.ss01</string>
+    <string>uni1EAF.ss01</string>
+    <string>uni1EB1.ss01</string>
+    <string>uni1EB3.ss01</string>
+    <string>uni1EB5.ss01</string>
+    <string>uni1EB7.ss01</string>
+    <string>uni1EBB</string>
+    <string>uni1EBD</string>
+    <string>uni1EBF</string>
+    <string>uni1EC1</string>
+    <string>uni1EC3</string>
+    <string>uni1EC5</string>
+    <string>uni1EC7</string>
+    <string>uni1ECF</string>
+    <string>uni1ED1</string>
+    <string>uni1ED3</string>
+    <string>uni1ED5</string>
+    <string>uni1ED7</string>
+    <string>uni1ED9</string>
+    <string>uni1EDD</string>
+    <string>uni1EDF</string>
+    <string>uni1EE1</string>
   </array>
   <key>public.kern2.R_odblgrave</key>
   <array>
-    <string>adblgrave.ss01</string>
-    <string>edblgrave</string>
-    <string>odblgrave</string>
+    <string>uni0201.ss01</string>
+    <string>uni0205</string>
+    <string>uni020D</string>
   </array>
   <key>public.kern2.R_one</key>
   <array>
@@ -3947,11 +3940,7 @@
   </array>
   <key>public.kern2.R_quote</key>
   <array>
-    <string>apostrophemod</string>
-    <string>doubleprimemod</string>
     <string>minute</string>
-    <string>numeral-greek</string>
-    <string>primemod</string>
     <string>quotedbl</string>
     <string>quotedblleft</string>
     <string>quotedblright</string>
@@ -3961,6 +3950,10 @@
     <string>second</string>
     <string>tonos</string>
     <string>tonos.case</string>
+    <string>uni02B9</string>
+    <string>uni02BA</string>
+    <string>uni02BC</string>
+    <string>uni0374</string>
   </array>
   <key>public.kern2.R_raccent</key>
   <array>
@@ -3968,7 +3961,7 @@
   </array>
   <key>public.kern2.R_raccentbelow</key>
   <array>
-    <string>rcommaaccent</string>
+    <string>uni0157</string>
   </array>
   <key>public.kern2.R_rho</key>
   <array>
@@ -3976,15 +3969,15 @@
   </array>
   <key>public.kern2.R_rightanglebracket</key>
   <array>
-    <string>rightanglebracket-math</string>
+    <string>uni27E9</string>
   </array>
   <key>public.kern2.R_s</key>
   <array>
-    <string>dze-cy</string>
     <string>s</string>
     <string>sacute</string>
     <string>scedilla</string>
-    <string>scommaaccent</string>
+    <string>uni0219</string>
+    <string>uni0455</string>
   </array>
   <key>public.kern2.R_saccent</key>
   <array>
@@ -4013,8 +4006,8 @@
   </array>
   <key>public.kern2.R_space</key>
   <array>
-    <string>nbspace</string>
     <string>space</string>
+    <string>uni00A0</string>
   </array>
   <key>public.kern2.R_spacingmark</key>
   <array>
@@ -4034,14 +4027,14 @@
   </array>
   <key>public.kern2.R_symbol</key>
   <array>
-    <string>downArrow</string>
-    <string>leftArrow</string>
-    <string>northEastArrow</string>
-    <string>northWestArrow</string>
-    <string>rightArrow</string>
-    <string>southEastArrow</string>
-    <string>southWestArrow</string>
-    <string>upArrow</string>
+    <string>arrowdown</string>
+    <string>arrowleft</string>
+    <string>arrowright</string>
+    <string>arrowup</string>
+    <string>uni2196</string>
+    <string>uni2197</string>
+    <string>uni2198</string>
+    <string>uni2199</string>
   </array>
   <key>public.kern2.R_t</key>
   <array>
@@ -4051,8 +4044,8 @@
   </array>
   <key>public.kern2.R_taccentbelow</key>
   <array>
-    <string>tcedilla</string>
-    <string>tcommaaccent</string>
+    <string>uni0163</string>
+    <string>uni021B</string>
   </array>
   <key>public.kern2.R_tau</key>
   <array>
@@ -4060,11 +4053,11 @@
   </array>
   <key>public.kern2.R_te</key>
   <array>
-    <string>hardsign-cy</string>
-    <string>hardsign-cy.loclBGR</string>
-    <string>kabashkir-cy</string>
-    <string>te-cy</string>
-    <string>te-cy.loclSRB</string>
+    <string>uni0442</string>
+    <string>uni0442.loclSRB</string>
+    <string>uni044A</string>
+    <string>uni044A.loclBGR</string>
+    <string>uni04A1</string>
   </array>
   <key>public.kern2.R_theta</key>
   <array>
@@ -4084,48 +4077,48 @@
   </array>
   <key>public.kern2.R_u</key>
   <array>
-    <string>ii-cy.loclBGR</string>
     <string>iota</string>
     <string>psi</string>
-    <string>sha-cy.loclBGR</string>
-    <string>shcha-cy.loclBGR</string>
-    <string>softsign-cy.loclBGR</string>
-    <string>tse-cy.loclBGR</string>
     <string>u</string>
     <string>uacute</string>
-    <string>udotbelow</string>
     <string>uhorn</string>
-    <string>uhornacute</string>
-    <string>uhorndotbelow</string>
     <string>uhungarumlaut</string>
+    <string>uni0438.loclBGR</string>
+    <string>uni0446.loclBGR</string>
+    <string>uni0448.loclBGR</string>
+    <string>uni0449.loclBGR</string>
+    <string>uni044C.loclBGR</string>
+    <string>uni1EE5</string>
+    <string>uni1EE9</string>
+    <string>uni1EF1</string>
     <string>uogonek</string>
     <string>upsilon</string>
     <string>upsilontonos</string>
   </array>
   <key>public.kern2.R_uaccent</key>
   <array>
-    <string>iigrave-cy.loclBGR</string>
-    <string>iishort-cy.loclBGR</string>
-    <string>pe-cy.loclSRB</string>
-    <string>pe-cy.loclSRB.ss01</string>
-    <string>te-cy.loclSRB.ss01</string>
     <string>ubreve</string>
     <string>ucircumflex</string>
     <string>udieresis</string>
     <string>ugrave</string>
-    <string>uhookabove</string>
-    <string>uhorngrave</string>
-    <string>uhornhookabove</string>
-    <string>uhorntilde</string>
-    <string>uinvertedbreve</string>
     <string>umacron</string>
+    <string>uni0217</string>
+    <string>uni0439.loclBGR</string>
+    <string>uni043F.loclSRB</string>
+    <string>uni043F.loclSRB.ss01</string>
+    <string>uni0442.loclSRB.ss01</string>
+    <string>uni045D.loclBGR</string>
+    <string>uni1EE7</string>
+    <string>uni1EEB</string>
+    <string>uni1EED</string>
+    <string>uni1EEF</string>
     <string>upsilondieresis</string>
     <string>uring</string>
     <string>utilde</string>
   </array>
   <key>public.kern2.R_udblgrave</key>
   <array>
-    <string>udblgrave</string>
+    <string>uni0215</string>
   </array>
   <key>public.kern2.R_underscore</key>
   <array>
@@ -4138,34 +4131,34 @@
   <key>public.kern2.R_v</key>
   <array>
     <string>gamma</string>
-    <string>izhitsa-cy</string>
     <string>nu</string>
-    <string>ustraight-cy</string>
-    <string>ustraightstroke-cy</string>
+    <string>uni0475</string>
+    <string>uni04AF</string>
+    <string>uni04B1</string>
+    <string>uni051D</string>
     <string>v</string>
     <string>w</string>
     <string>wacute</string>
     <string>wcircumflex</string>
     <string>wdieresis</string>
-    <string>we-cy</string>
     <string>wgrave</string>
   </array>
   <key>public.kern2.R_ve</key>
   <array>
-    <string>em-cy</string>
-    <string>ge-cy</string>
-    <string>gheupturn-cy</string>
-    <string>pe-cy</string>
-    <string>ve-cy</string>
+    <string>uni0432</string>
+    <string>uni0433</string>
+    <string>uni043C</string>
+    <string>uni043F</string>
+    <string>uni0491</string>
   </array>
   <key>public.kern2.R_ve-cy</key>
   <array>
-    <string>ve-cy.loclBGR</string>
+    <string>uni0432.loclBGR</string>
   </array>
   <key>public.kern2.R_x</key>
   <array>
-    <string>ha-cy</string>
-    <string>hadescender-cy</string>
+    <string>uni0445</string>
+    <string>uni04B3</string>
     <string>x</string>
   </array>
   <key>public.kern2.R_xi</key>
@@ -4174,27 +4167,27 @@
   </array>
   <key>public.kern2.R_y</key>
   <array>
-    <string>u-cy</string>
-    <string>uhungarumlaut-cy</string>
+    <string>uni0443</string>
+    <string>uni04F3</string>
+    <string>uni1EF5</string>
     <string>y</string>
     <string>yacute</string>
-    <string>ydotbelow</string>
   </array>
   <key>public.kern2.R_yaccent</key>
   <array>
-    <string>udieresis-cy</string>
-    <string>umacron-cy</string>
-    <string>ushort-cy</string>
+    <string>uni0233</string>
+    <string>uni045E</string>
+    <string>uni04EF</string>
+    <string>uni04F1</string>
+    <string>uni1EF7</string>
+    <string>uni1EF9</string>
     <string>ycircumflex</string>
     <string>ydieresis</string>
     <string>ygrave</string>
-    <string>yhookabove</string>
-    <string>ymacron</string>
-    <string>ytilde</string>
   </array>
   <key>public.kern2.R_yat</key>
   <array>
-    <string>yat-cy</string>
+    <string>uni0463</string>
   </array>
   <key>public.kern2.R_z</key>
   <array>
@@ -4208,17 +4201,17 @@
   </array>
   <key>public.kern2.R_ze</key>
   <array>
-    <string>ereversed-cy</string>
-    <string>ze-cy</string>
-    <string>zedescender-cy</string>
+    <string>uni0437</string>
+    <string>uni044D</string>
+    <string>uni0499</string>
   </array>
   <key>public.kern2.R_zeBGR</key>
   <array>
-    <string>ze-cy.loclBGR</string>
+    <string>uni0437.loclBGR</string>
   </array>
   <key>public.kern2.R_zeaccent</key>
   <array>
-    <string>zedieresis-cy</string>
+    <string>uni04DF</string>
   </array>
   <key>public.kern2.R_zero</key>
   <array>
@@ -4231,35 +4224,35 @@
   </array>
   <key>public.kern2.R_zhe</key>
   <array>
-    <string>yusbig-cy</string>
-    <string>zhe-cy</string>
-    <string>zhe-cy.loclBGR</string>
-    <string>zhebreve-cy</string>
-    <string>zhedescender-cy</string>
-    <string>zhedieresis-cy</string>
+    <string>uni0436</string>
+    <string>uni0436.loclBGR</string>
+    <string>uni046B</string>
+    <string>uni0497</string>
+    <string>uni04C2</string>
+    <string>uni04DD</string>
   </array>
   <key>ss01_dst</key>
   <array>
     <string>a.ss01</string>
     <string>aacute.ss01</string>
     <string>abreve.ss01</string>
-    <string>abreveacute.ss01</string>
-    <string>abrevedotbelow.ss01</string>
-    <string>abrevegrave.ss01</string>
-    <string>abrevehookabove.ss01</string>
-    <string>abrevetilde.ss01</string>
+    <string>uni1EAF.ss01</string>
+    <string>uni1EB7.ss01</string>
+    <string>uni1EB1.ss01</string>
+    <string>uni1EB3.ss01</string>
+    <string>uni1EB5.ss01</string>
     <string>acircumflex.ss01</string>
-    <string>acircumflexacute.ss01</string>
-    <string>acircumflexdotbelow.ss01</string>
-    <string>acircumflexgrave.ss01</string>
-    <string>acircumflexhookabove.ss01</string>
-    <string>acircumflextilde.ss01</string>
-    <string>adblgrave.ss01</string>
+    <string>uni1EA5.ss01</string>
+    <string>uni1EAD.ss01</string>
+    <string>uni1EA7.ss01</string>
+    <string>uni1EA9.ss01</string>
+    <string>uni1EAB.ss01</string>
+    <string>uni0201.ss01</string>
     <string>adieresis.ss01</string>
-    <string>adotbelow.ss01</string>
+    <string>uni1EA1.ss01</string>
     <string>agrave.ss01</string>
-    <string>ahookabove.ss01</string>
-    <string>ainvertedbreve.ss01</string>
+    <string>uni1EA3.ss01</string>
+    <string>uni0203.ss01</string>
     <string>amacron.ss01</string>
     <string>aogonek.ss01</string>
     <string>aring.ss01</string>
@@ -4271,39 +4264,39 @@
     <string>gbreve.ss01</string>
     <string>gcaron.ss01</string>
     <string>gcircumflex.ss01</string>
-    <string>gcommaaccent.ss01</string>
+    <string>uni0123.ss01</string>
     <string>gdotaccent.ss01</string>
     <string>ordfeminine.ss01</string>
-    <string>a-cy.ss01</string>
-    <string>abreve-cy.ss01</string>
-    <string>adieresis-cy.ss01</string>
-    <string>aie-cy.ss01</string>
-    <string>gje-cy.loclMKD.ss01</string>
-    <string>pe-cy.loclSRB.ss01</string>
-    <string>te-cy.loclSRB.ss01</string>
+    <string>uni0430.ss01</string>
+    <string>uni04D1.ss01</string>
+    <string>uni04D3.ss01</string>
+    <string>uni04D5.ss01</string>
+    <string>uni0453.loclMKD.ss01</string>
+    <string>uni043F.loclSRB.ss01</string>
+    <string>uni0442.loclSRB.ss01</string>
   </array>
   <key>ss01_src</key>
   <array>
     <string>a</string>
     <string>aacute</string>
     <string>abreve</string>
-    <string>abreveacute</string>
-    <string>abrevedotbelow</string>
-    <string>abrevegrave</string>
-    <string>abrevehookabove</string>
-    <string>abrevetilde</string>
+    <string>uni1EAF</string>
+    <string>uni1EB7</string>
+    <string>uni1EB1</string>
+    <string>uni1EB3</string>
+    <string>uni1EB5</string>
     <string>acircumflex</string>
-    <string>acircumflexacute</string>
-    <string>acircumflexdotbelow</string>
-    <string>acircumflexgrave</string>
-    <string>acircumflexhookabove</string>
-    <string>acircumflextilde</string>
-    <string>adblgrave</string>
+    <string>uni1EA5</string>
+    <string>uni1EAD</string>
+    <string>uni1EA7</string>
+    <string>uni1EA9</string>
+    <string>uni1EAB</string>
+    <string>uni0201</string>
     <string>adieresis</string>
-    <string>adotbelow</string>
+    <string>uni1EA1</string>
     <string>agrave</string>
-    <string>ahookabove</string>
-    <string>ainvertedbreve</string>
+    <string>uni1EA3</string>
+    <string>uni0203</string>
     <string>amacron</string>
     <string>aogonek</string>
     <string>aring</string>
@@ -4315,16 +4308,16 @@
     <string>gbreve</string>
     <string>gcaron</string>
     <string>gcircumflex</string>
-    <string>gcommaaccent</string>
+    <string>uni0123</string>
     <string>gdotaccent</string>
     <string>ordfeminine</string>
-    <string>a-cy</string>
-    <string>abreve-cy</string>
-    <string>adieresis-cy</string>
-    <string>aie-cy</string>
-    <string>gje-cy.loclMKD</string>
-    <string>pe-cy.loclSRB</string>
-    <string>te-cy.loclSRB</string>
+    <string>uni0430</string>
+    <string>uni04D1</string>
+    <string>uni04D3</string>
+    <string>uni04D5</string>
+    <string>uni0453.loclMKD</string>
+    <string>uni043F.loclSRB</string>
+    <string>uni0442.loclSRB</string>
   </array>
   <key>sups_dst</key>
   <array>

@@ -5,8 +5,8 @@
   <anchor x="484" y="1444" name="top"/>
   <anchor x="698" y="1224" name="top_right"/>
   <outline>
-    <component base="jdotless"/>
-    <component base="circumflexcomb.narrow" xOffset="1004"/>
+    <component base="uni0237"/>
+    <component base="uni0302.narrow" xOffset="1004"/>
   </outline>
   <lib>
   <dict>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="gjecyr.loclMKD" format="2">
-  <advance width="902"/>
-  <anchor x="494" y="1040" name="top"/>
-  <anchor x="348" y="462" name="strokeshort"/>
-  <outline>
-    <component base="gjecyr"/>
-  </outline>
-</glyph>

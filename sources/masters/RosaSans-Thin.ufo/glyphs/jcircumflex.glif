@@ -4,7 +4,7 @@
   <unicode hex="0135"/>
   <anchor x="226" y="1444" name="top"/>
   <outline>
-    <component base="dotlessj"/>
-    <component base="circumflexcomb.narrow" xOffset="812"/>
+    <component base="uni0237"/>
+    <component base="uni0302.narrow" xOffset="812"/>
   </outline>
 </glyph>

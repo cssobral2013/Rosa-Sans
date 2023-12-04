@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Pi" format="2">
-  <advance width="1587"/>
+  <advance width="1588"/>
   <unicode hex="03A0"/>
   <anchor x="1029" y="1400" name="top"/>
   <outline>
-    <component base="Pe-cy"/>
+    <component base="uni041F" xOffset="-1"/>
   </outline>
   <lib>
   <dict>

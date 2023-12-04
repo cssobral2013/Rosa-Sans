@@ -5,6 +5,6 @@
   <anchor x="606" y="1400" name="top"/>
   <anchor x="440" y="644" name="strokeshort"/>
   <outline>
-    <component base="Gecyr"/>
+    <component base="uni0413"/>
   </outline>
 </glyph>

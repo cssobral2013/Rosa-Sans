@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="anoteleia" format="2">
-  <advance width="611"/>
+  <advance width="600"/>
   <unicode hex="0387"/>
   <outline>
     <component base="period" xOffset="178" yOffset="664"/>

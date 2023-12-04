@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2116" format="2">
+  <advance width="2301"/>
+  <unicode hex="2116"/>
+  <anchor x="1967" y="722" name="bottom"/>
+  <anchor x="2353" y="1354" name="horn"/>
+  <anchor x="2087" y="722" name="ogonek"/>
+  <anchor x="2091" y="1354" name="top"/>
+  <outline>
+    <component base="N"/>
+    <component base="ordmasculine" xOffset="1455"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

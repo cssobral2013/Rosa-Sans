@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0306_gravecomb" format="2">
+  <anchor x="-722" y="1040" name="_top"/>
+  <outline>
+    <component base="uni0306"/>
+    <component base="gravecomb" xOffset="122" yOffset="444"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

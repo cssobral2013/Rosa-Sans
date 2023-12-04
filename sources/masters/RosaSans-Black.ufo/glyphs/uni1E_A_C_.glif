@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EAC" format="2">
+  <advance width="1498"/>
+  <unicode hex="1EAC"/>
+  <anchor x="750" y="1806" name="top"/>
+  <anchor x="750" y="0" name="bottom"/>
+  <outline>
+    <component base="A"/>
+    <component base="dotbelowcomb" xOffset="1388"/>
+    <component base="uni0302.case" xOffset="1584"/>
+  </outline>
+</glyph>

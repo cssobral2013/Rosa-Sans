@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1ECC" format="2">
+  <advance width="1701"/>
+  <unicode hex="1ECC"/>
+  <anchor x="1454" y="1400" name="horn"/>
+  <anchor x="980" y="0" name="ogonek"/>
+  <anchor x="1052" y="1400" name="top"/>
+  <anchor x="399" y="1400" name="topleft"/>
+  <outline>
+    <component base="O"/>
+    <component base="dotbelowcomb" xOffset="1253"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

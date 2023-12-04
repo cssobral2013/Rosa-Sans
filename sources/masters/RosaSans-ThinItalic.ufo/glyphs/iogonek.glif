@@ -6,9 +6,9 @@
   <anchor x="153" y="0" name="ogonek"/>
   <anchor x="441" y="1284" name="top"/>
   <outline>
-    <component base="idotless"/>
-    <component base="dotaccentcomb" xOffset="809"/>
-    <component base="ogonekcomb" xOffset="599"/>
+    <component base="dotlessi"/>
+    <component base="uni0307" xOffset="809"/>
+    <component base="uni0328" xOffset="599"/>
   </outline>
   <lib>
   <dict>

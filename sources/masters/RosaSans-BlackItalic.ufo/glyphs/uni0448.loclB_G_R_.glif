@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0448.loclBGR" format="2">
+  <advance width="2006"/>
+  <anchor x="1737" y="-0" name="descender"/>
+  <anchor x="1138" y="1040" name="top"/>
+  <outline>
+    <contour>
+      <point x="369" y="-30" type="curve" smooth="yes"/>
+      <point x="529" y="-30"/>
+      <point x="681" y="36"/>
+      <point x="765" y="174" type="curve"/>
+      <point x="775" y="53"/>
+      <point x="877" y="-30"/>
+      <point x="1025" y="-30" type="curve" smooth="yes"/>
+      <point x="1162" y="-30"/>
+      <point x="1321" y="49"/>
+      <point x="1385" y="193" type="curve"/>
+      <point x="1337" y="0" type="line"/>
+      <point x="1737" y="0" type="line"/>
+      <point x="2018" y="1040" type="line"/>
+      <point x="1618" y="1040" type="line"/>
+      <point x="1461" y="454" type="line" smooth="yes"/>
+      <point x="1441" y="375"/>
+      <point x="1365" y="330"/>
+      <point x="1289" y="330" type="curve" smooth="yes"/>
+      <point x="1196" y="330"/>
+      <point x="1166" y="381"/>
+      <point x="1191" y="492" type="curve"/>
+      <point x="1338" y="1040" type="line"/>
+      <point x="938" y="1040" type="line"/>
+      <point x="781" y="454" type="line" smooth="yes"/>
+      <point x="761" y="375"/>
+      <point x="685" y="330"/>
+      <point x="609" y="330" type="curve" smooth="yes"/>
+      <point x="516" y="330"/>
+      <point x="486" y="381"/>
+      <point x="511" y="492" type="curve"/>
+      <point x="658" y="1040" type="line"/>
+      <point x="258" y="1040" type="line"/>
+      <point x="81" y="378" type="line" smooth="yes"/>
+      <point x="10" y="100"/>
+      <point x="148" y="-30"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.89,1,1</string>
+  </dict>
+  </lib>
+</glyph>

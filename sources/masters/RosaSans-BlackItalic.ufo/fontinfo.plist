@@ -27,16 +27,6 @@ Copyright 2020-2023 The Rosa Sans Project Authors (https://github.com/cssobral20
   </dict>
   <dict>
     <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>f1</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>1440</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
     <integer>90</integer>
     <key>name</key>
     <string>f2</string>
@@ -98,7 +88,7 @@ Copyright 2020-2023 The Rosa Sans Project Authors (https://github.com/cssobral20
   <key>openTypeNamePreferredFamilyName</key>
   <string>Rosa Sans VF</string>
   <key>openTypeNamePreferredSubfamilyName</key>
-  <string>Italic</string>
+  <string>Black Italic</string>
   <key>openTypeNameVersion</key>
   <string>Version 3.005</string>
   <key>openTypeOS2Panose</key>
@@ -149,7 +139,7 @@ Copyright 2020-2023 The Rosa Sans Project Authors (https://github.com/cssobral20
   <key>openTypeOS2TypoLineGap</key>
   <integer>244</integer>
   <key>openTypeOS2WeightClass</key>
-  <integer>400</integer>
+  <integer>900</integer>
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
@@ -168,11 +158,11 @@ Copyright 2020-2023 The Rosa Sans Project Authors (https://github.com/cssobral20
     <integer>0</integer>
   </array>
   <key>postscriptFontName</key>
-  <string>RosaSansVF-Italic</string>
+  <string>RosaSansVF-BlackItalic</string>
   <key>postscriptForceBold</key>
   <false/>
   <key>postscriptFullName</key>
-  <string>Rosa Sans VF Italic</string>
+  <string>Rosa Sans VF Black Italic</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
   <key>postscriptStemSnapH</key>
@@ -190,13 +180,13 @@ Copyright 2020-2023 The Rosa Sans Project Authors (https://github.com/cssobral20
   <key>postscriptUnderlineThickness</key>
   <integer>50</integer>
   <key>postscriptWeightName</key>
-  <string>Regular</string>
+  <string>Black</string>
   <key>styleMapFamilyName</key>
   <string>Rosa Sans VF</string>
   <key>styleMapStyleName</key>
-  <string>italic</string>
+  <string>bold italic</string>
   <key>styleName</key>
-  <string>Italic</string>
+  <string>Black Italic</string>
   <key>unitsPerEm</key>
   <integer>2000</integer>
   <key>versionMajor</key>

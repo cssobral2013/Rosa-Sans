@@ -2,16 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-  <key>Lj</key>
-  <dict>
-    <key>public.kern2.R_iaccent</key>
-    <integer>60</integer>
-  </dict>
-  <key>Nj</key>
-  <dict>
-    <key>public.kern2.R_iaccent</key>
-    <integer>60</integer>
-  </dict>
   <key>approxequal</key>
   <dict>
     <key>public.kern2.R_A</key>
@@ -57,21 +47,6 @@
     <key>public.kern2.R_jaccent</key>
     <integer>120</integer>
   </dict>
-  <key>bulletoperator</key>
-  <dict>
-    <key>public.kern2.R_A</key>
-    <integer>80</integer>
-    <key>public.kern2.R_AE</key>
-    <integer>120</integer>
-    <key>public.kern2.R_Aaccent</key>
-    <integer>80</integer>
-    <key>public.kern2.R_iaccent</key>
-    <integer>120</integer>
-    <key>public.kern2.R_idblgrave</key>
-    <integer>120</integer>
-    <key>public.kern2.R_jaccent</key>
-    <integer>120</integer>
-  </dict>
   <key>d</key>
   <dict>
     <key>public.kern2.R_iaccent</key>
@@ -80,21 +55,6 @@
     <integer>40</integer>
   </dict>
   <key>divide</key>
-  <dict>
-    <key>public.kern2.R_A</key>
-    <integer>80</integer>
-    <key>public.kern2.R_AE</key>
-    <integer>120</integer>
-    <key>public.kern2.R_Aaccent</key>
-    <integer>80</integer>
-    <key>public.kern2.R_iaccent</key>
-    <integer>120</integer>
-    <key>public.kern2.R_idblgrave</key>
-    <integer>120</integer>
-    <key>public.kern2.R_jaccent</key>
-    <integer>120</integer>
-  </dict>
-  <key>divisionslash</key>
   <dict>
     <key>public.kern2.R_A</key>
     <integer>80</integer>
@@ -399,11 +359,6 @@
     <key>public.kern2.R_jaccent</key>
     <integer>120</integer>
   </dict>
-  <key>lj</key>
-  <dict>
-    <key>public.kern2.R_iaccent</key>
-    <integer>60</integer>
-  </dict>
   <key>logicalnot</key>
   <dict>
     <key>public.kern2.R_A</key>
@@ -490,11 +445,6 @@
     <integer>-0</integer>
     <key>public.kern2.R_two</key>
     <integer>-0</integer>
-  </dict>
-  <key>nj</key>
-  <dict>
-    <key>public.kern2.R_iaccent</key>
-    <integer>60</integer>
   </dict>
   <key>notequal</key>
   <dict>
@@ -587,6 +537,56 @@
     <integer>120</integer>
   </dict>
   <key>two.tnum</key>
+  <dict>
+    <key>public.kern2.R_A</key>
+    <integer>80</integer>
+    <key>public.kern2.R_AE</key>
+    <integer>120</integer>
+    <key>public.kern2.R_Aaccent</key>
+    <integer>80</integer>
+    <key>public.kern2.R_iaccent</key>
+    <integer>120</integer>
+    <key>public.kern2.R_idblgrave</key>
+    <integer>120</integer>
+    <key>public.kern2.R_jaccent</key>
+    <integer>120</integer>
+  </dict>
+  <key>uni01C8</key>
+  <dict>
+    <key>public.kern2.R_iaccent</key>
+    <integer>60</integer>
+  </dict>
+  <key>uni01C9</key>
+  <dict>
+    <key>public.kern2.R_iaccent</key>
+    <integer>60</integer>
+  </dict>
+  <key>uni01CB</key>
+  <dict>
+    <key>public.kern2.R_iaccent</key>
+    <integer>60</integer>
+  </dict>
+  <key>uni01CC</key>
+  <dict>
+    <key>public.kern2.R_iaccent</key>
+    <integer>60</integer>
+  </dict>
+  <key>uni2215</key>
+  <dict>
+    <key>public.kern2.R_A</key>
+    <integer>80</integer>
+    <key>public.kern2.R_AE</key>
+    <integer>120</integer>
+    <key>public.kern2.R_Aaccent</key>
+    <integer>80</integer>
+    <key>public.kern2.R_iaccent</key>
+    <integer>120</integer>
+    <key>public.kern2.R_idblgrave</key>
+    <integer>120</integer>
+    <key>public.kern2.R_jaccent</key>
+    <integer>120</integer>
+  </dict>
+  <key>uni2219</key>
   <dict>
     <key>public.kern2.R_A</key>
     <integer>80</integer>
@@ -3633,11 +3633,7 @@
     <integer>120</integer>
     <key>asciitilde</key>
     <integer>120</integer>
-    <key>bulletoperator</key>
-    <integer>120</integer>
     <key>divide</key>
-    <integer>120</integer>
-    <key>divisionslash</key>
     <integer>120</integer>
     <key>eight.tnum</key>
     <integer>120</integer>
@@ -3676,6 +3672,10 @@
     <key>three.tnum</key>
     <integer>120</integer>
     <key>two.tnum</key>
+    <integer>120</integer>
+    <key>uni2215</key>
+    <integer>120</integer>
+    <key>uni2219</key>
     <integer>120</integer>
     <key>zero</key>
     <integer>120</integer>

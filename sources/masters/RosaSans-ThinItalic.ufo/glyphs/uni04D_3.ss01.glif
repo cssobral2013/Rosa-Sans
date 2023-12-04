@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04D3.ss01" format="2">
+  <advance width="1263"/>
+  <anchor x="701" y="960" name="_top"/>
+  <anchor x="787" y="1284" name="top"/>
+  <outline>
+    <component base="uni0430.ss01"/>
+    <component base="uni0308" xOffset="1366"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

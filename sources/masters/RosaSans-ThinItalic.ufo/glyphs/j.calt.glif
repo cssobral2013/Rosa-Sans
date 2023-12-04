@@ -3,8 +3,8 @@
   <advance width="452"/>
   <anchor x="441" y="1284" name="top"/>
   <outline>
-    <component base="jdotless.calt"/>
-    <component base="dotaccentcomb" xOffset="809"/>
+    <component base="uni0237.calt"/>
+    <component base="uni0307" xOffset="809"/>
   </outline>
   <lib>
   <dict>

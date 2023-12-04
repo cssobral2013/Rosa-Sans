@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1ED6" format="2">
+  <advance width="1648"/>
+  <unicode hex="1ED6"/>
+  <anchor x="730" y="-0" name="bottom"/>
+  <anchor x="1418" y="1400" name="horn"/>
+  <anchor x="998" y="-0" name="ogonek"/>
+  <anchor x="1229" y="2208" name="top"/>
+  <anchor x="1598" y="1734" name="top_right"/>
+  <anchor x="315" y="1400" name="topleft"/>
+  <outline>
+    <component base="O"/>
+    <component base="uni0302.case" xOffset="1843"/>
+    <component base="tildecomb.case" xOffset="1955" yOffset="406"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

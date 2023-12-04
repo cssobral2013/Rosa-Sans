@@ -5,6 +5,6 @@
   <anchor x="750" y="1284" name="top"/>
   <outline>
     <component base="w"/>
-    <component base="dieresiscomb" xOffset="1336"/>
+    <component base="uni0308" xOffset="1336"/>
   </outline>
 </glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0304.case" format="2">
+  <anchor x="-540" y="1398" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-176" y="1648" type="line"/>
+      <point x="-148" y="1748" type="line"/>
+      <point x="-744" y="1748" type="line"/>
+      <point x="-772" y="1648" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.834,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

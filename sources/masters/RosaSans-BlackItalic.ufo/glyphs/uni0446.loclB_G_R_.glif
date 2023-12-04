@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0446.loclBGR" format="2">
+  <advance width="1506"/>
+  <anchor x="516" y="-0" name="bottom"/>
+  <anchor x="1339" y="1040" name="horn"/>
+  <anchor x="1058" y="-0" name="ogonek"/>
+  <anchor x="809" y="1040" name="top"/>
+  <outline>
+    <component base="u"/>
+    <contour>
+      <point x="1260" y="-300" type="line"/>
+      <point x="1428" y="312" type="line"/>
+      <point x="984" y="312" type="line"/>
+      <point x="897" y="0" type="line"/>
+      <point x="977" y="0" type="line"/>
+      <point x="896" y="-300" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

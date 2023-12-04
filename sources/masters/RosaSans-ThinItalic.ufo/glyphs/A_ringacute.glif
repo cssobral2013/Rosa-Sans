@@ -7,7 +7,7 @@
   <anchor x="575" y="1400" name="topleft"/>
   <outline>
     <component base="A"/>
-    <component base="ringcomb.case" xOffset="1822"/>
+    <component base="uni030A.case" xOffset="1822"/>
     <component base="acutecomb.case" xOffset="1807" yOffset="490"/>
   </outline>
   <lib>

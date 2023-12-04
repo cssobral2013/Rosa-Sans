@@ -7,8 +7,8 @@
   <anchor x="534" y="1464" name="top"/>
   <anchor x="854" y="1304" name="top_right"/>
   <outline>
-    <component base="idotless"/>
-    <component base="circumflexcomb.narrow" xOffset="1077"/>
+    <component base="dotlessi"/>
+    <component base="uni0302.narrow" xOffset="1077"/>
   </outline>
   <lib>
   <dict>

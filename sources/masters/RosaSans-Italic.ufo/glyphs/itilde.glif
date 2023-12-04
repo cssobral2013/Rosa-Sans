@@ -6,7 +6,7 @@
   <anchor x="271" y="0" name="ogonek"/>
   <anchor x="521" y="1404" name="top"/>
   <outline>
-    <component base="idotless"/>
+    <component base="dotlessi"/>
     <component base="tildecomb.narrow" xOffset="1078"/>
   </outline>
   <lib>

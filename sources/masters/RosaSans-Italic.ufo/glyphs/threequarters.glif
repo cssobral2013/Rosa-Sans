@@ -3,7 +3,7 @@
   <advance width="2022"/>
   <unicode hex="00BE"/>
   <outline>
-    <component base="fraction" xOffset="820"/>
+    <component base="fraction" xOffset="821"/>
     <contour>
       <point x="415" y="470" type="curve" smooth="yes"/>
       <point x="619" y="470"/>

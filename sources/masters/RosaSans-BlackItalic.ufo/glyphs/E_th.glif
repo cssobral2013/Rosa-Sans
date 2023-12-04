@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eth" format="2">
-  <advance width="1528"/>
+  <advance width="1520"/>
   <unicode hex="00D0"/>
-  <anchor x="530" y="712" name="bar"/>
-  <anchor x="999" y="1400" name="top"/>
+  <anchor x="526" y="712" name="bar"/>
+  <anchor x="995" y="1400" name="top"/>
   <outline>
     <component base="D"/>
     <contour>
-      <point x="874" y="558" type="line"/>
-      <point x="957" y="866" type="line"/>
-      <point x="71" y="866" type="line"/>
-      <point x="-12" y="558" type="line"/>
+      <point x="870" y="558" type="line"/>
+      <point x="953" y="866" type="line"/>
+      <point x="67" y="866" type="line"/>
+      <point x="-16" y="558" type="line"/>
     </contour>
   </outline>
   <lib>

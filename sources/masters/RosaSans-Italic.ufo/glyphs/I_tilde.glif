@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Itilde" format="2">
-  <advance width="617"/>
+  <advance width="616"/>
   <unicode hex="0128"/>
-  <anchor x="175" y="0" name="bottom"/>
-  <anchor x="305" y="0" name="ogonek"/>
-  <anchor x="660" y="1804" name="top"/>
-  <anchor x="322" y="1400" name="topleft"/>
+  <anchor x="174" y="-0" name="bottom"/>
+  <anchor x="304" y="-0" name="ogonek"/>
+  <anchor x="659" y="1804" name="top"/>
+  <anchor x="321" y="1400" name="topleft"/>
   <outline>
     <component base="I"/>
-    <component base="tildecomb.narrow" xOffset="1217" yOffset="400"/>
+    <component base="tildecomb.narrow" xOffset="1216" yOffset="400"/>
   </outline>
   <lib>
   <dict>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni030C.alt" format="2">
+  <advance width="20"/>
+  <anchor x="-159" y="1440" name="_caron"/>
+  <outline>
+    <contour>
+      <point x="-74" y="1052" type="line"/>
+      <point x="76" y="1440" type="line"/>
+      <point x="-52" y="1440" type="line"/>
+      <point x="-158" y="1052" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

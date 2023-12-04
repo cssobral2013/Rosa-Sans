@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ucircumflex" format="2">
-  <advance width="1492"/>
+  <advance width="1493"/>
   <unicode hex="00DB"/>
   <anchor x="656" y="0" name="bottom"/>
   <anchor x="1565" y="1400" name="horn"/>
@@ -8,8 +8,8 @@
   <anchor x="1104" y="1828" name="top"/>
   <anchor x="1472" y="1691" name="top_right"/>
   <outline>
-    <component base="U"/>
-    <component base="circumflexcomb.case" xOffset="1794" yOffset="1"/>
+    <component base="U" xOffset="-1"/>
+    <component base="uni0302.case" xOffset="1794" yOffset="1"/>
   </outline>
   <lib>
   <dict>

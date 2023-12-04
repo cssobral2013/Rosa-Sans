@@ -2,16 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-  <key>Lj</key>
-  <dict>
-    <key>public.kern2.R_iaccent</key>
-    <integer>27</integer>
-  </dict>
-  <key>Nj</key>
-  <dict>
-    <key>public.kern2.R_iaccent</key>
-    <integer>27</integer>
-  </dict>
   <key>d</key>
   <dict>
     <key>public.kern2.R_iaccent</key>
@@ -189,11 +179,6 @@
     <key>public.kern2.R_idblgrave</key>
     <integer>18</integer>
   </dict>
-  <key>lj</key>
-  <dict>
-    <key>public.kern2.R_iaccent</key>
-    <integer>27</integer>
-  </dict>
   <key>nine.ss02</key>
   <dict>
     <key>public.kern2.R_A</key>
@@ -221,7 +206,22 @@
     <key>public.kern2.R_two</key>
     <integer>-20</integer>
   </dict>
-  <key>nj</key>
+  <key>uni01C8</key>
+  <dict>
+    <key>public.kern2.R_iaccent</key>
+    <integer>27</integer>
+  </dict>
+  <key>uni01C9</key>
+  <dict>
+    <key>public.kern2.R_iaccent</key>
+    <integer>27</integer>
+  </dict>
+  <key>uni01CB</key>
+  <dict>
+    <key>public.kern2.R_iaccent</key>
+    <integer>27</integer>
+  </dict>
+  <key>uni01CC</key>
   <dict>
     <key>public.kern2.R_iaccent</key>
     <integer>27</integer>

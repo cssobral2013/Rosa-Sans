@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ucircumflex" format="2">
-  <advance width="1233"/>
+  <advance width="1234"/>
   <unicode hex="00FB"/>
-  <anchor x="470" y="0" name="bottom"/>
-  <anchor x="950" y="0" name="descender"/>
-  <anchor x="1220" y="1000" name="horn"/>
-  <anchor x="950" y="0" name="ogonek"/>
-  <anchor x="874" y="1464" name="top"/>
-  <anchor x="1227" y="1304" name="top_right"/>
+  <anchor x="471" y="-0" name="bottom"/>
+  <anchor x="951" y="-0" name="descender"/>
+  <anchor x="1221" y="1000" name="horn"/>
+  <anchor x="951" y="-0" name="ogonek"/>
+  <anchor x="875" y="1464" name="top"/>
+  <anchor x="1228" y="1304" name="top_right"/>
   <outline>
     <component base="u"/>
-    <component base="circumflexcomb" xOffset="1456"/>
+    <component base="uni0302" xOffset="1457"/>
   </outline>
   <lib>
   <dict>

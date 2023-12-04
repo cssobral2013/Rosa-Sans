@@ -4,7 +4,7 @@
   <unicode hex="006A"/>
   <anchor x="328" y="1484" name="top"/>
   <outline>
-    <component base="dotlessj"/>
-    <component base="dotaccentcomb" xOffset="966"/>
+    <component base="uni0237"/>
+    <component base="uni0307" xOffset="966"/>
   </outline>
 </glyph>

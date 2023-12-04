@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l" format="2">
-  <advance width="666"/>
+  <advance width="678"/>
   <unicode hex="006C"/>
-  <anchor x="142" y="0" name="bottom"/>
-  <anchor x="660" y="1440" name="caron"/>
-  <anchor x="532" y="1440" name="top"/>
+  <anchor x="148" y="-0" name="bottom"/>
+  <anchor x="666" y="1440" name="caron"/>
+  <anchor x="538" y="1440" name="top"/>
   <outline>
     <contour>
-      <point x="334" y="-31" type="curve" smooth="yes"/>
-      <point x="107" y="-31"/>
-      <point x="44" y="134"/>
-      <point x="90" y="280" type="curve"/>
-      <point x="404" y="1440" type="line"/>
-      <point x="660" y="1440" type="line"/>
-      <point x="361" y="335" type="line"/>
-      <point x="338" y="253"/>
-      <point x="350" y="192"/>
-      <point x="429" y="192" type="curve" smooth="yes"/>
-      <point x="455" y="192"/>
-      <point x="486" y="197"/>
-      <point x="521" y="207" type="curve"/>
-      <point x="519" y="-1" type="line"/>
-      <point x="448" y="-24"/>
-      <point x="381" y="-31"/>
+      <point x="340" y="-31" type="curve" smooth="yes"/>
+      <point x="113" y="-31"/>
+      <point x="50" y="134"/>
+      <point x="96" y="280" type="curve"/>
+      <point x="410" y="1440" type="line"/>
+      <point x="666" y="1440" type="line"/>
+      <point x="367" y="335" type="line" smooth="yes"/>
+      <point x="344" y="253"/>
+      <point x="356" y="192"/>
+      <point x="435" y="192" type="curve" smooth="yes"/>
+      <point x="461" y="192"/>
+      <point x="492" y="197"/>
+      <point x="527" y="207" type="curve"/>
+      <point x="525" y="-1" type="line"/>
+      <point x="454" y="-24"/>
+      <point x="387" y="-31"/>
     </contour>
   </outline>
   <lib>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni046A" format="2">
+  <advance width="1910"/>
+  <unicode hex="046A"/>
+  <anchor x="1603" y="0" name="descender"/>
+  <anchor x="1202" y="1400" name="top"/>
+  <outline>
+    <contour>
+      <point x="103" y="0" type="line"/>
+      <point x="809" y="737" type="line"/>
+      <point x="515" y="1292" type="line"/>
+      <point x="1821" y="1292" type="line"/>
+      <point x="1236" y="740" type="line"/>
+      <point x="1561" y="0" type="line"/>
+      <point x="1703" y="0" type="line"/>
+      <point x="1376" y="732" type="line"/>
+      <point x="1972" y="1297" type="line"/>
+      <point x="1998" y="1400" type="line"/>
+      <point x="406" y="1400" type="line"/>
+      <point x="378" y="1297" type="line"/>
+      <point x="668" y="744" type="line"/>
+      <point x="-51" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="885" y="0" type="line"/>
+      <point x="1070" y="698" type="line"/>
+      <point x="1300" y="698" type="line"/>
+      <point x="1331" y="806" type="line"/>
+      <point x="757" y="806" type="line"/>
+      <point x="726" y="698" type="line"/>
+      <point x="954" y="698" type="line"/>
+      <point x="769" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

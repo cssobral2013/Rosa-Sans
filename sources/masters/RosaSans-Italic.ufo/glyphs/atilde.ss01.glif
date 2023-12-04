@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="atilde.ss01" format="2">
-  <advance width="1307"/>
-  <anchor x="524" y="0" name="bottom"/>
-  <anchor x="1024" y="0" name="ogonek"/>
-  <anchor x="836" y="1404" name="top"/>
+  <advance width="1299"/>
+  <anchor x="520" y="-0" name="bottom"/>
+  <anchor x="1020" y="-0" name="ogonek"/>
+  <anchor x="832" y="1404" name="top"/>
   <outline>
     <component base="a.ss01"/>
-    <component base="tildecomb" xOffset="1432"/>
+    <component base="tildecomb" xOffset="1428"/>
   </outline>
   <lib>
   <dict>

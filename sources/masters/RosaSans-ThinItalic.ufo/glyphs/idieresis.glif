@@ -6,8 +6,8 @@
   <anchor x="153" y="0" name="ogonek"/>
   <anchor x="441" y="1284" name="top"/>
   <outline>
-    <component base="idotless"/>
-    <component base="dieresiscomb.narrow" xOffset="1020"/>
+    <component base="dotlessi"/>
+    <component base="uni0308.narrow" xOffset="1020"/>
   </outline>
   <lib>
   <dict>

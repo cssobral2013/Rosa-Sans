@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f_f_i" format="2">
-  <advance width="2146"/>
+  <advance width="2152"/>
   <unicode hex="FB03"/>
-  <anchor x="785" y="0" name="caret_1"/>
-  <anchor x="1417" y="0" name="caret_2"/>
-  <anchor x="1735" y="0" name="bottom"/>
-  <anchor x="1863" y="0" name="ogonek"/>
-  <anchor x="2106" y="1384" name="top"/>
+  <anchor x="788" y="-0" name="caret_1"/>
+  <anchor x="1420" y="-0" name="caret_2"/>
+  <anchor x="1738" y="-0" name="bottom"/>
+  <anchor x="1866" y="-0" name="ogonek"/>
+  <anchor x="2109" y="1384" name="top"/>
   <outline>
     <component base="f_f"/>
-    <component base="i" xOffset="1592"/>
+    <component base="i" xOffset="1595"/>
   </outline>
   <lib>
   <dict>

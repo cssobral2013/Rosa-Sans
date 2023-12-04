@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fl" format="2">
-  <advance width="1462"/>
+  <advance width="1477"/>
   <unicode hex="FB02"/>
-  <anchor x="671" y="0" name="caret_1"/>
-  <anchor x="938" y="0" name="bottom"/>
-  <anchor x="1456" y="1440" name="caron"/>
-  <anchor x="1328" y="1440" name="top"/>
+  <anchor x="678" y="-0" name="caret_1"/>
+  <anchor x="945" y="-0" name="bottom"/>
+  <anchor x="1463" y="1440" name="caron"/>
+  <anchor x="1335" y="1440" name="top"/>
   <outline>
-    <component base="f"/>
-    <component base="l" xOffset="796"/>
+    <component base="f" xOffset="5"/>
+    <component base="l" xOffset="797"/>
   </outline>
   <lib>
   <dict>

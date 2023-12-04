@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="upsilon" format="2">
-  <advance width="1169"/>
+  <advance width="1168"/>
   <unicode hex="03C5"/>
   <anchor x="692" y="1000" name="top"/>
   <outline>
@@ -18,10 +18,10 @@
       <point x="822" y="676" type="curve" smooth="yes"/>
       <point x="820" y="419"/>
       <point x="724" y="195"/>
-      <point x="517" y="195" type="curve"/>
+      <point x="517" y="195" type="curve" smooth="yes"/>
       <point x="384" y="195"/>
       <point x="328" y="271"/>
-      <point x="373" y="445" type="curve"/>
+      <point x="373" y="445" type="curve" smooth="yes"/>
       <point x="523" y="1000" type="line"/>
       <point x="264" y="1000" type="line"/>
       <point x="117" y="476" type="line"/>

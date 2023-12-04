@@ -6,7 +6,7 @@
   <anchor x="189" y="0" name="descender"/>
   <anchor x="812" y="1400" name="top"/>
   <outline>
-    <component base="Ge-cy"/>
+    <component base="uni0413"/>
   </outline>
   <lib>
   <dict>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nu" format="2">
-  <advance width="1117"/>
+  <advance width="1120"/>
   <unicode hex="03BD"/>
   <outline>
     <contour>
-      <point x="518" y="0" type="line"/>
-      <point x="789" y="271"/>
-      <point x="1029" y="609"/>
-      <point x="1187" y="977" type="curve"/>
-      <point x="922" y="1021" type="line"/>
-      <point x="792" y="702"/>
-      <point x="603" y="402"/>
-      <point x="421" y="219" type="curve"/>
-      <point x="466" y="153" type="line"/>
-      <point x="429" y="1000" type="line"/>
-      <point x="159" y="1000" type="line"/>
-      <point x="242" y="0" type="line"/>
+      <point x="519" y="0" type="line"/>
+      <point x="790" y="271"/>
+      <point x="1030" y="609"/>
+      <point x="1188" y="977" type="curve"/>
+      <point x="923" y="1021" type="line"/>
+      <point x="793" y="702"/>
+      <point x="604" y="402"/>
+      <point x="422" y="219" type="curve"/>
+      <point x="467" y="153" type="line"/>
+      <point x="430" y="1000" type="line"/>
+      <point x="160" y="1000" type="line"/>
+      <point x="243" y="0" type="line"/>
     </contour>
   </outline>
   <lib>

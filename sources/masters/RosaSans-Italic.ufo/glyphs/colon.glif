@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="colon" format="2">
-  <advance width="607"/>
+  <advance width="597"/>
   <unicode hex="003A"/>
   <outline>
-    <component base="period" xOffset="224" yOffset="743"/>
-    <component base="period" xOffset="24"/>
+    <component base="period" xOffset="223" yOffset="743"/>
+    <component base="period" xOffset="23"/>
   </outline>
   <lib>
   <dict>

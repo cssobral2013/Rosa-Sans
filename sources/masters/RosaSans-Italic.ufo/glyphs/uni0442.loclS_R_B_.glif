@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0442.loclSRB" format="2">
+  <advance width="984"/>
+  <anchor x="485" y="469" name="bar"/>
+  <anchor x="358" y="-0" name="bottom"/>
+  <anchor x="626" y="1000" name="top"/>
+  <outline>
+    <component base="uni0442" xOffset="-1"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.805,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>
