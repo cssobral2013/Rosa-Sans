@@ -2,7 +2,7 @@
 <glyph name="aogonek" format="2">
   <advance width="1203"/>
   <unicode hex="0105"/>
-  <anchor x="439" y="-0" name="bottom"/>
+  <anchor x="439" y="0" name="bottom"/>
   <anchor x="714" y="1040" name="top"/>
   <outline>
     <component base="a"/>

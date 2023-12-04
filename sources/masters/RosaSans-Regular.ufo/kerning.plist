@@ -1628,6 +1628,8 @@
     <integer>-45</integer>
     <key>public.kern2.R_s</key>
     <integer>-36</integer>
+    <key>public.kern2.R_saccent</key>
+    <integer>-1</integer>
     <key>public.kern2.R_semicolon</key>
     <integer>-36</integer>
     <key>public.kern2.R_slash</key>
@@ -1745,6 +1747,8 @@
     <integer>-45</integer>
     <key>public.kern2.R_s</key>
     <integer>-36</integer>
+    <key>public.kern2.R_saccent</key>
+    <integer>-1</integer>
     <key>public.kern2.R_semicolon</key>
     <integer>-36</integer>
     <key>public.kern2.R_slash</key>
@@ -1858,6 +1862,8 @@
     <integer>-45</integer>
     <key>public.kern2.R_s</key>
     <integer>-36</integer>
+    <key>public.kern2.R_saccent</key>
+    <integer>-1</integer>
     <key>public.kern2.R_semicolon</key>
     <integer>-36</integer>
     <key>public.kern2.R_slash</key>
@@ -5393,6 +5399,10 @@
     <integer>-10</integer>
     <key>public.kern2.R_V</key>
     <integer>9</integer>
+    <key>public.kern2.R_Y</key>
+    <integer>-1</integer>
+    <key>public.kern2.R_Yaccent</key>
+    <integer>-1</integer>
     <key>public.kern2.R_adblgrave</key>
     <integer>36</integer>
     <key>public.kern2.R_backslash</key>
@@ -5602,6 +5612,10 @@
     <integer>45</integer>
     <key>public.kern2.R_V</key>
     <integer>9</integer>
+    <key>public.kern2.R_Y</key>
+    <integer>-1</integer>
+    <key>public.kern2.R_Yaccent</key>
+    <integer>-1</integer>
     <key>public.kern2.R_Zcaron</key>
     <integer>45</integer>
     <key>public.kern2.R_backslash</key>

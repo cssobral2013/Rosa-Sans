@@ -2,9 +2,9 @@
 <glyph name="f_f_l" format="2">
   <advance width="2537"/>
   <unicode hex="FB04"/>
-  <anchor x="874" y="-0" name="caret_1"/>
-  <anchor x="1599" y="-0" name="caret_2"/>
-  <anchor x="1957" y="-0" name="bottom"/>
+  <anchor x="874" y="0" name="caret_1"/>
+  <anchor x="1599" y="0" name="caret_2"/>
+  <anchor x="1957" y="0" name="bottom"/>
   <anchor x="2547" y="1440" name="caron"/>
   <anchor x="2347" y="1440" name="top"/>
   <outline>

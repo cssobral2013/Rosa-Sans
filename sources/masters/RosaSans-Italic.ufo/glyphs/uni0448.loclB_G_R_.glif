@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0448.loclBGR" format="2">
   <advance width="1902"/>
-  <anchor x="1619" y="-0" name="descender"/>
+  <anchor x="1619" y="0" name="descender"/>
   <anchor x="1082" y="1000" name="top"/>
   <outline>
     <contour>

@@ -2,8 +2,8 @@
 <glyph name="uni1EAB" format="2">
   <advance width="1126"/>
   <unicode hex="1EAB"/>
-  <anchor x="404" y="-0" name="bottom"/>
-  <anchor x="861" y="-0" name="ogonek"/>
+  <anchor x="404" y="0" name="bottom"/>
+  <anchor x="861" y="0" name="ogonek"/>
   <anchor x="902" y="1868" name="top"/>
   <anchor x="1146" y="1304" name="top_right"/>
   <outline>

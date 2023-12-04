@@ -2,9 +2,9 @@
 <glyph name="Ocircumflex" format="2">
   <advance width="1648"/>
   <unicode hex="00D4"/>
-  <anchor x="730" y="-0" name="bottom"/>
+  <anchor x="730" y="0" name="bottom"/>
   <anchor x="1418" y="1400" name="horn"/>
-  <anchor x="998" y="-0" name="ogonek"/>
+  <anchor x="998" y="0" name="ogonek"/>
   <anchor x="1123" y="1806" name="top"/>
   <anchor x="1598" y="1734" name="top_right"/>
   <anchor x="315" y="1400" name="topleft"/>

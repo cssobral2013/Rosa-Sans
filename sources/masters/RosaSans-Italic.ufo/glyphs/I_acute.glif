@@ -2,8 +2,8 @@
 <glyph name="Iacute" format="2">
   <advance width="616"/>
   <unicode hex="00CD"/>
-  <anchor x="174" y="-0" name="bottom"/>
-  <anchor x="304" y="-0" name="ogonek"/>
+  <anchor x="174" y="0" name="bottom"/>
+  <anchor x="304" y="0" name="ogonek"/>
   <anchor x="321" y="1400" name="topleft"/>
   <outline>
     <component base="I"/>

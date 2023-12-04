@@ -3,9 +3,9 @@
   <advance width="1662"/>
   <unicode hex="038C"/>
   <anchor x="351" y="1400" name="_topleft"/>
-  <anchor x="743" y="-0" name="bottom"/>
+  <anchor x="743" y="0" name="bottom"/>
   <anchor x="1430" y="1400" name="horn"/>
-  <anchor x="983" y="-0" name="ogonek"/>
+  <anchor x="983" y="0" name="ogonek"/>
   <anchor x="1027" y="1400" name="top"/>
   <outline>
     <component base="Omicron"/>
