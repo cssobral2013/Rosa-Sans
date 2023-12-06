@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hbar" format="2">
-  <advance width="1260"/>
+  <advance width="1261"/>
   <unicode hex="0127"/>
   <anchor x="532" y="1440" name="top"/>
   <outline>
     <component base="h" xOffset="-1"/>
-    <component base="uni0335" xOffset="1177" yOffset="687"/>
+    <component base="uni0335" xOffset="1178" yOffset="687"/>
   </outline>
   <lib>
   <dict>

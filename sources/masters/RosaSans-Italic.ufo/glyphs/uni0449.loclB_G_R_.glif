@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0449.loclBGR" format="2">
-  <advance width="2052"/>
-  <anchor x="1082" y="1000" name="top"/>
-  <anchor x="1619" y="0" name="descender"/>
+  <advance width="2053"/>
+  <anchor x="1081" y="1000" name="top"/>
+  <anchor x="1618" y="-0" name="descender"/>
   <outline>
-    <component base="uni0448.loclBGR"/>
+    <component base="uni0448.loclBGR" xOffset="-1"/>
     <contour>
-      <point x="1800" y="-300" type="line"/>
-      <point x="1937" y="208" type="line"/>
-      <point x="1557" y="208" type="line"/>
-      <point x="1499" y="0" type="line"/>
-      <point x="1645" y="0" type="line"/>
-      <point x="1566" y="-300" type="line"/>
+      <point x="1799" y="-300" type="line"/>
+      <point x="1936" y="208" type="line"/>
+      <point x="1556" y="208" type="line"/>
+      <point x="1498" y="0" type="line"/>
+      <point x="1644" y="0" type="line"/>
+      <point x="1565" y="-300" type="line"/>
     </contour>
   </outline>
   <lib>

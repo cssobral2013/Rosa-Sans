@@ -3,7 +3,7 @@
   <advance width="554"/>
   <anchor x="514" y="1384" name="top"/>
   <outline>
-    <component base="j.calt"/>
+    <component base="j.calt" xOffset="-1"/>
   </outline>
   <lib>
   <dict>

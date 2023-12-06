@@ -4,16 +4,16 @@
   <unicode hex="04F7"/>
   <anchor x="340" y="474" name="bar"/>
   <anchor x="623" y="1000" name="top"/>
-  <anchor x="272" y="0" name="descender"/>
+  <anchor x="272" y="-0" name="descender"/>
   <outline>
     <component base="uni0433" xOffset="-1"/>
     <contour>
-      <point x="452" y="-300" type="line"/>
-      <point x="589" y="208" type="line"/>
-      <point x="209" y="208" type="line"/>
-      <point x="151" y="0" type="line"/>
-      <point x="297" y="0" type="line"/>
-      <point x="218" y="-300" type="line"/>
+      <point x="453" y="-300" type="line"/>
+      <point x="590" y="208" type="line"/>
+      <point x="210" y="208" type="line"/>
+      <point x="152" y="0" type="line"/>
+      <point x="298" y="0" type="line"/>
+      <point x="219" y="-300" type="line"/>
     </contour>
   </outline>
   <lib>

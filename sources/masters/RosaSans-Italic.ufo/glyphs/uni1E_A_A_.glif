@@ -2,13 +2,13 @@
 <glyph name="uni1EAA" format="2">
   <advance width="1411"/>
   <unicode hex="1EAA"/>
-  <anchor x="570" y="0" name="bottom"/>
-  <anchor x="1239" y="0" name="ogonek"/>
+  <anchor x="569" y="-0" name="bottom"/>
+  <anchor x="1239" y="-0" name="ogonek"/>
   <anchor x="1160" y="2209" name="top"/>
   <anchor x="1428" y="1691" name="top_right"/>
   <anchor x="540" y="1400" name="topleft"/>
   <outline>
-    <component base="A"/>
+    <component base="A" xOffset="-1"/>
     <component base="uni0302.case" xOffset="1750" yOffset="1"/>
     <component base="tildecomb.case" xOffset="1867" yOffset="429"/>
   </outline>

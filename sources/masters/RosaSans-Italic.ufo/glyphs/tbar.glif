@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tbar" format="2">
-  <advance width="895"/>
+  <advance width="894"/>
   <unicode hex="0167"/>
-  <anchor x="410" y="0" name="bottom"/>
-  <anchor x="760" y="1440" name="caron"/>
+  <anchor x="409" y="-0" name="bottom"/>
+  <anchor x="758" y="1440" name="caron"/>
   <outline>
     <component base="t" xOffset="10"/>
-    <component base="uni0335" xOffset="1034"/>
+    <component base="uni0335" xOffset="1033"/>
   </outline>
   <lib>
   <dict>

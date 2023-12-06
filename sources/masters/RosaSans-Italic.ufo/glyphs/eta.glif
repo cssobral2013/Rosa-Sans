@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eta" format="2">
-  <advance width="1260"/>
+  <advance width="1261"/>
   <unicode hex="03B7"/>
   <anchor x="763" y="1000" name="top"/>
   <outline>
     <contour>
       <point x="874" y="-420" type="line"/>
-      <point x="1161" y="654" type="line" smooth="yes"/>
+      <point x="1161" y="654" type="line"/>
       <point x="1219" y="881"/>
       <point x="1055" y="1030"/>
       <point x="846" y="1030" type="curve" smooth="yes"/>
@@ -17,7 +17,7 @@
       <point x="282" y="1000" type="line"/>
       <point x="13" y="0" type="line"/>
       <point x="269" y="0" type="line"/>
-      <point x="418" y="553" type="line" smooth="yes"/>
+      <point x="418" y="553" type="line"/>
       <point x="459" y="712"/>
       <point x="577" y="796"/>
       <point x="706" y="796" type="curve" smooth="yes"/>

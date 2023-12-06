@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-  <key>L_Gheupturn</key>
+  <key>L_A</key>
   <dict>
   </dict>
   <key>public.kern1.L_A</key>
@@ -726,8 +726,6 @@
   </dict>
   <key>public.kern1.L_Gheupturn</key>
   <dict>
-    <key>A</key>
-    <integer>-90</integer>
     <key>public.kern2.R_A</key>
     <integer>-90</integer>
     <key>public.kern2.R_Aaccent</key>
@@ -2026,8 +2024,6 @@
   </dict>
   <key>public.kern1.L_T</key>
   <dict>
-    <key>A</key>
-    <integer>-90</integer>
     <key>public.kern2.R_A</key>
     <integer>-90</integer>
     <key>public.kern2.R_Aaccent</key>
@@ -2167,8 +2163,6 @@
   </dict>
   <key>public.kern1.L_Taccent</key>
   <dict>
-    <key>A</key>
-    <integer>-90</integer>
     <key>public.kern2.R_A</key>
     <integer>-90</integer>
     <key>public.kern2.R_Aaccent</key>
@@ -2308,8 +2302,6 @@
   </dict>
   <key>public.kern1.L_Tbar</key>
   <dict>
-    <key>A</key>
-    <integer>-90</integer>
     <key>public.kern2.R_A</key>
     <integer>-90</integer>
     <key>public.kern2.R_Aaccent</key>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EBB" format="2">
-  <advance width="1162"/>
+  <advance width="1167"/>
   <unicode hex="1EBB"/>
-  <anchor x="478" y="0" name="bottom"/>
-  <anchor x="856" y="0" name="ogonek"/>
+  <anchor x="480" y="-0" name="bottom"/>
+  <anchor x="858" y="-0" name="ogonek"/>
   <outline>
     <component base="e"/>
-    <component base="hookabovecomb" xOffset="1413"/>
+    <component base="hookabovecomb" xOffset="1416"/>
   </outline>
   <lib>
   <dict>

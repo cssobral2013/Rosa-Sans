@@ -2,12 +2,12 @@
 <glyph name="Uhungarumlaut" format="2">
   <advance width="1493"/>
   <unicode hex="0170"/>
-  <anchor x="656" y="0" name="bottom"/>
-  <anchor x="1565" y="1400" name="horn"/>
-  <anchor x="978" y="0" name="ogonek"/>
+  <anchor x="657" y="-0" name="bottom"/>
+  <anchor x="1566" y="1400" name="horn"/>
+  <anchor x="978" y="-0" name="ogonek"/>
   <outline>
-    <component base="U" xOffset="-1"/>
-    <component base="uni030B.case" xOffset="1794" yOffset="1"/>
+    <component base="U"/>
+    <component base="uni030B.case" xOffset="1795" yOffset="1"/>
   </outline>
   <lib>
   <dict>

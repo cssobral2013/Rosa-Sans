@@ -3,7 +3,7 @@
   <advance width="1270"/>
   <anchor x="769" y="1000" name="top"/>
   <outline>
-    <component base="uni043F"/>
+    <component base="uni043F" xOffset="-1"/>
   </outline>
   <lib>
   <dict>

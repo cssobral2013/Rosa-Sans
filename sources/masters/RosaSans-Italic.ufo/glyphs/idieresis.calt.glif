@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="idieresis.calt" format="2">
   <advance width="554"/>
-  <anchor x="143" y="0" name="bottom"/>
-  <anchor x="271" y="0" name="ogonek"/>
-  <anchor x="411" y="1000" name="top"/>
+  <anchor x="143" y="-0" name="bottom"/>
+  <anchor x="271" y="-0" name="ogonek"/>
+  <anchor x="616" y="1768" name="top"/>
   <outline>
     <contour>
       <point x="271" y="0" type="line"/>

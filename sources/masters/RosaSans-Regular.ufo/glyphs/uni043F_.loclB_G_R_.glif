@@ -2,7 +2,7 @@
 <glyph name="uni043F.loclBGR" format="2">
   <advance width="1260"/>
   <anchor x="641" y="1000" name="top"/>
-  <anchor x="635" y="0" name="bottom"/>
+  <anchor x="635" y="-0" name="bottom"/>
   <outline>
     <component base="n"/>
   </outline>

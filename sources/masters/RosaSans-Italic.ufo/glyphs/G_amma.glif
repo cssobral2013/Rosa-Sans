@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gamma" format="2">
-  <advance width="1042"/>
+  <advance width="1044"/>
   <unicode hex="0393"/>
   <anchor x="477" y="683" name="bar"/>
-  <anchor x="305" y="0" name="descender"/>
+  <anchor x="305" y="-0" name="descender"/>
   <anchor x="827" y="1400" name="top"/>
   <outline>
-    <component base="uni0413"/>
+    <component base="uni0413" xOffset="-1"/>
   </outline>
   <lib>
   <dict>

@@ -4,49 +4,6 @@
 <dict>
   <key>com.typemytype.robofont.italicSlantOffset</key>
   <real>-134</real>
-  <key>com.schriftgestaltung.fontMaster.Alignment Zones</key>
-  <array>
-    <dict>
-      <key>name</key>
-      <string>caps</string>
-      <key>position</key>
-      <integer>1400</integer>
-      <key>size</key>
-      <integer>30</integer>
-    </dict>
-    <dict>
-      <key>name</key>
-      <string>fig</string>
-      <key>position</key>
-      <integer>1440</integer>
-      <key>size</key>
-      <integer>70</integer>
-    </dict>
-    <dict>
-      <key>name</key>
-      <string>xhgt</string>
-      <key>position</key>
-      <integer>960</integer>
-      <key>size</key>
-      <integer>40</integer>
-    </dict>
-    <dict>
-      <key>name</key>
-      <string>base</string>
-      <key>position</key>
-      <integer>0</integer>
-      <key>size</key>
-      <integer>-30</integer>
-    </dict>
-    <dict>
-      <key>name</key>
-      <string>dsc</string>
-      <key>position</key>
-      <integer>-420</integer>
-      <key>size</key>
-      <integer>-30</integer>
-    </dict>
-  </array>
   <key>com.schriftgestaltung.fontMaster.Family Zones</key>
   <array>
     <dict>
@@ -1073,6 +1030,8 @@
     <string>uni1EB5.ss01</string>
     <string>uni1EB7.ss01</string>
     <string>idotaccent</string>
+    <string>Q.ss03</string>
+    <string>uni051A.ss03</string>
   </array>
 </dict>
 </plist>

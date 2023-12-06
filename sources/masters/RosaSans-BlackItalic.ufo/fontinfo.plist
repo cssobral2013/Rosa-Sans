@@ -76,13 +76,13 @@ Copyright 2020-2023 The Rosa Sans Project Authors (https://github.com/cssobral20
   <key>openTypeHheaLineGap</key>
   <integer>-0</integer>
   <key>openTypeNameDesigner</key>
-  <string>Sindre Bremnes, Frode Helland, Cristiano Sobral</string>
+  <string>Monokrom, Sindre Bremnes, Frode Helland (font Geologica), Matt Bailey (font Spartan), Cristiano Sobral (main changes)</string>
   <key>openTypeNameLicense</key>
   <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
   <key>openTypeNameLicenseURL</key>
   <string>https://scripts.sil.org/OFL</string>
   <key>openTypeNameManufacturer</key>
-  <string>Monokrom, Sindre Bremnes, Frode Helland, Cristiano Sobral</string>
+  <string>Monokrom, Sindre Bremnes, Frode Helland (font Geologica), Matt Bailey (font Spartan), Cristiano Sobral (main changes)</string>
   <key>openTypeNameManufacturerURL</key>
   <string>https://monokrom.no/</string>
   <key>openTypeNamePreferredFamilyName</key>
@@ -90,7 +90,7 @@ Copyright 2020-2023 The Rosa Sans Project Authors (https://github.com/cssobral20
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Black Italic</string>
   <key>openTypeNameVersion</key>
-  <string>Version 3.006</string>
+  <string>Version 3.007</string>
   <key>openTypeOS2Panose</key>
   <array>
     <integer>0</integer>
@@ -192,7 +192,7 @@ Copyright 2020-2023 The Rosa Sans Project Authors (https://github.com/cssobral20
   <key>versionMajor</key>
   <integer>3</integer>
   <key>versionMinor</key>
-  <integer>6</integer>
+  <integer>7</integer>
   <key>xHeight</key>
   <integer>1040</integer>
 </dict>

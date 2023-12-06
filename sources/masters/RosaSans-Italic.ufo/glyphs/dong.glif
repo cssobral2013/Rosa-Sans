@@ -5,7 +5,7 @@
   <anchor x="1184" y="1214" name="bar"/>
   <anchor x="1420" y="1440" name="caron"/>
   <outline>
-    <component base="dcroat" xOffset="3"/>
+    <component base="dcroat" xOffset="1"/>
     <contour>
       <point x="951" y="-345" type="line"/>
       <point x="1006" y="-141" type="line"/>

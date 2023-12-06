@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="omacron" format="2">
-  <advance width="1224"/>
+  <advance width="1232"/>
   <unicode hex="014D"/>
-  <anchor x="510" y="0" name="bottom"/>
-  <anchor x="1107" y="1000" name="horn"/>
-  <anchor x="755" y="0" name="ogonek"/>
+  <anchor x="515" y="-0" name="bottom"/>
+  <anchor x="1111" y="1000" name="horn"/>
+  <anchor x="760" y="-0" name="ogonek"/>
   <outline>
     <component base="o"/>
-    <component base="uni0304" xOffset="1189"/>
+    <component base="uni0304" xOffset="1194"/>
   </outline>
   <lib>
   <dict>
