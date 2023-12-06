@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0449.loclBGR" format="2">
-  <advance width="1919"/>
+  <advance width="1918"/>
   <anchor x="1024" y="960" name="top"/>
   <outline>
-    <component base="uni0448.loclBGR"/>
+    <component base="uni0448.loclBGR" xOffset="1"/>
     <contour>
       <point x="1658" y="-300" type="line"/>
       <point x="1764" y="104" type="line"/>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis tag="wght" minimum="100" default="600" name="weight" maximum="900">
+  <axis name="weight" tag="wght" maximum="900" default="600" minimum="100">
    <labelname xml:lang="en">Weight</labelname>
    <map input="100" output="100"/>
    <map input="200" output="200"/>
@@ -15,23 +15,23 @@
   </axis>
  </axes>
  <sources>
-  <source familyname="Rosa Sans" filename="masters/RosaSans-ThinItalic.ufo" name="Thin Italic" stylename="Thin Italic">
+  <source name="Black Italic" filename="masters/RosaSans-BlackItalic.ufo" familyname="Rosa Sans" stylename="Black Italic">
    <location>
-    <dimension xvalue="100" name="weight"/>
+    <dimension name="weight" xvalue="900"/>
    </location>
   </source>
-  <source familyname="Rosa Sans" filename="masters/RosaSans-Italic.ufo" name="Italic" stylename="Italic">
+  <source name="Italic" filename="masters/RosaSans-Italic.ufo" familyname="Rosa Sans" stylename="Italic">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
    <features copy="1"/>
    <location>
-    <dimension xvalue="600" name="weight"/>
+    <dimension name="weight" xvalue="600"/>
    </location>
   </source>
-  <source familyname="Rosa Sans" filename="masters/RosaSans-BlackItalic.ufo" name="Black Italic" stylename="Black Italic">
+  <source name="Thin Italic" filename="masters/RosaSans-ThinItalic.ufo" familyname="Rosa Sans" stylename="Thin Italic">
    <location>
-    <dimension xvalue="900" name="weight"/>
+    <dimension name="weight" xvalue="100"/>
    </location>
   </source>
  </sources>
@@ -1110,49 +1110,49 @@
   </dict>
  </lib>
  <instances>
-  <instance familyname="Rosa Sans" filename="instances/RosaSans-ThinItalic.ufo" name="ThinItalic" stylename="Thin Italic">
+  <instance name="ThinItalic" filename="instances/RosaSans-ThinItalic.ufo" familyname="Rosa Sans" stylename="Thin Italic">
    <location>
-    <dimension xvalue="100" name="weight"/>
+    <dimension name="weight" xvalue="100"/>
    </location>
   </instance>
-  <instance familyname="Rosa Sans" filename="instances/RosaSans-ExtraLightItalic.ufo" name="ExtraLightItalic" stylename="ExtraLight Italic">
+  <instance name="ExtraLightItalic" filename="instances/RosaSans-ExtraLightItalic.ufo" familyname="Rosa Sans" stylename="ExtraLight Italic">
    <location>
-    <dimension xvalue="200" name="weight"/>
+    <dimension name="weight" xvalue="200"/>
    </location>
   </instance>
-  <instance familyname="Rosa Sans" filename="instances/RosaSans-LightItalic.ufo" name="LightItalic" stylename="Light Italic">
+  <instance name="LightItalic" filename="instances/RosaSans-LightItalic.ufo" familyname="Rosa Sans" stylename="Light Italic">
    <location>
-    <dimension xvalue="300" name="weight"/>
+    <dimension name="weight" xvalue="300"/>
    </location>
   </instance>
-  <instance familyname="Rosa Sans" filename="instances/RosaSans-Italic.ufo" name="Italic" stylename="Italic">
+  <instance name="Italic" filename="instances/RosaSans-Italic.ufo" familyname="Rosa Sans" stylename="Italic">
    <location>
-    <dimension xvalue="400" name="weight"/>
+    <dimension name="weight" xvalue="400"/>
    </location>
   </instance>
-  <instance familyname="Rosa Sans" filename="instances/RosaSans-MediumItalic.ufo" name="MediumItalic" stylename="Medium Italic">
+  <instance name="MediumItalic" filename="instances/RosaSans-MediumItalic.ufo" familyname="Rosa Sans" stylename="Medium Italic">
    <location>
-    <dimension xvalue="500" name="weight"/>
+    <dimension name="weight" xvalue="500"/>
    </location>
   </instance>
-  <instance familyname="Rosa Sans" filename="instances/RosaSans-SemiBoldItalic.ufo" name="SemiBoldItalic" stylename="SemiBold Italic">
+  <instance name="SemiBoldItalic" filename="instances/RosaSans-SemiBoldItalic.ufo" familyname="Rosa Sans" stylename="SemiBold Italic">
    <location>
-    <dimension xvalue="600" name="weight"/>
+    <dimension name="weight" xvalue="600"/>
    </location>
   </instance>
-  <instance familyname="Rosa Sans" filename="instances/RosaSans-BoldItalic.ufo" name="BoldItalic" stylename="Bold Italic">
+  <instance name="BoldItalic" filename="instances/RosaSans-BoldItalic.ufo" familyname="Rosa Sans" stylename="Bold Italic">
    <location>
-    <dimension xvalue="700" name="weight"/>
+    <dimension name="weight" xvalue="700"/>
    </location>
   </instance>
-  <instance familyname="Rosa Sans" filename="instances/RosaSans-ExtraBoldItalic.ufo" name="ExtraBoldItalic" stylename="ExtraBold Italic">
+  <instance name="ExtraBoldItalic" filename="instances/RosaSans-ExtraBoldItalic.ufo" familyname="Rosa Sans" stylename="ExtraBold Italic">
    <location>
-    <dimension xvalue="800" name="weight"/>
+    <dimension name="weight" xvalue="800"/>
    </location>
   </instance>
-  <instance familyname="Rosa Sans" filename="instances/RosaSans-BlackItalic.ufo" name="BlackItalic" stylename="Black Italic">
+  <instance name="BlackItalic" filename="instances/RosaSans-BlackItalic.ufo" familyname="Rosa Sans" stylename="Black Italic">
    <location>
-    <dimension xvalue="900" name="weight"/>
+    <dimension name="weight" xvalue="900"/>
    </location>
   </instance>
  </instances>

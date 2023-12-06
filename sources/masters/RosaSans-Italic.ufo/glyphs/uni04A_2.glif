@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04A2" format="2">
-  <advance width="1614"/>
+  <advance width="1612"/>
   <unicode hex="04A2"/>
-  <anchor x="1198" y="-0" name="descender"/>
-  <anchor x="997" y="1400" name="top"/>
-  <anchor x="321" y="1400" name="topleft"/>
+  <anchor x="1197" y="-0" name="descender"/>
+  <anchor x="996" y="1400" name="top"/>
+  <anchor x="320" y="1400" name="topleft"/>
   <outline>
     <component base="uni041D" xOffset="-1"/>
     <contour>
-      <point x="1328" y="-355" type="line"/>
-      <point x="1488" y="238" type="line"/>
-      <point x="1111" y="238" type="line"/>
-      <point x="1047" y="0" type="line"/>
-      <point x="1177" y="0" type="line"/>
-      <point x="1082" y="-355" type="line"/>
+      <point x="1327" y="-355" type="line"/>
+      <point x="1487" y="238" type="line"/>
+      <point x="1110" y="238" type="line"/>
+      <point x="1046" y="0" type="line"/>
+      <point x="1176" y="0" type="line"/>
+      <point x="1081" y="-355" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni041D" format="2">
-  <advance width="1514"/>
+  <advance width="1512"/>
   <unicode hex="041D"/>
-  <anchor x="1198" y="-0" name="descender"/>
-  <anchor x="997" y="1400" name="top"/>
-  <anchor x="321" y="1400" name="topleft"/>
+  <anchor x="1197" y="-0" name="descender"/>
+  <anchor x="996" y="1400" name="top"/>
+  <anchor x="320" y="1400" name="topleft"/>
   <outline>
     <component base="H" xOffset="-1"/>
   </outline>

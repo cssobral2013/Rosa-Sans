@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gbreve" format="2">
-  <advance width="1179"/>
+  <advance width="1168"/>
   <unicode hex="011F"/>
-  <anchor x="768" y="1404" name="top"/>
+  <anchor x="762" y="1404" name="top"/>
   <outline>
     <component base="g"/>
-    <component base="uni0306" xOffset="1334"/>
+    <component base="uni0306" xOffset="1328"/>
   </outline>
   <lib>
   <dict>

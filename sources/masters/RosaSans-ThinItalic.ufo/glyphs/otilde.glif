@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="otilde" format="2">
-  <advance width="1187"/>
+  <advance width="1172"/>
   <unicode hex="00F5"/>
-  <anchor x="497" y="0" name="bottom"/>
-  <anchor x="1078" y="960" name="horn"/>
-  <anchor x="713" y="0" name="ogonek"/>
-  <anchor x="794" y="1344" name="top"/>
+  <anchor x="489" y="-0" name="bottom"/>
+  <anchor x="1070" y="960" name="horn"/>
+  <anchor x="705" y="-0" name="ogonek"/>
+  <anchor x="786" y="1344" name="top"/>
   <outline>
     <component base="o"/>
-    <component base="tildecomb" xOffset="1377"/>
+    <component base="tildecomb" xOffset="1369"/>
   </outline>
   <lib>
   <dict>

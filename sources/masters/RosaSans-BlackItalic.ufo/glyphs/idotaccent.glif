@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="idotaccent" format="2">
-  <advance width="667"/>
+  <advance width="656"/>
   <outline>
-    <component base="i"/>
+    <component base="i" xOffset="-6"/>
   </outline>
 </glyph>

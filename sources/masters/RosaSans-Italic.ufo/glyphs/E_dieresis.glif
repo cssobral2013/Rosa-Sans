@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Edieresis" format="2">
-  <advance width="1245"/>
+  <advance width="1243"/>
   <unicode hex="00CB"/>
-  <anchor x="503" y="-0" name="bottom"/>
-  <anchor x="983" y="-0" name="ogonek"/>
-  <anchor x="973" y="1770" name="top"/>
-  <anchor x="322" y="1400" name="topleft"/>
+  <anchor x="502" y="-0" name="bottom"/>
+  <anchor x="982" y="-0" name="ogonek"/>
+  <anchor x="972" y="1770" name="top"/>
+  <anchor x="321" y="1400" name="topleft"/>
   <outline>
     <component base="E" xOffset="-1"/>
-    <component base="uni0308.case" xOffset="1674" yOffset="1"/>
+    <component base="uni0308.case" xOffset="1673" yOffset="1"/>
   </outline>
   <lib>
   <dict>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni040C" format="2">
-  <advance width="1317"/>
+  <advance width="1314"/>
   <unicode hex="040C"/>
-  <anchor x="1005" y="0" name="descender"/>
+  <anchor x="1003" y="-0" name="descender"/>
   <outline>
     <component base="uni041A"/>
-    <component base="acutecomb.case" xOffset="1636" yOffset="2"/>
+    <component base="acutecomb.case" xOffset="1634" yOffset="2"/>
   </outline>
   <lib>
   <dict>

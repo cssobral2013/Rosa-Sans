@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="t" format="2">
-  <advance width="874"/>
+  <advance width="875"/>
   <unicode hex="0074"/>
   <anchor x="411" y="527" name="bar"/>
-  <anchor x="399" y="-0" name="bottom"/>
+  <anchor x="399" y="0" name="bottom"/>
   <anchor x="749" y="1440" name="caron"/>
   <outline>
     <contour>

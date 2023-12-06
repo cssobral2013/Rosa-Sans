@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04B8" format="2">
-  <advance width="1329"/>
+  <advance width="1326"/>
   <unicode hex="04B8"/>
-  <anchor x="999" y="0" name="descender"/>
-  <anchor x="883" y="0" name="descender_alt"/>
-  <anchor x="890" y="1400" name="top"/>
+  <anchor x="997" y="-0" name="descender"/>
+  <anchor x="881" y="-0" name="descender_alt"/>
+  <anchor x="888" y="1400" name="top"/>
   <outline>
     <component base="uni0427"/>
     <contour>
-      <point x="649" y="314" type="line"/>
-      <point x="821" y="954" type="line"/>
-      <point x="721" y="954" type="line"/>
-      <point x="549" y="314" type="line"/>
+      <point x="647" y="314" type="line"/>
+      <point x="819" y="954" type="line"/>
+      <point x="719" y="954" type="line"/>
+      <point x="547" y="314" type="line"/>
     </contour>
   </outline>
   <lib>

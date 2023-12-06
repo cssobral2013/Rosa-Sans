@@ -5,7 +5,7 @@
   <anchor x="228" y="1400" name="_topleft"/>
   <outline>
     <component base="Upsilon"/>
-    <component base="tonos.case" xOffset="-425"/>
+    <component base="tonos.case" xOffset="-422"/>
   </outline>
   <lib>
   <dict>

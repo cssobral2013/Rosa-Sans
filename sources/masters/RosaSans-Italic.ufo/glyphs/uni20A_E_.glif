@@ -3,10 +3,10 @@
   <advance width="1296"/>
   <unicode hex="20AE"/>
   <anchor x="617" y="683" name="bar"/>
-  <anchor x="433" y="-0" name="bottom"/>
+  <anchor x="433" y="0" name="bottom"/>
   <anchor x="808" y="1400" name="top"/>
   <outline>
-    <component base="T" xOffset="-1"/>
+    <component base="T"/>
     <contour>
       <point x="700" y="697" type="line"/>
       <point x="693" y="663" type="line"/>

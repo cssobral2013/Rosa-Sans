@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eta" format="2">
-  <advance width="1155"/>
+  <advance width="1154"/>
   <unicode hex="03B7"/>
-  <anchor x="707" y="960" name="top"/>
+  <anchor x="706" y="960" name="top"/>
   <outline>
     <contour>
-      <point x="751" y="-420" type="line"/>
-      <point x="1040" y="646" type="line" smooth="yes"/>
-      <point x="1093" y="849"/>
-      <point x="927" y="990"/>
-      <point x="723" y="990" type="curve" smooth="yes"/>
-      <point x="608" y="990"/>
-      <point x="479" y="940"/>
-      <point x="376" y="821" type="curve"/>
-      <point x="411" y="960" type="line"/>
-      <point x="299" y="960" type="line"/>
-      <point x="41" y="0" type="line"/>
-      <point x="153" y="0" type="line"/>
-      <point x="307" y="570" type="line" smooth="yes"/>
-      <point x="360" y="771"/>
-      <point x="516" y="882"/>
-      <point x="681" y="882" type="curve" smooth="yes"/>
-      <point x="854" y="882"/>
-      <point x="960" y="775"/>
-      <point x="917" y="612" type="curve" smooth="yes"/>
-      <point x="639" y="-420" type="line"/>
+      <point x="750" y="-420" type="line"/>
+      <point x="1039" y="646" type="line" smooth="yes"/>
+      <point x="1092" y="849"/>
+      <point x="926" y="990"/>
+      <point x="722" y="990" type="curve" smooth="yes"/>
+      <point x="607" y="990"/>
+      <point x="478" y="940"/>
+      <point x="375" y="821" type="curve"/>
+      <point x="410" y="960" type="line"/>
+      <point x="298" y="960" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="152" y="0" type="line"/>
+      <point x="306" y="570" type="line" smooth="yes"/>
+      <point x="359" y="771"/>
+      <point x="515" y="882"/>
+      <point x="680" y="882" type="curve" smooth="yes"/>
+      <point x="853" y="882"/>
+      <point x="959" y="775"/>
+      <point x="916" y="612" type="curve" smooth="yes"/>
+      <point x="638" y="-420" type="line"/>
     </contour>
   </outline>
   <lib>

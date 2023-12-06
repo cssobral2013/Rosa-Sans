@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Nu" format="2">
-  <advance width="1526"/>
+  <advance width="1524"/>
   <unicode hex="039D"/>
-  <anchor x="628" y="-0" name="bottom"/>
-  <anchor x="1003" y="1400" name="top"/>
+  <anchor x="627" y="-0" name="bottom"/>
+  <anchor x="1002" y="1400" name="top"/>
   <outline>
     <component base="N" xOffset="-1"/>
   </outline>

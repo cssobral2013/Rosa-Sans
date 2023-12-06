@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04A2" format="2">
-  <advance width="1519"/>
+  <advance width="1516"/>
   <unicode hex="04A2"/>
   <outline>
     <component base="uni041D"/>
     <contour>
-      <point x="1234" y="-360" type="line"/>
-      <point x="1360" y="108" type="line"/>
-      <point x="1092" y="108" type="line"/>
-      <point x="1062" y="0" type="line"/>
-      <point x="1222" y="0" type="line"/>
-      <point x="1126" y="-360" type="line"/>
+      <point x="1232" y="-360" type="line"/>
+      <point x="1358" y="108" type="line"/>
+      <point x="1090" y="108" type="line"/>
+      <point x="1060" y="0" type="line"/>
+      <point x="1220" y="0" type="line"/>
+      <point x="1124" y="-360" type="line"/>
     </contour>
   </outline>
   <lib>

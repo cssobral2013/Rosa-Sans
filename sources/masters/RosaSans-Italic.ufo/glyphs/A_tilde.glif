@@ -2,8 +2,8 @@
 <glyph name="Atilde" format="2">
   <advance width="1411"/>
   <unicode hex="00C3"/>
-  <anchor x="569" y="-0" name="bottom"/>
-  <anchor x="1239" y="-0" name="ogonek"/>
+  <anchor x="569" y="0" name="bottom"/>
+  <anchor x="1239" y="0" name="ogonek"/>
   <anchor x="1045" y="1781" name="top"/>
   <anchor x="540" y="1400" name="topleft"/>
   <outline>

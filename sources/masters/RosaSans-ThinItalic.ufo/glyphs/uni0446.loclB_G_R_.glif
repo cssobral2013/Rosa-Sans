@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0446.loclBGR" format="2">
-  <advance width="1263"/>
-  <anchor x="426" y="0" name="bottom"/>
-  <anchor x="1102" y="960" name="horn"/>
-  <anchor x="844" y="0" name="ogonek"/>
-  <anchor x="692" y="960" name="top"/>
+  <advance width="1262"/>
+  <anchor x="425" y="-0" name="bottom"/>
+  <anchor x="1101" y="960" name="horn"/>
+  <anchor x="843" y="-0" name="ogonek"/>
+  <anchor x="691" y="960" name="top"/>
   <outline>
     <component base="u"/>
     <contour>
-      <point x="1002" y="-300" type="line"/>
-      <point x="1108" y="104" type="line"/>
-      <point x="792" y="104" type="line"/>
-      <point x="764" y="0" type="line"/>
-      <point x="976" y="0" type="line"/>
-      <point x="898" y="-300" type="line"/>
+      <point x="1001" y="-300" type="line"/>
+      <point x="1107" y="104" type="line"/>
+      <point x="791" y="104" type="line"/>
+      <point x="763" y="0" type="line"/>
+      <point x="975" y="0" type="line"/>
+      <point x="897" y="-300" type="line"/>
     </contour>
   </outline>
   <lib>

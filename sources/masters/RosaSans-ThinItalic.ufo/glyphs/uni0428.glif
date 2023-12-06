@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0428" format="2">
-  <advance width="2125"/>
+  <advance width="2122"/>
   <unicode hex="0428"/>
-  <anchor x="1795" y="0" name="descender"/>
+  <anchor x="1793" y="-0" name="descender"/>
   <outline>
     <contour>
-      <point x="1795" y="0" type="line"/>
-      <point x="2170" y="1400" type="line"/>
-      <point x="2054" y="1400" type="line"/>
-      <point x="1707" y="108" type="line"/>
-      <point x="1021" y="108" type="line"/>
-      <point x="1368" y="1400" type="line"/>
-      <point x="1252" y="1400" type="line"/>
-      <point x="905" y="108" type="line"/>
-      <point x="217" y="108" type="line"/>
-      <point x="564" y="1400" type="line"/>
-      <point x="448" y="1400" type="line"/>
-      <point x="73" y="0" type="line"/>
+      <point x="1793" y="0" type="line"/>
+      <point x="2168" y="1400" type="line"/>
+      <point x="2052" y="1400" type="line"/>
+      <point x="1705" y="108" type="line"/>
+      <point x="1019" y="108" type="line"/>
+      <point x="1366" y="1400" type="line"/>
+      <point x="1250" y="1400" type="line"/>
+      <point x="903" y="108" type="line"/>
+      <point x="215" y="108" type="line"/>
+      <point x="562" y="1400" type="line"/>
+      <point x="446" y="1400" type="line"/>
+      <point x="71" y="0" type="line"/>
     </contour>
   </outline>
   <lib>

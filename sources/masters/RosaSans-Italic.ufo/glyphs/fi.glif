@@ -2,9 +2,9 @@
 <glyph name="fi" format="2">
   <advance width="1353"/>
   <unicode hex="FB01"/>
-  <anchor x="671" y="-0" name="caret_1"/>
-  <anchor x="940" y="-0" name="bottom"/>
-  <anchor x="1068" y="-0" name="ogonek"/>
+  <anchor x="671" y="0" name="caret_1"/>
+  <anchor x="940" y="0" name="bottom"/>
+  <anchor x="1068" y="0" name="ogonek"/>
   <anchor x="1311" y="1384" name="top"/>
   <outline>
     <component base="f"/>

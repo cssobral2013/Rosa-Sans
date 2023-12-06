@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ohorn" format="2">
-  <advance width="1283"/>
+  <advance width="1192"/>
   <unicode hex="01A1"/>
-  <anchor x="497" y="0" name="bottom"/>
-  <anchor x="713" y="0" name="ogonek"/>
-  <anchor x="690" y="960" name="top"/>
+  <anchor x="451" y="-0" name="bottom"/>
+  <anchor x="667" y="-0" name="ogonek"/>
+  <anchor x="644" y="960" name="top"/>
   <outline>
-    <component base="o"/>
-    <component base="uni031B" xOffset="1283"/>
+    <component base="o" xOffset="-38"/>
+    <component base="uni031B" xOffset="1247"/>
   </outline>
   <lib>
   <dict>

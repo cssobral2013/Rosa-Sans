@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Scircumflex" format="2">
-  <advance width="1237"/>
+  <advance width="1234"/>
   <unicode hex="015C"/>
-  <anchor x="533" y="0" name="bottom"/>
-  <anchor x="978" y="1850" name="top"/>
-  <anchor x="1240" y="1648" name="top_right"/>
+  <anchor x="531" y="-0" name="bottom"/>
+  <anchor x="976" y="1850" name="top"/>
+  <anchor x="1238" y="1648" name="top_right"/>
   <outline>
     <component base="S"/>
-    <component base="uni0302.case" xOffset="1639" yOffset="2"/>
+    <component base="uni0302.case" xOffset="1637" yOffset="2"/>
   </outline>
   <lib>
   <dict>

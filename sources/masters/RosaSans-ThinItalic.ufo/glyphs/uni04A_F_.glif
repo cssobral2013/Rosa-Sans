@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04AF" format="2">
-  <advance width="969"/>
+  <advance width="966"/>
   <unicode hex="04AF"/>
-  <anchor x="337" y="-80" name="bar"/>
+  <anchor x="335" y="-80" name="bar"/>
   <outline>
     <contour>
-      <point x="302" y="-420" type="line"/>
-      <point x="416" y="0" type="line"/>
-      <point x="1056" y="960" type="line"/>
-      <point x="922" y="960" type="line"/>
-      <point x="367" y="104" type="line"/>
-      <point x="400" y="97" type="line"/>
-      <point x="301" y="960" type="line"/>
-      <point x="171" y="960" type="line"/>
-      <point x="304" y="5" type="line"/>
-      <point x="190" y="-420" type="line"/>
+      <point x="300" y="-420" type="line"/>
+      <point x="414" y="0" type="line"/>
+      <point x="1054" y="960" type="line"/>
+      <point x="920" y="960" type="line"/>
+      <point x="365" y="104" type="line"/>
+      <point x="398" y="97" type="line"/>
+      <point x="299" y="960" type="line"/>
+      <point x="169" y="960" type="line"/>
+      <point x="302" y="5" type="line"/>
+      <point x="188" y="-420" type="line"/>
     </contour>
   </outline>
   <lib>

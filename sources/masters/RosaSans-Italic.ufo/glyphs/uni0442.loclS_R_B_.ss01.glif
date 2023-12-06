@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0442.loclSRB.ss01" format="2">
-  <advance width="1903"/>
-  <anchor x="1618" y="-0" name="descender"/>
+  <advance width="1902"/>
+  <anchor x="1618" y="0" name="descender"/>
   <outline>
-    <component base="uni0448.loclBGR" xOffset="-1"/>
+    <component base="uni0448.loclBGR"/>
     <component base="uni0304.wide" xOffset="1567"/>
   </outline>
   <lib>

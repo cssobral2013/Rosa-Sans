@@ -6,7 +6,7 @@
   <anchor x="521" y="0" name="bottom"/>
   <anchor x="896" y="1400" name="top"/>
   <outline>
-    <component base="T"/>
+    <component base="T" xOffset="2"/>
     <contour>
       <point x="734" y="804" type="line"/>
       <point x="732" y="789" type="line"/>

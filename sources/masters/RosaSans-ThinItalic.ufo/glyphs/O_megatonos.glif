@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Omegatonos" format="2">
-  <advance width="1595"/>
+  <advance width="1676"/>
   <unicode hex="038F"/>
-  <anchor x="668" y="0" name="bottom"/>
+  <anchor x="708" y="-0" name="bottom"/>
   <outline>
-    <component base="uni03A9"/>
-    <component base="tonos.case" xOffset="-251"/>
+    <component base="uni03A9" xOffset="-1"/>
+    <component base="tonos.case" xOffset="-208"/>
   </outline>
   <lib>
   <dict>

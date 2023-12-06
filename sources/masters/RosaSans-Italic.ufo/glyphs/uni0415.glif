@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0415" format="2">
-  <advance width="1245"/>
+  <advance width="1243"/>
   <unicode hex="0415"/>
-  <anchor x="503" y="-0" name="bottom"/>
-  <anchor x="983" y="-0" name="ogonek"/>
-  <anchor x="878" y="1400" name="top"/>
-  <anchor x="322" y="1400" name="topleft"/>
+  <anchor x="502" y="-0" name="bottom"/>
+  <anchor x="982" y="-0" name="ogonek"/>
+  <anchor x="877" y="1400" name="top"/>
+  <anchor x="321" y="1400" name="topleft"/>
   <outline>
     <component base="E" xOffset="-1"/>
   </outline>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aeacute.ss01" format="2">
-  <advance width="2005"/>
+  <advance width="1992"/>
   <outline>
     <component base="ae.ss01"/>
-    <component base="acutecomb" xOffset="1850"/>
+    <component base="acutecomb" xOffset="1843"/>
   </outline>
   <lib>
   <dict>

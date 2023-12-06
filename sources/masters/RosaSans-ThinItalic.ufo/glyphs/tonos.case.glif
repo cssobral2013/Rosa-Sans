@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tonos.case" format="2">
-  <advance width="434"/>
-  <anchor x="653" y="1400" name="_topleft"/>
+  <advance width="428"/>
+  <anchor x="650" y="1400" name="_topleft"/>
   <outline>
     <contour>
-      <point x="427" y="1158" type="line"/>
-      <point x="633" y="1470" type="line"/>
-      <point x="513" y="1470" type="line"/>
-      <point x="319" y="1158" type="line"/>
+      <point x="424" y="1158" type="line"/>
+      <point x="630" y="1470" type="line"/>
+      <point x="510" y="1470" type="line"/>
+      <point x="316" y="1158" type="line"/>
     </contour>
   </outline>
   <lib>

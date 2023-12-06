@@ -2,7 +2,7 @@
 <glyph name="uni1EF8" format="2">
   <advance width="1261"/>
   <unicode hex="1EF8"/>
-  <anchor x="491" y="-0" name="bottom"/>
+  <anchor x="491" y="0" name="bottom"/>
   <anchor x="966" y="1781" name="top"/>
   <anchor x="204" y="1400" name="topleft"/>
   <outline>

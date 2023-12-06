@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EB1.ss01" format="2">
-  <advance width="1304"/>
-  <anchor x="522" y="-0" name="bottom"/>
-  <anchor x="1022" y="-0" name="ogonek"/>
+  <advance width="1299"/>
+  <anchor x="519" y="-0" name="bottom"/>
+  <anchor x="1019" y="-0" name="ogonek"/>
   <outline>
     <component base="a.ss01"/>
-    <component base="uni0306_gravecomb" xOffset="1429"/>
+    <component base="uni0306_gravecomb" xOffset="1426"/>
   </outline>
   <lib>
   <dict>

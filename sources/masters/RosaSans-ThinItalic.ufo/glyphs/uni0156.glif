@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0156" format="2">
-  <advance width="1287"/>
+  <advance width="1284"/>
   <unicode hex="0156"/>
-  <anchor x="866" y="1400" name="top"/>
+  <anchor x="864" y="1400" name="top"/>
   <outline>
     <component base="R"/>
-    <component base="uni0326" xOffset="1017"/>
+    <component base="uni0326" xOffset="1015"/>
   </outline>
   <lib>
   <dict>

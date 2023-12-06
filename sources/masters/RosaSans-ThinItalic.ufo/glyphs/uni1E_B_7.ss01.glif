@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EB7.ss01" format="2">
-  <advance width="1263"/>
-  <anchor x="964" y="0" name="ogonek"/>
-  <anchor x="823" y="1404" name="top"/>
+  <advance width="1254"/>
+  <anchor x="959" y="-0" name="ogonek"/>
+  <anchor x="818" y="1404" name="top"/>
   <outline>
     <component base="a.ss01"/>
-    <component base="dotbelowcomb" xOffset="993"/>
-    <component base="uni0306" xOffset="1388"/>
+    <component base="dotbelowcomb" xOffset="988"/>
+    <component base="uni0306" xOffset="1383"/>
   </outline>
   <lib>
   <dict>
