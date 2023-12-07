@@ -3,9 +3,9 @@
   <advance width="1499"/>
   <unicode hex="04B6"/>
   <anchor x="707" y="635" name="center"/>
-  <anchor x="828" y="-0" name="descender_alt"/>
+  <anchor x="828" y="0" name="descender_alt"/>
   <anchor x="910" y="1400" name="top"/>
-  <anchor x="1088" y="-0" name="descender"/>
+  <anchor x="1088" y="0" name="descender"/>
   <outline>
     <component base="uni0427"/>
     <contour>

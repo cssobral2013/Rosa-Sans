@@ -2,8 +2,8 @@
 <glyph name="uni04B8" format="2">
   <advance width="1326"/>
   <unicode hex="04B8"/>
-  <anchor x="997" y="-0" name="descender"/>
-  <anchor x="881" y="-0" name="descender_alt"/>
+  <anchor x="997" y="0" name="descender"/>
+  <anchor x="881" y="0" name="descender_alt"/>
   <anchor x="888" y="1400" name="top"/>
   <outline>
     <component base="uni0427"/>

@@ -2,7 +2,7 @@
 <glyph name="uni1EF7" format="2">
   <advance width="964"/>
   <unicode hex="1EF7"/>
-  <anchor x="598" y="-0" name="bottom"/>
+  <anchor x="598" y="0" name="bottom"/>
   <outline>
     <component base="y"/>
     <component base="hookabovecomb" xOffset="1311"/>

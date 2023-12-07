@@ -2,10 +2,10 @@
 <glyph name="ubreve" format="2">
   <advance width="1142"/>
   <unicode hex="016D"/>
-  <anchor x="425" y="-0" name="bottom"/>
-  <anchor x="843" y="-0" name="descender"/>
+  <anchor x="425" y="0" name="bottom"/>
+  <anchor x="843" y="0" name="descender"/>
   <anchor x="1101" y="960" name="horn"/>
-  <anchor x="843" y="-0" name="ogonek"/>
+  <anchor x="843" y="0" name="ogonek"/>
   <anchor x="813" y="1404" name="top"/>
   <outline>
     <component base="u"/>

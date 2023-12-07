@@ -2,8 +2,8 @@
 <glyph name="uni020A" format="2">
   <advance width="516"/>
   <unicode hex="020A"/>
-  <anchor x="129" y="-0" name="bottom"/>
-  <anchor x="187" y="-0" name="ogonek"/>
+  <anchor x="129" y="0" name="bottom"/>
+  <anchor x="187" y="0" name="ogonek"/>
   <anchor x="366" y="1400" name="topleft"/>
   <outline>
     <component base="I"/>

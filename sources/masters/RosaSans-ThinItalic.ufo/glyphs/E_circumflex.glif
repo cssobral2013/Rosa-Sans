@@ -2,8 +2,8 @@
 <glyph name="Ecircumflex" format="2">
   <advance width="1180"/>
   <unicode hex="00CA"/>
-  <anchor x="473" y="-0" name="bottom"/>
-  <anchor x="901" y="-0" name="ogonek"/>
+  <anchor x="473" y="0" name="bottom"/>
+  <anchor x="901" y="0" name="ogonek"/>
   <anchor x="970" y="1850" name="top"/>
   <anchor x="1232" y="1648" name="top_right"/>
   <anchor x="366" y="1400" name="topleft"/>

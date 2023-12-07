@@ -4,7 +4,7 @@
   <unicode hex="04F6"/>
   <anchor x="476" y="683" name="bar"/>
   <anchor x="826" y="1400" name="top"/>
-  <anchor x="304" y="-0" name="descender"/>
+  <anchor x="304" y="0" name="descender"/>
   <outline>
     <component base="uni0413" xOffset="-1"/>
     <contour>

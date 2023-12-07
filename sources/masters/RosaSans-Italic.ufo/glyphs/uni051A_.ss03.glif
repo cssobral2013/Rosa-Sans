@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni051A.ss03" format="2">
   <advance width="1562"/>
-  <anchor x="703" y="-0" name="bottom"/>
+  <anchor x="703" y="0" name="bottom"/>
   <anchor x="1390" y="1400" name="horn"/>
-  <anchor x="943" y="-0" name="ogonek"/>
+  <anchor x="943" y="0" name="ogonek"/>
   <anchor x="987" y="1400" name="top"/>
   <anchor x="311" y="1400" name="topleft"/>
   <outline>

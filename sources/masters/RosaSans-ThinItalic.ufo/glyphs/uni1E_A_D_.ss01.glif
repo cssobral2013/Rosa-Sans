@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EAD.ss01" format="2">
   <advance width="1254"/>
-  <anchor x="959" y="-0" name="ogonek"/>
+  <anchor x="959" y="0" name="ogonek"/>
   <anchor x="825" y="1444" name="top"/>
   <anchor x="1075" y="1224" name="top_right"/>
   <outline>

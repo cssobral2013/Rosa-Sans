@@ -2,8 +2,8 @@
 <glyph name="aringacute" format="2">
   <advance width="1048"/>
   <unicode hex="01FB"/>
-  <anchor x="368" y="-0" name="bottom"/>
-  <anchor x="764" y="-0" name="ogonek"/>
+  <anchor x="368" y="0" name="bottom"/>
+  <anchor x="764" y="0" name="ogonek"/>
   <outline>
     <component base="a"/>
     <component base="uni030A" xOffset="1310"/>

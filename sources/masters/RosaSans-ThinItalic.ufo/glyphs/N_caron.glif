@@ -2,7 +2,7 @@
 <glyph name="Ncaron" format="2">
   <advance width="1452"/>
   <unicode hex="0147"/>
-  <anchor x="597" y="-0" name="bottom"/>
+  <anchor x="597" y="0" name="bottom"/>
   <outline>
     <component base="N"/>
     <component base="uni030C.case" xOffset="1755" yOffset="2"/>

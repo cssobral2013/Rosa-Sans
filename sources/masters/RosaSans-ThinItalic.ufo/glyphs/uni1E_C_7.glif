@@ -2,7 +2,7 @@
 <glyph name="uni1EC7" format="2">
   <advance width="1101"/>
   <unicode hex="1EC7"/>
-  <anchor x="750" y="-0" name="ogonek"/>
+  <anchor x="750" y="0" name="ogonek"/>
   <anchor x="799" y="1444" name="top"/>
   <anchor x="1048" y="1224" name="top_right"/>
   <outline>

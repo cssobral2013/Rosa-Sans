@@ -2,7 +2,7 @@
 <glyph name="Gcaron" format="2">
   <advance width="1500"/>
   <unicode hex="01E6"/>
-  <anchor x="782" y="-0" name="bottom"/>
+  <anchor x="782" y="0" name="bottom"/>
   <outline>
     <component base="G"/>
     <component base="uni030C.case" xOffset="1789" yOffset="2"/>

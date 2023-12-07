@@ -2,8 +2,8 @@
 <glyph name="aring" format="2">
   <advance width="1126"/>
   <unicode hex="00E5"/>
-  <anchor x="404" y="-0" name="bottom"/>
-  <anchor x="861" y="-0" name="ogonek"/>
+  <anchor x="404" y="0" name="bottom"/>
+  <anchor x="861" y="0" name="ogonek"/>
   <anchor x="810" y="1524" name="top"/>
   <outline>
     <component base="a"/>

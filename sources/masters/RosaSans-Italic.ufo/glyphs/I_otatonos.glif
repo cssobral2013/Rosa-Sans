@@ -3,8 +3,8 @@
   <advance width="616"/>
   <unicode hex="038A"/>
   <anchor x="321" y="1400" name="_topleft"/>
-  <anchor x="173" y="-0" name="bottom"/>
-  <anchor x="303" y="-0" name="ogonek"/>
+  <anchor x="173" y="0" name="bottom"/>
+  <anchor x="303" y="0" name="ogonek"/>
   <anchor x="548" y="1400" name="top"/>
   <outline>
     <component base="Iota" xOffset="-1"/>
