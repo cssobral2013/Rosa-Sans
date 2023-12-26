@@ -8,4 +8,5 @@ Main changes include:
 - Changed italics to oblique forms;
 - (Variable) Changed to only 1 axis (wght);
 - Changed italic angle to 15 degrees;
+- Modified tilde, acute, and grave;
 - Some other fixes.
