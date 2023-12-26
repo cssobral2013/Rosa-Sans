@@ -3,7 +3,7 @@
   <advance width="452"/>
   <anchor x="226" y="1284" name="top"/>
   <outline>
-    <component base="uni0237.calt"/>
-    <component base="uni0307" xOffset="812"/>
+    <component base="jdotless.calt"/>
+    <component base="dotaccentcomb" xOffset="812"/>
   </outline>
 </glyph>

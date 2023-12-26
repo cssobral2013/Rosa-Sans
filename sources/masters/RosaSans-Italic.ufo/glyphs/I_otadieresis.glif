@@ -9,7 +9,7 @@
   <anchor x="320" y="1400" name="topleft"/>
   <outline>
     <component base="Iota" xOffset="-1"/>
-    <component base="uni0308.narrow" xOffset="1245" yOffset="400"/>
+    <component base="dieresiscomb.narrow" xOffset="1245" yOffset="400"/>
   </outline>
   <lib>
   <dict>

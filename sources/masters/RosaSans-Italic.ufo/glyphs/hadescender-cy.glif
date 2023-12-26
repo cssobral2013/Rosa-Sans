@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hadescender-cy" format="2">
+  <advance width="1147"/>
+  <unicode hex="04B3"/>
+  <anchor x="848" y="0" name="descender"/>
+  <outline>
+    <component base="ha-cy"/>
+    <contour>
+      <point x="911" y="-300" type="line"/>
+      <point x="1048" y="208" type="line"/>
+      <point x="814" y="208" type="line"/>
+      <point x="677" y="-300" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

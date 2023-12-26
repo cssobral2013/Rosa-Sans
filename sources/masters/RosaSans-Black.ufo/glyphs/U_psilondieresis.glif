@@ -6,6 +6,6 @@
   <anchor x="672" y="0" name="bottom"/>
   <outline>
     <component base="Upsilon"/>
-    <component base="uni0308.case" xOffset="1502"/>
+    <component base="dieresiscomb.case" xOffset="1502"/>
   </outline>
 </glyph>

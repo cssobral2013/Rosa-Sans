@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kabashkir-cy" format="2">
+  <advance width="1752"/>
+  <unicode hex="04A0"/>
+  <anchor x="1488" y="0" name="descender"/>
+  <anchor x="1189" y="1400" name="top"/>
+  <outline>
+    <component base="Ka-cy" xOffset="230"/>
+    <contour>
+      <point x="1028" y="1400" type="line"/>
+      <point x="263" y="1400" type="line"/>
+      <point x="164" y="1032" type="line"/>
+      <point x="524" y="1032" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

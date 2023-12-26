@@ -7,7 +7,7 @@
   <anchor x="533" y="1524" name="top.1"/>
   <outline>
     <component base="a"/>
-    <component base="uni030A" xOffset="1145"/>
+    <component base="ringcomb" xOffset="1145"/>
     <component base="acutecomb" xOffset="1145" yOffset="524"/>
   </outline>
 </glyph>

@@ -6,7 +6,7 @@
   <anchor x="659" y="1440" name="caron"/>
   <outline>
     <component base="t" xOffset="9"/>
-    <component base="uni0335" xOffset="999"/>
+    <component base="strokeshortcomb" xOffset="999"/>
   </outline>
   <lib>
   <dict>

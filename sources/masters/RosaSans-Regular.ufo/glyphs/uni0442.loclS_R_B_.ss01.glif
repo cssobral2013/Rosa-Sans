@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0442.loclSRB.ss01" format="2">
-  <advance width="1902"/>
-  <anchor x="946" y="1000" name="top"/>
-  <outline>
-    <component base="uni0448.loclBGR"/>
-    <component base="uni0304.wide" xOffset="1560"/>
-  </outline>
-</glyph>

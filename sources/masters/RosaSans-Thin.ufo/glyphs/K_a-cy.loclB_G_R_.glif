@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ka-cy.loclBGR" format="2">
+  <advance width="1314"/>
+  <anchor x="638" y="1400" name="top"/>
+  <outline>
+    <component base="Ka-cy"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.609,1,1</string>
+  </dict>
+  </lib>
+</glyph>

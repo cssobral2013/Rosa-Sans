@@ -7,7 +7,7 @@
   <anchor x="978" y="0" name="ogonek"/>
   <outline>
     <component base="U"/>
-    <component base="uni0304.case" xOffset="1558" yOffset="1"/>
+    <component base="macroncomb.case" xOffset="1558" yOffset="1"/>
   </outline>
   <lib>
   <dict>

@@ -4,6 +4,6 @@
   <anchor x="586" y="960" name="top"/>
   <outline>
     <component base="g.ss01"/>
-    <component base="uni030C" xOffset="1172"/>
+    <component base="caroncomb" xOffset="1172"/>
   </outline>
 </glyph>

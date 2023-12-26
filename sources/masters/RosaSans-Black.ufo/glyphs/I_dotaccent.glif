@@ -6,6 +6,6 @@
   <anchor x="358" y="0" name="bottom"/>
   <outline>
     <component base="I"/>
-    <component base="uni0307.case" xOffset="1192"/>
+    <component base="dotaccentcomb.case" xOffset="1192"/>
   </outline>
 </glyph>

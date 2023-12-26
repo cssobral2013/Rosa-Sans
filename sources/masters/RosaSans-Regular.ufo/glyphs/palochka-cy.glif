@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="palochka-cy" format="2">
+  <advance width="678"/>
+  <unicode hex="04CF"/>
+  <anchor x="277" y="1440" name="top"/>
+  <anchor x="405" y="1440" name="Anchor_2"/>
+  <anchor x="277" y="0" name="bottom"/>
+  <outline>
+    <component base="l"/>
+  </outline>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Chedieresis-cy" format="2">
+  <advance width="1472"/>
+  <unicode hex="04F4"/>
+  <anchor x="730" y="636" name="center"/>
+  <anchor x="1178" y="0" name="descender"/>
+  <anchor x="774" y="0" name="descender_alt"/>
+  <anchor x="1044" y="1834" name="top"/>
+  <outline>
+    <component base="Che-cy"/>
+    <component base="dieresiscomb.case" xOffset="1767"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

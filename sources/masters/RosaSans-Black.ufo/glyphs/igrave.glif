@@ -5,7 +5,7 @@
   <anchor x="328" y="1040" name="top"/>
   <anchor x="328" y="0" name="bottom"/>
   <outline>
-    <component base="dotlessi"/>
+    <component base="idotless"/>
     <component base="gravecomb.narrow" xOffset="966"/>
   </outline>
 </glyph>

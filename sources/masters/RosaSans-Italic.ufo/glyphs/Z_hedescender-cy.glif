@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zhedescender-cy" format="2">
+  <advance width="2082"/>
+  <unicode hex="0496"/>
+  <anchor x="1252" y="1400" name="top"/>
+  <anchor x="1732" y="0" name="descender"/>
+  <outline>
+    <component base="Zhe-cy" xOffset="-1"/>
+    <contour>
+      <point x="1787" y="-355" type="line"/>
+      <point x="1947" y="238" type="line"/>
+      <point x="1630" y="238" type="line"/>
+      <point x="1566" y="0" type="line"/>
+      <point x="1636" y="0" type="line"/>
+      <point x="1541" y="-355" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

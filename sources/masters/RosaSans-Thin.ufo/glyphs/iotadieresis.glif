@@ -5,6 +5,6 @@
   <anchor x="216" y="1284" name="top"/>
   <outline>
     <component base="iota"/>
-    <component base="uni0308.narrow" xOffset="802"/>
+    <component base="dieresiscomb.narrow" xOffset="802"/>
   </outline>
 </glyph>

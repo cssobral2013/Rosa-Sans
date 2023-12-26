@@ -5,7 +5,7 @@
   <anchor x="486" y="712" name="bar"/>
   <outline>
     <component base="D"/>
-    <component base="uni030C.case" xOffset="1784"/>
+    <component base="caroncomb.case" xOffset="1784"/>
   </outline>
   <lib>
   <dict>

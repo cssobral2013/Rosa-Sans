@@ -8,7 +8,7 @@
   <anchor x="386" y="1400" name="topleft"/>
   <outline>
     <component base="O"/>
-    <component base="uni030B.case" xOffset="1822" yOffset="2"/>
+    <component base="hungarumlautcomb.case" xOffset="1822" yOffset="2"/>
   </outline>
   <lib>
   <dict>

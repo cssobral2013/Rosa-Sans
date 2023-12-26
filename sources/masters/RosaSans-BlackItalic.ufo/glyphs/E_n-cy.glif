@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="En-cy" format="2">
+  <advance width="1588"/>
+  <unicode hex="041D"/>
+  <anchor x="1287" y="0" name="descender"/>
+  <anchor x="1029" y="1400" name="top"/>
+  <anchor x="275" y="1400" name="topleft"/>
+  <outline>
+    <component base="H" xOffset="-1"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

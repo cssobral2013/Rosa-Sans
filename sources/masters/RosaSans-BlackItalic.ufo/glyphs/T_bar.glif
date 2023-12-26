@@ -6,7 +6,7 @@
   <anchor x="848" y="1400" name="top"/>
   <outline>
     <component base="T" xOffset="19"/>
-    <component base="uni0335.case" xOffset="1443" yOffset="-68"/>
+    <component base="strokeshortcomb.case" xOffset="1443" yOffset="-68"/>
   </outline>
   <lib>
   <dict>

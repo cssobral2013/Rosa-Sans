@@ -5,7 +5,7 @@
   <anchor x="97" y="0" name="bottom"/>
   <anchor x="153" y="0" name="ogonek"/>
   <outline>
-    <component base="dotlessi"/>
+    <component base="idotless"/>
     <component base="gravecomb.narrow" xOffset="1015"/>
   </outline>
   <lib>

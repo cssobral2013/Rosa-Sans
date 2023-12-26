@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Enghe-cy" format="2">
+  <advance width="1938"/>
+  <unicode hex="04A4"/>
+  <anchor x="1197" y="0" name="descender"/>
+  <anchor x="997" y="1400" name="top"/>
+  <anchor x="321" y="1400" name="topleft"/>
+  <outline>
+    <component base="En-cy"/>
+    <contour>
+      <point x="2066" y="1162" type="line"/>
+      <point x="2129" y="1400" type="line"/>
+      <point x="1315" y="1400" type="line"/>
+      <point x="1512" y="1162" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

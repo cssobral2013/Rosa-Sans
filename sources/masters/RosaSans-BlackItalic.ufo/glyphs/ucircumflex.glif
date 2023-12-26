@@ -10,7 +10,7 @@
   <anchor x="1382" y="1384" name="top_right"/>
   <outline>
     <component base="u"/>
-    <component base="uni0302" xOffset="1533"/>
+    <component base="circumflexcomb" xOffset="1533"/>
   </outline>
   <lib>
   <dict>

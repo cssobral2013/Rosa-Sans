@@ -10,7 +10,7 @@
   <anchor x="315" y="1400" name="topleft"/>
   <outline>
     <component base="O"/>
-    <component base="uni0302.case" xOffset="1843"/>
+    <component base="circumflexcomb.case" xOffset="1843"/>
   </outline>
   <lib>
   <dict>

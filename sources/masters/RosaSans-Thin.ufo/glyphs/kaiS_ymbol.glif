@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kaiSymbol" format="2">
+  <advance width="1056"/>
+  <unicode hex="03D7"/>
+  <outline>
+    <contour>
+      <point x="568" y="-134" type="line"/>
+      <point x="601" y="-141"/>
+      <point x="631" y="-139"/>
+      <point x="658" y="-129" type="curve" smooth="yes"/>
+      <point x="711" y="-108"/>
+      <point x="760" y="-60"/>
+      <point x="824" y="4" type="curve"/>
+      <point x="470" y="526" type="line"/>
+      <point x="282" y="340" type="line"/>
+      <point x="282" y="0" type="line"/>
+      <point x="170" y="0" type="line"/>
+      <point x="170" y="960" type="line"/>
+      <point x="282" y="960" type="line"/>
+      <point x="282" y="478" type="line"/>
+      <point x="536" y="726" type="line" smooth="yes"/>
+      <point x="591" y="779"/>
+      <point x="639" y="826"/>
+      <point x="682" y="866" type="curve" smooth="yes"/>
+      <point x="766" y="946"/>
+      <point x="839" y="987"/>
+      <point x="930" y="970" type="curve"/>
+      <point x="938" y="864" type="line"/>
+      <point x="902" y="872"/>
+      <point x="869" y="869"/>
+      <point x="838" y="854" type="curve" smooth="yes"/>
+      <point x="776" y="825"/>
+      <point x="711" y="757"/>
+      <point x="618" y="664" type="curve" smooth="yes"/>
+      <point x="552" y="598" type="line"/>
+      <point x="966" y="0" type="line"/>
+      <point x="886" y="-77"/>
+      <point x="824" y="-144"/>
+      <point x="764" y="-189" type="curve" smooth="yes"/>
+      <point x="704" y="-233"/>
+      <point x="644" y="-253"/>
+      <point x="568" y="-240" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

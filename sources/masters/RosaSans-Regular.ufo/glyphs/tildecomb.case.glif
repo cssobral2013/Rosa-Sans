@@ -3,42 +3,6 @@
   <anchor x="-810" y="1399" name="top"/>
   <anchor x="-810" y="1780" name="top.1"/>
   <outline>
-    <contour>
-      <point x="-1223" y="1658" type="line"/>
-      <point x="-1170" y="1787"/>
-      <point x="-1082" y="1860"/>
-      <point x="-970" y="1860" type="curve" smooth="yes"/>
-      <point x="-927" y="1860"/>
-      <point x="-887" y="1852"/>
-      <point x="-850" y="1836" type="curve" smooth="yes"/>
-      <point x="-813" y="1819"/>
-      <point x="-778" y="1802"/>
-      <point x="-745" y="1786" type="curve" smooth="yes"/>
-      <point x="-711" y="1769"/>
-      <point x="-678" y="1760"/>
-      <point x="-644" y="1760" type="curve" smooth="yes"/>
-      <point x="-583" y="1760"/>
-      <point x="-538" y="1800"/>
-      <point x="-509" y="1880" type="curve"/>
-      <point x="-397" y="1772" type="line"/>
-      <point x="-415" y="1708"/>
-      <point x="-445" y="1659"/>
-      <point x="-489" y="1626" type="curve" smooth="yes"/>
-      <point x="-532" y="1592"/>
-      <point x="-582" y="1575"/>
-      <point x="-639" y="1575" type="curve" smooth="yes"/>
-      <point x="-682" y="1575"/>
-      <point x="-723" y="1583"/>
-      <point x="-762" y="1600" type="curve" smooth="yes"/>
-      <point x="-800" y="1616"/>
-      <point x="-836" y="1632"/>
-      <point x="-871" y="1649" type="curve" smooth="yes"/>
-      <point x="-905" y="1665"/>
-      <point x="-939" y="1673"/>
-      <point x="-971" y="1673" type="curve" smooth="yes"/>
-      <point x="-1031" y="1673"/>
-      <point x="-1079" y="1636"/>
-      <point x="-1110" y="1552" type="curve"/>
-    </contour>
+    <component base="tildecomb" xOffset="-154" yOffset="378"/>
   </outline>
 </glyph>

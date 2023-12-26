@@ -8,7 +8,7 @@
   <anchor x="1058" y="0" name="ogonek"/>
   <outline>
     <component base="u"/>
-    <component base="uni030B" xOffset="1533"/>
+    <component base="hungarumlautcomb" xOffset="1533"/>
   </outline>
   <lib>
   <dict>

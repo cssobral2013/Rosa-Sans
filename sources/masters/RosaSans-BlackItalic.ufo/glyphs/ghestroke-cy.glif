@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ghestroke-cy" format="2">
+  <advance width="952"/>
+  <unicode hex="0493"/>
+  <anchor x="432" y="0" name="descender"/>
+  <anchor x="684" y="1040" name="top"/>
+  <outline>
+    <component base="ge-cy" xOffset="39"/>
+    <component base="strokeshortcomb" xOffset="1014" yOffset="-72"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

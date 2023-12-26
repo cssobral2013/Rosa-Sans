@@ -3,7 +3,7 @@
   <anchor x="-586" y="960" name="top"/>
   <outline>
     <contour>
-      <point x="-620" y="1170" type="line"/>
+      <point x="-600" y="1170" type="line"/>
       <point x="-792" y="1504" type="line"/>
       <point x="-668" y="1504" type="line"/>
       <point x="-510" y="1170" type="line"/>

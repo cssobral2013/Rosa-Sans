@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iogonek.dotless" format="2">
+  <advance width="656"/>
+  <anchor x="188" y="0" name="bottom"/>
+  <anchor x="388" y="0" name="ogonek"/>
+  <anchor x="586" y="1484" name="top"/>
+  <outline>
+    <component base="i"/>
+    <component base="ogonek" xOffset="-383"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>iogonek</string>
+  </dict>
+  </lib>
+</glyph>

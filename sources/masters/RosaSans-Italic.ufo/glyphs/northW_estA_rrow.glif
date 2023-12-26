@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="northWestArrow" format="2">
+  <advance width="1800"/>
+  <unicode hex="2196"/>
+  <outline>
+    <contour>
+      <point x="1610" y="111" type="line"/>
+      <point x="508" y="1212" type="line"/>
+      <point x="1060" y="1212" type="line"/>
+      <point x="1060" y="1400" type="line"/>
+      <point x="181" y="1400" type="line"/>
+      <point x="183" y="521" type="line"/>
+      <point x="370" y="521" type="line"/>
+      <point x="370" y="1072" type="line"/>
+      <point x="1471" y="-28" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

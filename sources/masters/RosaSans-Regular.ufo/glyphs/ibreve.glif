@@ -6,7 +6,7 @@
   <anchor x="277" y="0" name="bottom"/>
   <anchor x="277" y="1444" name="top.1"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="uni0306.narrow" xOffset="887"/>
+    <component base="idotless"/>
+    <component base="brevecomb.narrow" xOffset="887"/>
   </outline>
 </glyph>

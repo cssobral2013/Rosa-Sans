@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iishort-cy.loclBGR" format="2">
+  <advance width="1326"/>
+  <outline>
+    <component base="ii-cy.loclBGR"/>
+    <component base="brevecomb.ccmp" xOffset="1530"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

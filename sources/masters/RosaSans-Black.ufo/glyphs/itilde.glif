@@ -5,7 +5,7 @@
   <anchor x="328" y="1464" name="top"/>
   <anchor x="328" y="0" name="bottom"/>
   <outline>
-    <component base="dotlessi"/>
+    <component base="idotless"/>
     <component base="tildecomb.narrow" xOffset="964"/>
   </outline>
 </glyph>

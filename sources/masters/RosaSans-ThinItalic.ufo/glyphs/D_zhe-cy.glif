@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dzhe-cy" format="2">
+  <advance width="1416"/>
+  <unicode hex="040F"/>
+  <anchor x="1101" y="0" name="descender"/>
+  <outline>
+    <contour>
+      <point x="1101" y="0" type="line"/>
+      <point x="1475" y="1400" type="line"/>
+      <point x="1359" y="1400" type="line"/>
+      <point x="1013" y="108" type="line"/>
+      <point x="203" y="108" type="line"/>
+      <point x="550" y="1400" type="line"/>
+      <point x="434" y="1400" type="line"/>
+      <point x="59" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="533" y="-360" type="line"/>
+      <point x="639" y="28" type="line"/>
+      <point x="531" y="28" type="line"/>
+      <point x="425" y="-360" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ocircumflexdotbelow" format="2">
+  <advance width="1676"/>
+  <unicode hex="1ED8"/>
+  <anchor x="1441" y="1400" name="horn"/>
+  <anchor x="967" y="0" name="ogonek"/>
+  <anchor x="1160" y="1850" name="top"/>
+  <anchor x="1423" y="1648" name="top_right"/>
+  <anchor x="386" y="1400" name="topleft"/>
+  <outline>
+    <component base="O"/>
+    <component base="dotbelowcomb" xOffset="1240"/>
+    <component base="circumflexcomb.case" xOffset="1822" yOffset="2"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

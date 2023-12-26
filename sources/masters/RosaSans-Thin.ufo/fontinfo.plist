@@ -8,6 +8,8 @@
   <integer>1400</integer>
   <key>copyright</key>
   <string>Copyright 2020 The Geologica Project Authors (https://github.com/googlefonts/geologica)
+Copyright 2020 The Spartan MB Project Authors (https://github.com/MattBaileyDesign/Spartan-MB)
+Copyright 2023 The Reddit Sans Project Authors (https://github.com/reddit/redditsans)
 Copyright 2020-2023 The Rosa Sans Project Authors (https://github.com/cssobral2013/rosa-sans)</string>
   <key>descender</key>
   <integer>-624</integer>
@@ -56,13 +58,13 @@ Copyright 2020-2023 The Rosa Sans Project Authors (https://github.com/cssobral20
   <key>openTypeHheaLineGap</key>
   <integer>244</integer>
   <key>openTypeNameDesigner</key>
-  <string>Monokrom, Sindre Bremnes, Frode Helland (font Geologica), Matt Bailey (font Spartan), Cristiano Sobral (main changes)</string>
+  <string>Monokrom, Sindre Bremnes, Frode Helland (font Geologica), Stephen Hutchings (font Reddit Sans), Matt Bailey (font Spartan), Cristiano Sobral (main changes)</string>
   <key>openTypeNameLicense</key>
   <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
   <key>openTypeNameLicenseURL</key>
   <string>http://scripts.sil.org/OFL</string>
   <key>openTypeNameManufacturer</key>
-  <string>Monokrom, Sindre Bremnes, Frode Helland (font Geologica), Matt Bailey (font Spartan), Cristiano Sobral (main changes)</string>
+  <string>Monokrom, Sindre Bremnes, Frode Helland (font Geologica), Stephen Hutchings (font Reddit Sans), Matt Bailey (font Spartan), Cristiano Sobral (main changes)</string>
   <key>openTypeNameManufacturerURL</key>
   <string>https://monokrom.no/</string>
   <key>openTypeNamePreferredFamilyName</key>
@@ -70,7 +72,7 @@ Copyright 2020-2023 The Rosa Sans Project Authors (https://github.com/cssobral20
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameVersion</key>
-  <string>Version 3.007</string>
+  <string>Version 3.008</string>
   <key>openTypeOS2Panose</key>
   <array>
     <integer>0</integer>
@@ -162,7 +164,7 @@ Copyright 2020-2023 The Rosa Sans Project Authors (https://github.com/cssobral20
   <key>versionMajor</key>
   <integer>3</integer>
   <key>versionMinor</key>
-  <integer>7</integer>
+  <integer>8</integer>
   <key>xHeight</key>
   <integer>960</integer>
 </dict>

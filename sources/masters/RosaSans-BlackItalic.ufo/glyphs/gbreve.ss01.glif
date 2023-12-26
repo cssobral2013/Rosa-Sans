@@ -4,7 +4,7 @@
   <anchor x="839" y="1484" name="top"/>
   <outline>
     <component base="g.ss01"/>
-    <component base="uni0306" xOffset="1442"/>
+    <component base="brevecomb" xOffset="1442"/>
   </outline>
   <lib>
   <dict>

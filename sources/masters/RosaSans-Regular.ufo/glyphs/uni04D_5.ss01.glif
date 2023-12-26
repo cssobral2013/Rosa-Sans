@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni04D5.ss01" format="2">
-  <advance width="1969"/>
-  <anchor x="1000" y="1000" name="top"/>
-  <outline>
-    <component base="ae.ss01"/>
-  </outline>
-</glyph>

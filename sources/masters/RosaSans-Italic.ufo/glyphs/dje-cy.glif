@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dje-cy" format="2">
+  <advance width="1254"/>
+  <unicode hex="0452"/>
+  <anchor x="565" y="1214" name="_bar"/>
+  <outline>
+    <component base="strokeshortcomb" xOffset="1177" yOffset="687"/>
+    <contour>
+      <point x="508" y="-301" type="line"/>
+      <point x="897" y="-175"/>
+      <point x="1166" y="234"/>
+      <point x="1166" y="615" type="curve" smooth="yes"/>
+      <point x="1166" y="858"/>
+      <point x="1045" y="1030"/>
+      <point x="811" y="1030" type="curve" smooth="yes"/>
+      <point x="700" y="1030"/>
+      <point x="582" y="974"/>
+      <point x="505" y="885" type="curve"/>
+      <point x="658" y="1440" type="line"/>
+      <point x="402" y="1440" type="line"/>
+      <point x="13" y="0" type="line"/>
+      <point x="269" y="0" type="line"/>
+      <point x="417" y="556" type="line" smooth="yes"/>
+      <point x="458" y="710"/>
+      <point x="574" y="796"/>
+      <point x="705" y="796" type="curve" smooth="yes"/>
+      <point x="811" y="796"/>
+      <point x="882" y="723"/>
+      <point x="882" y="556" type="curve" smooth="yes"/>
+      <point x="882" y="306"/>
+      <point x="703" y="10"/>
+      <point x="414" y="-91" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

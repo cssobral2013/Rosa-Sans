@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="otildemacron" format="2">
+  <advance width="1276"/>
+  <unicode hex="022D"/>
+  <anchor x="532" y="0" name="bottom"/>
+  <anchor x="1144" y="1040" name="horn"/>
+  <anchor x="806" y="0" name="ogonek"/>
+  <outline>
+    <component base="o"/>
+    <component base="tildecomb" xOffset="1469"/>
+    <component base="macroncomb" xOffset="1357" yOffset="424"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

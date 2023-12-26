@@ -6,6 +6,6 @@
   <anchor x="554" y="0" name="bottom"/>
   <outline>
     <component base="c"/>
-    <component base="uni0302" xOffset="1152"/>
+    <component base="circumflexcomb" xOffset="1152"/>
   </outline>
 </glyph>

@@ -6,6 +6,6 @@
   <anchor x="342" y="1204" name="strokeshort"/>
   <outline>
     <component base="h"/>
-    <component base="uni0302.case" xOffset="1014" yOffset="42"/>
+    <component base="circumflexcomb.case" xOffset="1014" yOffset="42"/>
   </outline>
 </glyph>
