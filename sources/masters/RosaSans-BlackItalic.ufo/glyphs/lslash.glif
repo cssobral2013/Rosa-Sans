@@ -8,14 +8,14 @@
   <outline>
     <component base="l" xOffset="-3"/>
     <contour>
-      <point x="436" y="530" type="line"/>
-      <point x="428" y="490" type="line"/>
-      <point x="925" y="688" type="line"/>
-      <point x="816" y="969" type="line"/>
-      <point x="489" y="838" type="line"/>
-      <point x="494" y="878" type="line"/>
-      <point x="-4" y="670" type="line"/>
-      <point x="104" y="393" type="line"/>
+      <point x="366" y="530" type="line"/>
+      <point x="358" y="490" type="line"/>
+      <point x="855" y="688" type="line"/>
+      <point x="746" y="969" type="line"/>
+      <point x="419" y="838" type="line"/>
+      <point x="424" y="878" type="line"/>
+      <point x="-74" y="670" type="line"/>
+      <point x="34" y="393" type="line"/>
     </contour>
   </outline>
   <lib>

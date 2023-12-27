@@ -3,21 +3,23 @@
   <advance width="1296"/>
   <outline>
     <contour>
-      <point x="1165" y="0" type="line"/>
-      <point x="1261" y="358" type="line"/>
-      <point x="915" y="358" type="line"/>
-      <point x="1195" y="1400" type="line"/>
-      <point x="1123" y="1400" type="line"/>
-      <point x="300" y="1146" type="line"/>
-      <point x="391" y="840" type="line"/>
-      <point x="705" y="933" type="line"/>
-      <point x="547" y="358" type="line"/>
-      <point x="157" y="358" type="line"/>
-      <point x="61" y="0" type="line"/>
+      <point x="1095" y="0" type="line"/>
+      <point x="1191" y="358" type="line"/>
+      <point x="845" y="358" type="line"/>
+      <point x="1125" y="1400" type="line"/>
+      <point x="1053" y="1400" type="line"/>
+      <point x="230" y="1146" type="line"/>
+      <point x="321" y="840" type="line"/>
+      <point x="635" y="933" type="line"/>
+      <point x="477" y="358" type="line"/>
+      <point x="87" y="358" type="line"/>
+      <point x="-9" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>=1296</string>
   <key>public.markColor</key>
   <string>0.6,0.89,1,1</string>
   </dict>
