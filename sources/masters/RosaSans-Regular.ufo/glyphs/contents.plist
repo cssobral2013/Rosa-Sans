@@ -930,10 +930,14 @@
   <string>circumflexcomb_tildecomb.glif</string>
   <key>colon</key>
   <string>colon.glif</string>
+  <key>colon.tnum</key>
+  <string>colon.tnum.glif</string>
   <key>colonsign</key>
   <string>colonsign.glif</string>
   <key>comma</key>
   <string>comma.glif</string>
+  <key>comma.tnum</key>
+  <string>comma.tnum.glif</string>
   <key>commaaccentcomb</key>
   <string>commaaccentcomb.glif</string>
   <key>commaturnedabovecomb</key>
@@ -1584,6 +1588,8 @@
   <string>percent.glif</string>
   <key>period</key>
   <string>period.glif</string>
+  <key>period.tnum</key>
+  <string>period.tnum.glif</string>
   <key>periodcentered</key>
   <string>periodcentered.glif</string>
   <key>periodcentered.loclCAT</key>
@@ -1686,6 +1692,8 @@
   <string>section.glif</string>
   <key>semicolon</key>
   <string>semicolon.glif</string>
+  <key>semicolon.tnum</key>
+  <string>semicolon.tnum.glif</string>
   <key>seven</key>
   <string>seven.glif</string>
   <key>seven.tnum</key>
@@ -1842,6 +1850,8 @@
   <string>underscore.glif</string>
   <key>uni03BC</key>
   <string>uni03B_C_.glif</string>
+  <key>uniEE01</key>
+  <string>uniE_E_01.glif</string>
   <key>uogonek</key>
   <string>uogonek.glif</string>
   <key>upArrow</key>

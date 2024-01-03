@@ -627,10 +627,16 @@ feature pnum {
   sub three.tnum by three;
   sub four.tnum by four;
   sub five.tnum by five;
-  sub six.tnum.ss02 by six;
+  sub six.tnum by six;
   sub seven.tnum by seven;
   sub eight.tnum by eight;
-  sub nine.tnum.ss02 by nine;
+  sub nine.tnum by nine;
+  sub six.tnum.ss02 by six.ss02;
+  sub nine.tnum.ss02 by nine.ss02;
+  sub period.tnum by period;
+  sub comma.tnum by comma;
+  sub colon.tnum by colon;
+  sub semicolon.tnum by semicolon;
 
 } pnum;
 feature tnum {
@@ -647,6 +653,12 @@ feature tnum {
   sub seven by seven.tnum;
   sub eight by eight.tnum;
   sub nine by nine.tnum;
+  sub six.ss02 by six.tnum.ss02;
+  sub nine.ss02 by nine.tnum.ss02;
+  sub period by period.tnum;
+  sub comma by comma.tnum;
+  sub colon by colon.tnum;
+  sub semicolon by semicolon.tnum;
 
 } tnum;
 feature ordn {

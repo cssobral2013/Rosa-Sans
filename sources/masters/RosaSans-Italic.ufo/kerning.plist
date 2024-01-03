@@ -4871,7 +4871,7 @@
     <key>public.kern2.R_oslash</key>
     <integer>-20</integer>
     <key>public.kern2.R_u</key>
-    <integer>-150</integer>
+    <integer>-70</integer>
   </dict>
   <key>public.kern1.L_kaccent</key>
   <dict>

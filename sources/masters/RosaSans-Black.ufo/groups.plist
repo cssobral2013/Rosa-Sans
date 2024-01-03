@@ -346,6 +346,33 @@
     <string>jcircumflex.calt</string>
     <string>adblgrave.ss01</string>
   </array>
+  <key>calt4</key>
+  <array>
+    <string>zero</string>
+    <string>one</string>
+    <string>two</string>
+    <string>three</string>
+    <string>four</string>
+    <string>five</string>
+    <string>six</string>
+    <string>seven</string>
+    <string>eight</string>
+    <string>nine</string>
+    <string>zero.tnum</string>
+    <string>one.tnum</string>
+    <string>two.tnum</string>
+    <string>three.tnum</string>
+    <string>four.tnum</string>
+    <string>five.tnum</string>
+    <string>six.ss02</string>
+    <string>six.tnum</string>
+    <string>six.tnum.ss02</string>
+    <string>seven.tnum</string>
+    <string>eight.tnum</string>
+    <string>nine.ss02</string>
+    <string>nine.tnum</string>
+    <string>nine.tnum.ss02</string>
+  </array>
   <key>comb_bottom</key>
   <array>
     <string>dotbelowcomb</string>
@@ -4021,6 +4048,10 @@
     <string>nine</string>
     <string>six.ss02</string>
     <string>nine.ss02</string>
+  </array>
+  <key>uniEE01</key>
+  <array>
+    <string>uniEE01</string>
   </array>
 </dict>
 </plist>

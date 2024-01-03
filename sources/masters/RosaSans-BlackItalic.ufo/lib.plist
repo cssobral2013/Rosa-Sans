@@ -1033,6 +1033,11 @@
     <string>abrevetilde.ss01</string>
     <string>abrevedotbelow.ss01</string>
     <string>idotaccent</string>
+    <string>uniEE01</string>
+    <string>period.tnum</string>
+    <string>comma.tnum</string>
+    <string>colon.tnum</string>
+    <string>semicolon.tnum</string>
   </array>
 </dict>
 </plist>
