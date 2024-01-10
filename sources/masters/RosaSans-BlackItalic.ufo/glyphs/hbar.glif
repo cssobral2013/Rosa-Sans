@@ -7,10 +7,4 @@
     <component base="h" xOffset="-1"/>
     <component base="strokeshortcomb" xOffset="1232" yOffset="690"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.604,1,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

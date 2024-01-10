@@ -7,10 +7,4 @@
     <component base="uhorn"/>
     <component base="dotbelowcomb" xOffset="1060"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.604,1,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

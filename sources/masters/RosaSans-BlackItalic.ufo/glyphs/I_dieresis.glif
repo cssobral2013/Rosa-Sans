@@ -10,10 +10,4 @@
     <component base="I" xOffset="-1"/>
     <component base="dieresiscomb.narrow" xOffset="1320" yOffset="360"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.604,1,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

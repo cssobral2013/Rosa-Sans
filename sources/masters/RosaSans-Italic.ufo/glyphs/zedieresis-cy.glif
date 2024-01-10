@@ -8,10 +8,4 @@
     <component base="ze-cy"/>
     <component base="dieresiscomb" xOffset="1311"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.604,1,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

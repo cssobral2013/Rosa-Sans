@@ -5,10 +5,4 @@
   <outline>
     <component base="tildecomb" xScale="0.87" yxScale="-0.0349208" xOffset="70"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>1,0.834,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

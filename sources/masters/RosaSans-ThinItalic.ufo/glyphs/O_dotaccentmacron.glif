@@ -11,10 +11,4 @@
     <component base="dotaccentcomb.case" xOffset="1579" yOffset="2"/>
     <component base="macroncomb.case" xOffset="1657" yOffset="308"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.604,1,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

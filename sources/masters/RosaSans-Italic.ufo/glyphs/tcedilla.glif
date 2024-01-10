@@ -8,10 +8,4 @@
     <component base="t" xOffset="-2"/>
     <component base="cedillacomb" xOffset="966"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.604,1,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

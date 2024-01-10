@@ -13,10 +13,4 @@
     <component base="circumflexcomb.case" xOffset="1832" yOffset="1"/>
     <component base="tildecomb.case" xOffset="1949" yOffset="429"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.604,1,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

@@ -8,10 +8,4 @@
     <component base="ringcomb" xOffset="1431"/>
     <component base="acutecomb" xOffset="1569" yOffset="524"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.604,1,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

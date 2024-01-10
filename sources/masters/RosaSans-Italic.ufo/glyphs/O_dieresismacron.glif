@@ -11,10 +11,4 @@
     <component base="dieresiscomb.case" xOffset="1822" yOffset="1"/>
     <component base="macroncomb.case" xOffset="1690" yOffset="371"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.604,1,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

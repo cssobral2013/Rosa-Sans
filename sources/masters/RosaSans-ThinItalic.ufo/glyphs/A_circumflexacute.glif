@@ -11,10 +11,4 @@
     <component base="circumflexcomb.case" xOffset="1678" yOffset="2"/>
     <component base="acutecomb.case" xOffset="2059" yOffset="250"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.604,1,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

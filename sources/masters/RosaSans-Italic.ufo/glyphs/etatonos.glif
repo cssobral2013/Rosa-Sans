@@ -6,10 +6,4 @@
     <component base="eta" xOffset="-53"/>
     <component base="tonos" xOffset="355"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.604,1,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

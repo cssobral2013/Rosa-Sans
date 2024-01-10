@@ -3,13 +3,17 @@
   <advance width="848"/>
   <unicode hex="2033"/>
   <outline>
-    <component base="minute"/>
-    <component base="minute" xOffset="380"/>
+    <contour>
+      <point x="352" y="847" type="line"/>
+      <point x="642" y="1400" type="line"/>
+      <point x="407" y="1400" type="line"/>
+      <point x="167" y="847" type="line"/>
+    </contour>
+    <contour>
+      <point x="732" y="847" type="line"/>
+      <point x="1022" y="1400" type="line"/>
+      <point x="787" y="1400" type="line"/>
+      <point x="547" y="847" type="line"/>
+    </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.604,1,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

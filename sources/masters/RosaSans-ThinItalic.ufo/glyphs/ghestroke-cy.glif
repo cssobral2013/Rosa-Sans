@@ -8,10 +8,4 @@
     <component base="ge-cy" xOffset="40"/>
     <component base="strokeshortcomb" xOffset="971" yOffset="-34"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.604,1,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

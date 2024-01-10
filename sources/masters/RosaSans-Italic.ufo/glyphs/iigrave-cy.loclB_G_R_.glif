@@ -10,10 +10,4 @@
     <component base="ii-cy.loclBGR" xOffset="1"/>
     <component base="gravecomb" xOffset="1457"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.604,1,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

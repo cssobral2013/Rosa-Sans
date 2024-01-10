@@ -8,10 +8,4 @@
     <component base="D" xOffset="-2"/>
     <component base="Zcaron" xOffset="1404"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.604,1,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

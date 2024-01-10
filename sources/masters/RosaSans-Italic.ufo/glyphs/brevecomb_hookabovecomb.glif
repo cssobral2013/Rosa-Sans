@@ -5,10 +5,4 @@
     <component base="brevecomb"/>
     <component base="hookabovecomb" xOffset="132" yOffset="444"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.604,1,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

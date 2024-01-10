@@ -7,10 +7,4 @@
     <component base="Ii-cy"/>
     <component base="gravecomb.case" xOffset="1756" yOffset="2"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.604,1,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

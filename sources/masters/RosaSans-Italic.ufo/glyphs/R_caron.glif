@@ -7,10 +7,4 @@
     <component base="R" xOffset="-1"/>
     <component base="caroncomb.case" xOffset="1690" yOffset="1"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.604,1,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

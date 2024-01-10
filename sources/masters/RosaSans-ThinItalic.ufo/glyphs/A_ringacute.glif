@@ -10,10 +10,4 @@
     <component base="ringcomb.case" xOffset="1822"/>
     <component base="acutecomb.case" xOffset="1807" yOffset="490"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.604,1,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

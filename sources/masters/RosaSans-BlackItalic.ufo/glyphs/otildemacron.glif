@@ -10,10 +10,4 @@
     <component base="tildecomb" xOffset="1469"/>
     <component base="macroncomb" xOffset="1357" yOffset="424"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.604,1,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

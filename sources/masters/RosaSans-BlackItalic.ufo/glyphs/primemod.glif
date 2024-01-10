@@ -5,10 +5,4 @@
   <outline>
     <component base="quotesingle" yxScale="0.275709" xOffset="-314"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.604,1,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

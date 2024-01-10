@@ -3,7 +3,17 @@
   <advance width="848"/>
   <unicode hex="2033"/>
   <outline>
-    <component base="minute"/>
-    <component base="minute" xOffset="380"/>
+    <contour>
+      <point x="80" y="847" type="line"/>
+      <point x="173" y="1400" type="line"/>
+      <point x="408" y="1400" type="line"/>
+      <point x="265" y="847" type="line"/>
+    </contour>
+    <contour>
+      <point x="460" y="847" type="line"/>
+      <point x="553" y="1400" type="line"/>
+      <point x="788" y="1400" type="line"/>
+      <point x="645" y="847" type="line"/>
+    </contour>
   </outline>
 </glyph>

@@ -5,12 +5,27 @@
   <anchor x="747" y="1040" name="top"/>
   <outline>
     <component base="a.ss01"/>
-    <component base="ogonekcomb" xOffset="1497"/>
+    <contour>
+      <point x="800" y="-449" type="curve" smooth="yes"/>
+      <point x="866" y="-449"/>
+      <point x="942" y="-436"/>
+      <point x="1020" y="-394" type="curve"/>
+      <point x="990" y="-197" type="line"/>
+      <point x="957" y="-220"/>
+      <point x="910" y="-231"/>
+      <point x="879" y="-231" type="curve" smooth="yes"/>
+      <point x="837" y="-231"/>
+      <point x="802" y="-208"/>
+      <point x="802" y="-161" type="curve" smooth="yes"/>
+      <point x="802" y="-25"/>
+      <point x="967" y="-9"/>
+      <point x="1079" y="0" type="curve"/>
+      <point x="1084" y="115" type="line"/>
+      <point x="828" y="97"/>
+      <point x="566" y="-13"/>
+      <point x="566" y="-239" type="curve" smooth="yes"/>
+      <point x="566" y="-368"/>
+      <point x="661" y="-449"/>
+    </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.604,1,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

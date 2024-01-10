@@ -9,10 +9,4 @@
     <component base="I"/>
     <component base="acutecomb.narrow" xOffset="1161" yOffset="440"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.604,1,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

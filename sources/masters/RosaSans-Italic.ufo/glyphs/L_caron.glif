@@ -8,10 +8,4 @@
     <component base="L" xOffset="-1"/>
     <component base="caroncomb.alt_case" xOffset="1103"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.604,1,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

@@ -7,10 +7,4 @@
     <component base="U-cy"/>
     <component base="brevecomb.ccmp" xOffset="1686" yOffset="360"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.604,1,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>
