@@ -58,13 +58,13 @@ Copyright 2020-2023 The Rosa Sans Project Authors (https://github.com/cssobral20
   <key>openTypeHheaLineGap</key>
   <integer>244</integer>
   <key>openTypeNameDesigner</key>
-  <string>Monokrom, Sindre Bremnes, Frode Helland (font Geologica), Stephen Hutchings (font Reddit Sans), Matt Bailey (font Spartan), Cristiano Sobral (main changes)</string>
+  <string>Monokrom, Sindre Bremnes, Frode Helland (font Geologica), Stephen Hutchings (font Reddit Sans), The League of Moveable Type (font League Spartan), Cristiano Sobral (main changes)</string>
   <key>openTypeNameLicense</key>
   <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
   <key>openTypeNameLicenseURL</key>
   <string>http://scripts.sil.org/OFL</string>
   <key>openTypeNameManufacturer</key>
-  <string>Monokrom, Sindre Bremnes, Frode Helland (font Geologica), Stephen Hutchings (font Reddit Sans), Matt Bailey (font Spartan), Cristiano Sobral (main changes)</string>
+  <string>Monokrom, Sindre Bremnes, Frode Helland (font Geologica), Stephen Hutchings (font Reddit Sans), The League of Moveable Type (font League Spartan), Cristiano Sobral (main changes)</string>
   <key>openTypeNameManufacturerURL</key>
   <string>https://monokrom.no/</string>
   <key>openTypeNamePreferredFamilyName</key>
@@ -72,7 +72,7 @@ Copyright 2020-2023 The Rosa Sans Project Authors (https://github.com/cssobral20
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameVersion</key>
-  <string>Version 3.008</string>
+  <string>Version 3.009</string>
   <key>openTypeOS2Panose</key>
   <array>
     <integer>0</integer>
@@ -164,7 +164,7 @@ Copyright 2020-2023 The Rosa Sans Project Authors (https://github.com/cssobral20
   <key>versionMajor</key>
   <integer>3</integer>
   <key>versionMinor</key>
-  <integer>8</integer>
+  <integer>9</integer>
   <key>xHeight</key>
   <integer>1000</integer>
 </dict>
