@@ -27,16 +27,6 @@ Copyright 2020-2023 The Rosa Sans Project Authors (https://github.com/cssobral20
     <key>y</key>
     <integer>250</integer>
   </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>f1</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>735</integer>
-  </dict>
   </array>
   <key>italicAngle</key>
   <integer>0</integer>

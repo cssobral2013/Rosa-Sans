@@ -2,7 +2,6 @@
 <glyph name="question" format="2">
   <advance width="1052"/>
   <unicode hex="003F"/>
-  <anchor x="519" y="1580" name="top"/>
   <outline>
     <contour>
       <point x="319" y="485" type="line"/>

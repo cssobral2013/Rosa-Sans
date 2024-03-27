@@ -4,10 +4,10 @@
   <unicode hex="0021"/>
   <outline>
     <contour>
-      <point x="339" y="440" type="line"/>
-      <point x="618" y="1400" type="line"/>
-      <point x="478" y="1400" type="line"/>
-      <point x="239" y="440" type="line"/>
+      <point x="335" y="440" type="line"/>
+      <point x="626" y="1440" type="line"/>
+      <point x="481" y="1440" type="line"/>
+      <point x="231" y="440" type="line"/>
     </contour>
     <contour>
       <point x="176" y="-30" type="curve" smooth="yes"/>
