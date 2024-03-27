@@ -82,7 +82,7 @@ Copyright 2020-2023 The Rosa Sans Project Authors (https://github.com/cssobral20
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameVersion</key>
-  <string>Version 3.009</string>
+  <string>Version 3.010</string>
   <key>openTypeOS2Panose</key>
   <array>
     <integer>0</integer>
@@ -174,7 +174,7 @@ Copyright 2020-2023 The Rosa Sans Project Authors (https://github.com/cssobral20
   <key>versionMajor</key>
   <integer>3</integer>
   <key>versionMinor</key>
-  <integer>9</integer>
+  <integer>10</integer>
   <key>xHeight</key>
   <integer>1040</integer>
 </dict>
