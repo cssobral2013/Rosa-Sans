@@ -932,11 +932,14 @@
     <string>lozenge</string>
     <string>leftanglebracket-math</string>
     <string>rightanglebracket-math</string>
+    <string>uniEE01</string>
     <string>f_f</string>
     <string>fi</string>
     <string>fl</string>
     <string>f_f_i</string>
     <string>f_f_l</string>
+    <string>comma.tnum</string>
+    <string>period.tnum</string>
     <string>zero.tnum</string>
     <string>one.tnum</string>
     <string>two.tnum</string>
@@ -951,6 +954,8 @@
     <string>nine.ss02</string>
     <string>nine.tnum</string>
     <string>nine.tnum.ss02</string>
+    <string>colon.tnum</string>
+    <string>semicolon.tnum</string>
     <string>Q.ss03</string>
     <string>a.ss01</string>
     <string>f.calt</string>
@@ -1076,11 +1081,6 @@
     <string>abrevetilde.ss01</string>
     <string>abrevedotbelow.ss01</string>
     <string>idotaccent</string>
-    <string>uniEE01</string>
-    <string>period.tnum</string>
-    <string>comma.tnum</string>
-    <string>colon.tnum</string>
-    <string>semicolon.tnum</string>
   </array>
 </dict>
 </plist>
