@@ -861,6 +861,7 @@
     <string>nine.tnum.ss02</string>
     <string>colon.tnum</string>
     <string>semicolon.tnum</string>
+    <string>question.ss04</string>
     <string>Q.ss03</string>
     <string>a.ss01</string>
     <string>f.calt</string>
@@ -869,6 +870,7 @@
     <string>ordfeminine.ss01</string>
     <string>periodcentered.loclCAT</string>
     <string>periodcentered.loclCAT.case</string>
+    <string>questiondown.ss04</string>
     <string>Idieresis.calt</string>
     <string>Idieresis.calt2</string>
     <string>agrave.ss01</string>

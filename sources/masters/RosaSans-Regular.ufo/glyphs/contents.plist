@@ -1620,8 +1620,12 @@
   <string>qa-cy.glif</string>
   <key>question</key>
   <string>question.glif</string>
+  <key>question.ss04</key>
+  <string>question.ss04.glif</string>
   <key>questiondown</key>
   <string>questiondown.glif</string>
+  <key>questiondown.ss04</key>
+  <string>questiondown.ss04.glif</string>
   <key>questiongreek</key>
   <string>questiongreek.glif</string>
   <key>quotedbl</key>
