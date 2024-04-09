@@ -2,7 +2,6 @@
 <glyph name="alphatonos" format="2">
   <advance width="1360"/>
   <unicode hex="03AC"/>
-  <anchor x="696" y="1000" name="top"/>
   <outline>
     <component base="alpha"/>
     <component base="tonos" xOffset="471"/>

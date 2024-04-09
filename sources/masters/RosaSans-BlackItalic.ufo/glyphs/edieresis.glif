@@ -2,11 +2,8 @@
 <glyph name="edieresis" format="2">
   <advance width="1223"/>
   <unicode hex="00EB"/>
-  <anchor x="494" y="0" name="bottom"/>
-  <anchor x="961" y="0" name="ogonek"/>
-  <anchor x="845" y="1484" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="dieresiscomb" xOffset="1453"/>
+    <component base="uni0308" xOffset="1454"/>
   </outline>
 </glyph>

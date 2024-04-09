@@ -2,34 +2,31 @@
 <glyph name="trademark" format="2">
   <advance width="1966"/>
   <unicode hex="2122"/>
-  <anchor x="512" y="952" name="bar"/>
-  <anchor x="406" y="560" name="bottom"/>
-  <anchor x="629" y="1400" name="top"/>
   <outline>
     <contour>
-      <point x="518" y="560" type="line"/>
-      <point x="690" y="1198" type="line"/>
-      <point x="924" y="1198" type="line"/>
-      <point x="975" y="1400" type="line"/>
-      <point x="285" y="1400" type="line"/>
-      <point x="234" y="1198" type="line"/>
-      <point x="466" y="1198" type="line"/>
-      <point x="294" y="560" type="line"/>
+      <point x="519" y="560" type="line"/>
+      <point x="691" y="1198" type="line"/>
+      <point x="925" y="1198" type="line"/>
+      <point x="976" y="1400" type="line"/>
+      <point x="286" y="1400" type="line"/>
+      <point x="235" y="1198" type="line"/>
+      <point x="467" y="1198" type="line"/>
+      <point x="295" y="560" type="line"/>
     </contour>
     <contour>
       <point x="1095" y="560" type="line"/>
-      <point x="1222" y="1030" type="line"/>
+      <point x="1223" y="1030" type="line"/>
       <point x="1337" y="710" type="line"/>
-      <point x="1485" y="710" type="line"/>
-      <point x="1772" y="1005" type="line"/>
-      <point x="1644" y="560" type="line"/>
-      <point x="1860" y="560" type="line"/>
+      <point x="1486" y="710" type="line"/>
+      <point x="1773" y="1006" type="line"/>
+      <point x="1645" y="560" type="line"/>
+      <point x="1861" y="560" type="line"/>
       <point x="2086" y="1400" type="line"/>
-      <point x="1872" y="1400" type="line"/>
-      <point x="1471" y="967" type="line"/>
+      <point x="1873" y="1400" type="line"/>
+      <point x="1471" y="968" type="line"/>
       <point x="1320" y="1400" type="line"/>
       <point x="1104" y="1400" type="line"/>
-      <point x="878" y="560" type="line"/>
+      <point x="879" y="560" type="line"/>
     </contour>
   </outline>
 </glyph>

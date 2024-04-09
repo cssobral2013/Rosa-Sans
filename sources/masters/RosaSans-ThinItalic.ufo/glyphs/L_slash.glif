@@ -2,20 +2,24 @@
 <glyph name="Lslash" format="2">
   <advance width="1094"/>
   <unicode hex="0141"/>
-  <anchor x="499" y="0" name="bottom"/>
-  <anchor x="619" y="1440" name="caron"/>
-  <anchor x="548" y="1400" name="top"/>
   <outline>
-    <component base="L"/>
     <contour>
       <point x="333" y="614" type="line"/>
-      <point x="330" y="604" type="line"/>
-      <point x="1048" y="904" type="line"/>
-      <point x="1017" y="979" type="line"/>
-      <point x="355" y="702" type="line"/>
+      <point x="331" y="604" type="line"/>
+      <point x="1049" y="904" type="line"/>
+      <point x="1018" y="980" type="line"/>
+      <point x="356" y="702" type="line"/>
       <point x="358" y="712" type="line"/>
-      <point x="72" y="591" type="line"/>
-      <point x="103" y="517" type="line"/>
+      <point x="73" y="592" type="line"/>
+      <point x="103" y="518" type="line"/>
+    </contour>
+    <contour>
+      <point x="846" y="0" type="line"/>
+      <point x="873" y="108" type="line"/>
+      <point x="215" y="108" type="line"/>
+      <point x="563" y="1400" type="line"/>
+      <point x="447" y="1400" type="line"/>
+      <point x="72" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

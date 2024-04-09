@@ -2,30 +2,29 @@
 <glyph name="AE" format="2">
   <advance width="1742"/>
   <unicode hex="00C6"/>
-  <anchor x="1372" y="1400" name="top"/>
   <outline>
     <contour>
-      <point x="-2" y="0" type="line"/>
+      <point x="-1" y="0" type="line"/>
       <point x="280" y="380" type="line"/>
       <point x="743" y="380" type="line"/>
-      <point x="641" y="0" type="line"/>
-      <point x="1461" y="0" type="line"/>
+      <point x="642" y="0" type="line"/>
+      <point x="1462" y="0" type="line"/>
       <point x="1489" y="108" type="line"/>
       <point x="785" y="108" type="line"/>
       <point x="942" y="688" type="line"/>
       <point x="1570" y="688" type="line"/>
       <point x="1598" y="796" type="line"/>
       <point x="970" y="796" type="line"/>
-      <point x="1104" y="1292" type="line"/>
-      <point x="1800" y="1292" type="line"/>
+      <point x="1105" y="1292" type="line"/>
+      <point x="1801" y="1292" type="line"/>
       <point x="1828" y="1400" type="line"/>
-      <point x="946" y="1400" type="line"/>
-      <point x="-138" y="0" type="line"/>
+      <point x="947" y="1400" type="line"/>
+      <point x="-137" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="991" y="1299" type="line"/>
-      <point x="770" y="484" type="line"/>
-      <point x="354" y="484" type="line"/>
+      <point x="992" y="1299" type="line"/>
+      <point x="771" y="484" type="line"/>
+      <point x="355" y="484" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -2,10 +2,8 @@
 <glyph name="lacute" format="2">
   <advance width="678"/>
   <unicode hex="013A"/>
-  <anchor x="149" y="0" name="bottom"/>
-  <anchor x="667" y="1440" name="caron"/>
   <outline>
     <component base="l"/>
-    <component base="acutecomb.case" xOffset="1343" yOffset="41"/>
+    <component base="acutecomb.case" xOffset="1342" yOffset="41"/>
   </outline>
 </glyph>

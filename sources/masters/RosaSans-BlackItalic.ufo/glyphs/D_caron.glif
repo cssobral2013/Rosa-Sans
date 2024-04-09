@@ -2,9 +2,8 @@
 <glyph name="Dcaron" format="2">
   <advance width="1480"/>
   <unicode hex="010E"/>
-  <anchor x="486" y="712" name="bar"/>
   <outline>
     <component base="D"/>
-    <component base="caroncomb.case" xOffset="1784"/>
+    <component base="uni030C.case" xOffset="1785"/>
   </outline>
 </glyph>

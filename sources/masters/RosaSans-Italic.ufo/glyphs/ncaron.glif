@@ -2,9 +2,8 @@
 <glyph name="ncaron" format="2">
   <advance width="1260"/>
   <unicode hex="0148"/>
-  <anchor x="499" y="0" name="bottom"/>
   <outline>
-    <component base="n" xOffset="-1"/>
-    <component base="caroncomb" xOffset="1480"/>
+    <component base="n"/>
+    <component base="uni030C" xOffset="1481"/>
   </outline>
 </glyph>

@@ -3,6 +3,6 @@
   <advance width="1000"/>
   <unicode hex="02DD"/>
   <outline>
-    <component base="hungarumlautcomb" xOffset="1126"/>
+    <component base="uni030B" xOffset="1126"/>
   </outline>
 </glyph>

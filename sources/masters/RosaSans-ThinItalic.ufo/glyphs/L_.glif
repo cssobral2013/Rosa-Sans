@@ -2,14 +2,11 @@
 <glyph name="L" format="2">
   <advance width="1054"/>
   <unicode hex="004C"/>
-  <anchor x="459" y="0" name="bottom"/>
-  <anchor x="575" y="1440" name="caron"/>
-  <anchor x="504" y="1400" name="top"/>
   <outline>
     <contour>
       <point x="845" y="0" type="line"/>
-      <point x="873" y="108" type="line"/>
-      <point x="215" y="108" type="line"/>
+      <point x="874" y="108" type="line"/>
+      <point x="216" y="108" type="line"/>
       <point x="562" y="1400" type="line"/>
       <point x="446" y="1400" type="line"/>
       <point x="71" y="0" type="line"/>

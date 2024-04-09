@@ -2,13 +2,8 @@
 <glyph name="Acircumflex" format="2">
   <advance width="1498"/>
   <unicode hex="00C2"/>
-  <anchor x="618" y="0" name="bottom"/>
-  <anchor x="1319" y="0" name="ogonek"/>
-  <anchor x="1101" y="1806" name="top"/>
-  <anchor x="1577" y="1734" name="top_right"/>
-  <anchor x="505" y="1400" name="topleft"/>
   <outline>
-    <component base="A" xOffset="-1"/>
-    <component base="circumflexcomb.case" xOffset="1821"/>
+    <component base="A"/>
+    <component base="uni0302.case" xOffset="1822"/>
   </outline>
 </glyph>

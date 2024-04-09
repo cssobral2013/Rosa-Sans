@@ -2,9 +2,6 @@
 <glyph name="Tau" format="2">
   <advance width="1084"/>
   <unicode hex="03A4"/>
-  <anchor x="542" y="1400" name="top"/>
-  <anchor x="542" y="0" name="bottom"/>
-  <anchor x="542" y="722" name="strokeshort"/>
   <outline>
     <component base="T"/>
   </outline>

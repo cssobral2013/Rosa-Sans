@@ -2,9 +2,8 @@
 <glyph name="Omegatonos" format="2">
   <advance width="1668"/>
   <unicode hex="038F"/>
-  <anchor x="632" y="0" name="bottom"/>
   <outline>
-    <component base="Omega"/>
-    <component base="tonos.case" xOffset="-437"/>
+    <component base="uni03A9" xOffset="1"/>
+    <component base="tonos.case" xOffset="-436"/>
   </outline>
 </glyph>

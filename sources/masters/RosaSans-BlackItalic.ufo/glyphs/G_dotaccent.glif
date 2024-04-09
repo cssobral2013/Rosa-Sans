@@ -2,10 +2,8 @@
 <glyph name="Gdotaccent" format="2">
   <advance width="1512"/>
   <unicode hex="0120"/>
-  <anchor x="762" y="0" name="bottom"/>
-  <anchor x="1097" y="1834" name="top"/>
   <outline>
     <component base="G"/>
-    <component base="dotaccentcomb.case" xOffset="1584"/>
+    <component base="uni0307.case" xOffset="1584"/>
   </outline>
 </glyph>

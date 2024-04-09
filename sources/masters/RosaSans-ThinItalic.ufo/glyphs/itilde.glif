@@ -2,11 +2,8 @@
 <glyph name="itilde" format="2">
   <advance width="452"/>
   <unicode hex="0129"/>
-  <anchor x="97" y="0" name="bottom"/>
-  <anchor x="153" y="0" name="ogonek"/>
-  <anchor x="459" y="1344" name="top"/>
   <outline>
-    <component base="idotless"/>
+    <component base="dotlessi" xOffset="1"/>
     <component base="tildecomb.narrow" xOffset="1005"/>
   </outline>
 </glyph>

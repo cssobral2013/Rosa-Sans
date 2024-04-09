@@ -3,23 +3,17 @@
   <advance width="1296"/>
   <outline>
     <contour>
-      <point x="1047" y="0" type="line"/>
-      <point x="1109" y="233" type="line"/>
-      <point x="739" y="233" type="line"/>
-      <point x="1054" y="1400" type="line"/>
-      <point x="988" y="1400" type="line"/>
-      <point x="296" y="1179" type="line"/>
-      <point x="358" y="981" type="line"/>
-      <point x="737" y="1102" type="line"/>
-      <point x="499" y="233" type="line"/>
-      <point x="85" y="233" type="line"/>
-      <point x="23" y="0" type="line"/>
+      <point x="1048" y="0" type="line"/>
+      <point x="1110" y="233" type="line"/>
+      <point x="740" y="233" type="line"/>
+      <point x="1055" y="1400" type="line"/>
+      <point x="989" y="1400" type="line"/>
+      <point x="297" y="1179" type="line"/>
+      <point x="359" y="981" type="line"/>
+      <point x="738" y="1102" type="line"/>
+      <point x="500" y="233" type="line"/>
+      <point x="86" y="233" type="line"/>
+      <point x="24" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsWidth</key>
-  <string>=1296</string>
-  </dict>
-  </lib>
 </glyph>

@@ -2,8 +2,6 @@
 <glyph name="Racute" format="2">
   <advance width="1410"/>
   <unicode hex="0154"/>
-  <anchor x="668" y="1400" name="top"/>
-  <anchor x="734" y="0" name="bottom"/>
   <outline>
     <component base="R"/>
     <component base="acutecomb.case" xOffset="1500"/>

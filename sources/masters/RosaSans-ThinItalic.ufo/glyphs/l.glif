@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l" format="2">
-  <advance width="586"/>
+  <advance width="587"/>
   <unicode hex="006C"/>
-  <anchor x="103" y="0" name="bottom"/>
-  <anchor x="549" y="1440" name="caron"/>
-  <anchor x="493" y="1440" name="top"/>
   <outline>
     <contour>
-      <point x="270" y="-31" type="curve" smooth="yes"/>
-      <point x="110" y="-31"/>
-      <point x="64" y="74"/>
-      <point x="104" y="210" type="curve"/>
-      <point x="437" y="1440" type="line"/>
-      <point x="549" y="1440" type="line"/>
-      <point x="232" y="256" type="line" smooth="yes"/>
-      <point x="206" y="157"/>
-      <point x="204" y="77"/>
-      <point x="301" y="77" type="curve" smooth="yes"/>
-      <point x="334" y="77"/>
-      <point x="372" y="85"/>
-      <point x="418" y="96" type="curve"/>
-      <point x="427" y="-9" type="line"/>
-      <point x="367" y="-27"/>
-      <point x="303" y="-31"/>
+      <point x="270" y="-31" type="qcurve" smooth="yes"/>
+      <point x="211" y="-31"/>
+      <point x="132" y="6"/>
+      <point x="93" y="72"/>
+      <point x="90" y="159"/>
+      <point x="105" y="211" type="qcurve"/>
+      <point x="438" y="1440" type="line"/>
+      <point x="550" y="1440" type="line"/>
+      <point x="232" y="257" type="line"/>
+      <point x="223" y="219"/>
+      <point x="214" y="155"/>
+      <point x="228" y="105"/>
+      <point x="266" y="78"/>
+      <point x="301" y="78" type="qcurve" smooth="yes"/>
+      <point x="327" y="78"/>
+      <point x="383" y="89"/>
+      <point x="418" y="97" type="qcurve"/>
+      <point x="427" y="-8" type="line"/>
+      <point x="382" y="-22"/>
+      <point x="295" y="-31"/>
     </contour>
   </outline>
 </glyph>

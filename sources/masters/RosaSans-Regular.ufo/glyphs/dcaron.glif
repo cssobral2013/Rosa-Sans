@@ -2,10 +2,8 @@
 <glyph name="dcaron" format="2">
   <advance width="1419"/>
   <unicode hex="010F"/>
-  <anchor x="1160" y="1440" name="Anchor_2"/>
-  <anchor x="985" y="1214" name="strokeshort"/>
   <outline>
     <component base="d"/>
-    <component base="caroncomb.alt" xOffset="1420"/>
+    <component base="uni030C.alt" xOffset="1420"/>
   </outline>
 </glyph>

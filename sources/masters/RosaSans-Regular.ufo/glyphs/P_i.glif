@@ -2,8 +2,7 @@
 <glyph name="Pi" format="2">
   <advance width="1512"/>
   <unicode hex="03A0"/>
-  <anchor x="756" y="1400" name="top"/>
   <outline>
-    <component base="Pe-cy"/>
+    <component base="uni041F"/>
   </outline>
 </glyph>

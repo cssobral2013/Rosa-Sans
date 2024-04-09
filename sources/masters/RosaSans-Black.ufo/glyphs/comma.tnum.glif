@@ -2,6 +2,6 @@
 <glyph name="comma.tnum" format="2">
   <advance width="600"/>
   <outline>
-    <component base="comma" xOffset="7"/>
+    <component base="comma" xOffset="8"/>
   </outline>
 </glyph>

@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fl" format="2">
-  <advance width="1300"/>
+  <advance width="1301"/>
   <unicode hex="FB02"/>
-  <anchor x="589" y="0" name="caret_1"/>
-  <anchor x="817" y="0" name="bottom"/>
-  <anchor x="1263" y="1440" name="caron"/>
-  <anchor x="1207" y="1440" name="top"/>
   <outline>
-    <component base="f" xOffset="6"/>
-    <component base="l" xOffset="713"/>
+    <component base="f" xOffset="7"/>
+    <component base="l" xOffset="714"/>
   </outline>
 </glyph>

@@ -5,12 +5,4 @@
   <outline>
     <component base="colon" xOffset="49" yOffset="180"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=122</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>=600</string>
-  </dict>
-  </lib>
 </glyph>

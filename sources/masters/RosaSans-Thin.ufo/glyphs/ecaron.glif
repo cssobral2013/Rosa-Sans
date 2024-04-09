@@ -2,10 +2,8 @@
 <glyph name="ecaron" format="2">
   <advance width="1101"/>
   <unicode hex="011B"/>
-  <anchor x="572" y="960" name="top"/>
-  <anchor x="556" y="0" name="bottom"/>
   <outline>
     <component base="e"/>
-    <component base="caroncomb" xOffset="1158"/>
+    <component base="uni030C" xOffset="1158"/>
   </outline>
 </glyph>

@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tildecomb.case" format="2">
-  <anchor x="-810" y="1399" name="top"/>
-  <anchor x="-810" y="1780" name="top.1"/>
   <outline>
-    <component base="tildecomb" xOffset="-154" yOffset="378"/>
+    <component base="tildecomb" xOffset="-220" yOffset="394"/>
   </outline>
 </glyph>

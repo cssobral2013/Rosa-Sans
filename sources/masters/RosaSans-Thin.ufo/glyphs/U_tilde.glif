@@ -2,11 +2,8 @@
 <glyph name="Utilde" format="2">
   <advance width="1444"/>
   <unicode hex="0168"/>
-  <anchor x="722" y="1760" name="top"/>
-  <anchor x="1254" y="1400" name="horn"/>
-  <anchor x="722" y="0" name="bottom"/>
   <outline>
     <component base="U"/>
-    <component base="tildecomb.case" xOffset="1510" yOffset="2"/>
+    <component base="tildecomb.case" xOffset="1511" yOffset="2"/>
   </outline>
 </glyph>

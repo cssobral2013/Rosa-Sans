@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lacute" format="2">
-  <advance width="769"/>
+  <advance width="767"/>
   <unicode hex="013A"/>
-  <anchor x="192" y="0" name="bottom"/>
-  <anchor x="782" y="1440" name="caron"/>
   <outline>
     <component base="l"/>
-    <component base="acutecomb.case" xOffset="1411" yOffset="40"/>
+    <component base="acutecomb.case" xOffset="1410" yOffset="40"/>
   </outline>
 </glyph>

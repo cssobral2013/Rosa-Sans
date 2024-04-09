@@ -2,7 +2,6 @@
 <glyph name="upsilondieresistonos" format="2">
   <advance width="1281"/>
   <unicode hex="03B0"/>
-  <anchor x="612" y="1040" name="top"/>
   <outline>
     <component base="upsilon"/>
     <component base="dieresistonos" xOffset="1250"/>

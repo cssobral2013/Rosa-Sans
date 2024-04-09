@@ -2,10 +2,8 @@
 <glyph name="igrave" format="2">
   <advance width="554"/>
   <unicode hex="00EC"/>
-  <anchor x="277" y="1000" name="top"/>
-  <anchor x="277" y="0" name="bottom"/>
   <outline>
-    <component base="idotless"/>
+    <component base="dotlessi"/>
     <component base="gravecomb.narrow" xOffset="889"/>
   </outline>
 </glyph>

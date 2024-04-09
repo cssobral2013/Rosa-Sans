@@ -2,11 +2,8 @@
 <glyph name="obreve" format="2">
   <advance width="1276"/>
   <unicode hex="014F"/>
-  <anchor x="638" y="1484" name="top"/>
-  <anchor x="1038" y="1040" name="horn"/>
-  <anchor x="638" y="0" name="bottom"/>
   <outline>
     <component base="o"/>
-    <component base="brevecomb" xOffset="1276"/>
+    <component base="uni0306" xOffset="1276"/>
   </outline>
 </glyph>

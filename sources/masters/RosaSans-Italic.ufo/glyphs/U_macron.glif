@@ -2,11 +2,8 @@
 <glyph name="Umacron" format="2">
   <advance width="1493"/>
   <unicode hex="016A"/>
-  <anchor x="657" y="0" name="bottom"/>
-  <anchor x="1566" y="1400" name="horn"/>
-  <anchor x="978" y="0" name="ogonek"/>
   <outline>
     <component base="U"/>
-    <component base="macroncomb.case" xOffset="1558" yOffset="1"/>
+    <component base="uni0304.case" xOffset="1558" yOffset="1"/>
   </outline>
 </glyph>

@@ -2,7 +2,6 @@
 <glyph name="Z" format="2">
   <advance width="1173"/>
   <unicode hex="005A"/>
-  <anchor x="592" y="1400" name="top"/>
   <outline>
     <contour>
       <point x="88" y="0" type="line"/>

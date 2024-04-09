@@ -2,10 +2,8 @@
 <glyph name="tbar" format="2">
   <advance width="840"/>
   <unicode hex="0167"/>
-  <anchor x="393" y="0" name="bottom"/>
-  <anchor x="659" y="1440" name="caron"/>
   <outline>
     <component base="t" xOffset="9"/>
-    <component base="strokeshortcomb" xOffset="999"/>
+    <component base="uni0335" xOffset="1000"/>
   </outline>
 </glyph>

@@ -2,11 +2,8 @@
 <glyph name="uhorn" format="2">
   <advance width="1354"/>
   <unicode hex="01B0"/>
-  <anchor x="615" y="1000" name="top"/>
-  <anchor x="1085" y="1000" name="horn"/>
-  <anchor x="605" y="0" name="bottom"/>
   <outline>
     <component base="u"/>
-    <component base="horncomb.alt" xOffset="1354"/>
+    <component base="uni031B.alt" xOffset="1354"/>
   </outline>
 </glyph>

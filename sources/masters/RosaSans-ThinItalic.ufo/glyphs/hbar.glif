@@ -2,9 +2,8 @@
 <glyph name="hbar" format="2">
   <advance width="1154"/>
   <unicode hex="0127"/>
-  <anchor x="486" y="1440" name="top"/>
   <outline>
-    <component base="h"/>
-    <component base="strokeshortcomb" xOffset="1122" yOffset="684"/>
+    <component base="h" xOffset="1"/>
+    <component base="uni0335" xOffset="1122" yOffset="684"/>
   </outline>
 </glyph>

@@ -2,9 +2,8 @@
 <glyph name="omicrontonos" format="2">
   <advance width="1172"/>
   <unicode hex="03CC"/>
-  <anchor x="682" y="960" name="_top"/>
   <outline>
     <component base="omicron"/>
-    <component base="tonos" xOffset="356"/>
+    <component base="tonos" xOffset="357"/>
   </outline>
 </glyph>

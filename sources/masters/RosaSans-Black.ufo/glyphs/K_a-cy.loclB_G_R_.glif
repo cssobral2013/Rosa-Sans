@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ka-cy.loclBGR" format="2">
-  <advance width="1522"/>
-  <anchor x="764" y="1400" name="top"/>
-  <outline>
-    <component base="Ka-cy"/>
-  </outline>
-</glyph>

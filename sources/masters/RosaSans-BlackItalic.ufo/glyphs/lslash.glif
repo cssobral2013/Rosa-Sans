@@ -2,20 +2,38 @@
 <glyph name="lslash" format="2">
   <advance width="836"/>
   <unicode hex="0142"/>
-  <anchor x="274" y="0" name="bottom"/>
-  <anchor x="868" y="1440" name="caron"/>
-  <anchor x="668" y="1440" name="top"/>
   <outline>
-    <component base="l" xOffset="-3"/>
     <contour>
       <point x="366" y="530" type="line"/>
-      <point x="358" y="490" type="line"/>
-      <point x="855" y="688" type="line"/>
-      <point x="746" y="969" type="line"/>
+      <point x="359" y="490" type="line"/>
+      <point x="856" y="689" type="line"/>
+      <point x="747" y="970" type="line"/>
       <point x="419" y="838" type="line"/>
       <point x="424" y="878" type="line"/>
-      <point x="-74" y="670" type="line"/>
+      <point x="-73" y="671" type="line"/>
       <point x="34" y="393" type="line"/>
+    </contour>
+    <contour>
+      <point x="407" y="-31" type="qcurve" smooth="yes"/>
+      <point x="297" y="-31"/>
+      <point x="153" y="44"/>
+      <point x="79" y="159"/>
+      <point x="66" y="291"/>
+      <point x="85" y="350" type="qcurve"/>
+      <point x="380" y="1440" type="line"/>
+      <point x="780" y="1440" type="line"/>
+      <point x="499" y="414" type="line"/>
+      <point x="493" y="389"/>
+      <point x="493" y="350"/>
+      <point x="512" y="321"/>
+      <point x="544" y="307"/>
+      <point x="566" y="307" type="qcurve" smooth="yes"/>
+      <point x="581" y="307"/>
+      <point x="614" y="312"/>
+      <point x="633" y="318" type="qcurve"/>
+      <point x="620" y="9" type="line"/>
+      <point x="557" y="-13"/>
+      <point x="452" y="-31"/>
     </contour>
   </outline>
 </glyph>

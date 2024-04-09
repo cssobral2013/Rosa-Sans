@@ -2,9 +2,6 @@
 <glyph name="trademark" format="2">
   <advance width="1919"/>
   <unicode hex="2122"/>
-  <anchor x="507" y="968" name="bar"/>
-  <anchor x="397" y="560" name="bottom"/>
-  <anchor x="622" y="1400" name="top"/>
   <outline>
     <contour>
       <point x="481" y="560" type="line"/>

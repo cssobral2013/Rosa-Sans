@@ -2,7 +2,6 @@
 <glyph name="fi" format="2">
   <advance width="1540"/>
   <unicode hex="FB01"/>
-  <anchor x="760" y="0" name="caret"/>
   <outline>
     <component base="f"/>
     <component base="i" xOffset="884"/>

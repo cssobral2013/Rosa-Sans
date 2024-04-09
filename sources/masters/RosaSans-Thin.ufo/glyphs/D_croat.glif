@@ -2,8 +2,6 @@
 <glyph name="Dcroat" format="2">
   <advance width="1436"/>
   <unicode hex="0110"/>
-  <anchor x="716" y="1400" name="top"/>
-  <anchor x="476" y="742" name="strokeshort"/>
   <outline>
     <component base="Eth"/>
   </outline>

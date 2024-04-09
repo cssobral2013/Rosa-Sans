@@ -2,11 +2,8 @@
 <glyph name="i" format="2">
   <advance width="554"/>
   <unicode hex="0069"/>
-  <anchor x="142" y="0" name="bottom"/>
-  <anchor x="270" y="0" name="ogonek"/>
-  <anchor x="514" y="1384" name="top"/>
   <outline>
-    <component base="idotless" xOffset="-1"/>
-    <component base="dotaccentcomb" xOffset="886"/>
+    <component base="dotlessi"/>
+    <component base="uni0307" xOffset="886"/>
   </outline>
 </glyph>

@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gravecomb.narrow" format="2">
-  <anchor x="-694" y="1040" name="_top"/>
   <outline>
     <contour>
       <point x="-467" y="1170" type="line"/>
       <point x="-548" y="1544" type="line"/>
       <point x="-933" y="1544" type="line"/>
-      <point x="-743" y="1170" type="line"/>
+      <point x="-742" y="1170" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -2,10 +2,8 @@
 <glyph name="Ycircumflex" format="2">
   <advance width="1342"/>
   <unicode hex="0176"/>
-  <anchor x="670" y="1806" name="top"/>
-  <anchor x="672" y="0" name="bottom"/>
   <outline>
     <component base="Y"/>
-    <component base="circumflexcomb.case" xOffset="1504"/>
+    <component base="uni0302.case" xOffset="1504"/>
   </outline>
 </glyph>

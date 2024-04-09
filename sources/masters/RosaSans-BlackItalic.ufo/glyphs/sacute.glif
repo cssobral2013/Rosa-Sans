@@ -2,9 +2,8 @@
 <glyph name="sacute" format="2">
   <advance width="1088"/>
   <unicode hex="015B"/>
-  <anchor x="421" y="0" name="bottom"/>
   <outline>
-    <component base="s" xOffset="-1"/>
-    <component base="acutecomb" xOffset="1361"/>
+    <component base="s"/>
+    <component base="acutecomb" xOffset="1362"/>
   </outline>
 </glyph>

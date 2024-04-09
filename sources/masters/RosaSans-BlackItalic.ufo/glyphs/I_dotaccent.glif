@@ -2,12 +2,8 @@
 <glyph name="Idotaccent" format="2">
   <advance width="716"/>
   <unicode hex="0130"/>
-  <anchor x="218" y="0" name="bottom"/>
-  <anchor x="420" y="0" name="ogonek"/>
-  <anchor x="704" y="1834" name="top"/>
-  <anchor x="275" y="1400" name="topleft"/>
   <outline>
-    <component base="I" xOffset="-1"/>
-    <component base="dotaccentcomb.case" xOffset="1192"/>
+    <component base="I"/>
+    <component base="uni0307.case" xOffset="1192"/>
   </outline>
 </glyph>

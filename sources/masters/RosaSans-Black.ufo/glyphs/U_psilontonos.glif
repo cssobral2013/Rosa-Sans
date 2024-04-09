@@ -2,8 +2,6 @@
 <glyph name="Upsilontonos" format="2">
   <advance width="1342"/>
   <unicode hex="038E"/>
-  <anchor x="670" y="1400" name="top"/>
-  <anchor x="672" y="0" name="bottom"/>
   <outline>
     <component base="Upsilon"/>
     <component base="tonos.case" xOffset="-544"/>

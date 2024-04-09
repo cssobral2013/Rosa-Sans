@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0302_tildecomb" format="2">
+  <outline>
+    <component base="uni0302"/>
+    <component base="tildecomb" xOffset="119" yOffset="444"/>
+  </outline>
+</glyph>

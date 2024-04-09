@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acutecomb.narrow" format="2">
-  <anchor x="-691" y="1040" name="_top"/>
   <outline>
     <contour>
-      <point x="-568" y="1170" type="line"/>
-      <point x="-188" y="1544" type="line"/>
+      <point x="-567" y="1170" type="line"/>
+      <point x="-187" y="1544" type="line"/>
       <point x="-597" y="1544" type="line"/>
-      <point x="-859" y="1170" type="line"/>
+      <point x="-858" y="1170" type="line"/>
     </contour>
   </outline>
 </glyph>

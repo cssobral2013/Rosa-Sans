@@ -2,9 +2,7 @@
 <glyph name="Eta" format="2">
   <advance width="1588"/>
   <unicode hex="0397"/>
-  <anchor x="1029" y="1400" name="top"/>
-  <anchor x="275" y="1400" name="topleft"/>
   <outline>
-    <component base="H" xOffset="-1"/>
+    <component base="H"/>
   </outline>
 </glyph>

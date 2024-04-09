@@ -2,7 +2,6 @@
 <glyph name="Wgrave" format="2">
   <advance width="2104"/>
   <unicode hex="1E80"/>
-  <anchor x="1052" y="1400" name="top"/>
   <outline>
     <component base="W"/>
     <component base="gravecomb.case" xOffset="1884"/>

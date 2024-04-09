@@ -2,10 +2,8 @@
 <glyph name="Lcaron" format="2">
   <advance width="1150"/>
   <unicode hex="013D"/>
-  <anchor x="485" y="0" name="bottom"/>
-  <anchor x="594" y="1400" name="top"/>
   <outline>
-    <component base="L" xOffset="-1"/>
-    <component base="caroncomb.alt_case" xOffset="1151"/>
+    <component base="L"/>
+    <component base="uni030C.alt_case" xOffset="1151"/>
   </outline>
 </glyph>

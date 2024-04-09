@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="idotaccent" format="2">
   <advance width="554"/>
-  <anchor x="144" y="0" name="bottom"/>
-  <anchor x="272" y="0" name="ogonek"/>
-  <anchor x="515" y="1384" name="top"/>
   <outline>
     <component base="i" xOffset="1"/>
   </outline>

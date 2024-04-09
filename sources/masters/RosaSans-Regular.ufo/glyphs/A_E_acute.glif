@@ -2,7 +2,6 @@
 <glyph name="AEacute" format="2">
   <advance width="1794"/>
   <unicode hex="01FC"/>
-  <anchor x="1156" y="1400" name="top"/>
   <outline>
     <component base="AE"/>
     <component base="acutecomb.case" xOffset="1967" yOffset="1"/>

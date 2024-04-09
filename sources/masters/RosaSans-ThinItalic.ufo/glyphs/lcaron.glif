@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lcaron" format="2">
-  <advance width="586"/>
+  <advance width="590"/>
   <unicode hex="013E"/>
-  <anchor x="152" y="0" name="bottom"/>
-  <anchor x="542" y="1440" name="top"/>
   <outline>
-    <component base="l" xOffset="48"/>
-    <component base="caroncomb.alt" xOffset="767"/>
+    <component base="l" xOffset="51"/>
+    <component base="uni030C.alt" xOffset="770"/>
   </outline>
 </glyph>

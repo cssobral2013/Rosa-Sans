@@ -2,9 +2,8 @@
 <glyph name="j" format="2">
   <advance width="656"/>
   <unicode hex="006A"/>
-  <anchor x="587" y="1484" name="top"/>
   <outline>
-    <component base="jdotless" xOffset="-1"/>
-    <component base="dotaccentcomb" xOffset="964"/>
+    <component base="uni0237"/>
+    <component base="uni0307" xOffset="965"/>
   </outline>
 </glyph>

@@ -1,26 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iota" format="2">
-  <advance width="586"/>
+  <advance width="587"/>
   <unicode hex="03B9"/>
-  <anchor x="352" y="960" name="top"/>
   <outline>
     <contour>
-      <point x="257" y="-31" type="curve" smooth="yes"/>
-      <point x="290" y="-31"/>
-      <point x="354" y="-27"/>
-      <point x="414" y="-9" type="curve"/>
-      <point x="405" y="96" type="line"/>
-      <point x="359" y="85"/>
-      <point x="321" y="77"/>
-      <point x="288" y="77" type="curve" smooth="yes"/>
-      <point x="191" y="77"/>
-      <point x="193" y="157"/>
-      <point x="219" y="256" type="curve" smooth="yes"/>
-      <point x="408" y="960" type="line"/>
-      <point x="296" y="960" type="line"/>
-      <point x="91" y="210" type="line"/>
-      <point x="51" y="74"/>
-      <point x="97" y="-31"/>
+      <point x="257" y="-31" type="qcurve" smooth="yes"/>
+      <point x="282" y="-31"/>
+      <point x="369" y="-22"/>
+      <point x="414" y="-8" type="qcurve"/>
+      <point x="405" y="97" type="line"/>
+      <point x="370" y="89"/>
+      <point x="314" y="78"/>
+      <point x="288" y="78" type="qcurve" smooth="yes"/>
+      <point x="253" y="78"/>
+      <point x="215" y="105"/>
+      <point x="201" y="155"/>
+      <point x="210" y="219"/>
+      <point x="219" y="257" type="qcurve"/>
+      <point x="409" y="960" type="line"/>
+      <point x="297" y="960" type="line"/>
+      <point x="92" y="211" type="line"/>
+      <point x="77" y="159"/>
+      <point x="80" y="72"/>
+      <point x="119" y="6"/>
+      <point x="198" y="-31"/>
     </contour>
   </outline>
 </glyph>

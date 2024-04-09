@@ -2,9 +2,8 @@
 <glyph name="Iotatonos" format="2">
   <advance width="516"/>
   <unicode hex="038A"/>
-  <anchor x="366" y="1400" name="_topleft"/>
   <outline>
-    <component base="Iota"/>
-    <component base="tonos.case" xOffset="-284"/>
+    <component base="Iota" xOffset="1"/>
+    <component base="tonos.case" xOffset="-283"/>
   </outline>
 </glyph>

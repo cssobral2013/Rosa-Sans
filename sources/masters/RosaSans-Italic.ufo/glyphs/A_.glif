@@ -2,10 +2,6 @@
 <glyph name="A" format="2">
   <advance width="1411"/>
   <unicode hex="0041"/>
-  <anchor x="570" y="0" name="bottom"/>
-  <anchor x="1239" y="0" name="ogonek"/>
-  <anchor x="945" y="1400" name="top"/>
-  <anchor x="540" y="1400" name="topleft"/>
   <outline>
     <contour>
       <point x="184" y="0" type="line"/>
@@ -15,7 +11,7 @@
       <point x="1259" y="0" type="line"/>
       <point x="1088" y="1400" type="line"/>
       <point x="799" y="1400" type="line"/>
-      <point x="-118" y="0" type="line"/>
+      <point x="-117" y="0" type="line"/>
     </contour>
     <contour>
       <point x="867" y="1098" type="line"/>

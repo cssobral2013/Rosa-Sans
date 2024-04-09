@@ -2,6 +2,6 @@
 <glyph name="idotaccent" format="2">
   <advance width="452"/>
   <outline>
-    <component base="i"/>
+    <component base="i" xOffset="1"/>
   </outline>
 </glyph>

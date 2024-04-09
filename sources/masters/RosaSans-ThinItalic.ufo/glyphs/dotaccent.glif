@@ -2,9 +2,7 @@
 <glyph name="dotaccent" format="2">
   <advance width="1000"/>
   <unicode hex="02D9"/>
-  <anchor x="672" y="960" name="_top"/>
-  <anchor x="758" y="1284" name="top"/>
   <outline>
-    <component base="dotaccentcomb" xOffset="1126"/>
+    <component base="uni0307" xOffset="1126"/>
   </outline>
 </glyph>

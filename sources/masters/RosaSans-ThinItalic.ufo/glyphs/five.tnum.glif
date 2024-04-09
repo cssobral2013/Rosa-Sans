@@ -2,6 +2,6 @@
 <glyph name="five.tnum" format="2">
   <advance width="1296"/>
   <outline>
-    <component base="five" xOffset="81"/>
+    <component base="five" xOffset="82"/>
   </outline>
 </glyph>

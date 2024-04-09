@@ -2,11 +2,8 @@
 <glyph name="Tbar" format="2">
   <advance width="1175"/>
   <unicode hex="0166"/>
-  <anchor x="587" y="1400" name="top"/>
-  <anchor x="587" y="0" name="bottom"/>
-  <anchor x="588" y="683" name="strokeshort"/>
   <outline>
     <component base="T" xOffset="20"/>
-    <component base="strokeshortcomb.case" xOffset="1424" yOffset="-44"/>
+    <component base="uni0335.case" xOffset="1424" yOffset="-44"/>
   </outline>
 </glyph>

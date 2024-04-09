@@ -2,11 +2,8 @@
 <glyph name="Hcircumflex" format="2">
   <advance width="1588"/>
   <unicode hex="0124"/>
-  <anchor x="1138" y="1806" name="top"/>
-  <anchor x="1613" y="1734" name="top_right"/>
-  <anchor x="275" y="1400" name="topleft"/>
   <outline>
-    <component base="H" xOffset="-1"/>
-    <component base="circumflexcomb.case" xOffset="1858"/>
+    <component base="H"/>
+    <component base="uni0302.case" xOffset="1859"/>
   </outline>
 </glyph>

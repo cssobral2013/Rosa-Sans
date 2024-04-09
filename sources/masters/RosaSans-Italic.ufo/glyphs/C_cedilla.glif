@@ -2,9 +2,8 @@
 <glyph name="Ccedilla" format="2">
   <advance width="1399"/>
   <unicode hex="00C7"/>
-  <anchor x="967" y="1400" name="top"/>
   <outline>
     <component base="C"/>
-    <component base="cedillacomb" xOffset="1248"/>
+    <component base="uni0327" xOffset="1248"/>
   </outline>
 </glyph>

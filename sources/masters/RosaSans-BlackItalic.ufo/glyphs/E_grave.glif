@@ -2,11 +2,8 @@
 <glyph name="Egrave" format="2">
   <advance width="1306"/>
   <unicode hex="00C8"/>
-  <anchor x="531" y="0" name="bottom"/>
-  <anchor x="1063" y="0" name="ogonek"/>
-  <anchor x="276" y="1400" name="topleft"/>
   <outline>
-    <component base="E" xOffset="-1"/>
+    <component base="E"/>
     <component base="gravecomb.case" xOffset="1738"/>
   </outline>
 </glyph>
