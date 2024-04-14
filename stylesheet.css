@@ -11,8 +11,8 @@
 @font-face {
     font-family: 'Rosa Sans';
     src: url('web/RosaSans-ThinItalic.woff2') format('woff2'),
-        url('web/RosaSans-ThinLightItalic.woff') format('woff'),
-        url('ttf/RosaSans-ThinLightItalic.ttf') format('truetype');
+        url('web/RosaSans-ThinItalic.woff') format('woff'),
+        url('ttf/RosaSans-ThinItalic.ttf') format('truetype');
     font-weight: 100;
     font-style: italic;
     font-display: swap;
