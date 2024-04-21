@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tugrik" format="2">
+  <advance width="1296"/>
+  <unicode hex="20AE"/>
+  <outline>
+    <contour>
+      <point x="246" y="484" type="line"/>
+      <point x="246" y="657" type="line"/>
+      <point x="648" y="870" type="line"/>
+      <point x="648" y="845" type="line"/>
+      <point x="1050" y="1058" type="line"/>
+      <point x="1050" y="885" type="line"/>
+      <point x="648" y="672" type="line"/>
+      <point x="648" y="697" type="line"/>
+    </contour>
+    <contour>
+      <point x="246" y="161" type="line"/>
+      <point x="246" y="334" type="line"/>
+      <point x="648" y="547" type="line"/>
+      <point x="648" y="522" type="line"/>
+      <point x="1050" y="735" type="line"/>
+      <point x="1050" y="562" type="line"/>
+      <point x="648" y="349" type="line"/>
+      <point x="648" y="374" type="line"/>
+    </contour>
+    <contour>
+      <point x="518" y="0" type="line"/>
+      <point x="518" y="1162" type="line"/>
+      <point x="131" y="1162" type="line"/>
+      <point x="131" y="1400" type="line"/>
+      <point x="1166" y="1400" type="line"/>
+      <point x="1166" y="1162" type="line"/>
+      <point x="779" y="1162" type="line"/>
+      <point x="779" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

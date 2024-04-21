@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Estailcyr" format="2">
+  <advance width="1392"/>
+  <unicode hex="04AA"/>
+  <outline>
+    <component base="Escyr"/>
+    <component base="cedillacomb" xOffset="1225"/>
+  </outline>
+</glyph>

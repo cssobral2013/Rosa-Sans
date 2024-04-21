@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0302_acutecomb" format="2">
-  <outline>
-    <component base="uni0302"/>
-    <component base="acutecomb" xOffset="380" yOffset="264"/>
-  </outline>
-</glyph>

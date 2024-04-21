@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="g" format="2">
-  <advance width="1168"/>
+  <advance width="1250"/>
   <unicode hex="0067"/>
   <outline>
     <contour>
@@ -75,17 +75,13 @@
       <point x="767" y="418"/>
     </contour>
     <contour>
-      <point x="898" y="895" type="line"/>
-      <point x="917" y="925"/>
-      <point x="1038" y="946"/>
-      <point x="1193" y="946" type="curve"/>
-      <point x="1221" y="1050" type="line"/>
-      <point x="1108" y="1050"/>
-      <point x="1017" y="1039"/>
-      <point x="948" y="1019" type="curve" smooth="yes"/>
-      <point x="882" y="1000"/>
-      <point x="836" y="971"/>
-      <point x="810" y="933" type="curve"/>
+      <point x="1196" y="856" type="line"/>
+      <point x="1246" y="960" type="line"/>
+      <point x="790" y="960" type="line"/>
+      <point x="795" y="906" type="line"/>
+      <point x="938" y="870"/>
+      <point x="1030" y="856"/>
+      <point x="1136" y="856" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -95,7 +91,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>3d94ca14fb41980eb0e81ce8c900c48a672e191197938f1c6e4fb76af8f4b2531aed94820e505681f0fd1e31a6fc4a7bac0e507eea3582a42c55dd295eb7789c</string>
+    <string>ad6c5f17db04aeaa5b1d7cfe178a691504d96869e41d72bfcbdafd875f4223ae25249e6a5c53c8c763c4bb2c2fcc3a786cfdfc0f07584d8db451fa8298802e1f</string>
     <key>hintSetList</key>
     <array>
       <dict>

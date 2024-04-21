@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="strokeshortcomb.case" format="2">
+  <outline>
+    <contour>
+      <point x="-1250" y="698" type="line"/>
+      <point x="-1250" y="786" type="line"/>
+      <point x="-426" y="786" type="line"/>
+      <point x="-426" y="698" type="line"/>
+    </contour>
+  </outline>
+</glyph>

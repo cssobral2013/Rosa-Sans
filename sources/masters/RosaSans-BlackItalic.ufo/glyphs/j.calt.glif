@@ -2,7 +2,7 @@
 <glyph name="j.calt" format="2">
   <advance width="656"/>
   <outline>
-    <component base="uni0237.calt"/>
-    <component base="uni0307" xOffset="965"/>
+    <component base="dotlessj.calt"/>
+    <component base="dotaccentcomb" xOffset="965"/>
   </outline>
 </glyph>

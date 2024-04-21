@@ -2,7 +2,7 @@
 <glyph name="jcircumflex.calt" format="2">
   <advance width="554"/>
   <outline>
-    <component base="uni0237.calt"/>
-    <component base="uni0302.narrow" xOffset="1078"/>
+    <component base="dotlessj.calt"/>
+    <component base="circumflexcomb.narrow" xOffset="1078"/>
   </outline>
 </glyph>

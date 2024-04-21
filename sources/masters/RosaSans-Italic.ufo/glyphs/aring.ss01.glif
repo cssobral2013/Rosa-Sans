@@ -3,6 +3,6 @@
   <advance width="1299"/>
   <outline>
     <component base="a.ss01"/>
-    <component base="uni030A" xOffset="1431"/>
+    <component base="ringcomb" xOffset="1431"/>
   </outline>
 </glyph>

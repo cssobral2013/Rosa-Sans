@@ -4,14 +4,26 @@
 <dict>
   <key>Aogonek</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>20</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>20</integer>
+    <key>Odblgrave</key>
+    <integer>-40</integer>
     <key>Tbar</key>
     <integer>-90</integer>
     <key>Tcaron</key>
     <integer>-90</integer>
+    <key>Udblgrave</key>
+    <integer>-20</integer>
     <key>anoteleia</key>
     <integer>-100</integer>
     <key>backslash</key>
     <integer>-80</integer>
+    <key>becyr</key>
+    <integer>-13</integer>
+    <key>chedieresiscyr</key>
+    <integer>-70</integer>
     <key>one</key>
     <integer>-120</integer>
     <key>pi</key>
@@ -22,20 +34,8 @@
     <integer>80</integer>
     <key>tau</key>
     <integer>-60</integer>
-    <key>uni0200</key>
-    <integer>20</integer>
-    <key>uni020C</key>
-    <integer>-40</integer>
-    <key>uni0214</key>
+    <key>udblgrave</key>
     <integer>-20</integer>
-    <key>uni0215</key>
-    <integer>-20</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>20</integer>
-    <key>uni0431</key>
-    <integer>-13</integer>
-    <key>uni04F5</key>
-    <integer>-70</integer>
     <key>upsilondieresistonos</key>
     <integer>-20</integer>
     <key>public.kern2.A2</key>
@@ -111,12 +111,119 @@
     <key>public.kern2.ygrave</key>
     <integer>-40</integer>
   </dict>
+  <key>Decyr.loclBGR</key>
+  <dict>
+    <key>Adblgrave</key>
+    <integer>20</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>20</integer>
+    <key>Odblgrave</key>
+    <integer>-40</integer>
+    <key>Tbar</key>
+    <integer>-90</integer>
+    <key>Tcaron</key>
+    <integer>-90</integer>
+    <key>Udblgrave</key>
+    <integer>-20</integer>
+    <key>anoteleia</key>
+    <integer>-100</integer>
+    <key>backslash</key>
+    <integer>-80</integer>
+    <key>becyr</key>
+    <integer>-13</integer>
+    <key>chedieresiscyr</key>
+    <integer>-70</integer>
+    <key>one</key>
+    <integer>-120</integer>
+    <key>pi</key>
+    <integer>-60</integer>
+    <key>question</key>
+    <integer>-100</integer>
+    <key>slash</key>
+    <integer>80</integer>
+    <key>tau</key>
+    <integer>-60</integer>
+    <key>udblgrave</key>
+    <integer>-20</integer>
+    <key>upsilondieresistonos</key>
+    <integer>-20</integer>
+    <key>public.kern2.A2</key>
+    <integer>20</integer>
+    <key>public.kern2.AE</key>
+    <integer>58</integer>
+    <key>public.kern2.C2</key>
+    <integer>-40</integer>
+    <key>public.kern2.Oslash2</key>
+    <integer>-16</integer>
+    <key>public.kern2.Phi2</key>
+    <integer>-50</integer>
+    <key>public.kern2.T2</key>
+    <integer>-90</integer>
+    <key>public.kern2.U</key>
+    <integer>-20</integer>
+    <key>public.kern2.V2</key>
+    <integer>-60</integer>
+    <key>public.kern2.Y2</key>
+    <integer>-120</integer>
+    <key>public.kern2.Ydieresis</key>
+    <integer>-120</integer>
+    <key>public.kern2.c2</key>
+    <integer>-10</integer>
+    <key>public.kern2.comma2</key>
+    <integer>40</integer>
+    <key>public.kern2.degree2</key>
+    <integer>-111</integer>
+    <key>public.kern2.eth2</key>
+    <integer>-10</integer>
+    <key>public.kern2.iogonek2</key>
+    <integer>56</integer>
+    <key>public.kern2.j</key>
+    <integer>49</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>49</integer>
+    <key>public.kern2.oslash2</key>
+    <integer>-10</integer>
+    <key>public.kern2.period</key>
+    <integer>40</integer>
+    <key>public.kern2.six</key>
+    <integer>-20</integer>
+    <key>public.kern2.t2</key>
+    <integer>-60</integer>
+    <key>public.kern2.tonos2</key>
+    <integer>-160</integer>
+    <key>public.kern2.u2</key>
+    <integer>-20</integer>
+    <key>public.kern2.uni0205</key>
+    <integer>-10</integer>
+    <key>public.kern2.uni021B_2</key>
+    <integer>-60</integer>
+    <key>public.kern2.uni0237</key>
+    <integer>49</integer>
+    <key>public.kern2.uni0414_2</key>
+    <integer>10</integer>
+    <key>public.kern2.uni0427</key>
+    <integer>-100</integer>
+    <key>public.kern2.uni0442</key>
+    <integer>-60</integer>
+    <key>public.kern2.uni0447</key>
+    <integer>-70</integer>
+    <key>public.kern2.uni0459_2</key>
+    <integer>40</integer>
+    <key>public.kern2.uring2</key>
+    <integer>-20</integer>
+    <key>public.kern2.v2</key>
+    <integer>-40</integer>
+    <key>public.kern2.y</key>
+    <integer>-40</integer>
+    <key>public.kern2.ygrave</key>
+    <integer>-40</integer>
+  </dict>
   <key>Ecaron</key>
   <dict>
+    <key>Idblgrave</key>
+    <integer>18</integer>
     <key>anoteleia</key>
     <integer>-63</integer>
-    <key>uni0208</key>
-    <integer>18</integer>
     <key>public.kern2.itilde2</key>
     <integer>75</integer>
     <key>public.kern2.jcircumflex</key>
@@ -135,6 +242,147 @@
     <key>public.kern2.uni0209</key>
     <integer>75</integer>
   </dict>
+  <key>Geupcyr</key>
+  <dict>
+    <key>Adblgrave</key>
+    <integer>-90</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-90</integer>
+    <key>Idblgrave</key>
+    <integer>104</integer>
+    <key>Odblgrave</key>
+    <integer>-63</integer>
+    <key>Tbar</key>
+    <integer>13</integer>
+    <key>Tcaron</key>
+    <integer>13</integer>
+    <key>Yacyr</key>
+    <integer>-43</integer>
+    <key>adblgrave</key>
+    <integer>35</integer>
+    <key>anoteleia</key>
+    <integer>-45</integer>
+    <key>backslash</key>
+    <integer>120</integer>
+    <key>chi</key>
+    <integer>-68</integer>
+    <key>gestrokecyr</key>
+    <integer>-85</integer>
+    <key>hcircumflex</key>
+    <integer>146</integer>
+    <key>igrave</key>
+    <integer>18</integer>
+    <key>one</key>
+    <integer>36</integer>
+    <key>pi</key>
+    <integer>-76</integer>
+    <key>rcommaaccent</key>
+    <integer>-94</integer>
+    <key>rho</key>
+    <integer>-111</integer>
+    <key>semicolon</key>
+    <integer>-80</integer>
+    <key>slash</key>
+    <integer>-120</integer>
+    <key>udblgrave</key>
+    <integer>-11</integer>
+    <key>upsilondieresistonos</key>
+    <integer>-11</integer>
+    <key>yacyr</key>
+    <integer>-114</integer>
+    <key>public.kern2.A2</key>
+    <integer>-90</integer>
+    <key>public.kern2.C2</key>
+    <integer>-63</integer>
+    <key>public.kern2.Igrave2</key>
+    <integer>104</integer>
+    <key>public.kern2.J2</key>
+    <integer>-120</integer>
+    <key>public.kern2.Oslash2</key>
+    <integer>-63</integer>
+    <key>public.kern2.Phi2</key>
+    <integer>-51</integer>
+    <key>public.kern2.T2</key>
+    <integer>13</integer>
+    <key>public.kern2.V2</key>
+    <integer>20</integer>
+    <key>public.kern2.Y2</key>
+    <integer>20</integer>
+    <key>public.kern2.Ydieresis</key>
+    <integer>20</integer>
+    <key>public.kern2.a2</key>
+    <integer>-78</integer>
+    <key>public.kern2.agrave</key>
+    <integer>-9</integer>
+    <key>public.kern2.c2</key>
+    <integer>-111</integer>
+    <key>public.kern2.colon2</key>
+    <integer>-80</integer>
+    <key>public.kern2.comma2</key>
+    <integer>-140</integer>
+    <key>public.kern2.epsilon</key>
+    <integer>-91</integer>
+    <key>public.kern2.eth2</key>
+    <integer>-51</integer>
+    <key>public.kern2.g2</key>
+    <integer>-111</integer>
+    <key>public.kern2.gbreve2</key>
+    <integer>-71</integer>
+    <key>public.kern2.hbar</key>
+    <integer>29</integer>
+    <key>public.kern2.hyphen2</key>
+    <integer>-140</integer>
+    <key>public.kern2.itilde2</key>
+    <integer>98</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>98</integer>
+    <key>public.kern2.m</key>
+    <integer>-94</integer>
+    <key>public.kern2.ntilde</key>
+    <integer>-38</integer>
+    <key>public.kern2.oslash2</key>
+    <integer>-111</integer>
+    <key>public.kern2.period</key>
+    <integer>-140</integer>
+    <key>public.kern2.s2</key>
+    <integer>-103</integer>
+    <key>public.kern2.scaron2</key>
+    <integer>-23</integer>
+    <key>public.kern2.tonos2</key>
+    <integer>40</integer>
+    <key>public.kern2.u2</key>
+    <integer>-94</integer>
+    <key>public.kern2.uni0205</key>
+    <integer>13</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>146</integer>
+    <key>public.kern2.uni0237</key>
+    <integer>-94</integer>
+    <key>public.kern2.uni0414_2</key>
+    <integer>-80</integer>
+    <key>public.kern2.uni0423</key>
+    <integer>20</integer>
+    <key>public.kern2.uni0427</key>
+    <integer>40</integer>
+    <key>public.kern2.uni0437</key>
+    <integer>-65</integer>
+    <key>public.kern2.uni0459_2</key>
+    <integer>-123</integer>
+    <key>public.kern2.uni0491</key>
+    <integer>-85</integer>
+    <key>public.kern2.uring2</key>
+    <integer>-11</integer>
+    <key>public.kern2.v2</key>
+    <integer>-48</integer>
+    <key>public.kern2.x2</key>
+    <integer>-45</integer>
+    <key>public.kern2.y</key>
+    <integer>-48</integer>
+    <key>public.kern2.ygrave</key>
+    <integer>9</integer>
+    <key>public.kern2.z2</key>
+    <integer>-54</integer>
+  </dict>
   <key>Hbar</key>
   <dict>
     <key>public.kern2.hbar</key>
@@ -146,6 +394,15 @@
     <key>public.kern2.uni0209</key>
     <integer>98</integer>
   </dict>
+  <key>Idotbelow</key>
+  <dict>
+    <key>public.kern2.itilde2</key>
+    <integer>9</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>18</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>9</integer>
+  </dict>
   <key>Iogonek</key>
   <dict>
     <key>public.kern2.itilde2</key>
@@ -153,10 +410,137 @@
     <key>public.kern2.uni0209</key>
     <integer>9</integer>
   </dict>
+  <key>Izhitsacyr</key>
+  <dict>
+    <key>Adblgrave</key>
+    <integer>-100</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-100</integer>
+    <key>Hbar</key>
+    <integer>53</integer>
+    <key>Odblgrave</key>
+    <integer>-30</integer>
+    <key>Tbar</key>
+    <integer>86</integer>
+    <key>Tcaron</key>
+    <integer>86</integer>
+    <key>Yacyr</key>
+    <integer>58</integer>
+    <key>Yatcyr</key>
+    <integer>44</integer>
+    <key>Zedieresiscyr</key>
+    <integer>84</integer>
+    <key>backslash</key>
+    <integer>80</integer>
+    <key>dagger</key>
+    <integer>44</integer>
+    <key>daggerdbl</key>
+    <integer>44</integer>
+    <key>gestrokecyr</key>
+    <integer>-67</integer>
+    <key>igrave</key>
+    <integer>49</integer>
+    <key>one</key>
+    <integer>109</integer>
+    <key>paragraph</key>
+    <integer>75</integer>
+    <key>question</key>
+    <integer>40</integer>
+    <key>rcommaaccent</key>
+    <integer>-67</integer>
+    <key>semicolon</key>
+    <integer>-20</integer>
+    <key>seven</key>
+    <integer>52</integer>
+    <key>slash</key>
+    <integer>-80</integer>
+    <key>three</key>
+    <integer>69</integer>
+    <key>public.kern2.A2</key>
+    <integer>-100</integer>
+    <key>public.kern2.C2</key>
+    <integer>-30</integer>
+    <key>public.kern2.J2</key>
+    <integer>-80</integer>
+    <key>public.kern2.Oslash2</key>
+    <integer>-30</integer>
+    <key>public.kern2.Phi2</key>
+    <integer>35</integer>
+    <key>public.kern2.T2</key>
+    <integer>86</integer>
+    <key>public.kern2.V2</key>
+    <integer>20</integer>
+    <key>public.kern2.Y2</key>
+    <integer>20</integer>
+    <key>public.kern2.Ydieresis</key>
+    <integer>20</integer>
+    <key>public.kern2.c2</key>
+    <integer>-70</integer>
+    <key>public.kern2.colon2</key>
+    <integer>-20</integer>
+    <key>public.kern2.comma2</key>
+    <integer>-140</integer>
+    <key>public.kern2.degree2</key>
+    <integer>98</integer>
+    <key>public.kern2.g2</key>
+    <integer>-39</integer>
+    <key>public.kern2.hbar</key>
+    <integer>106</integer>
+    <key>public.kern2.hyphen2</key>
+    <integer>-60</integer>
+    <key>public.kern2.itilde2</key>
+    <integer>189</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>189</integer>
+    <key>public.kern2.m</key>
+    <integer>-67</integer>
+    <key>public.kern2.oslash2</key>
+    <integer>-70</integer>
+    <key>public.kern2.parenright</key>
+    <integer>40</integer>
+    <key>public.kern2.percent</key>
+    <integer>86</integer>
+    <key>public.kern2.period</key>
+    <integer>-140</integer>
+    <key>public.kern2.s2</key>
+    <integer>-60</integer>
+    <key>public.kern2.six</key>
+    <integer>-20</integer>
+    <key>public.kern2.tonos2</key>
+    <integer>40</integer>
+    <key>public.kern2.u2</key>
+    <integer>-40</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>189</integer>
+    <key>public.kern2.uni03A9_2</key>
+    <integer>-30</integer>
+    <key>public.kern2.uni0414_2</key>
+    <integer>-31</integer>
+    <key>public.kern2.uni0417</key>
+    <integer>84</integer>
+    <key>public.kern2.uni0427</key>
+    <integer>40</integer>
+    <key>public.kern2.uni0459_2</key>
+    <integer>-120</integer>
+    <key>public.kern2.uni0491</key>
+    <integer>-67</integer>
+    <key>public.kern2.v2</key>
+    <integer>-30</integer>
+  </dict>
   <key>Jcircumflex</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>-20</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-20</integer>
+    <key>Idblgrave</key>
+    <integer>135</integer>
+    <key>adblgrave</key>
+    <integer>88</integer>
     <key>backslash</key>
     <integer>122</integer>
+    <key>bracketangleright</key>
+    <integer>18</integer>
     <key>hcircumflex</key>
     <integer>233</integer>
     <key>igrave</key>
@@ -167,22 +551,12 @@
     <integer>53</integer>
     <key>slash</key>
     <integer>-40</integer>
-    <key>uni0200</key>
-    <integer>-20</integer>
-    <key>uni0201</key>
-    <integer>88</integer>
-    <key>uni0208</key>
-    <integer>135</integer>
-    <key>uni0215</key>
+    <key>udblgrave</key>
     <integer>53</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>-20</integer>
-    <key>uni04DF</key>
-    <integer>39</integer>
-    <key>uni27E9</key>
-    <integer>18</integer>
     <key>zcaron</key>
     <integer>35</integer>
+    <key>zedieresiscyr</key>
+    <integer>39</integer>
     <key>public.kern2.A2</key>
     <integer>-20</integer>
     <key>public.kern2.Igrave2</key>
@@ -204,26 +578,107 @@
     <key>public.kern2.uni0209</key>
     <integer>140</integer>
   </dict>
+  <key>Kaisymbol</key>
+  <dict>
+    <key>Adblgrave</key>
+    <integer>9</integer>
+    <key>Odblgrave</key>
+    <integer>-100</integer>
+    <key>Tbar</key>
+    <integer>-36</integer>
+    <key>Tcaron</key>
+    <integer>-36</integer>
+    <key>anoteleia</key>
+    <integer>-60</integer>
+    <key>backslash</key>
+    <integer>18</integer>
+    <key>chedieresiscyr</key>
+    <integer>-68</integer>
+    <key>iotadieresistonos</key>
+    <integer>150</integer>
+    <key>slash</key>
+    <integer>18</integer>
+    <key>tau</key>
+    <integer>-91</integer>
+    <key>udblgrave</key>
+    <integer>-47</integer>
+    <key>upsilondieresistonos</key>
+    <integer>-47</integer>
+    <key>public.kern2.A2</key>
+    <integer>9</integer>
+    <key>public.kern2.AE</key>
+    <integer>53</integer>
+    <key>public.kern2.C2</key>
+    <integer>-100</integer>
+    <key>public.kern2.Oslash2</key>
+    <integer>-61</integer>
+    <key>public.kern2.Phi2</key>
+    <integer>-80</integer>
+    <key>public.kern2.T2</key>
+    <integer>-36</integer>
+    <key>public.kern2.c2</key>
+    <integer>-60</integer>
+    <key>public.kern2.eth2</key>
+    <integer>-60</integer>
+    <key>public.kern2.itilde2</key>
+    <integer>55</integer>
+    <key>public.kern2.j</key>
+    <integer>31</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>55</integer>
+    <key>public.kern2.oslash2</key>
+    <integer>-47</integer>
+    <key>public.kern2.six</key>
+    <integer>-60</integer>
+    <key>public.kern2.t2</key>
+    <integer>-71</integer>
+    <key>public.kern2.u2</key>
+    <integer>-60</integer>
+    <key>public.kern2.uni0205</key>
+    <integer>-60</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>55</integer>
+    <key>public.kern2.uni021B_2</key>
+    <integer>-71</integer>
+    <key>public.kern2.uni0237</key>
+    <integer>31</integer>
+    <key>public.kern2.uni0416</key>
+    <integer>18</integer>
+    <key>public.kern2.uni0427</key>
+    <integer>-40</integer>
+    <key>public.kern2.uni0442</key>
+    <integer>-85</integer>
+    <key>public.kern2.uni0447</key>
+    <integer>-68</integer>
+    <key>public.kern2.uring2</key>
+    <integer>-47</integer>
+    <key>public.kern2.v2</key>
+    <integer>-80</integer>
+    <key>public.kern2.y</key>
+    <integer>-80</integer>
+    <key>public.kern2.ygrave</key>
+    <integer>-40</integer>
+  </dict>
   <key>Lcaron</key>
   <dict>
     <key>Lslash</key>
     <integer>9</integer>
+    <key>Odblgrave</key>
+    <integer>-60</integer>
     <key>Tbar</key>
     <integer>-99</integer>
     <key>Tcaron</key>
     <integer>-99</integer>
+    <key>Udblgrave</key>
+    <integer>-20</integer>
+    <key>adblgrave</key>
+    <integer>20</integer>
     <key>one</key>
     <integer>-140</integer>
     <key>question</key>
     <integer>-80</integer>
     <key>seven</key>
     <integer>-40</integer>
-    <key>uni0201</key>
-    <integer>20</integer>
-    <key>uni020C</key>
-    <integer>-60</integer>
-    <key>uni0214</key>
-    <integer>-20</integer>
     <key>public.kern2.AE</key>
     <integer>35</integer>
     <key>public.kern2.C2</key>
@@ -275,7 +730,7 @@
     <integer>26</integer>
     <key>tau</key>
     <integer>44</integer>
-    <key>uni0463</key>
+    <key>yatcyr</key>
     <integer>26</integer>
     <key>public.kern2.AE</key>
     <integer>35</integer>
@@ -294,19 +749,19 @@
   <dict>
     <key>Lslash</key>
     <integer>9</integer>
+    <key>Odblgrave</key>
+    <integer>-30</integer>
     <key>Tbar</key>
     <integer>-94</integer>
     <key>Tcaron</key>
     <integer>-94</integer>
+    <key>Udblgrave</key>
+    <integer>-20</integer>
+    <key>adblgrave</key>
+    <integer>20</integer>
     <key>question</key>
     <integer>-40</integer>
     <key>seven</key>
-    <integer>-20</integer>
-    <key>uni0201</key>
-    <integer>20</integer>
-    <key>uni020C</key>
-    <integer>-30</integer>
-    <key>uni0214</key>
     <integer>-20</integer>
     <key>public.kern2.AE</key>
     <integer>35</integer>
@@ -341,8 +796,16 @@
   </dict>
   <key>Ohungarumlaut</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>-40</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-40</integer>
+    <key>Idblgrave</key>
+    <integer>18</integer>
     <key>Lslash</key>
     <integer>31</integer>
+    <key>Odblgrave</key>
+    <integer>20</integer>
     <key>Tbar</key>
     <integer>-63</integer>
     <key>Tcaron</key>
@@ -353,14 +816,6 @@
     <integer>-130</integer>
     <key>slash</key>
     <integer>-80</integer>
-    <key>uni0200</key>
-    <integer>-40</integer>
-    <key>uni0208</key>
-    <integer>18</integer>
-    <key>uni020C</key>
-    <integer>20</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>-40</integer>
     <key>public.kern2.A2</key>
     <integer>-40</integer>
     <key>public.kern2.C2</key>
@@ -403,8 +858,14 @@
   </dict>
   <key>Q</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>-16</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-16</integer>
     <key>Lslash</key>
     <integer>31</integer>
+    <key>Odblgrave</key>
+    <integer>20</integer>
     <key>Tbar</key>
     <integer>-63</integer>
     <key>Tcaron</key>
@@ -415,12 +876,6 @@
     <integer>-93</integer>
     <key>slash</key>
     <integer>-31</integer>
-    <key>uni0200</key>
-    <integer>-16</integer>
-    <key>uni020C</key>
-    <integer>20</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>-16</integer>
     <key>public.kern2.A2</key>
     <integer>-16</integer>
     <key>public.kern2.AE</key>
@@ -450,50 +905,55 @@
     <key>public.kern2.uni0423</key>
     <integer>-28</integer>
   </dict>
+  <key>Shhacyr</key>
+  <dict>
+    <key>public.kern2.AE</key>
+    <integer>35</integer>
+  </dict>
   <key>Tbar</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>-90</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-90</integer>
+    <key>Odblgrave</key>
+    <integer>-63</integer>
     <key>Tbar</key>
     <integer>13</integer>
     <key>Tcaron</key>
     <integer>13</integer>
+    <key>Yacyr</key>
+    <integer>-43</integer>
+    <key>adblgrave</key>
+    <integer>-9</integer>
     <key>anoteleia</key>
     <integer>-45</integer>
     <key>backslash</key>
     <integer>120</integer>
     <key>chi</key>
     <integer>-68</integer>
+    <key>gestrokecyr</key>
+    <integer>-85</integer>
     <key>igrave</key>
     <integer>18</integer>
     <key>one</key>
     <integer>36</integer>
     <key>pi</key>
     <integer>-76</integer>
+    <key>rcommaaccent</key>
+    <integer>-94</integer>
     <key>rho</key>
     <integer>-111</integer>
     <key>semicolon</key>
     <integer>-80</integer>
     <key>slash</key>
     <integer>-120</integer>
-    <key>uni0157</key>
-    <integer>-94</integer>
-    <key>uni0200</key>
-    <integer>-90</integer>
-    <key>uni0201</key>
-    <integer>-9</integer>
-    <key>uni020C</key>
-    <integer>-63</integer>
-    <key>uni0215</key>
+    <key>udblgrave</key>
     <integer>-11</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>-90</integer>
-    <key>uni042F</key>
-    <integer>-43</integer>
-    <key>uni044F</key>
-    <integer>-114</integer>
-    <key>uni0493</key>
-    <integer>-85</integer>
     <key>upsilondieresistonos</key>
     <integer>-11</integer>
+    <key>yacyr</key>
+    <integer>-114</integer>
     <key>public.kern2.A2</key>
     <integer>-90</integer>
     <key>public.kern2.C2</key>
@@ -586,18 +1046,260 @@
     <key>Lslash</key>
     <integer>53</integer>
   </dict>
+  <key>Uacutedblcyr</key>
+  <dict>
+    <key>Adblgrave</key>
+    <integer>-25</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-60</integer>
+    <key>Idblgrave</key>
+    <integer>133</integer>
+    <key>Odblgrave</key>
+    <integer>-30</integer>
+    <key>Tbar</key>
+    <integer>20</integer>
+    <key>Tcaron</key>
+    <integer>20</integer>
+    <key>Yacyr</key>
+    <integer>-60</integer>
+    <key>adblgrave</key>
+    <integer>55</integer>
+    <key>backslash</key>
+    <integer>80</integer>
+    <key>elcyr.loclBGR</key>
+    <integer>-60</integer>
+    <key>gestrokecyr</key>
+    <integer>-60</integer>
+    <key>igrave</key>
+    <integer>69</integer>
+    <key>lambda</key>
+    <integer>30</integer>
+    <key>one</key>
+    <integer>31</integer>
+    <key>question</key>
+    <integer>40</integer>
+    <key>rcommaaccent</key>
+    <integer>-65</integer>
+    <key>semicolon</key>
+    <integer>-20</integer>
+    <key>slash</key>
+    <integer>-80</integer>
+    <key>udblgrave</key>
+    <integer>9</integer>
+    <key>upsilondieresistonos</key>
+    <integer>9</integer>
+    <key>zedieresiscyr</key>
+    <integer>35</integer>
+    <key>public.kern2.A2</key>
+    <integer>-25</integer>
+    <key>public.kern2.C2</key>
+    <integer>-30</integer>
+    <key>public.kern2.Igrave2</key>
+    <integer>53</integer>
+    <key>public.kern2.J2</key>
+    <integer>-80</integer>
+    <key>public.kern2.Oslash2</key>
+    <integer>-30</integer>
+    <key>public.kern2.Phi2</key>
+    <integer>-50</integer>
+    <key>public.kern2.T2</key>
+    <integer>20</integer>
+    <key>public.kern2.V2</key>
+    <integer>46</integer>
+    <key>public.kern2.X2</key>
+    <integer>18</integer>
+    <key>public.kern2.Y2</key>
+    <integer>46</integer>
+    <key>public.kern2.Ydieresis</key>
+    <integer>46</integer>
+    <key>public.kern2.agrave</key>
+    <integer>20</integer>
+    <key>public.kern2.c2</key>
+    <integer>-70</integer>
+    <key>public.kern2.colon2</key>
+    <integer>-20</integer>
+    <key>public.kern2.comma2</key>
+    <integer>-140</integer>
+    <key>public.kern2.eth2</key>
+    <integer>-30</integer>
+    <key>public.kern2.g2</key>
+    <integer>-39</integer>
+    <key>public.kern2.hyphen2</key>
+    <integer>-60</integer>
+    <key>public.kern2.itilde2</key>
+    <integer>106</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>106</integer>
+    <key>public.kern2.m</key>
+    <integer>-65</integer>
+    <key>public.kern2.ntilde</key>
+    <integer>-25</integer>
+    <key>public.kern2.oslash2</key>
+    <integer>-70</integer>
+    <key>public.kern2.parenright</key>
+    <integer>40</integer>
+    <key>public.kern2.period</key>
+    <integer>-140</integer>
+    <key>public.kern2.s2</key>
+    <integer>-60</integer>
+    <key>public.kern2.scaron2</key>
+    <integer>-20</integer>
+    <key>public.kern2.six</key>
+    <integer>-20</integer>
+    <key>public.kern2.tonos2</key>
+    <integer>40</integer>
+    <key>public.kern2.u2</key>
+    <integer>-65</integer>
+    <key>public.kern2.uni0204</key>
+    <integer>53</integer>
+    <key>public.kern2.uni0205</key>
+    <integer>5</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>155</integer>
+    <key>public.kern2.uni0237</key>
+    <integer>-65</integer>
+    <key>public.kern2.uni03A9_2</key>
+    <integer>-30</integer>
+    <key>public.kern2.uni0414_2</key>
+    <integer>-80</integer>
+    <key>public.kern2.uni0427</key>
+    <integer>40</integer>
+    <key>public.kern2.uni0459_2</key>
+    <integer>-120</integer>
+    <key>public.kern2.uni0491</key>
+    <integer>-60</integer>
+    <key>public.kern2.uring2</key>
+    <integer>9</integer>
+    <key>public.kern2.v2</key>
+    <integer>-30</integer>
+    <key>public.kern2.y</key>
+    <integer>-22</integer>
+  </dict>
+  <key>Ucyr</key>
+  <dict>
+    <key>Adblgrave</key>
+    <integer>-100</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-100</integer>
+    <key>Odblgrave</key>
+    <integer>-50</integer>
+    <key>Tbar</key>
+    <integer>20</integer>
+    <key>Tcaron</key>
+    <integer>20</integer>
+    <key>Yacyr</key>
+    <integer>-60</integer>
+    <key>backslash</key>
+    <integer>80</integer>
+    <key>becyr</key>
+    <integer>-40</integer>
+    <key>gestrokecyr</key>
+    <integer>-80</integer>
+    <key>igrave</key>
+    <integer>26</integer>
+    <key>rcommaaccent</key>
+    <integer>-85</integer>
+    <key>semicolon</key>
+    <integer>-20</integer>
+    <key>slash</key>
+    <integer>-140</integer>
+    <key>udblgrave</key>
+    <integer>-17</integer>
+    <key>upsilondieresistonos</key>
+    <integer>-17</integer>
+    <key>public.kern2.A2</key>
+    <integer>-100</integer>
+    <key>public.kern2.C2</key>
+    <integer>-50</integer>
+    <key>public.kern2.Oslash2</key>
+    <integer>-50</integer>
+    <key>public.kern2.Phi2</key>
+    <integer>-50</integer>
+    <key>public.kern2.T2</key>
+    <integer>20</integer>
+    <key>public.kern2.V2</key>
+    <integer>46</integer>
+    <key>public.kern2.X2</key>
+    <integer>18</integer>
+    <key>public.kern2.Y2</key>
+    <integer>46</integer>
+    <key>public.kern2.Ydieresis</key>
+    <integer>46</integer>
+    <key>public.kern2.a2</key>
+    <integer>-47</integer>
+    <key>public.kern2.c2</key>
+    <integer>-90</integer>
+    <key>public.kern2.colon2</key>
+    <integer>-20</integer>
+    <key>public.kern2.comma2</key>
+    <integer>-140</integer>
+    <key>public.kern2.eth2</key>
+    <integer>-41</integer>
+    <key>public.kern2.hbar</key>
+    <integer>29</integer>
+    <key>public.kern2.hyphen2</key>
+    <integer>-60</integer>
+    <key>public.kern2.itilde2</key>
+    <integer>126</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>126</integer>
+    <key>public.kern2.m</key>
+    <integer>-85</integer>
+    <key>public.kern2.ntilde</key>
+    <integer>-45</integer>
+    <key>public.kern2.oslash2</key>
+    <integer>-90</integer>
+    <key>public.kern2.parenright</key>
+    <integer>40</integer>
+    <key>public.kern2.period</key>
+    <integer>-140</integer>
+    <key>public.kern2.s2</key>
+    <integer>-60</integer>
+    <key>public.kern2.tonos2</key>
+    <integer>40</integer>
+    <key>public.kern2.u2</key>
+    <integer>-85</integer>
+    <key>public.kern2.uni0205</key>
+    <integer>-41</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>126</integer>
+    <key>public.kern2.uni0237</key>
+    <integer>-85</integer>
+    <key>public.kern2.uni0414_2</key>
+    <integer>-80</integer>
+    <key>public.kern2.uni0427</key>
+    <integer>40</integer>
+    <key>public.kern2.uni0436</key>
+    <integer>-60</integer>
+    <key>public.kern2.uni0437</key>
+    <integer>-80</integer>
+    <key>public.kern2.uni0442</key>
+    <integer>-40</integer>
+    <key>public.kern2.uni0447</key>
+    <integer>-58</integer>
+    <key>public.kern2.uni0459_2</key>
+    <integer>-169</integer>
+    <key>public.kern2.uni0491</key>
+    <integer>-80</integer>
+    <key>public.kern2.uring2</key>
+    <integer>-17</integer>
+    <key>public.kern2.v2</key>
+    <integer>-30</integer>
+    <key>public.kern2.x2</key>
+    <integer>-60</integer>
+  </dict>
   <key>Uhungarumlaut</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>-20</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-20</integer>
+    <key>Idblgrave</key>
+    <integer>53</integer>
     <key>questiondown</key>
     <integer>-80</integer>
     <key>slash</key>
     <integer>-40</integer>
-    <key>uni0200</key>
-    <integer>-20</integer>
-    <key>uni0208</key>
-    <integer>53</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>-20</integer>
     <key>public.kern2.A2</key>
     <integer>-20</integer>
     <key>public.kern2.comma2</key>
@@ -609,8 +1311,35 @@
     <key>public.kern2.uni0209</key>
     <integer>9</integer>
   </dict>
+  <key>Xatailcyr</key>
+  <dict>
+    <key>Odblgrave</key>
+    <integer>-40</integer>
+    <key>public.kern2.AE</key>
+    <integer>75</integer>
+    <key>public.kern2.C2</key>
+    <integer>-40</integer>
+    <key>public.kern2.i2</key>
+    <integer>28</integer>
+    <key>public.kern2.iogonek2</key>
+    <integer>56</integer>
+    <key>public.kern2.j</key>
+    <integer>113</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>113</integer>
+    <key>public.kern2.uni0237</key>
+    <integer>113</integer>
+    <key>public.kern2.uni0416</key>
+    <integer>35</integer>
+    <key>public.kern2.uni0427</key>
+    <integer>-58</integer>
+  </dict>
   <key>anoteleia</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>-100</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-100</integer>
     <key>Tbar</key>
     <integer>-45</integer>
     <key>Tcaron</key>
@@ -625,10 +1354,6 @@
     <integer>-20</integer>
     <key>tau</key>
     <integer>40</integer>
-    <key>uni0200</key>
-    <integer>-100</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>-100</integer>
     <key>public.kern2.A2</key>
     <integer>-100</integer>
     <key>public.kern2.T2</key>
@@ -670,12 +1395,12 @@
     <integer>-11</integer>
     <key>backslash</key>
     <integer>-80</integer>
+    <key>becyr</key>
+    <integer>-10</integer>
+    <key>chedieresiscyr</key>
+    <integer>-10</integer>
     <key>tau</key>
     <integer>-6</integer>
-    <key>uni0431</key>
-    <integer>-10</integer>
-    <key>uni04F5</key>
-    <integer>-10</integer>
     <key>public.kern2.T2</key>
     <integer>-123</integer>
     <key>public.kern2.V2</key>
@@ -713,12 +1438,22 @@
   </dict>
   <key>backslash</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>80</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>80</integer>
     <key>Iogonek</key>
     <integer>89</integer>
+    <key>Odblgrave</key>
+    <integer>-80</integer>
     <key>Tbar</key>
     <integer>-120</integer>
     <key>Tcaron</key>
     <integer>-120</integer>
+    <key>Udblgrave</key>
+    <integer>-40</integer>
+    <key>adblgrave</key>
+    <integer>30</integer>
     <key>backslash</key>
     <integer>-300</integer>
     <key>lambda</key>
@@ -727,20 +1462,10 @@
     <integer>122</integer>
     <key>underscore</key>
     <integer>98</integer>
-    <key>uni0200</key>
-    <integer>80</integer>
-    <key>uni0201</key>
-    <integer>30</integer>
-    <key>uni020C</key>
-    <integer>-80</integer>
-    <key>uni0214</key>
-    <integer>-40</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>80</integer>
-    <key>uni0437.loclBGR</key>
-    <integer>66</integer>
     <key>xi</key>
     <integer>-20</integer>
+    <key>zecyr.loclBGR</key>
+    <integer>66</integer>
     <key>public.kern2.A2</key>
     <integer>80</integer>
     <key>public.kern2.AE</key>
@@ -807,6 +1532,25 @@
     <key>iotadieresistonos</key>
     <integer>98</integer>
   </dict>
+  <key>bracketangleleft</key>
+  <dict>
+    <key>Idblgrave</key>
+    <integer>18</integer>
+    <key>hcircumflex</key>
+    <integer>61</integer>
+    <key>public.kern2.Igrave2</key>
+    <integer>18</integer>
+    <key>public.kern2.itilde2</key>
+    <integer>48</integer>
+    <key>public.kern2.j</key>
+    <integer>48</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>48</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>48</integer>
+    <key>public.kern2.uni0237</key>
+    <integer>48</integer>
+  </dict>
   <key>bullet</key>
   <dict>
     <key>Lslash</key>
@@ -826,12 +1570,12 @@
     <integer>-4</integer>
     <key>lambda</key>
     <integer>-40</integer>
+    <key>rcommaaccent</key>
+    <integer>-4</integer>
     <key>tau</key>
     <integer>40</integer>
     <key>underscore</key>
     <integer>60</integer>
-    <key>uni0157</key>
-    <integer>-4</integer>
     <key>public.kern2.T2</key>
     <integer>-50</integer>
     <key>public.kern2.Y2</key>
@@ -916,8 +1660,43 @@
     <key>public.kern2.tonos2</key>
     <integer>-20</integer>
   </dict>
+  <key>elcyr.loclBGR</key>
+  <dict>
+    <key>udblgrave</key>
+    <integer>-20</integer>
+    <key>upsilondieresistonos</key>
+    <integer>-20</integer>
+    <key>public.kern2.AE</key>
+    <integer>59</integer>
+    <key>public.kern2.V2</key>
+    <integer>-60</integer>
+    <key>public.kern2.c2</key>
+    <integer>-10</integer>
+    <key>public.kern2.eth2</key>
+    <integer>-10</integer>
+    <key>public.kern2.hyphen2</key>
+    <integer>-40</integer>
+    <key>public.kern2.oslash2</key>
+    <integer>-10</integer>
+    <key>public.kern2.u2</key>
+    <integer>-20</integer>
+    <key>public.kern2.uni0205</key>
+    <integer>-10</integer>
+    <key>public.kern2.uring2</key>
+    <integer>-20</integer>
+    <key>public.kern2.v2</key>
+    <integer>-40</integer>
+    <key>public.kern2.y</key>
+    <integer>-40</integer>
+    <key>public.kern2.ygrave</key>
+    <integer>-40</integer>
+  </dict>
   <key>eogonek</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>-10</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-10</integer>
     <key>Lslash</key>
     <integer>31</integer>
     <key>Tbar</key>
@@ -930,6 +1709,8 @@
     <integer>-60</integer>
     <key>chi</key>
     <integer>-10</integer>
+    <key>elcyr.loclBGR</key>
+    <integer>-10</integer>
     <key>lambda</key>
     <integer>-12</integer>
     <key>lslash</key>
@@ -940,12 +1721,6 @@
     <integer>-100</integer>
     <key>seven</key>
     <integer>-20</integer>
-    <key>uni0200</key>
-    <integer>-10</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>-10</integer>
-    <key>uni043B.loclBGR</key>
-    <integer>-10</integer>
     <key>xi</key>
     <integer>10</integer>
     <key>zeta</key>
@@ -1025,22 +1800,74 @@
     <key>public.kern2.tonos2</key>
     <integer>-60</integer>
   </dict>
+  <key>getailcyr</key>
+  <dict>
+    <key>public.kern2.AE</key>
+    <integer>-44</integer>
+    <key>public.kern2.comma2</key>
+    <integer>-113</integer>
+    <key>public.kern2.j</key>
+    <integer>44</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>44</integer>
+    <key>public.kern2.period</key>
+    <integer>-113</integer>
+    <key>public.kern2.uni0237</key>
+    <integer>44</integer>
+  </dict>
+  <key>geupcyr</key>
+  <dict>
+    <key>Adblgrave</key>
+    <integer>-60</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-60</integer>
+    <key>becyr</key>
+    <integer>20</integer>
+    <key>public.kern2.A2</key>
+    <integer>-60</integer>
+    <key>public.kern2.comma2</key>
+    <integer>-120</integer>
+    <key>public.kern2.itilde2</key>
+    <integer>98</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>98</integer>
+    <key>public.kern2.oslash2</key>
+    <integer>-20</integer>
+    <key>public.kern2.period</key>
+    <integer>-120</integer>
+    <key>public.kern2.tonos2</key>
+    <integer>29</integer>
+    <key>public.kern2.uni0205</key>
+    <integer>-20</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>98</integer>
+    <key>public.kern2.uni0442</key>
+    <integer>20</integer>
+    <key>public.kern2.uni0459_2</key>
+    <integer>-60</integer>
+    <key>public.kern2.v2</key>
+    <integer>30</integer>
+    <key>public.kern2.y</key>
+    <integer>30</integer>
+    <key>public.kern2.ygrave</key>
+    <integer>30</integer>
+  </dict>
   <key>iacute</key>
   <dict>
+    <key>Idblgrave</key>
+    <integer>53</integer>
     <key>Tbar</key>
     <integer>18</integer>
     <key>Tcaron</key>
     <integer>18</integer>
+    <key>adblgrave</key>
+    <integer>61</integer>
     <key>backslash</key>
     <integer>95</integer>
     <key>igrave</key>
     <integer>75</integer>
     <key>iotadieresistonos</key>
     <integer>193</integer>
-    <key>uni0201</key>
-    <integer>61</integer>
-    <key>uni0208</key>
-    <integer>53</integer>
     <key>zcaron</key>
     <integer>9</integer>
     <key>public.kern2.Igrave2</key>
@@ -1059,6 +1886,21 @@
     <integer>44</integer>
     <key>public.kern2.uni0209</key>
     <integer>173</integer>
+  </dict>
+  <key>icyr.loclBGR</key>
+  <dict>
+    <key>Tbar</key>
+    <integer>-80</integer>
+    <key>Tcaron</key>
+    <integer>-80</integer>
+    <key>public.kern2.T2</key>
+    <integer>-80</integer>
+    <key>public.kern2.V2</key>
+    <integer>-40</integer>
+    <key>public.kern2.Y2</key>
+    <integer>-80</integer>
+    <key>public.kern2.Ydieresis</key>
+    <integer>-80</integer>
   </dict>
   <key>iotadieresistonos</key>
   <dict>
@@ -1115,12 +1957,117 @@
     <key>public.kern2.uni0204</key>
     <integer>18</integer>
   </dict>
+  <key>izhitsacyr</key>
+  <dict>
+    <key>Adblgrave</key>
+    <integer>-40</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-40</integer>
+    <key>Lslash</key>
+    <integer>66</integer>
+    <key>Tbar</key>
+    <integer>-48</integer>
+    <key>Tcaron</key>
+    <integer>-48</integer>
+    <key>becyr</key>
+    <integer>44</integer>
+    <key>gestrokecyr</key>
+    <integer>-5</integer>
+    <key>lambda</key>
+    <integer>-60</integer>
+    <key>lslash</key>
+    <integer>39</integer>
+    <key>question</key>
+    <integer>-20</integer>
+    <key>rcommaaccent</key>
+    <integer>-5</integer>
+    <key>rho</key>
+    <integer>-10</integer>
+    <key>slash</key>
+    <integer>-40</integer>
+    <key>tau</key>
+    <integer>58</integer>
+    <key>yacyr</key>
+    <integer>5</integer>
+    <key>public.kern2.A2</key>
+    <integer>-40</integer>
+    <key>public.kern2.Eth</key>
+    <integer>53</integer>
+    <key>public.kern2.T2</key>
+    <integer>-48</integer>
+    <key>public.kern2.V2</key>
+    <integer>-30</integer>
+    <key>public.kern2.X2</key>
+    <integer>-60</integer>
+    <key>public.kern2.Y2</key>
+    <integer>-80</integer>
+    <key>public.kern2.Ydieresis</key>
+    <integer>-80</integer>
+    <key>public.kern2.a2</key>
+    <integer>9</integer>
+    <key>public.kern2.c2</key>
+    <integer>11</integer>
+    <key>public.kern2.comma2</key>
+    <integer>-80</integer>
+    <key>public.kern2.eth2</key>
+    <integer>-20</integer>
+    <key>public.kern2.f2</key>
+    <integer>58</integer>
+    <key>public.kern2.hyphen2</key>
+    <integer>39</integer>
+    <key>public.kern2.m</key>
+    <integer>-5</integer>
+    <key>public.kern2.ntilde</key>
+    <integer>-5</integer>
+    <key>public.kern2.oslash2</key>
+    <integer>11</integer>
+    <key>public.kern2.period</key>
+    <integer>-80</integer>
+    <key>public.kern2.t2</key>
+    <integer>58</integer>
+    <key>public.kern2.tonos2</key>
+    <integer>40</integer>
+    <key>public.kern2.uni0205</key>
+    <integer>-20</integer>
+    <key>public.kern2.uni021B_2</key>
+    <integer>58</integer>
+    <key>public.kern2.uni0416</key>
+    <integer>-80</integer>
+    <key>public.kern2.uni0437</key>
+    <integer>18</integer>
+    <key>public.kern2.uni0442</key>
+    <integer>42</integer>
+    <key>public.kern2.uni0459_2</key>
+    <integer>-37</integer>
+    <key>public.kern2.uni0491</key>
+    <integer>-5</integer>
+    <key>public.kern2.y</key>
+    <integer>24</integer>
+  </dict>
+  <key>kaisymbol</key>
+  <dict>
+    <key>slash</key>
+    <integer>35</integer>
+    <key>public.kern2.AE</key>
+    <integer>53</integer>
+    <key>public.kern2.j</key>
+    <integer>31</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>31</integer>
+    <key>public.kern2.uni0237</key>
+    <integer>31</integer>
+  </dict>
+  <key>kjecyr</key>
+  <dict>
+    <key>public.kern2.AE</key>
+    <integer>53</integer>
+  </dict>
   <key>lacute</key>
   <dict>
+    <key>Idblgrave</key>
+    <integer>173</integer>
     <key>hcircumflex</key>
     <integer>78</integer>
-    <key>uni0208</key>
-    <integer>173</integer>
     <key>public.kern2.Igrave2</key>
     <integer>99</integer>
     <key>public.kern2.itilde2</key>
@@ -1150,7 +2097,7 @@
     <integer>-32</integer>
     <key>theta</key>
     <integer>-42</integer>
-    <key>uni0215</key>
+    <key>udblgrave</key>
     <integer>-20</integer>
     <key>upsilondieresistonos</key>
     <integer>-20</integer>
@@ -1187,18 +2134,27 @@
     <key>public.kern2.ygrave</key>
     <integer>-40</integer>
   </dict>
+  <key>lcommaaccent</key>
+  <dict>
+    <key>public.kern2.itilde2</key>
+    <integer>18</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>18</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>18</integer>
+  </dict>
   <key>lslash</key>
   <dict>
     <key>Lslash</key>
     <integer>66</integer>
+    <key>chedieresiscyr</key>
+    <integer>31</integer>
     <key>lslash</key>
     <integer>18</integer>
     <key>pi</key>
     <integer>22</integer>
     <key>tau</key>
     <integer>35</integer>
-    <key>uni04F5</key>
-    <integer>31</integer>
     <key>public.kern2.Eth</key>
     <integer>71</integer>
     <key>public.kern2.f2</key>
@@ -1265,42 +2221,42 @@
   </dict>
   <key>questiondown</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>-60</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-60</integer>
     <key>Hbar</key>
+    <integer>-60</integer>
+    <key>Idblgrave</key>
+    <integer>-60</integer>
+    <key>Idotbelow</key>
     <integer>-60</integer>
     <key>Iogonek</key>
     <integer>-60</integer>
+    <key>Odblgrave</key>
+    <integer>-100</integer>
     <key>Tbar</key>
     <integer>-183</integer>
     <key>Tcaron</key>
     <integer>-183</integer>
+    <key>Udblgrave</key>
+    <integer>-100</integer>
+    <key>gestrokecyr</key>
+    <integer>-40</integer>
     <key>hcircumflex</key>
     <integer>-40</integer>
     <key>igrave</key>
     <integer>-40</integer>
+    <key>lcommaaccent</key>
+    <integer>-40</integer>
     <key>pi</key>
     <integer>-60</integer>
+    <key>rcommaaccent</key>
+    <integer>-40</integer>
     <key>tau</key>
     <integer>-60</integer>
-    <key>uni013C</key>
+    <key>udblgrave</key>
     <integer>-40</integer>
-    <key>uni0157</key>
-    <integer>-40</integer>
-    <key>uni0200</key>
-    <integer>-60</integer>
-    <key>uni0208</key>
-    <integer>-60</integer>
-    <key>uni020C</key>
-    <integer>-100</integer>
-    <key>uni0214</key>
-    <integer>-100</integer>
-    <key>uni0215</key>
-    <integer>-40</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>-60</integer>
-    <key>uni0493</key>
-    <integer>-40</integer>
-    <key>uni1ECA</key>
-    <integer>-60</integer>
     <key>upsilondieresistonos</key>
     <integer>-40</integer>
     <key>public.kern2.A2</key>
@@ -1378,6 +2334,10 @@
   </dict>
   <key>seven</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>-60</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-60</integer>
     <key>eight</key>
     <integer>-40</integer>
     <key>five</key>
@@ -1390,10 +2350,6 @@
     <integer>16</integer>
     <key>two</key>
     <integer>-40</integer>
-    <key>uni0200</key>
-    <integer>-60</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>-60</integer>
     <key>public.kern2.A2</key>
     <integer>-60</integer>
     <key>public.kern2.J2</key>
@@ -1458,6 +2414,83 @@
     <key>public.kern2.ygrave</key>
     <integer>29</integer>
   </dict>
+  <key>sigmafinal</key>
+  <dict>
+    <key>Adblgrave</key>
+    <integer>35</integer>
+    <key>Tbar</key>
+    <integer>-56</integer>
+    <key>Tcaron</key>
+    <integer>-56</integer>
+    <key>Yacyr</key>
+    <integer>26</integer>
+    <key>anoteleia</key>
+    <integer>40</integer>
+    <key>elcyr.loclBGR</key>
+    <integer>35</integer>
+    <key>lambda</key>
+    <integer>35</integer>
+    <key>slash</key>
+    <integer>115</integer>
+    <key>tau</key>
+    <integer>53</integer>
+    <key>underscore</key>
+    <integer>104</integer>
+    <key>yacyr</key>
+    <integer>9</integer>
+    <key>zecyr.loclBGR</key>
+    <integer>35</integer>
+    <key>public.kern2.A2</key>
+    <integer>35</integer>
+    <key>public.kern2.AE</key>
+    <integer>70</integer>
+    <key>public.kern2.Oslash2</key>
+    <integer>18</integer>
+    <key>public.kern2.T2</key>
+    <integer>-56</integer>
+    <key>public.kern2.X2</key>
+    <integer>26</integer>
+    <key>public.kern2.Y2</key>
+    <integer>-63</integer>
+    <key>public.kern2.Ydieresis</key>
+    <integer>-63</integer>
+    <key>public.kern2.c2</key>
+    <integer>-20</integer>
+    <key>public.kern2.comma2</key>
+    <integer>55</integer>
+    <key>public.kern2.eth2</key>
+    <integer>-20</integer>
+    <key>public.kern2.g2</key>
+    <integer>35</integer>
+    <key>public.kern2.gbreve2</key>
+    <integer>35</integer>
+    <key>public.kern2.iogonek2</key>
+    <integer>60</integer>
+    <key>public.kern2.j</key>
+    <integer>73</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>73</integer>
+    <key>public.kern2.oslash2</key>
+    <integer>-3</integer>
+    <key>public.kern2.parenright</key>
+    <integer>39</integer>
+    <key>public.kern2.period</key>
+    <integer>55</integer>
+    <key>public.kern2.tonos2</key>
+    <integer>60</integer>
+    <key>public.kern2.uni0205</key>
+    <integer>-20</integer>
+    <key>public.kern2.uni0237</key>
+    <integer>73</integer>
+    <key>public.kern2.uni0416</key>
+    <integer>35</integer>
+    <key>public.kern2.uni0436</key>
+    <integer>18</integer>
+    <key>public.kern2.uni0459_2</key>
+    <integer>26</integer>
+    <key>public.kern2.x2</key>
+    <integer>22</integer>
+  </dict>
   <key>six</key>
   <dict>
     <key>four</key>
@@ -1480,12 +2513,24 @@
   </dict>
   <key>slash</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>-80</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-80</integer>
+    <key>Idblgrave</key>
+    <integer>122</integer>
+    <key>Odblgrave</key>
+    <integer>-80</integer>
     <key>Tbar</key>
     <integer>120</integer>
     <key>Tcaron</key>
     <integer>120</integer>
+    <key>adblgrave</key>
+    <integer>99</integer>
     <key>backslash</key>
     <integer>122</integer>
+    <key>gestrokecyr</key>
+    <integer>-31</integer>
     <key>hcircumflex</key>
     <integer>161</integer>
     <key>igrave</key>
@@ -1494,27 +2539,15 @@
     <integer>40</integer>
     <key>rcaron</key>
     <integer>35</integer>
+    <key>rcommaaccent</key>
+    <integer>-40</integer>
     <key>slash</key>
     <integer>-300</integer>
-    <key>uni0157</key>
-    <integer>-40</integer>
-    <key>uni0200</key>
-    <integer>-80</integer>
-    <key>uni0201</key>
-    <integer>99</integer>
-    <key>uni0208</key>
-    <integer>122</integer>
-    <key>uni020C</key>
-    <integer>-80</integer>
-    <key>uni0215</key>
+    <key>udblgrave</key>
     <integer>39</integer>
-    <key>uni0414.loclBGR</key>
+    <key>yacyr</key>
     <integer>-80</integer>
-    <key>uni044F</key>
-    <integer>-80</integer>
-    <key>uni0493</key>
-    <integer>-31</integer>
-    <key>uni04DF</key>
+    <key>zedieresiscyr</key>
     <integer>44</integer>
     <key>zeta</key>
     <integer>36</integer>
@@ -1608,6 +2641,8 @@
     <integer>53</integer>
     <key>Tcaron</key>
     <integer>53</integer>
+    <key>adblgrave</key>
+    <integer>61</integer>
     <key>anoteleia</key>
     <integer>20</integer>
     <key>backslash</key>
@@ -1618,6 +2653,8 @@
     <integer>61</integer>
     <key>lambda</key>
     <integer>26</integer>
+    <key>lcommaaccent</key>
+    <integer>18</integer>
     <key>one</key>
     <integer>31</integer>
     <key>question</key>
@@ -1628,16 +2665,12 @@
     <integer>60</integer>
     <key>threequarters</key>
     <integer>35</integer>
-    <key>uni013C</key>
-    <integer>18</integer>
-    <key>uni0201</key>
-    <integer>61</integer>
-    <key>uni04DF</key>
-    <integer>61</integer>
     <key>upsilondieresistonos</key>
     <integer>44</integer>
     <key>zcaron</key>
     <integer>9</integer>
+    <key>zedieresiscyr</key>
+    <integer>61</integer>
     <key>public.kern2.AE</key>
     <integer>44</integer>
     <key>public.kern2.T2</key>
@@ -1715,1182 +2748,12 @@
     <key>public.kern2.uni0237</key>
     <integer>102</integer>
   </dict>
-  <key>uni013C</key>
-  <dict>
-    <key>public.kern2.itilde2</key>
-    <integer>18</integer>
-    <key>public.kern2.jcircumflex</key>
-    <integer>18</integer>
-    <key>public.kern2.uni0209</key>
-    <integer>18</integer>
-  </dict>
-  <key>uni03C2</key>
-  <dict>
-    <key>Tbar</key>
-    <integer>-56</integer>
-    <key>Tcaron</key>
-    <integer>-56</integer>
-    <key>anoteleia</key>
-    <integer>40</integer>
-    <key>lambda</key>
-    <integer>35</integer>
-    <key>slash</key>
-    <integer>115</integer>
-    <key>tau</key>
-    <integer>53</integer>
-    <key>underscore</key>
-    <integer>104</integer>
-    <key>uni0200</key>
-    <integer>35</integer>
-    <key>uni042F</key>
-    <integer>26</integer>
-    <key>uni0437.loclBGR</key>
-    <integer>35</integer>
-    <key>uni043B.loclBGR</key>
-    <integer>35</integer>
-    <key>uni044F</key>
-    <integer>9</integer>
-    <key>public.kern2.A2</key>
-    <integer>35</integer>
-    <key>public.kern2.AE</key>
-    <integer>70</integer>
-    <key>public.kern2.Oslash2</key>
-    <integer>18</integer>
-    <key>public.kern2.T2</key>
-    <integer>-56</integer>
-    <key>public.kern2.X2</key>
-    <integer>26</integer>
-    <key>public.kern2.Y2</key>
-    <integer>-63</integer>
-    <key>public.kern2.Ydieresis</key>
-    <integer>-63</integer>
-    <key>public.kern2.c2</key>
-    <integer>-20</integer>
-    <key>public.kern2.comma2</key>
-    <integer>55</integer>
-    <key>public.kern2.eth2</key>
-    <integer>-20</integer>
-    <key>public.kern2.g2</key>
-    <integer>35</integer>
-    <key>public.kern2.gbreve2</key>
-    <integer>35</integer>
-    <key>public.kern2.iogonek2</key>
-    <integer>60</integer>
-    <key>public.kern2.j</key>
-    <integer>73</integer>
-    <key>public.kern2.jcircumflex</key>
-    <integer>73</integer>
-    <key>public.kern2.oslash2</key>
-    <integer>-3</integer>
-    <key>public.kern2.parenright</key>
-    <integer>39</integer>
-    <key>public.kern2.period</key>
-    <integer>55</integer>
-    <key>public.kern2.tonos2</key>
-    <integer>60</integer>
-    <key>public.kern2.uni0205</key>
-    <integer>-20</integer>
-    <key>public.kern2.uni0237</key>
-    <integer>73</integer>
-    <key>public.kern2.uni0416</key>
-    <integer>35</integer>
-    <key>public.kern2.uni0436</key>
-    <integer>18</integer>
-    <key>public.kern2.uni0459_2</key>
-    <integer>26</integer>
-    <key>public.kern2.x2</key>
-    <integer>22</integer>
-  </dict>
-  <key>uni03CF</key>
-  <dict>
-    <key>Tbar</key>
-    <integer>-36</integer>
-    <key>Tcaron</key>
-    <integer>-36</integer>
-    <key>anoteleia</key>
-    <integer>-60</integer>
-    <key>backslash</key>
-    <integer>18</integer>
-    <key>iotadieresistonos</key>
-    <integer>150</integer>
-    <key>slash</key>
-    <integer>18</integer>
-    <key>tau</key>
-    <integer>-91</integer>
-    <key>uni0200</key>
-    <integer>9</integer>
-    <key>uni020C</key>
-    <integer>-100</integer>
-    <key>uni0215</key>
-    <integer>-47</integer>
-    <key>uni04F5</key>
-    <integer>-68</integer>
-    <key>upsilondieresistonos</key>
-    <integer>-47</integer>
-    <key>public.kern2.A2</key>
-    <integer>9</integer>
-    <key>public.kern2.AE</key>
-    <integer>53</integer>
-    <key>public.kern2.C2</key>
-    <integer>-100</integer>
-    <key>public.kern2.Oslash2</key>
-    <integer>-61</integer>
-    <key>public.kern2.Phi2</key>
-    <integer>-80</integer>
-    <key>public.kern2.T2</key>
-    <integer>-36</integer>
-    <key>public.kern2.c2</key>
-    <integer>-60</integer>
-    <key>public.kern2.eth2</key>
-    <integer>-60</integer>
-    <key>public.kern2.itilde2</key>
-    <integer>55</integer>
-    <key>public.kern2.j</key>
-    <integer>31</integer>
-    <key>public.kern2.jcircumflex</key>
-    <integer>55</integer>
-    <key>public.kern2.oslash2</key>
-    <integer>-47</integer>
-    <key>public.kern2.six</key>
-    <integer>-60</integer>
-    <key>public.kern2.t2</key>
-    <integer>-71</integer>
-    <key>public.kern2.u2</key>
-    <integer>-60</integer>
-    <key>public.kern2.uni0205</key>
-    <integer>-60</integer>
-    <key>public.kern2.uni0209</key>
-    <integer>55</integer>
-    <key>public.kern2.uni021B_2</key>
-    <integer>-71</integer>
-    <key>public.kern2.uni0237</key>
-    <integer>31</integer>
-    <key>public.kern2.uni0416</key>
-    <integer>18</integer>
-    <key>public.kern2.uni0427</key>
-    <integer>-40</integer>
-    <key>public.kern2.uni0442</key>
-    <integer>-85</integer>
-    <key>public.kern2.uni0447</key>
-    <integer>-68</integer>
-    <key>public.kern2.uring2</key>
-    <integer>-47</integer>
-    <key>public.kern2.v2</key>
-    <integer>-80</integer>
-    <key>public.kern2.y</key>
-    <integer>-80</integer>
-    <key>public.kern2.ygrave</key>
-    <integer>-40</integer>
-  </dict>
-  <key>uni03D7</key>
-  <dict>
-    <key>slash</key>
-    <integer>35</integer>
-    <key>public.kern2.AE</key>
-    <integer>53</integer>
-    <key>public.kern2.j</key>
-    <integer>31</integer>
-    <key>public.kern2.jcircumflex</key>
-    <integer>31</integer>
-    <key>public.kern2.uni0237</key>
-    <integer>31</integer>
-  </dict>
-  <key>uni0414.loclBGR</key>
-  <dict>
-    <key>Tbar</key>
-    <integer>-90</integer>
-    <key>Tcaron</key>
-    <integer>-90</integer>
-    <key>anoteleia</key>
-    <integer>-100</integer>
-    <key>backslash</key>
-    <integer>-80</integer>
-    <key>one</key>
-    <integer>-120</integer>
-    <key>pi</key>
-    <integer>-60</integer>
-    <key>question</key>
-    <integer>-100</integer>
-    <key>slash</key>
-    <integer>80</integer>
-    <key>tau</key>
-    <integer>-60</integer>
-    <key>uni0200</key>
-    <integer>20</integer>
-    <key>uni020C</key>
-    <integer>-40</integer>
-    <key>uni0214</key>
-    <integer>-20</integer>
-    <key>uni0215</key>
-    <integer>-20</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>20</integer>
-    <key>uni0431</key>
-    <integer>-13</integer>
-    <key>uni04F5</key>
-    <integer>-70</integer>
-    <key>upsilondieresistonos</key>
-    <integer>-20</integer>
-    <key>public.kern2.A2</key>
-    <integer>20</integer>
-    <key>public.kern2.AE</key>
-    <integer>58</integer>
-    <key>public.kern2.C2</key>
-    <integer>-40</integer>
-    <key>public.kern2.Oslash2</key>
-    <integer>-16</integer>
-    <key>public.kern2.Phi2</key>
-    <integer>-50</integer>
-    <key>public.kern2.T2</key>
-    <integer>-90</integer>
-    <key>public.kern2.U</key>
-    <integer>-20</integer>
-    <key>public.kern2.V2</key>
-    <integer>-60</integer>
-    <key>public.kern2.Y2</key>
-    <integer>-120</integer>
-    <key>public.kern2.Ydieresis</key>
-    <integer>-120</integer>
-    <key>public.kern2.c2</key>
-    <integer>-10</integer>
-    <key>public.kern2.comma2</key>
-    <integer>40</integer>
-    <key>public.kern2.degree2</key>
-    <integer>-111</integer>
-    <key>public.kern2.eth2</key>
-    <integer>-10</integer>
-    <key>public.kern2.iogonek2</key>
-    <integer>56</integer>
-    <key>public.kern2.j</key>
-    <integer>49</integer>
-    <key>public.kern2.jcircumflex</key>
-    <integer>49</integer>
-    <key>public.kern2.oslash2</key>
-    <integer>-10</integer>
-    <key>public.kern2.period</key>
-    <integer>40</integer>
-    <key>public.kern2.six</key>
-    <integer>-20</integer>
-    <key>public.kern2.t2</key>
-    <integer>-60</integer>
-    <key>public.kern2.tonos2</key>
-    <integer>-160</integer>
-    <key>public.kern2.u2</key>
-    <integer>-20</integer>
-    <key>public.kern2.uni0205</key>
-    <integer>-10</integer>
-    <key>public.kern2.uni021B_2</key>
-    <integer>-60</integer>
-    <key>public.kern2.uni0237</key>
-    <integer>49</integer>
-    <key>public.kern2.uni0414_2</key>
-    <integer>10</integer>
-    <key>public.kern2.uni0427</key>
-    <integer>-100</integer>
-    <key>public.kern2.uni0442</key>
-    <integer>-60</integer>
-    <key>public.kern2.uni0447</key>
-    <integer>-70</integer>
-    <key>public.kern2.uni0459_2</key>
-    <integer>40</integer>
-    <key>public.kern2.uring2</key>
-    <integer>-20</integer>
-    <key>public.kern2.v2</key>
-    <integer>-40</integer>
-    <key>public.kern2.y</key>
-    <integer>-40</integer>
-    <key>public.kern2.ygrave</key>
-    <integer>-40</integer>
-  </dict>
-  <key>uni0423</key>
-  <dict>
-    <key>Tbar</key>
-    <integer>20</integer>
-    <key>Tcaron</key>
-    <integer>20</integer>
-    <key>backslash</key>
-    <integer>80</integer>
-    <key>igrave</key>
-    <integer>26</integer>
-    <key>semicolon</key>
-    <integer>-20</integer>
-    <key>slash</key>
-    <integer>-140</integer>
-    <key>uni0157</key>
-    <integer>-85</integer>
-    <key>uni0200</key>
-    <integer>-100</integer>
-    <key>uni020C</key>
-    <integer>-50</integer>
-    <key>uni0215</key>
-    <integer>-17</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>-100</integer>
-    <key>uni042F</key>
-    <integer>-60</integer>
-    <key>uni0431</key>
-    <integer>-40</integer>
-    <key>uni0493</key>
-    <integer>-80</integer>
-    <key>upsilondieresistonos</key>
-    <integer>-17</integer>
-    <key>public.kern2.A2</key>
-    <integer>-100</integer>
-    <key>public.kern2.C2</key>
-    <integer>-50</integer>
-    <key>public.kern2.Oslash2</key>
-    <integer>-50</integer>
-    <key>public.kern2.Phi2</key>
-    <integer>-50</integer>
-    <key>public.kern2.T2</key>
-    <integer>20</integer>
-    <key>public.kern2.V2</key>
-    <integer>46</integer>
-    <key>public.kern2.X2</key>
-    <integer>18</integer>
-    <key>public.kern2.Y2</key>
-    <integer>46</integer>
-    <key>public.kern2.Ydieresis</key>
-    <integer>46</integer>
-    <key>public.kern2.a2</key>
-    <integer>-47</integer>
-    <key>public.kern2.c2</key>
-    <integer>-90</integer>
-    <key>public.kern2.colon2</key>
-    <integer>-20</integer>
-    <key>public.kern2.comma2</key>
-    <integer>-140</integer>
-    <key>public.kern2.eth2</key>
-    <integer>-41</integer>
-    <key>public.kern2.hbar</key>
-    <integer>29</integer>
-    <key>public.kern2.hyphen2</key>
-    <integer>-60</integer>
-    <key>public.kern2.itilde2</key>
-    <integer>126</integer>
-    <key>public.kern2.jcircumflex</key>
-    <integer>126</integer>
-    <key>public.kern2.m</key>
-    <integer>-85</integer>
-    <key>public.kern2.ntilde</key>
-    <integer>-45</integer>
-    <key>public.kern2.oslash2</key>
-    <integer>-90</integer>
-    <key>public.kern2.parenright</key>
-    <integer>40</integer>
-    <key>public.kern2.period</key>
-    <integer>-140</integer>
-    <key>public.kern2.s2</key>
-    <integer>-60</integer>
-    <key>public.kern2.tonos2</key>
-    <integer>40</integer>
-    <key>public.kern2.u2</key>
-    <integer>-85</integer>
-    <key>public.kern2.uni0205</key>
-    <integer>-41</integer>
-    <key>public.kern2.uni0209</key>
-    <integer>126</integer>
-    <key>public.kern2.uni0237</key>
-    <integer>-85</integer>
-    <key>public.kern2.uni0414_2</key>
-    <integer>-80</integer>
-    <key>public.kern2.uni0427</key>
-    <integer>40</integer>
-    <key>public.kern2.uni0436</key>
-    <integer>-60</integer>
-    <key>public.kern2.uni0437</key>
-    <integer>-80</integer>
-    <key>public.kern2.uni0442</key>
-    <integer>-40</integer>
-    <key>public.kern2.uni0447</key>
-    <integer>-58</integer>
-    <key>public.kern2.uni0459_2</key>
-    <integer>-169</integer>
-    <key>public.kern2.uni0491</key>
-    <integer>-80</integer>
-    <key>public.kern2.uring2</key>
-    <integer>-17</integer>
-    <key>public.kern2.v2</key>
-    <integer>-30</integer>
-    <key>public.kern2.x2</key>
-    <integer>-60</integer>
-  </dict>
-  <key>uni0437.loclBGR</key>
-  <dict>
-    <key>public.kern2.AE</key>
-    <integer>66</integer>
-    <key>public.kern2.j</key>
-    <integer>13</integer>
-    <key>public.kern2.jcircumflex</key>
-    <integer>13</integer>
-    <key>public.kern2.uni0237</key>
-    <integer>13</integer>
-  </dict>
-  <key>uni0438.loclBGR</key>
-  <dict>
-    <key>Tbar</key>
-    <integer>-80</integer>
-    <key>Tcaron</key>
-    <integer>-80</integer>
-    <key>public.kern2.T2</key>
-    <integer>-80</integer>
-    <key>public.kern2.V2</key>
-    <integer>-40</integer>
-    <key>public.kern2.Y2</key>
-    <integer>-80</integer>
-    <key>public.kern2.Ydieresis</key>
-    <integer>-80</integer>
-  </dict>
-  <key>uni043B.loclBGR</key>
-  <dict>
-    <key>uni0215</key>
-    <integer>-20</integer>
-    <key>upsilondieresistonos</key>
-    <integer>-20</integer>
-    <key>public.kern2.AE</key>
-    <integer>59</integer>
-    <key>public.kern2.V2</key>
-    <integer>-60</integer>
-    <key>public.kern2.c2</key>
-    <integer>-10</integer>
-    <key>public.kern2.eth2</key>
-    <integer>-10</integer>
-    <key>public.kern2.hyphen2</key>
-    <integer>-40</integer>
-    <key>public.kern2.oslash2</key>
-    <integer>-10</integer>
-    <key>public.kern2.u2</key>
-    <integer>-20</integer>
-    <key>public.kern2.uni0205</key>
-    <integer>-10</integer>
-    <key>public.kern2.uring2</key>
-    <integer>-20</integer>
-    <key>public.kern2.v2</key>
-    <integer>-40</integer>
-    <key>public.kern2.y</key>
-    <integer>-40</integer>
-    <key>public.kern2.ygrave</key>
-    <integer>-40</integer>
-  </dict>
-  <key>uni045C</key>
-  <dict>
-    <key>public.kern2.AE</key>
-    <integer>53</integer>
-  </dict>
-  <key>uni0474</key>
-  <dict>
-    <key>Hbar</key>
-    <integer>53</integer>
-    <key>Tbar</key>
-    <integer>86</integer>
-    <key>Tcaron</key>
-    <integer>86</integer>
-    <key>backslash</key>
-    <integer>80</integer>
-    <key>dagger</key>
-    <integer>44</integer>
-    <key>daggerdbl</key>
-    <integer>44</integer>
-    <key>igrave</key>
-    <integer>49</integer>
-    <key>one</key>
-    <integer>109</integer>
-    <key>paragraph</key>
-    <integer>75</integer>
-    <key>question</key>
-    <integer>40</integer>
-    <key>semicolon</key>
-    <integer>-20</integer>
-    <key>seven</key>
-    <integer>52</integer>
-    <key>slash</key>
-    <integer>-80</integer>
-    <key>three</key>
-    <integer>69</integer>
-    <key>uni0157</key>
-    <integer>-67</integer>
-    <key>uni0200</key>
-    <integer>-100</integer>
-    <key>uni020C</key>
-    <integer>-30</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>-100</integer>
-    <key>uni042F</key>
-    <integer>58</integer>
-    <key>uni0462</key>
-    <integer>44</integer>
-    <key>uni0493</key>
-    <integer>-67</integer>
-    <key>uni04DE</key>
-    <integer>84</integer>
-    <key>public.kern2.A2</key>
-    <integer>-100</integer>
-    <key>public.kern2.C2</key>
-    <integer>-30</integer>
-    <key>public.kern2.J2</key>
-    <integer>-80</integer>
-    <key>public.kern2.Oslash2</key>
-    <integer>-30</integer>
-    <key>public.kern2.Phi2</key>
-    <integer>35</integer>
-    <key>public.kern2.T2</key>
-    <integer>86</integer>
-    <key>public.kern2.V2</key>
-    <integer>20</integer>
-    <key>public.kern2.Y2</key>
-    <integer>20</integer>
-    <key>public.kern2.Ydieresis</key>
-    <integer>20</integer>
-    <key>public.kern2.c2</key>
-    <integer>-70</integer>
-    <key>public.kern2.colon2</key>
-    <integer>-20</integer>
-    <key>public.kern2.comma2</key>
-    <integer>-140</integer>
-    <key>public.kern2.degree2</key>
-    <integer>98</integer>
-    <key>public.kern2.g2</key>
-    <integer>-39</integer>
-    <key>public.kern2.hbar</key>
-    <integer>106</integer>
-    <key>public.kern2.hyphen2</key>
-    <integer>-60</integer>
-    <key>public.kern2.itilde2</key>
-    <integer>189</integer>
-    <key>public.kern2.jcircumflex</key>
-    <integer>189</integer>
-    <key>public.kern2.m</key>
-    <integer>-67</integer>
-    <key>public.kern2.oslash2</key>
-    <integer>-70</integer>
-    <key>public.kern2.parenright</key>
-    <integer>40</integer>
-    <key>public.kern2.percent</key>
-    <integer>86</integer>
-    <key>public.kern2.period</key>
-    <integer>-140</integer>
-    <key>public.kern2.s2</key>
-    <integer>-60</integer>
-    <key>public.kern2.six</key>
-    <integer>-20</integer>
-    <key>public.kern2.tonos2</key>
-    <integer>40</integer>
-    <key>public.kern2.u2</key>
-    <integer>-40</integer>
-    <key>public.kern2.uni0209</key>
-    <integer>189</integer>
-    <key>public.kern2.uni03A9_2</key>
-    <integer>-30</integer>
-    <key>public.kern2.uni0414_2</key>
-    <integer>-31</integer>
-    <key>public.kern2.uni0417</key>
-    <integer>84</integer>
-    <key>public.kern2.uni0427</key>
-    <integer>40</integer>
-    <key>public.kern2.uni0459_2</key>
-    <integer>-120</integer>
-    <key>public.kern2.uni0491</key>
-    <integer>-67</integer>
-    <key>public.kern2.v2</key>
-    <integer>-30</integer>
-  </dict>
-  <key>uni0475</key>
-  <dict>
-    <key>Lslash</key>
-    <integer>66</integer>
-    <key>Tbar</key>
-    <integer>-48</integer>
-    <key>Tcaron</key>
-    <integer>-48</integer>
-    <key>lambda</key>
-    <integer>-60</integer>
-    <key>lslash</key>
-    <integer>39</integer>
-    <key>question</key>
-    <integer>-20</integer>
-    <key>rho</key>
-    <integer>-10</integer>
-    <key>slash</key>
-    <integer>-40</integer>
-    <key>tau</key>
-    <integer>58</integer>
-    <key>uni0157</key>
-    <integer>-5</integer>
-    <key>uni0200</key>
-    <integer>-40</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>-40</integer>
-    <key>uni0431</key>
-    <integer>44</integer>
-    <key>uni044F</key>
-    <integer>5</integer>
-    <key>uni0493</key>
-    <integer>-5</integer>
-    <key>public.kern2.A2</key>
-    <integer>-40</integer>
-    <key>public.kern2.Eth</key>
-    <integer>53</integer>
-    <key>public.kern2.T2</key>
-    <integer>-48</integer>
-    <key>public.kern2.V2</key>
-    <integer>-30</integer>
-    <key>public.kern2.X2</key>
-    <integer>-60</integer>
-    <key>public.kern2.Y2</key>
-    <integer>-80</integer>
-    <key>public.kern2.Ydieresis</key>
-    <integer>-80</integer>
-    <key>public.kern2.a2</key>
-    <integer>9</integer>
-    <key>public.kern2.c2</key>
-    <integer>11</integer>
-    <key>public.kern2.comma2</key>
-    <integer>-80</integer>
-    <key>public.kern2.eth2</key>
-    <integer>-20</integer>
-    <key>public.kern2.f2</key>
-    <integer>58</integer>
-    <key>public.kern2.hyphen2</key>
-    <integer>39</integer>
-    <key>public.kern2.m</key>
-    <integer>-5</integer>
-    <key>public.kern2.ntilde</key>
-    <integer>-5</integer>
-    <key>public.kern2.oslash2</key>
-    <integer>11</integer>
-    <key>public.kern2.period</key>
-    <integer>-80</integer>
-    <key>public.kern2.t2</key>
-    <integer>58</integer>
-    <key>public.kern2.tonos2</key>
-    <integer>40</integer>
-    <key>public.kern2.uni0205</key>
-    <integer>-20</integer>
-    <key>public.kern2.uni021B_2</key>
-    <integer>58</integer>
-    <key>public.kern2.uni0416</key>
-    <integer>-80</integer>
-    <key>public.kern2.uni0437</key>
-    <integer>18</integer>
-    <key>public.kern2.uni0442</key>
-    <integer>42</integer>
-    <key>public.kern2.uni0459_2</key>
-    <integer>-37</integer>
-    <key>public.kern2.uni0491</key>
-    <integer>-5</integer>
-    <key>public.kern2.y</key>
-    <integer>24</integer>
-  </dict>
-  <key>uni0490</key>
-  <dict>
-    <key>Tbar</key>
-    <integer>13</integer>
-    <key>Tcaron</key>
-    <integer>13</integer>
-    <key>anoteleia</key>
-    <integer>-45</integer>
-    <key>backslash</key>
-    <integer>120</integer>
-    <key>chi</key>
-    <integer>-68</integer>
-    <key>hcircumflex</key>
-    <integer>146</integer>
-    <key>igrave</key>
-    <integer>18</integer>
-    <key>one</key>
-    <integer>36</integer>
-    <key>pi</key>
-    <integer>-76</integer>
-    <key>rho</key>
-    <integer>-111</integer>
-    <key>semicolon</key>
-    <integer>-80</integer>
-    <key>slash</key>
-    <integer>-120</integer>
-    <key>uni0157</key>
-    <integer>-94</integer>
-    <key>uni0200</key>
-    <integer>-90</integer>
-    <key>uni0201</key>
-    <integer>35</integer>
-    <key>uni0208</key>
-    <integer>104</integer>
-    <key>uni020C</key>
-    <integer>-63</integer>
-    <key>uni0215</key>
-    <integer>-11</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>-90</integer>
-    <key>uni042F</key>
-    <integer>-43</integer>
-    <key>uni044F</key>
-    <integer>-114</integer>
-    <key>uni0493</key>
-    <integer>-85</integer>
-    <key>upsilondieresistonos</key>
-    <integer>-11</integer>
-    <key>public.kern2.A2</key>
-    <integer>-90</integer>
-    <key>public.kern2.C2</key>
-    <integer>-63</integer>
-    <key>public.kern2.Igrave2</key>
-    <integer>104</integer>
-    <key>public.kern2.J2</key>
-    <integer>-120</integer>
-    <key>public.kern2.Oslash2</key>
-    <integer>-63</integer>
-    <key>public.kern2.Phi2</key>
-    <integer>-51</integer>
-    <key>public.kern2.T2</key>
-    <integer>13</integer>
-    <key>public.kern2.V2</key>
-    <integer>20</integer>
-    <key>public.kern2.Y2</key>
-    <integer>20</integer>
-    <key>public.kern2.Ydieresis</key>
-    <integer>20</integer>
-    <key>public.kern2.a2</key>
-    <integer>-78</integer>
-    <key>public.kern2.agrave</key>
-    <integer>-9</integer>
-    <key>public.kern2.c2</key>
-    <integer>-111</integer>
-    <key>public.kern2.colon2</key>
-    <integer>-80</integer>
-    <key>public.kern2.comma2</key>
-    <integer>-140</integer>
-    <key>public.kern2.epsilon</key>
-    <integer>-91</integer>
-    <key>public.kern2.eth2</key>
-    <integer>-51</integer>
-    <key>public.kern2.g2</key>
-    <integer>-111</integer>
-    <key>public.kern2.gbreve2</key>
-    <integer>-71</integer>
-    <key>public.kern2.hbar</key>
-    <integer>29</integer>
-    <key>public.kern2.hyphen2</key>
-    <integer>-140</integer>
-    <key>public.kern2.itilde2</key>
-    <integer>98</integer>
-    <key>public.kern2.jcircumflex</key>
-    <integer>98</integer>
-    <key>public.kern2.m</key>
-    <integer>-94</integer>
-    <key>public.kern2.ntilde</key>
-    <integer>-38</integer>
-    <key>public.kern2.oslash2</key>
-    <integer>-111</integer>
-    <key>public.kern2.period</key>
-    <integer>-140</integer>
-    <key>public.kern2.s2</key>
-    <integer>-103</integer>
-    <key>public.kern2.scaron2</key>
-    <integer>-23</integer>
-    <key>public.kern2.tonos2</key>
-    <integer>40</integer>
-    <key>public.kern2.u2</key>
-    <integer>-94</integer>
-    <key>public.kern2.uni0205</key>
-    <integer>13</integer>
-    <key>public.kern2.uni0209</key>
-    <integer>146</integer>
-    <key>public.kern2.uni0237</key>
-    <integer>-94</integer>
-    <key>public.kern2.uni0414_2</key>
-    <integer>-80</integer>
-    <key>public.kern2.uni0423</key>
-    <integer>20</integer>
-    <key>public.kern2.uni0427</key>
-    <integer>40</integer>
-    <key>public.kern2.uni0437</key>
-    <integer>-65</integer>
-    <key>public.kern2.uni0459_2</key>
-    <integer>-123</integer>
-    <key>public.kern2.uni0491</key>
-    <integer>-85</integer>
-    <key>public.kern2.uring2</key>
-    <integer>-11</integer>
-    <key>public.kern2.v2</key>
-    <integer>-48</integer>
-    <key>public.kern2.x2</key>
-    <integer>-45</integer>
-    <key>public.kern2.y</key>
-    <integer>-48</integer>
-    <key>public.kern2.ygrave</key>
-    <integer>9</integer>
-    <key>public.kern2.z2</key>
-    <integer>-54</integer>
-  </dict>
-  <key>uni0491</key>
-  <dict>
-    <key>uni0200</key>
-    <integer>-60</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>-60</integer>
-    <key>uni0431</key>
-    <integer>20</integer>
-    <key>public.kern2.A2</key>
-    <integer>-60</integer>
-    <key>public.kern2.comma2</key>
-    <integer>-120</integer>
-    <key>public.kern2.itilde2</key>
-    <integer>98</integer>
-    <key>public.kern2.jcircumflex</key>
-    <integer>98</integer>
-    <key>public.kern2.oslash2</key>
-    <integer>-20</integer>
-    <key>public.kern2.period</key>
-    <integer>-120</integer>
-    <key>public.kern2.tonos2</key>
-    <integer>29</integer>
-    <key>public.kern2.uni0205</key>
-    <integer>-20</integer>
-    <key>public.kern2.uni0209</key>
-    <integer>98</integer>
-    <key>public.kern2.uni0442</key>
-    <integer>20</integer>
-    <key>public.kern2.uni0459_2</key>
-    <integer>-60</integer>
-    <key>public.kern2.v2</key>
-    <integer>30</integer>
-    <key>public.kern2.y</key>
-    <integer>30</integer>
-    <key>public.kern2.ygrave</key>
-    <integer>30</integer>
-  </dict>
-  <key>uni04B2</key>
-  <dict>
-    <key>uni020C</key>
-    <integer>-40</integer>
-    <key>public.kern2.AE</key>
-    <integer>75</integer>
-    <key>public.kern2.C2</key>
-    <integer>-40</integer>
-    <key>public.kern2.i2</key>
-    <integer>28</integer>
-    <key>public.kern2.iogonek2</key>
-    <integer>56</integer>
-    <key>public.kern2.j</key>
-    <integer>113</integer>
-    <key>public.kern2.jcircumflex</key>
-    <integer>113</integer>
-    <key>public.kern2.uni0237</key>
-    <integer>113</integer>
-    <key>public.kern2.uni0416</key>
-    <integer>35</integer>
-    <key>public.kern2.uni0427</key>
-    <integer>-58</integer>
-  </dict>
-  <key>uni04BA</key>
-  <dict>
-    <key>public.kern2.AE</key>
-    <integer>35</integer>
-  </dict>
-  <key>uni04DF</key>
-  <dict>
-    <key>public.kern2.itilde2</key>
-    <integer>35</integer>
-    <key>public.kern2.tonos2</key>
-    <integer>-30</integer>
-    <key>public.kern2.uni0209</key>
-    <integer>35</integer>
-  </dict>
-  <key>uni04F2</key>
-  <dict>
-    <key>Tbar</key>
-    <integer>20</integer>
-    <key>Tcaron</key>
-    <integer>20</integer>
-    <key>backslash</key>
-    <integer>80</integer>
-    <key>igrave</key>
-    <integer>69</integer>
-    <key>lambda</key>
-    <integer>30</integer>
-    <key>one</key>
-    <integer>31</integer>
-    <key>question</key>
-    <integer>40</integer>
-    <key>semicolon</key>
-    <integer>-20</integer>
-    <key>slash</key>
-    <integer>-80</integer>
-    <key>uni0157</key>
-    <integer>-65</integer>
-    <key>uni0200</key>
-    <integer>-25</integer>
-    <key>uni0201</key>
-    <integer>55</integer>
-    <key>uni0208</key>
-    <integer>133</integer>
-    <key>uni020C</key>
-    <integer>-30</integer>
-    <key>uni0215</key>
-    <integer>9</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>-60</integer>
-    <key>uni042F</key>
-    <integer>-60</integer>
-    <key>uni043B.loclBGR</key>
-    <integer>-60</integer>
-    <key>uni0493</key>
-    <integer>-60</integer>
-    <key>uni04DF</key>
-    <integer>35</integer>
-    <key>upsilondieresistonos</key>
-    <integer>9</integer>
-    <key>public.kern2.A2</key>
-    <integer>-25</integer>
-    <key>public.kern2.C2</key>
-    <integer>-30</integer>
-    <key>public.kern2.Igrave2</key>
-    <integer>53</integer>
-    <key>public.kern2.J2</key>
-    <integer>-80</integer>
-    <key>public.kern2.Oslash2</key>
-    <integer>-30</integer>
-    <key>public.kern2.Phi2</key>
-    <integer>-50</integer>
-    <key>public.kern2.T2</key>
-    <integer>20</integer>
-    <key>public.kern2.V2</key>
-    <integer>46</integer>
-    <key>public.kern2.X2</key>
-    <integer>18</integer>
-    <key>public.kern2.Y2</key>
-    <integer>46</integer>
-    <key>public.kern2.Ydieresis</key>
-    <integer>46</integer>
-    <key>public.kern2.agrave</key>
-    <integer>20</integer>
-    <key>public.kern2.c2</key>
-    <integer>-70</integer>
-    <key>public.kern2.colon2</key>
-    <integer>-20</integer>
-    <key>public.kern2.comma2</key>
-    <integer>-140</integer>
-    <key>public.kern2.eth2</key>
-    <integer>-30</integer>
-    <key>public.kern2.g2</key>
-    <integer>-39</integer>
-    <key>public.kern2.hyphen2</key>
-    <integer>-60</integer>
-    <key>public.kern2.itilde2</key>
-    <integer>106</integer>
-    <key>public.kern2.jcircumflex</key>
-    <integer>106</integer>
-    <key>public.kern2.m</key>
-    <integer>-65</integer>
-    <key>public.kern2.ntilde</key>
-    <integer>-25</integer>
-    <key>public.kern2.oslash2</key>
-    <integer>-70</integer>
-    <key>public.kern2.parenright</key>
-    <integer>40</integer>
-    <key>public.kern2.period</key>
-    <integer>-140</integer>
-    <key>public.kern2.s2</key>
-    <integer>-60</integer>
-    <key>public.kern2.scaron2</key>
-    <integer>-20</integer>
-    <key>public.kern2.six</key>
-    <integer>-20</integer>
-    <key>public.kern2.tonos2</key>
-    <integer>40</integer>
-    <key>public.kern2.u2</key>
-    <integer>-65</integer>
-    <key>public.kern2.uni0204</key>
-    <integer>53</integer>
-    <key>public.kern2.uni0205</key>
-    <integer>5</integer>
-    <key>public.kern2.uni0209</key>
-    <integer>155</integer>
-    <key>public.kern2.uni0237</key>
-    <integer>-65</integer>
-    <key>public.kern2.uni03A9_2</key>
-    <integer>-30</integer>
-    <key>public.kern2.uni0414_2</key>
-    <integer>-80</integer>
-    <key>public.kern2.uni0427</key>
-    <integer>40</integer>
-    <key>public.kern2.uni0459_2</key>
-    <integer>-120</integer>
-    <key>public.kern2.uni0491</key>
-    <integer>-60</integer>
-    <key>public.kern2.uring2</key>
-    <integer>9</integer>
-    <key>public.kern2.v2</key>
-    <integer>-30</integer>
-    <key>public.kern2.y</key>
-    <integer>-22</integer>
-  </dict>
-  <key>uni04F7</key>
-  <dict>
-    <key>public.kern2.AE</key>
-    <integer>-44</integer>
-    <key>public.kern2.comma2</key>
-    <integer>-113</integer>
-    <key>public.kern2.j</key>
-    <integer>44</integer>
-    <key>public.kern2.jcircumflex</key>
-    <integer>44</integer>
-    <key>public.kern2.period</key>
-    <integer>-113</integer>
-    <key>public.kern2.uni0237</key>
-    <integer>44</integer>
-  </dict>
-  <key>uni1ECA</key>
-  <dict>
-    <key>public.kern2.itilde2</key>
-    <integer>9</integer>
-    <key>public.kern2.jcircumflex</key>
-    <integer>18</integer>
-    <key>public.kern2.uni0209</key>
-    <integer>9</integer>
-  </dict>
-  <key>uni1EF5</key>
-  <dict>
-    <key>Iogonek</key>
-    <integer>75</integer>
-    <key>Tbar</key>
-    <integer>-39</integer>
-    <key>Tcaron</key>
-    <integer>-39</integer>
-    <key>anoteleia</key>
-    <integer>20</integer>
-    <key>chi</key>
-    <integer>44</integer>
-    <key>igrave</key>
-    <integer>-2</integer>
-    <key>lambda</key>
-    <integer>-40</integer>
-    <key>pi</key>
-    <integer>40</integer>
-    <key>question</key>
-    <integer>-20</integer>
-    <key>rho</key>
-    <integer>50</integer>
-    <key>semicolon</key>
-    <integer>88</integer>
-    <key>slash</key>
-    <integer>-40</integer>
-    <key>tau</key>
-    <integer>40</integer>
-    <key>underscore</key>
-    <integer>141</integer>
-    <key>uni013C</key>
-    <integer>44</integer>
-    <key>uni0157</key>
-    <integer>41</integer>
-    <key>uni0200</key>
-    <integer>-40</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>79</integer>
-    <key>uni0431</key>
-    <integer>20</integer>
-    <key>uni0437.loclBGR</key>
-    <integer>83</integer>
-    <key>uni043B.loclBGR</key>
-    <integer>-40</integer>
-    <key>uni0493</key>
-    <integer>-5</integer>
-    <key>uni04F5</key>
-    <integer>20</integer>
-    <key>public.kern2.A2</key>
-    <integer>-40</integer>
-    <key>public.kern2.T2</key>
-    <integer>-39</integer>
-    <key>public.kern2.V2</key>
-    <integer>-30</integer>
-    <key>public.kern2.X2</key>
-    <integer>-60</integer>
-    <key>public.kern2.Y2</key>
-    <integer>-80</integer>
-    <key>public.kern2.Ydieresis</key>
-    <integer>-80</integer>
-    <key>public.kern2.c2</key>
-    <integer>-10</integer>
-    <key>public.kern2.comma2</key>
-    <integer>88</integer>
-    <key>public.kern2.eth2</key>
-    <integer>-10</integer>
-    <key>public.kern2.f2</key>
-    <integer>36</integer>
-    <key>public.kern2.g2</key>
-    <integer>61</integer>
-    <key>public.kern2.gbreve2</key>
-    <integer>61</integer>
-    <key>public.kern2.i2</key>
-    <integer>-2</integer>
-    <key>public.kern2.iogonek2</key>
-    <integer>106</integer>
-    <key>public.kern2.itilde2</key>
-    <integer>-2</integer>
-    <key>public.kern2.j</key>
-    <integer>101</integer>
-    <key>public.kern2.jcircumflex</key>
-    <integer>101</integer>
-    <key>public.kern2.m</key>
-    <integer>-5</integer>
-    <key>public.kern2.ntilde</key>
-    <integer>-5</integer>
-    <key>public.kern2.oslash2</key>
-    <integer>-10</integer>
-    <key>public.kern2.parenright</key>
-    <integer>70</integer>
-    <key>public.kern2.period</key>
-    <integer>-80</integer>
-    <key>public.kern2.t2</key>
-    <integer>36</integer>
-    <key>public.kern2.tonos2</key>
-    <integer>40</integer>
-    <key>public.kern2.uni0205</key>
-    <integer>-10</integer>
-    <key>public.kern2.uni0209</key>
-    <integer>-2</integer>
-    <key>public.kern2.uni0237</key>
-    <integer>101</integer>
-    <key>public.kern2.uni0414_2</key>
-    <integer>79</integer>
-    <key>public.kern2.uni0416</key>
-    <integer>-80</integer>
-    <key>public.kern2.uni0442</key>
-    <integer>28</integer>
-    <key>public.kern2.uni0447</key>
-    <integer>20</integer>
-    <key>public.kern2.uni0459_2</key>
-    <integer>79</integer>
-    <key>public.kern2.uni0491</key>
-    <integer>-5</integer>
-    <key>public.kern2.v2</key>
-    <integer>20</integer>
-    <key>public.kern2.y</key>
-    <integer>59</integer>
-    <key>public.kern2.ygrave</key>
-    <integer>59</integer>
-  </dict>
-  <key>uni27E8</key>
-  <dict>
-    <key>hcircumflex</key>
-    <integer>61</integer>
-    <key>uni0208</key>
-    <integer>18</integer>
-    <key>public.kern2.Igrave2</key>
-    <integer>18</integer>
-    <key>public.kern2.itilde2</key>
-    <integer>48</integer>
-    <key>public.kern2.j</key>
-    <integer>48</integer>
-    <key>public.kern2.jcircumflex</key>
-    <integer>48</integer>
-    <key>public.kern2.uni0209</key>
-    <integer>48</integer>
-    <key>public.kern2.uni0237</key>
-    <integer>48</integer>
-  </dict>
   <key>upsilondieresistonos</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>-10</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-10</integer>
     <key>Tbar</key>
     <integer>-51</integer>
     <key>Tcaron</key>
@@ -2900,6 +2763,8 @@
     <key>backslash</key>
     <integer>-31</integer>
     <key>chi</key>
+    <integer>-10</integer>
+    <key>elcyr.loclBGR</key>
     <integer>-10</integer>
     <key>iotadieresistonos</key>
     <integer>93</integer>
@@ -2913,12 +2778,6 @@
     <integer>-100</integer>
     <key>seven</key>
     <integer>-20</integer>
-    <key>uni0200</key>
-    <integer>-10</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>-10</integer>
-    <key>uni043B.loclBGR</key>
-    <integer>-10</integer>
     <key>xi</key>
     <integer>10</integer>
     <key>zeta</key>
@@ -3031,20 +2890,167 @@
     <key>public.kern2.uni0237</key>
     <integer>82</integer>
   </dict>
+  <key>ydotbelow</key>
+  <dict>
+    <key>Adblgrave</key>
+    <integer>-40</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>79</integer>
+    <key>Iogonek</key>
+    <integer>75</integer>
+    <key>Tbar</key>
+    <integer>-39</integer>
+    <key>Tcaron</key>
+    <integer>-39</integer>
+    <key>anoteleia</key>
+    <integer>20</integer>
+    <key>becyr</key>
+    <integer>20</integer>
+    <key>chedieresiscyr</key>
+    <integer>20</integer>
+    <key>chi</key>
+    <integer>44</integer>
+    <key>elcyr.loclBGR</key>
+    <integer>-40</integer>
+    <key>gestrokecyr</key>
+    <integer>-5</integer>
+    <key>igrave</key>
+    <integer>-2</integer>
+    <key>lambda</key>
+    <integer>-40</integer>
+    <key>lcommaaccent</key>
+    <integer>44</integer>
+    <key>pi</key>
+    <integer>40</integer>
+    <key>question</key>
+    <integer>-20</integer>
+    <key>rcommaaccent</key>
+    <integer>41</integer>
+    <key>rho</key>
+    <integer>50</integer>
+    <key>semicolon</key>
+    <integer>88</integer>
+    <key>slash</key>
+    <integer>-40</integer>
+    <key>tau</key>
+    <integer>40</integer>
+    <key>underscore</key>
+    <integer>141</integer>
+    <key>zecyr.loclBGR</key>
+    <integer>83</integer>
+    <key>public.kern2.A2</key>
+    <integer>-40</integer>
+    <key>public.kern2.T2</key>
+    <integer>-39</integer>
+    <key>public.kern2.V2</key>
+    <integer>-30</integer>
+    <key>public.kern2.X2</key>
+    <integer>-60</integer>
+    <key>public.kern2.Y2</key>
+    <integer>-80</integer>
+    <key>public.kern2.Ydieresis</key>
+    <integer>-80</integer>
+    <key>public.kern2.c2</key>
+    <integer>-10</integer>
+    <key>public.kern2.comma2</key>
+    <integer>88</integer>
+    <key>public.kern2.eth2</key>
+    <integer>-10</integer>
+    <key>public.kern2.f2</key>
+    <integer>36</integer>
+    <key>public.kern2.g2</key>
+    <integer>61</integer>
+    <key>public.kern2.gbreve2</key>
+    <integer>61</integer>
+    <key>public.kern2.i2</key>
+    <integer>-2</integer>
+    <key>public.kern2.iogonek2</key>
+    <integer>106</integer>
+    <key>public.kern2.itilde2</key>
+    <integer>-2</integer>
+    <key>public.kern2.j</key>
+    <integer>101</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>101</integer>
+    <key>public.kern2.m</key>
+    <integer>-5</integer>
+    <key>public.kern2.ntilde</key>
+    <integer>-5</integer>
+    <key>public.kern2.oslash2</key>
+    <integer>-10</integer>
+    <key>public.kern2.parenright</key>
+    <integer>70</integer>
+    <key>public.kern2.period</key>
+    <integer>-80</integer>
+    <key>public.kern2.t2</key>
+    <integer>36</integer>
+    <key>public.kern2.tonos2</key>
+    <integer>40</integer>
+    <key>public.kern2.uni0205</key>
+    <integer>-10</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>-2</integer>
+    <key>public.kern2.uni0237</key>
+    <integer>101</integer>
+    <key>public.kern2.uni0414_2</key>
+    <integer>79</integer>
+    <key>public.kern2.uni0416</key>
+    <integer>-80</integer>
+    <key>public.kern2.uni0442</key>
+    <integer>28</integer>
+    <key>public.kern2.uni0447</key>
+    <integer>20</integer>
+    <key>public.kern2.uni0459_2</key>
+    <integer>79</integer>
+    <key>public.kern2.uni0491</key>
+    <integer>-5</integer>
+    <key>public.kern2.v2</key>
+    <integer>20</integer>
+    <key>public.kern2.y</key>
+    <integer>59</integer>
+    <key>public.kern2.ygrave</key>
+    <integer>59</integer>
+  </dict>
+  <key>zecyr.loclBGR</key>
+  <dict>
+    <key>public.kern2.AE</key>
+    <integer>66</integer>
+    <key>public.kern2.j</key>
+    <integer>13</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>13</integer>
+    <key>public.kern2.uni0237</key>
+    <integer>13</integer>
+  </dict>
+  <key>zedieresiscyr</key>
+  <dict>
+    <key>public.kern2.itilde2</key>
+    <integer>35</integer>
+    <key>public.kern2.tonos2</key>
+    <integer>-30</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>35</integer>
+  </dict>
   <key>zeta</key>
   <dict>
     <key>Tbar</key>
     <integer>58</integer>
     <key>Tcaron</key>
     <integer>58</integer>
+    <key>adblgrave</key>
+    <integer>66</integer>
     <key>backslash</key>
     <integer>129</integer>
+    <key>gestrokecyr</key>
+    <integer>-20</integer>
     <key>igrave</key>
     <integer>98</integer>
     <key>iotadieresistonos</key>
     <integer>210</integer>
     <key>question</key>
     <integer>9</integer>
+    <key>rcommaaccent</key>
+    <integer>-22</integer>
     <key>semicolon</key>
     <integer>60</integer>
     <key>slash</key>
@@ -3053,13 +3059,7 @@
     <integer>-49</integer>
     <key>underscore</key>
     <integer>95</integer>
-    <key>uni0157</key>
-    <integer>-22</integer>
-    <key>uni0201</key>
-    <integer>66</integer>
-    <key>uni0493</key>
-    <integer>-20</integer>
-    <key>uni04DF</key>
+    <key>zedieresiscyr</key>
     <integer>44</integer>
     <key>public.kern2.AE</key>
     <integer>84</integer>
@@ -3118,14 +3118,28 @@
   </dict>
   <key>public.kern1.A</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>20</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>20</integer>
+    <key>Odblgrave</key>
+    <integer>-40</integer>
     <key>Tbar</key>
     <integer>-90</integer>
     <key>Tcaron</key>
     <integer>-90</integer>
+    <key>Udblgrave</key>
+    <integer>-20</integer>
+    <key>Yatcyr</key>
+    <integer>-160</integer>
     <key>anoteleia</key>
     <integer>-100</integer>
     <key>backslash</key>
     <integer>-80</integer>
+    <key>becyr</key>
+    <integer>-13</integer>
+    <key>chedieresiscyr</key>
+    <integer>-70</integer>
     <key>one</key>
     <integer>-120</integer>
     <key>pi</key>
@@ -3136,22 +3150,8 @@
     <integer>80</integer>
     <key>tau</key>
     <integer>-60</integer>
-    <key>uni0200</key>
-    <integer>20</integer>
-    <key>uni020C</key>
-    <integer>-40</integer>
-    <key>uni0214</key>
+    <key>udblgrave</key>
     <integer>-20</integer>
-    <key>uni0215</key>
-    <integer>-20</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>20</integer>
-    <key>uni0431</key>
-    <integer>-13</integer>
-    <key>uni0462</key>
-    <integer>-160</integer>
-    <key>uni04F5</key>
-    <integer>-70</integer>
     <key>upsilondieresistonos</key>
     <integer>-20</integer>
     <key>public.kern2.A2</key>
@@ -3240,9 +3240,9 @@
   </dict>
   <key>public.kern1.C</key>
   <dict>
-    <key>uni020C</key>
+    <key>Odblgrave</key>
     <integer>-24</integer>
-    <key>uni04F5</key>
+    <key>chedieresiscyr</key>
     <integer>-63</integer>
     <key>public.kern2.AE</key>
     <integer>35</integer>
@@ -3265,18 +3265,18 @@
   </dict>
   <key>public.kern1.Ccaron</key>
   <dict>
+    <key>Idblgrave</key>
+    <integer>44</integer>
+    <key>Odblgrave</key>
+    <integer>-24</integer>
+    <key>adblgrave</key>
+    <integer>18</integer>
     <key>backslash</key>
     <integer>18</integer>
+    <key>chedieresiscyr</key>
+    <integer>-63</integer>
     <key>hcircumflex</key>
     <integer>39</integer>
-    <key>uni0201</key>
-    <integer>18</integer>
-    <key>uni0208</key>
-    <integer>44</integer>
-    <key>uni020C</key>
-    <integer>-24</integer>
-    <key>uni04F5</key>
-    <integer>-63</integer>
     <key>public.kern2.AE</key>
     <integer>35</integer>
     <key>public.kern2.C2</key>
@@ -3302,8 +3302,14 @@
   </dict>
   <key>public.kern1.D</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>-29</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-40</integer>
     <key>Lslash</key>
     <integer>31</integer>
+    <key>Odblgrave</key>
+    <integer>20</integer>
     <key>Tbar</key>
     <integer>-63</integer>
     <key>Tcaron</key>
@@ -3314,12 +3320,6 @@
     <integer>-130</integer>
     <key>slash</key>
     <integer>-80</integer>
-    <key>uni0200</key>
-    <integer>-29</integer>
-    <key>uni020C</key>
-    <integer>20</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>-40</integer>
     <key>public.kern2.A2</key>
     <integer>-29</integer>
     <key>public.kern2.AE</key>
@@ -3370,13 +3370,13 @@
   </dict>
   <key>public.kern1.F</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>-60</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-60</integer>
     <key>slash</key>
     <integer>-120</integer>
-    <key>uni0200</key>
-    <integer>-60</integer>
-    <key>uni0215</key>
-    <integer>-60</integer>
-    <key>uni0414.loclBGR</key>
+    <key>udblgrave</key>
     <integer>-60</integer>
     <key>upsilondieresistonos</key>
     <integer>-60</integer>
@@ -3429,8 +3429,16 @@
   </dict>
   <key>public.kern1.Iacute</key>
   <dict>
+    <key>Idblgrave</key>
+    <integer>166</integer>
+    <key>Zedieresiscyr</key>
+    <integer>26</integer>
+    <key>adblgrave</key>
+    <integer>66</integer>
     <key>backslash</key>
     <integer>122</integer>
+    <key>bracketangleright</key>
+    <integer>18</integer>
     <key>hcircumflex</key>
     <integer>233</integer>
     <key>igrave</key>
@@ -3441,20 +3449,12 @@
     <integer>18</integer>
     <key>rcaron</key>
     <integer>53</integer>
-    <key>uni0201</key>
-    <integer>66</integer>
-    <key>uni0208</key>
-    <integer>166</integer>
-    <key>uni0215</key>
+    <key>udblgrave</key>
     <integer>53</integer>
-    <key>uni04DE</key>
-    <integer>26</integer>
-    <key>uni04DF</key>
-    <integer>39</integer>
-    <key>uni27E9</key>
-    <integer>18</integer>
     <key>zcaron</key>
     <integer>35</integer>
+    <key>zedieresiscyr</key>
+    <integer>39</integer>
     <key>public.kern2.Iacute2</key>
     <integer>18</integer>
     <key>public.kern2.Igrave2</key>
@@ -3478,10 +3478,10 @@
   </dict>
   <key>public.kern1.Igrave</key>
   <dict>
+    <key>Idblgrave</key>
+    <integer>18</integer>
     <key>hcircumflex</key>
     <integer>60</integer>
-    <key>uni0208</key>
-    <integer>18</integer>
     <key>public.kern2.Igrave2</key>
     <integer>18</integer>
     <key>public.kern2.itilde2</key>
@@ -3491,14 +3491,14 @@
   </dict>
   <key>public.kern1.J</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>-20</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-20</integer>
     <key>questiondown</key>
     <integer>-80</integer>
     <key>slash</key>
     <integer>-40</integer>
-    <key>uni0200</key>
-    <integer>-20</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>-20</integer>
     <key>public.kern2.A2</key>
     <integer>-20</integer>
     <key>public.kern2.comma2</key>
@@ -3512,6 +3512,10 @@
   </dict>
   <key>public.kern1.K</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>9</integer>
+    <key>Odblgrave</key>
+    <integer>-100</integer>
     <key>Tbar</key>
     <integer>-36</integer>
     <key>Tcaron</key>
@@ -3520,20 +3524,16 @@
     <integer>-60</integer>
     <key>backslash</key>
     <integer>18</integer>
+    <key>chedieresiscyr</key>
+    <integer>-68</integer>
     <key>iotadieresistonos</key>
     <integer>150</integer>
     <key>slash</key>
     <integer>18</integer>
     <key>tau</key>
     <integer>-91</integer>
-    <key>uni0200</key>
-    <integer>9</integer>
-    <key>uni020C</key>
-    <integer>-100</integer>
-    <key>uni0215</key>
+    <key>udblgrave</key>
     <integer>-47</integer>
-    <key>uni04F5</key>
-    <integer>-68</integer>
     <key>upsilondieresistonos</key>
     <integer>-47</integer>
     <key>public.kern2.A2</key>
@@ -3591,22 +3591,22 @@
   <dict>
     <key>Lslash</key>
     <integer>9</integer>
+    <key>Odblgrave</key>
+    <integer>-60</integer>
     <key>Tbar</key>
     <integer>-180</integer>
     <key>Tcaron</key>
     <integer>-180</integer>
+    <key>Udblgrave</key>
+    <integer>-20</integer>
+    <key>adblgrave</key>
+    <integer>20</integer>
     <key>one</key>
     <integer>-140</integer>
     <key>question</key>
     <integer>-80</integer>
     <key>seven</key>
     <integer>-40</integer>
-    <key>uni0201</key>
-    <integer>20</integer>
-    <key>uni020C</key>
-    <integer>-60</integer>
-    <key>uni0214</key>
-    <integer>-20</integer>
     <key>public.kern2.AE</key>
     <integer>35</integer>
     <key>public.kern2.C2</key>
@@ -3648,22 +3648,42 @@
   </dict>
   <key>public.kern1.Ohorn</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>-40</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-40</integer>
     <key>Hbar</key>
     <integer>44</integer>
+    <key>Idblgrave</key>
+    <integer>26</integer>
+    <key>Idotbelow</key>
+    <integer>26</integer>
     <key>Iogonek</key>
     <integer>26</integer>
     <key>Lslash</key>
     <integer>31</integer>
+    <key>Odblgrave</key>
+    <integer>20</integer>
     <key>Sigma</key>
     <integer>46</integer>
     <key>Tbar</key>
     <integer>61</integer>
     <key>Tcaron</key>
     <integer>61</integer>
+    <key>Udblgrave</key>
+    <integer>26</integer>
+    <key>Yatcyr</key>
+    <integer>44</integer>
     <key>Zcaron</key>
     <integer>26</integer>
+    <key>Zedieresiscyr</key>
+    <integer>35</integer>
+    <key>adblgrave</key>
+    <integer>79</integer>
     <key>backslash</key>
     <integer>133</integer>
+    <key>bracketangleright</key>
+    <integer>39</integer>
     <key>daggerdbl</key>
     <integer>35</integer>
     <key>hcircumflex</key>
@@ -3688,32 +3708,12 @@
     <integer>75</integer>
     <key>two</key>
     <integer>26</integer>
-    <key>uni0200</key>
-    <integer>-40</integer>
-    <key>uni0201</key>
-    <integer>79</integer>
-    <key>uni0208</key>
-    <integer>26</integer>
-    <key>uni020C</key>
-    <integer>20</integer>
-    <key>uni0214</key>
-    <integer>26</integer>
-    <key>uni0215</key>
+    <key>udblgrave</key>
     <integer>70</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>-40</integer>
-    <key>uni0462</key>
-    <integer>44</integer>
-    <key>uni04DE</key>
-    <integer>35</integer>
-    <key>uni04DF</key>
-    <integer>61</integer>
-    <key>uni1ECA</key>
-    <integer>26</integer>
-    <key>uni27E9</key>
-    <integer>39</integer>
     <key>upsilondieresistonos</key>
     <integer>44</integer>
+    <key>zedieresiscyr</key>
+    <integer>61</integer>
     <key>public.kern2.A2</key>
     <integer>-40</integer>
     <key>public.kern2.B2</key>
@@ -3781,8 +3781,14 @@
   </dict>
   <key>public.kern1.Oslash</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>-40</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-40</integer>
     <key>Lslash</key>
     <integer>31</integer>
+    <key>Odblgrave</key>
+    <integer>20</integer>
     <key>Tbar</key>
     <integer>-54</integer>
     <key>Tcaron</key>
@@ -3793,12 +3799,6 @@
     <integer>-130</integer>
     <key>slash</key>
     <integer>-80</integer>
-    <key>uni0200</key>
-    <integer>-40</integer>
-    <key>uni020C</key>
-    <integer>20</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>-40</integer>
     <key>public.kern2.A2</key>
     <integer>-40</integer>
     <key>public.kern2.C2</key>
@@ -3834,6 +3834,10 @@
   </dict>
   <key>public.kern1.P</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>-60</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-60</integer>
     <key>Tbar</key>
     <integer>4</integer>
     <key>Tcaron</key>
@@ -3844,10 +3848,6 @@
     <integer>60</integer>
     <key>slash</key>
     <integer>-140</integer>
-    <key>uni0200</key>
-    <integer>-60</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>-60</integer>
     <key>public.kern2.A2</key>
     <integer>-60</integer>
     <key>public.kern2.J2</key>
@@ -3901,19 +3901,19 @@
   </dict>
   <key>public.kern1.Phi</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>-50</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-50</integer>
     <key>Lslash</key>
     <integer>31</integer>
     <key>Tbar</key>
     <integer>-51</integer>
     <key>Tcaron</key>
     <integer>-51</integer>
-    <key>uni0200</key>
-    <integer>-50</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>-50</integer>
-    <key>uni042F</key>
+    <key>Yacyr</key>
     <integer>-20</integer>
-    <key>uni0462</key>
+    <key>Yatcyr</key>
     <integer>-80</integer>
     <key>public.kern2.A2</key>
     <integer>-50</integer>
@@ -3934,9 +3934,9 @@
   </dict>
   <key>public.kern1.R</key>
   <dict>
-    <key>uni020C</key>
+    <key>Odblgrave</key>
     <integer>-20</integer>
-    <key>uni0214</key>
+    <key>Udblgrave</key>
     <integer>-10</integer>
     <key>public.kern2.AE</key>
     <integer>44</integer>
@@ -3968,10 +3968,10 @@
   </dict>
   <key>public.kern1.Scaron</key>
   <dict>
+    <key>Idblgrave</key>
+    <integer>35</integer>
     <key>hcircumflex</key>
     <integer>26</integer>
-    <key>uni0208</key>
-    <integer>35</integer>
     <key>public.kern2.Y2</key>
     <integer>-20</integer>
     <key>public.kern2.Ydieresis</key>
@@ -3985,16 +3985,28 @@
   </dict>
   <key>public.kern1.T</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>-90</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-90</integer>
+    <key>Odblgrave</key>
+    <integer>-63</integer>
     <key>Tbar</key>
     <integer>13</integer>
     <key>Tcaron</key>
     <integer>13</integer>
+    <key>Yacyr</key>
+    <integer>-43</integer>
+    <key>adblgrave</key>
+    <integer>-9</integer>
     <key>anoteleia</key>
     <integer>-45</integer>
     <key>backslash</key>
     <integer>120</integer>
     <key>chi</key>
     <integer>-68</integer>
+    <key>gestrokecyr</key>
+    <integer>-85</integer>
     <key>igrave</key>
     <integer>18</integer>
     <key>iotadieresistonos</key>
@@ -4003,32 +4015,20 @@
     <integer>36</integer>
     <key>pi</key>
     <integer>-76</integer>
+    <key>rcommaaccent</key>
+    <integer>-94</integer>
     <key>rho</key>
     <integer>-111</integer>
     <key>semicolon</key>
     <integer>-80</integer>
     <key>slash</key>
     <integer>-120</integer>
-    <key>uni0157</key>
-    <integer>-94</integer>
-    <key>uni0200</key>
-    <integer>-90</integer>
-    <key>uni0201</key>
-    <integer>-9</integer>
-    <key>uni020C</key>
-    <integer>-63</integer>
-    <key>uni0215</key>
+    <key>udblgrave</key>
     <integer>-11</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>-90</integer>
-    <key>uni042F</key>
-    <integer>-43</integer>
-    <key>uni044F</key>
-    <integer>-114</integer>
-    <key>uni0493</key>
-    <integer>-85</integer>
     <key>upsilondieresistonos</key>
     <integer>-11</integer>
+    <key>yacyr</key>
+    <integer>-114</integer>
     <key>public.kern2.A2</key>
     <integer>-90</integer>
     <key>public.kern2.C2</key>
@@ -4124,50 +4124,50 @@
   </dict>
   <key>public.kern1.Tcaron</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>-90</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-90</integer>
+    <key>Idblgrave</key>
+    <integer>44</integer>
+    <key>Odblgrave</key>
+    <integer>-63</integer>
     <key>Tbar</key>
     <integer>13</integer>
     <key>Tcaron</key>
     <integer>13</integer>
+    <key>Yacyr</key>
+    <integer>-43</integer>
+    <key>adblgrave</key>
+    <integer>-9</integer>
     <key>anoteleia</key>
     <integer>-45</integer>
     <key>backslash</key>
     <integer>120</integer>
     <key>chi</key>
     <integer>-68</integer>
+    <key>gestrokecyr</key>
+    <integer>-85</integer>
     <key>igrave</key>
     <integer>18</integer>
     <key>one</key>
     <integer>36</integer>
     <key>pi</key>
     <integer>-76</integer>
+    <key>rcommaaccent</key>
+    <integer>-94</integer>
     <key>rho</key>
     <integer>-111</integer>
     <key>semicolon</key>
     <integer>-80</integer>
     <key>slash</key>
     <integer>-120</integer>
-    <key>uni0157</key>
-    <integer>-94</integer>
-    <key>uni0200</key>
-    <integer>-90</integer>
-    <key>uni0201</key>
-    <integer>-9</integer>
-    <key>uni0208</key>
-    <integer>44</integer>
-    <key>uni020C</key>
-    <integer>-63</integer>
-    <key>uni0215</key>
+    <key>udblgrave</key>
     <integer>-11</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>-90</integer>
-    <key>uni042F</key>
-    <integer>-43</integer>
-    <key>uni044F</key>
-    <integer>-114</integer>
-    <key>uni0493</key>
-    <integer>-85</integer>
     <key>upsilondieresistonos</key>
     <integer>-11</integer>
+    <key>yacyr</key>
+    <integer>-114</integer>
     <key>public.kern2.A2</key>
     <integer>-90</integer>
     <key>public.kern2.C2</key>
@@ -4263,12 +4263,20 @@
   </dict>
   <key>public.kern1.Uhorn</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>-115</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-115</integer>
     <key>Hbar</key>
     <integer>35</integer>
+    <key>Odblgrave</key>
+    <integer>-26</integer>
     <key>Tbar</key>
     <integer>73</integer>
     <key>Tcaron</key>
     <integer>73</integer>
+    <key>adblgrave</key>
+    <integer>61</integer>
     <key>backslash</key>
     <integer>129</integer>
     <key>hcircumflex</key>
@@ -4281,15 +4289,7 @@
     <integer>-60</integer>
     <key>slash</key>
     <integer>-124</integer>
-    <key>uni0200</key>
-    <integer>-115</integer>
-    <key>uni0201</key>
-    <integer>61</integer>
-    <key>uni020C</key>
-    <integer>-26</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>-115</integer>
-    <key>uni04DF</key>
+    <key>zedieresiscyr</key>
     <integer>48</integer>
     <key>public.kern2.A2</key>
     <integer>-115</integer>
@@ -4332,12 +4332,26 @@
   </dict>
   <key>public.kern1.V</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>-60</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-60</integer>
+    <key>Odblgrave</key>
+    <integer>-30</integer>
     <key>Tbar</key>
     <integer>20</integer>
     <key>Tcaron</key>
     <integer>20</integer>
+    <key>Yacyr</key>
+    <integer>-60</integer>
+    <key>adblgrave</key>
+    <integer>55</integer>
     <key>backslash</key>
     <integer>80</integer>
+    <key>elcyr.loclBGR</key>
+    <integer>-60</integer>
+    <key>gestrokecyr</key>
+    <integer>-60</integer>
     <key>igrave</key>
     <integer>69</integer>
     <key>lambda</key>
@@ -4346,32 +4360,18 @@
     <integer>31</integer>
     <key>question</key>
     <integer>40</integer>
+    <key>rcommaaccent</key>
+    <integer>-65</integer>
     <key>semicolon</key>
     <integer>-20</integer>
     <key>slash</key>
     <integer>-80</integer>
-    <key>uni0157</key>
-    <integer>-65</integer>
-    <key>uni0200</key>
-    <integer>-60</integer>
-    <key>uni0201</key>
-    <integer>55</integer>
-    <key>uni020C</key>
-    <integer>-30</integer>
-    <key>uni0215</key>
+    <key>udblgrave</key>
     <integer>9</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>-60</integer>
-    <key>uni042F</key>
-    <integer>-60</integer>
-    <key>uni043B.loclBGR</key>
-    <integer>-60</integer>
-    <key>uni0493</key>
-    <integer>-60</integer>
-    <key>uni04DF</key>
-    <integer>35</integer>
     <key>upsilondieresistonos</key>
     <integer>9</integer>
+    <key>zedieresiscyr</key>
+    <integer>35</integer>
     <key>public.kern2.A2</key>
     <integer>-60</integer>
     <key>public.kern2.C2</key>
@@ -4459,6 +4459,8 @@
   </dict>
   <key>public.kern1.X</key>
   <dict>
+    <key>Odblgrave</key>
+    <integer>-40</integer>
     <key>anoteleia</key>
     <integer>-51</integer>
     <key>backslash</key>
@@ -4467,9 +4469,7 @@
     <integer>159</integer>
     <key>slash</key>
     <integer>60</integer>
-    <key>uni020C</key>
-    <integer>-40</integer>
-    <key>uni0215</key>
+    <key>udblgrave</key>
     <integer>-40</integer>
     <key>upsilondieresistonos</key>
     <integer>-40</integer>
@@ -4518,18 +4518,32 @@
   </dict>
   <key>public.kern1.Y</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>-124</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-120</integer>
+    <key>Odblgrave</key>
+    <integer>-80</integer>
     <key>Scaron</key>
     <integer>-40</integer>
     <key>Tbar</key>
     <integer>20</integer>
     <key>Tcaron</key>
     <integer>20</integer>
+    <key>Yacyr</key>
+    <integer>-40</integer>
+    <key>Zedieresiscyr</key>
+    <integer>20</integer>
+    <key>adblgrave</key>
+    <integer>58</integer>
     <key>anoteleia</key>
     <integer>-31</integer>
     <key>backslash</key>
     <integer>140</integer>
     <key>chi</key>
     <integer>-54</integer>
+    <key>gestrokecyr</key>
+    <integer>-80</integer>
     <key>igrave</key>
     <integer>78</integer>
     <key>iotadieresistonos</key>
@@ -4540,6 +4554,8 @@
     <integer>-60</integer>
     <key>question</key>
     <integer>40</integer>
+    <key>rcommaaccent</key>
+    <integer>-87</integer>
     <key>rho</key>
     <integer>-130</integer>
     <key>semicolon</key>
@@ -4548,28 +4564,12 @@
     <integer>-140</integer>
     <key>tau</key>
     <integer>-60</integer>
-    <key>uni0157</key>
-    <integer>-87</integer>
-    <key>uni0200</key>
-    <integer>-124</integer>
-    <key>uni0201</key>
-    <integer>58</integer>
-    <key>uni020C</key>
-    <integer>-80</integer>
-    <key>uni0215</key>
+    <key>udblgrave</key>
     <integer>-23</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>-120</integer>
-    <key>uni042F</key>
-    <integer>-40</integer>
-    <key>uni0493</key>
-    <integer>-80</integer>
-    <key>uni04DE</key>
-    <integer>20</integer>
-    <key>uni04DF</key>
-    <integer>51</integer>
     <key>upsilondieresistonos</key>
     <integer>-23</integer>
+    <key>zedieresiscyr</key>
+    <integer>51</integer>
     <key>zeta</key>
     <integer>11</integer>
     <key>public.kern2.A2</key>
@@ -4678,7 +4678,7 @@
   </dict>
   <key>public.kern1.Zcaron</key>
   <dict>
-    <key>uni0208</key>
+    <key>Idblgrave</key>
     <integer>35</integer>
     <key>public.kern2.AE</key>
     <integer>58</integer>
@@ -4705,17 +4705,17 @@
     <integer>-11</integer>
     <key>backslash</key>
     <integer>-80</integer>
+    <key>becyr</key>
+    <integer>-10</integer>
+    <key>chedieresiscyr</key>
+    <integer>-10</integer>
     <key>tau</key>
     <integer>-6</integer>
-    <key>uni0215</key>
-    <integer>-10</integer>
-    <key>uni0431</key>
-    <integer>-10</integer>
-    <key>uni0432.loclBGR</key>
-    <integer>-10</integer>
-    <key>uni04F5</key>
+    <key>udblgrave</key>
     <integer>-10</integer>
     <key>upsilondieresistonos</key>
+    <integer>-10</integer>
+    <key>vecyr.loclBGR</key>
     <integer>-10</integer>
     <key>public.kern2.T2</key>
     <integer>-123</integer>
@@ -4758,11 +4758,11 @@
     <integer>-11</integer>
     <key>backslash</key>
     <integer>-40</integer>
+    <key>chedieresiscyr</key>
+    <integer>-10</integer>
     <key>hcircumflex</key>
     <integer>35</integer>
-    <key>uni0215</key>
-    <integer>-10</integer>
-    <key>uni04F5</key>
+    <key>udblgrave</key>
     <integer>-10</integer>
     <key>upsilondieresistonos</key>
     <integer>-10</integer>
@@ -4815,6 +4815,10 @@
   </dict>
   <key>public.kern1.b</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>-10</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-10</integer>
     <key>Lslash</key>
     <integer>31</integer>
     <key>Tbar</key>
@@ -4825,7 +4829,11 @@
     <integer>-20</integer>
     <key>backslash</key>
     <integer>-60</integer>
+    <key>chedieresiscyr</key>
+    <integer>20</integer>
     <key>chi</key>
+    <integer>-10</integer>
+    <key>elcyr.loclBGR</key>
     <integer>-10</integer>
     <key>lambda</key>
     <integer>-12</integer>
@@ -4841,14 +4849,6 @@
     <integer>-20</integer>
     <key>tau</key>
     <integer>17</integer>
-    <key>uni0200</key>
-    <integer>-10</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>-10</integer>
-    <key>uni043B.loclBGR</key>
-    <integer>-10</integer>
-    <key>uni04F5</key>
-    <integer>20</integer>
     <key>xi</key>
     <integer>10</integer>
     <key>zeta</key>
@@ -4947,10 +4947,10 @@
   </dict>
   <key>public.kern1.ccaron</key>
   <dict>
+    <key>adblgrave</key>
+    <integer>44</integer>
     <key>igrave</key>
     <integer>39</integer>
-    <key>uni0201</key>
-    <integer>44</integer>
     <key>public.kern2.AE</key>
     <integer>35</integer>
     <key>public.kern2.Igrave2</key>
@@ -4989,12 +4989,22 @@
   </dict>
   <key>public.kern1.comma</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>40</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>40</integer>
     <key>Lslash</key>
     <integer>9</integer>
+    <key>Odblgrave</key>
+    <integer>-40</integer>
     <key>Tbar</key>
     <integer>-140</integer>
     <key>Tcaron</key>
     <integer>-140</integer>
+    <key>Udblgrave</key>
+    <integer>-20</integer>
+    <key>adblgrave</key>
+    <integer>20</integer>
     <key>anoteleia</key>
     <integer>-80</integer>
     <key>five</key>
@@ -5005,16 +5015,6 @@
     <integer>-180</integer>
     <key>slash</key>
     <integer>89</integer>
-    <key>uni0200</key>
-    <integer>40</integer>
-    <key>uni0201</key>
-    <integer>20</integer>
-    <key>uni020C</key>
-    <integer>-40</integer>
-    <key>uni0214</key>
-    <integer>-20</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>40</integer>
     <key>public.kern2.A2</key>
     <integer>40</integer>
     <key>public.kern2.AE</key>
@@ -5089,8 +5089,12 @@
     <integer>80</integer>
     <key>Tcaron</key>
     <integer>80</integer>
+    <key>adblgrave</key>
+    <integer>95</integer>
     <key>backslash</key>
     <integer>126</integer>
+    <key>gestrokecyr</key>
+    <integer>-38</integer>
     <key>igrave</key>
     <integer>106</integer>
     <key>lambda</key>
@@ -5099,20 +5103,16 @@
     <integer>107</integer>
     <key>question</key>
     <integer>44</integer>
+    <key>rcommaaccent</key>
+    <integer>-46</integer>
     <key>seven</key>
     <integer>69</integer>
-    <key>uni0157</key>
-    <integer>-46</integer>
-    <key>uni0201</key>
-    <integer>95</integer>
-    <key>uni0215</key>
+    <key>udblgrave</key>
     <integer>66</integer>
-    <key>uni0493</key>
-    <integer>-38</integer>
-    <key>uni04DF</key>
-    <integer>61</integer>
     <key>upsilondieresistonos</key>
     <integer>66</integer>
+    <key>zedieresiscyr</key>
+    <integer>61</integer>
     <key>public.kern2.T2</key>
     <integer>80</integer>
     <key>public.kern2.V2</key>
@@ -5180,6 +5180,12 @@
   </dict>
   <key>public.kern1.degree</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>-111</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-111</integer>
+    <key>Idblgrave</key>
+    <integer>58</integer>
     <key>Lslash</key>
     <integer>29</integer>
     <key>hcircumflex</key>
@@ -5188,12 +5194,6 @@
     <integer>133</integer>
     <key>one</key>
     <integer>40</integer>
-    <key>uni0200</key>
-    <integer>-111</integer>
-    <key>uni0208</key>
-    <integer>58</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>-111</integer>
     <key>public.kern2.A2</key>
     <integer>-111</integer>
     <key>public.kern2.Igrave2</key>
@@ -5219,15 +5219,15 @@
     <integer>-11</integer>
     <key>backslash</key>
     <integer>-80</integer>
+    <key>becyr</key>
+    <integer>-10</integer>
     <key>tau</key>
     <integer>-6</integer>
-    <key>uni0215</key>
-    <integer>-10</integer>
-    <key>uni0431</key>
-    <integer>-10</integer>
-    <key>uni0432.loclBGR</key>
+    <key>udblgrave</key>
     <integer>-10</integer>
     <key>upsilondieresistonos</key>
+    <integer>-10</integer>
+    <key>vecyr.loclBGR</key>
     <integer>-10</integer>
     <key>public.kern2.T2</key>
     <integer>-123</integer>
@@ -5260,17 +5260,27 @@
   </dict>
   <key>public.kern1.eth</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>-10</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-10</integer>
     <key>Lslash</key>
     <integer>31</integer>
     <key>Tbar</key>
     <integer>-51</integer>
     <key>Tcaron</key>
     <integer>-51</integer>
+    <key>adblgrave</key>
+    <integer>35</integer>
     <key>anoteleia</key>
     <integer>-20</integer>
     <key>backslash</key>
     <integer>-31</integer>
+    <key>chedieresiscyr</key>
+    <integer>20</integer>
     <key>chi</key>
+    <integer>-10</integer>
+    <key>elcyr.loclBGR</key>
     <integer>-10</integer>
     <key>igrave</key>
     <integer>35</integer>
@@ -5286,16 +5296,6 @@
     <integer>-100</integer>
     <key>seven</key>
     <integer>-20</integer>
-    <key>uni0200</key>
-    <integer>-10</integer>
-    <key>uni0201</key>
-    <integer>35</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>-10</integer>
-    <key>uni043B.loclBGR</key>
-    <integer>-10</integer>
-    <key>uni04F5</key>
-    <integer>20</integer>
     <key>xi</key>
     <integer>10</integer>
     <key>zeta</key>
@@ -5480,6 +5480,8 @@
     <integer>75</integer>
     <key>Tcaron</key>
     <integer>-140</integer>
+    <key>elcyr.loclBGR</key>
+    <integer>-40</integer>
     <key>four</key>
     <integer>120</integer>
     <key>lambda</key>
@@ -5494,8 +5496,6 @@
     <integer>-140</integer>
     <key>tau</key>
     <integer>40</integer>
-    <key>uni043B.loclBGR</key>
-    <integer>-40</integer>
     <key>public.kern2.Eth</key>
     <integer>58</integer>
     <key>public.kern2.T2</key>
@@ -5549,7 +5549,7 @@
     <integer>-20</integer>
     <key>theta</key>
     <integer>-30</integer>
-    <key>uni0215</key>
+    <key>udblgrave</key>
     <integer>-14</integer>
     <key>upsilondieresistonos</key>
     <integer>-14</integer>
@@ -5598,6 +5598,8 @@
     <integer>73</integer>
     <key>Tcaron</key>
     <integer>73</integer>
+    <key>adblgrave</key>
+    <integer>35</integer>
     <key>anoteleia</key>
     <integer>-40</integer>
     <key>hcircumflex</key>
@@ -5606,9 +5608,7 @@
     <integer>206</integer>
     <key>tau</key>
     <integer>-20</integer>
-    <key>uni0201</key>
-    <integer>35</integer>
-    <key>uni0215</key>
+    <key>udblgrave</key>
     <integer>-14</integer>
     <key>upsilondieresistonos</key>
     <integer>-14</integer>
@@ -5661,6 +5661,10 @@
   <dict>
     <key>Hbar</key>
     <integer>98</integer>
+    <key>Idblgrave</key>
+    <integer>61</integer>
+    <key>Idotbelow</key>
+    <integer>9</integer>
     <key>Iogonek</key>
     <integer>9</integer>
     <key>Sigma</key>
@@ -5669,10 +5673,22 @@
     <integer>98</integer>
     <key>Tcaron</key>
     <integer>98</integer>
+    <key>Udblgrave</key>
+    <integer>9</integer>
+    <key>Yatcyr</key>
+    <integer>98</integer>
     <key>Zcaron</key>
     <integer>58</integer>
+    <key>Zedieresiscyr</key>
+    <integer>89</integer>
+    <key>adblgrave</key>
+    <integer>70</integer>
     <key>backslash</key>
     <integer>146</integer>
+    <key>bracketangleright</key>
+    <integer>48</integer>
+    <key>chedieresiscyr</key>
+    <integer>53</integer>
     <key>daggerdbl</key>
     <integer>66</integer>
     <key>hcircumflex</key>
@@ -5683,6 +5699,8 @@
     <integer>271</integer>
     <key>lambda</key>
     <integer>35</integer>
+    <key>lcommaaccent</key>
+    <integer>18</integer>
     <key>one</key>
     <integer>107</integer>
     <key>paragraph</key>
@@ -5699,34 +5717,16 @@
     <integer>120</integer>
     <key>two</key>
     <integer>39</integer>
-    <key>uni013C</key>
-    <integer>18</integer>
-    <key>uni0201</key>
-    <integer>70</integer>
-    <key>uni0208</key>
-    <integer>61</integer>
-    <key>uni0214</key>
-    <integer>9</integer>
-    <key>uni0215</key>
+    <key>udblgrave</key>
     <integer>44</integer>
-    <key>uni0462</key>
-    <integer>98</integer>
-    <key>uni04DE</key>
-    <integer>89</integer>
-    <key>uni04DF</key>
-    <integer>93</integer>
-    <key>uni04F5</key>
-    <integer>53</integer>
-    <key>uni1ECA</key>
-    <integer>9</integer>
-    <key>uni27E9</key>
-    <integer>48</integer>
     <key>upsilondieresistonos</key>
     <integer>53</integer>
     <key>xi</key>
     <integer>58</integer>
     <key>zcaron</key>
     <integer>26</integer>
+    <key>zedieresiscyr</key>
+    <integer>93</integer>
     <key>public.kern2.B2</key>
     <integer>9</integer>
     <key>public.kern2.Dcaron</key>
@@ -5890,6 +5890,10 @@
   </dict>
   <key>public.kern1.oslash</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>-10</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-10</integer>
     <key>Lslash</key>
     <integer>31</integer>
     <key>Tbar</key>
@@ -5900,7 +5904,11 @@
     <integer>-20</integer>
     <key>backslash</key>
     <integer>-60</integer>
+    <key>chedieresiscyr</key>
+    <integer>20</integer>
     <key>chi</key>
+    <integer>-10</integer>
+    <key>elcyr.loclBGR</key>
     <integer>-10</integer>
     <key>lambda</key>
     <integer>-12</integer>
@@ -5912,14 +5920,6 @@
     <integer>-100</integer>
     <key>seven</key>
     <integer>-20</integer>
-    <key>uni0200</key>
-    <integer>-10</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>-10</integer>
-    <key>uni043B.loclBGR</key>
-    <integer>-10</integer>
-    <key>uni04F5</key>
-    <integer>20</integer>
     <key>xi</key>
     <integer>10</integer>
     <key>zeta</key>
@@ -5979,6 +5979,10 @@
   </dict>
   <key>public.kern1.parenleft</key>
   <dict>
+    <key>Idblgrave</key>
+    <integer>26</integer>
+    <key>adblgrave</key>
+    <integer>26</integer>
     <key>backslash</key>
     <integer>22</integer>
     <key>hcircumflex</key>
@@ -5987,10 +5991,6 @@
     <integer>173</integer>
     <key>slash</key>
     <integer>22</integer>
-    <key>uni0201</key>
-    <integer>26</integer>
-    <key>uni0208</key>
-    <integer>26</integer>
     <key>public.kern2.AE</key>
     <integer>44</integer>
     <key>public.kern2.Igrave2</key>
@@ -6012,9 +6012,9 @@
   </dict>
   <key>public.kern1.plus</key>
   <dict>
-    <key>uni0200</key>
+    <key>Adblgrave</key>
     <integer>35</integer>
-    <key>uni0414.loclBGR</key>
+    <key>Decyr.loclBGR</key>
     <integer>35</integer>
     <key>public.kern2.A2</key>
     <integer>35</integer>
@@ -6029,6 +6029,10 @@
   </dict>
   <key>public.kern1.r</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>-70</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-70</integer>
     <key>Lslash</key>
     <integer>26</integer>
     <key>Tbar</key>
@@ -6037,10 +6041,6 @@
     <integer>-45</integer>
     <key>slash</key>
     <integer>-80</integer>
-    <key>uni0200</key>
-    <integer>-70</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>-70</integer>
     <key>public.kern2.A2</key>
     <integer>-70</integer>
     <key>public.kern2.T2</key>
@@ -6072,12 +6072,22 @@
   </dict>
   <key>public.kern1.racute</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>-70</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-70</integer>
     <key>Hbar</key>
     <integer>58</integer>
+    <key>Idblgrave</key>
+    <integer>61</integer>
     <key>Lslash</key>
     <integer>26</integer>
+    <key>adblgrave</key>
+    <integer>66</integer>
     <key>backslash</key>
     <integer>119</integer>
+    <key>bracketangleright</key>
+    <integer>26</integer>
     <key>igrave</key>
     <integer>84</integer>
     <key>one</key>
@@ -6086,17 +6096,7 @@
     <integer>18</integer>
     <key>slash</key>
     <integer>-80</integer>
-    <key>uni0200</key>
-    <integer>-70</integer>
-    <key>uni0201</key>
-    <integer>66</integer>
-    <key>uni0208</key>
-    <integer>61</integer>
-    <key>uni0215</key>
-    <integer>26</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>-70</integer>
-    <key>uni27E9</key>
+    <key>udblgrave</key>
     <integer>26</integer>
     <key>zcaron</key>
     <integer>18</integer>
@@ -6220,6 +6220,12 @@
   </dict>
   <key>public.kern1.tonos</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>-160</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-160</integer>
+    <key>Odblgrave</key>
+    <integer>-40</integer>
     <key>Tbar</key>
     <integer>40</integer>
     <key>Tcaron</key>
@@ -6240,16 +6246,10 @@
     <integer>20</integer>
     <key>tau</key>
     <integer>20</integer>
-    <key>uni0200</key>
-    <integer>-160</integer>
-    <key>uni020C</key>
-    <integer>-40</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>-160</integer>
-    <key>uni04DF</key>
-    <integer>40</integer>
     <key>xi</key>
     <integer>20</integer>
+    <key>zedieresiscyr</key>
+    <integer>40</integer>
     <key>public.kern2.A2</key>
     <integer>-160</integer>
     <key>public.kern2.C2</key>
@@ -6415,22 +6415,22 @@
   </dict>
   <key>public.kern1.uni0414</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>10</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>10</integer>
+    <key>Odblgrave</key>
+    <integer>-36</integer>
     <key>Tbar</key>
     <integer>-80</integer>
     <key>Tcaron</key>
     <integer>-80</integer>
+    <key>Yatcyr</key>
+    <integer>-109</integer>
     <key>backslash</key>
     <integer>-60</integer>
     <key>slash</key>
     <integer>140</integer>
-    <key>uni0200</key>
-    <integer>10</integer>
-    <key>uni020C</key>
-    <integer>-36</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>10</integer>
-    <key>uni0462</key>
-    <integer>-109</integer>
     <key>public.kern2.A2</key>
     <integer>10</integer>
     <key>public.kern2.AE</key>
@@ -6492,10 +6492,10 @@
     <integer>-111</integer>
     <key>Tcaron</key>
     <integer>-111</integer>
+    <key>Yatcyr</key>
+    <integer>-194</integer>
     <key>backslash</key>
     <integer>-100</integer>
-    <key>uni0462</key>
-    <integer>-194</integer>
     <key>public.kern2.Phi2</key>
     <integer>-11</integer>
     <key>public.kern2.T2</key>
@@ -6515,11 +6515,11 @@
   </dict>
   <key>public.kern1.uni0433</key>
   <dict>
-    <key>uni0200</key>
+    <key>Adblgrave</key>
     <integer>-60</integer>
-    <key>uni0414.loclBGR</key>
+    <key>Decyr.loclBGR</key>
     <integer>-60</integer>
-    <key>uni0431</key>
+    <key>becyr</key>
     <integer>20</integer>
     <key>public.kern2.A2</key>
     <integer>-60</integer>
@@ -6553,24 +6553,24 @@
   </dict>
   <key>public.kern1.uni0434</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>40</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>40</integer>
+    <key>Odblgrave</key>
+    <integer>-43</integer>
     <key>Tbar</key>
     <integer>-100</integer>
     <key>Tcaron</key>
     <integer>-100</integer>
     <key>backslash</key>
     <integer>-100</integer>
+    <key>becyr</key>
+    <integer>-14</integer>
+    <key>chedieresiscyr</key>
+    <integer>-60</integer>
     <key>slash</key>
     <integer>140</integer>
-    <key>uni0200</key>
-    <integer>40</integer>
-    <key>uni020C</key>
-    <integer>-43</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>40</integer>
-    <key>uni0431</key>
-    <integer>-14</integer>
-    <key>uni04F5</key>
-    <integer>-60</integer>
     <key>public.kern2.A2</key>
     <integer>40</integer>
     <key>public.kern2.AE</key>
@@ -6639,18 +6639,18 @@
   </dict>
   <key>public.kern1.uni0453</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>-60</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-60</integer>
+    <key>adblgrave</key>
+    <integer>53</integer>
     <key>backslash</key>
     <integer>35</integer>
+    <key>becyr</key>
+    <integer>20</integer>
     <key>igrave</key>
     <integer>26</integer>
-    <key>uni0200</key>
-    <integer>-60</integer>
-    <key>uni0201</key>
-    <integer>53</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>-60</integer>
-    <key>uni0431</key>
-    <integer>20</integer>
     <key>public.kern2.A2</key>
     <integer>-60</integer>
     <key>public.kern2.Igrave2</key>
@@ -6682,18 +6682,18 @@
   </dict>
   <key>public.kern1.uni0459</key>
   <dict>
+    <key>Odblgrave</key>
+    <integer>-20</integer>
     <key>backslash</key>
     <integer>-160</integer>
-    <key>uni020C</key>
-    <integer>-20</integer>
-    <key>uni0431</key>
+    <key>becyr</key>
     <integer>-30</integer>
-    <key>uni0437.loclBGR</key>
-    <integer>-45</integer>
-    <key>uni043B.loclBGR</key>
-    <integer>11</integer>
-    <key>uni04F5</key>
+    <key>chedieresiscyr</key>
     <integer>-51</integer>
+    <key>elcyr.loclBGR</key>
+    <integer>11</integer>
+    <key>zecyr.loclBGR</key>
+    <integer>-45</integer>
     <key>public.kern2.C2</key>
     <integer>-20</integer>
     <key>public.kern2.Oslash2</key>
@@ -6715,18 +6715,18 @@
   </dict>
   <key>public.kern1.uni0496</key>
   <dict>
-    <key>uni0200</key>
+    <key>Adblgrave</key>
     <integer>35</integer>
-    <key>uni020C</key>
+    <key>Odblgrave</key>
     <integer>-100</integer>
-    <key>uni042F</key>
+    <key>Yacyr</key>
     <integer>26</integer>
-    <key>uni0437.loclBGR</key>
-    <integer>44</integer>
-    <key>uni0493</key>
-    <integer>35</integer>
-    <key>uni04F5</key>
+    <key>chedieresiscyr</key>
     <integer>-85</integer>
+    <key>gestrokecyr</key>
+    <integer>35</integer>
+    <key>zecyr.loclBGR</key>
+    <integer>44</integer>
     <key>public.kern2.A2</key>
     <integer>35</integer>
     <key>public.kern2.AE</key>
@@ -6778,14 +6778,14 @@
   </dict>
   <key>public.kern1.uni0497</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>35</integer>
     <key>Tcaron</key>
     <integer>-45</integer>
-    <key>uni0200</key>
-    <integer>35</integer>
-    <key>uni0437.loclBGR</key>
-    <integer>69</integer>
-    <key>uni04F5</key>
+    <key>chedieresiscyr</key>
     <integer>-40</integer>
+    <key>zecyr.loclBGR</key>
+    <integer>69</integer>
     <key>public.kern2.A2</key>
     <integer>35</integer>
     <key>public.kern2.AE</key>
@@ -6823,14 +6823,28 @@
   </dict>
   <key>public.kern1.uni1EA4</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>20</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>20</integer>
+    <key>Idblgrave</key>
+    <integer>70</integer>
+    <key>Odblgrave</key>
+    <integer>-40</integer>
     <key>Tbar</key>
     <integer>-90</integer>
     <key>Tcaron</key>
     <integer>-90</integer>
+    <key>Udblgrave</key>
+    <integer>-20</integer>
     <key>anoteleia</key>
     <integer>-100</integer>
     <key>backslash</key>
     <integer>-80</integer>
+    <key>becyr</key>
+    <integer>-13</integer>
+    <key>chedieresiscyr</key>
+    <integer>-70</integer>
     <key>one</key>
     <integer>-120</integer>
     <key>pi</key>
@@ -6841,22 +6855,8 @@
     <integer>80</integer>
     <key>tau</key>
     <integer>-60</integer>
-    <key>uni0200</key>
-    <integer>20</integer>
-    <key>uni0208</key>
-    <integer>70</integer>
-    <key>uni020C</key>
-    <integer>-40</integer>
-    <key>uni0214</key>
+    <key>udblgrave</key>
     <integer>-20</integer>
-    <key>uni0215</key>
-    <integer>-20</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>20</integer>
-    <key>uni0431</key>
-    <integer>-13</integer>
-    <key>uni04F5</key>
-    <integer>-70</integer>
     <key>upsilondieresistonos</key>
     <integer>-20</integer>
     <key>public.kern2.A2</key>
@@ -6930,14 +6930,26 @@
   </dict>
   <key>public.kern1.uni1EA5</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>88</integer>
+    <key>Idblgrave</key>
+    <integer>238</integer>
+    <key>Odblgrave</key>
+    <integer>53</integer>
     <key>Scaron</key>
     <integer>35</integer>
     <key>Tbar</key>
     <integer>-58</integer>
     <key>Tcaron</key>
     <integer>70</integer>
+    <key>Udblgrave</key>
+    <integer>79</integer>
     <key>Zcaron</key>
     <integer>70</integer>
+    <key>Zedieresiscyr</key>
+    <integer>88</integer>
+    <key>adblgrave</key>
+    <integer>61</integer>
     <key>anoteleia</key>
     <integer>-11</integer>
     <key>backslash</key>
@@ -6946,20 +6958,8 @@
     <integer>193</integer>
     <key>igrave</key>
     <integer>70</integer>
-    <key>uni0200</key>
-    <integer>88</integer>
-    <key>uni0201</key>
-    <integer>61</integer>
-    <key>uni0208</key>
-    <integer>238</integer>
-    <key>uni020C</key>
-    <integer>53</integer>
-    <key>uni0214</key>
-    <integer>79</integer>
-    <key>uni0215</key>
+    <key>udblgrave</key>
     <integer>-10</integer>
-    <key>uni04DE</key>
-    <integer>88</integer>
     <key>upsilondieresistonos</key>
     <integer>-10</integer>
     <key>public.kern2.Dcaron</key>
@@ -7007,22 +7007,22 @@
   </dict>
   <key>public.kern1.uni1EA5.ss01</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>53</integer>
+    <key>Idblgrave</key>
+    <integer>131</integer>
+    <key>Odblgrave</key>
+    <integer>35</integer>
     <key>Tbar</key>
     <integer>-11</integer>
     <key>Tcaron</key>
     <integer>33</integer>
+    <key>Udblgrave</key>
+    <integer>44</integer>
     <key>Zcaron</key>
     <integer>44</integer>
     <key>hcircumflex</key>
     <integer>124</integer>
-    <key>uni0200</key>
-    <integer>53</integer>
-    <key>uni0208</key>
-    <integer>131</integer>
-    <key>uni020C</key>
-    <integer>35</integer>
-    <key>uni0214</key>
-    <integer>44</integer>
     <key>public.kern2.Igrave2</key>
     <integer>105</integer>
     <key>public.kern2.T2</key>
@@ -7042,10 +7042,10 @@
   </dict>
   <key>public.kern1.uni1EBE</key>
   <dict>
+    <key>Idblgrave</key>
+    <integer>105</integer>
     <key>anoteleia</key>
     <integer>-63</integer>
-    <key>uni0208</key>
-    <integer>105</integer>
     <key>public.kern2.Dcaron</key>
     <integer>26</integer>
     <key>public.kern2.Igrave2</key>
@@ -7061,21 +7061,39 @@
   </dict>
   <key>public.kern1.uni1EBF</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>104</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-10</integer>
+    <key>Idblgrave</key>
+    <integer>251</integer>
     <key>Lslash</key>
     <integer>31</integer>
+    <key>Odblgrave</key>
+    <integer>79</integer>
     <key>Scaron</key>
     <integer>44</integer>
     <key>Tbar</key>
     <integer>-51</integer>
     <key>Tcaron</key>
     <integer>54</integer>
+    <key>Udblgrave</key>
+    <integer>96</integer>
     <key>Zcaron</key>
     <integer>88</integer>
+    <key>Zedieresiscyr</key>
+    <integer>96</integer>
+    <key>adblgrave</key>
+    <integer>70</integer>
     <key>anoteleia</key>
     <integer>-20</integer>
     <key>backslash</key>
     <integer>137</integer>
+    <key>bracketangleright</key>
+    <integer>26</integer>
     <key>chi</key>
+    <integer>-10</integer>
+    <key>elcyr.loclBGR</key>
     <integer>-10</integer>
     <key>hcircumflex</key>
     <integer>210</integer>
@@ -7093,26 +7111,8 @@
     <integer>35</integer>
     <key>seven</key>
     <integer>-20</integer>
-    <key>uni0200</key>
-    <integer>104</integer>
-    <key>uni0201</key>
-    <integer>70</integer>
-    <key>uni0208</key>
-    <integer>251</integer>
-    <key>uni020C</key>
-    <integer>79</integer>
-    <key>uni0214</key>
-    <integer>96</integer>
-    <key>uni0215</key>
+    <key>udblgrave</key>
     <integer>35</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>-10</integer>
-    <key>uni043B.loclBGR</key>
-    <integer>-10</integer>
-    <key>uni04DE</key>
-    <integer>96</integer>
-    <key>uni27E9</key>
-    <integer>26</integer>
     <key>xi</key>
     <integer>10</integer>
     <key>zcaron</key>
@@ -7194,10 +7194,10 @@
   </dict>
   <key>public.kern1.uni1ED0</key>
   <dict>
+    <key>Idblgrave</key>
+    <integer>35</integer>
     <key>Lslash</key>
     <integer>31</integer>
-    <key>uni0208</key>
-    <integer>35</integer>
   </dict>
   <key>public.kern1.uogonek</key>
   <dict>
@@ -7228,11 +7228,11 @@
     <integer>-11</integer>
     <key>Tcaron</key>
     <integer>-11</integer>
+    <key>adblgrave</key>
+    <integer>35</integer>
     <key>hcircumflex</key>
     <integer>79</integer>
     <key>igrave</key>
-    <integer>35</integer>
-    <key>uni0201</key>
     <integer>35</integer>
     <key>public.kern2.Igrave2</key>
     <integer>35</integer>
@@ -7251,14 +7251,26 @@
   </dict>
   <key>public.kern1.v</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>-40</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-40</integer>
     <key>Tbar</key>
     <integer>-39</integer>
     <key>Tcaron</key>
     <integer>-39</integer>
     <key>anoteleia</key>
     <integer>20</integer>
+    <key>becyr</key>
+    <integer>20</integer>
+    <key>chedieresiscyr</key>
+    <integer>40</integer>
     <key>chi</key>
     <integer>44</integer>
+    <key>elcyr.loclBGR</key>
+    <integer>-40</integer>
+    <key>gestrokecyr</key>
+    <integer>-5</integer>
     <key>igrave</key>
     <integer>-2</integer>
     <key>lambda</key>
@@ -7267,25 +7279,13 @@
     <integer>40</integer>
     <key>question</key>
     <integer>-20</integer>
+    <key>rcommaaccent</key>
+    <integer>-5</integer>
     <key>rho</key>
     <integer>-20</integer>
     <key>slash</key>
     <integer>-40</integer>
     <key>tau</key>
-    <integer>40</integer>
-    <key>uni0157</key>
-    <integer>-5</integer>
-    <key>uni0200</key>
-    <integer>-40</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>-40</integer>
-    <key>uni0431</key>
-    <integer>20</integer>
-    <key>uni043B.loclBGR</key>
-    <integer>-40</integer>
-    <key>uni0493</key>
-    <integer>-5</integer>
-    <key>uni04F5</key>
     <integer>40</integer>
     <key>public.kern2.A2</key>
     <integer>-40</integer>
@@ -7377,39 +7377,39 @@
   </dict>
   <key>public.kern1.yacute</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>-40</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-40</integer>
     <key>Tbar</key>
     <integer>18</integer>
     <key>Tcaron</key>
     <integer>18</integer>
+    <key>adblgrave</key>
+    <integer>44</integer>
     <key>anoteleia</key>
     <integer>20</integer>
+    <key>becyr</key>
+    <integer>20</integer>
+    <key>chedieresiscyr</key>
+    <integer>40</integer>
     <key>chi</key>
     <integer>44</integer>
+    <key>elcyr.loclBGR</key>
+    <integer>-40</integer>
+    <key>gestrokecyr</key>
+    <integer>-5</integer>
     <key>igrave</key>
     <integer>78</integer>
     <key>lambda</key>
     <integer>-40</integer>
     <key>pi</key>
     <integer>40</integer>
+    <key>rcommaaccent</key>
+    <integer>-5</integer>
     <key>rho</key>
     <integer>-20</integer>
     <key>tau</key>
-    <integer>40</integer>
-    <key>uni0157</key>
-    <integer>-5</integer>
-    <key>uni0200</key>
-    <integer>-40</integer>
-    <key>uni0201</key>
-    <integer>44</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>-40</integer>
-    <key>uni0431</key>
-    <integer>20</integer>
-    <key>uni043B.loclBGR</key>
-    <integer>-40</integer>
-    <key>uni0493</key>
-    <integer>-5</integer>
-    <key>uni04F5</key>
     <integer>40</integer>
     <key>public.kern2.A2</key>
     <integer>-40</integer>
@@ -7489,12 +7489,12 @@
   </dict>
   <key>public.kern1.zcaron</key>
   <dict>
+    <key>Idblgrave</key>
+    <integer>35</integer>
+    <key>adblgrave</key>
+    <integer>35</integer>
     <key>backslash</key>
     <integer>13</integer>
-    <key>uni0201</key>
-    <integer>35</integer>
-    <key>uni0208</key>
-    <integer>35</integer>
     <key>public.kern2.AE</key>
     <integer>58</integer>
     <key>public.kern2.Igrave2</key>
@@ -7506,6 +7506,10 @@
   </dict>
   <key>public.kern1.zero</key>
   <dict>
+    <key>Adblgrave</key>
+    <integer>-20</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>-20</integer>
     <key>Lslash</key>
     <integer>38</integer>
     <key>four</key>
@@ -7514,10 +7518,6 @@
     <integer>-40</integer>
     <key>two</key>
     <integer>-40</integer>
-    <key>uni0200</key>
-    <integer>-20</integer>
-    <key>uni0414.loclBGR</key>
-    <integer>-20</integer>
     <key>public.kern2.A2</key>
     <integer>-20</integer>
     <key>public.kern2.J2</key>

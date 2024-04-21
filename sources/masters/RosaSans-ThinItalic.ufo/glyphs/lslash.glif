@@ -5,13 +5,13 @@
   <outline>
     <contour>
       <point x="292" y="602" type="line"/>
-      <point x="290" y="592" type="line"/>
-      <point x="567" y="708" type="line"/>
-      <point x="536" y="785" type="line"/>
-      <point x="307" y="690" type="line"/>
-      <point x="310" y="700" type="line"/>
-      <point x="34" y="584" type="line"/>
       <point x="62" y="507" type="line"/>
+      <point x="34" y="584" type="line"/>
+      <point x="310" y="700" type="line"/>
+      <point x="307" y="690" type="line"/>
+      <point x="536" y="785" type="line"/>
+      <point x="567" y="708" type="line"/>
+      <point x="290" y="592" type="line"/>
     </contour>
     <contour>
       <point x="291" y="-31" type="qcurve" smooth="yes"/>

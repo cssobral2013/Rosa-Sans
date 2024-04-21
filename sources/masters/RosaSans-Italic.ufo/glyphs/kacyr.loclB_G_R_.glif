@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kacyr.loclBGR" format="2">
+  <advance width="1149"/>
+  <outline>
+    <contour>
+      <point x="977" y="0" type="line"/>
+      <point x="761" y="522" type="line"/>
+      <point x="1201" y="1000" type="line"/>
+      <point x="918" y="1000" type="line"/>
+      <point x="486" y="527" type="line"/>
+      <point x="684" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="270" y="0" type="line"/>
+      <point x="380" y="415" type="line"/>
+      <point x="684" y="415" type="line"/>
+      <point x="740" y="623" type="line"/>
+      <point x="436" y="623" type="line"/>
+      <point x="657" y="1440" type="line"/>
+      <point x="401" y="1440" type="line"/>
+      <point x="14" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

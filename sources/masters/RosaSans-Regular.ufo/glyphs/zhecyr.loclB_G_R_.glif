@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zhecyr.loclBGR" format="2">
+  <advance width="1637"/>
+  <outline>
+    <contour>
+      <point x="689" y="0" type="line"/>
+      <point x="689" y="415" type="line"/>
+      <point x="413" y="415" type="line"/>
+      <point x="413" y="623" type="line"/>
+      <point x="689" y="623" type="line"/>
+      <point x="689" y="1440" type="line"/>
+      <point x="945" y="1440" type="line"/>
+      <point x="945" y="623" type="line"/>
+      <point x="1219" y="623" type="line"/>
+      <point x="1219" y="415" type="line"/>
+      <point x="945" y="415" type="line"/>
+      <point x="945" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="351" y="528" type="line"/>
+      <point x="68" y="1000" type="line"/>
+      <point x="347" y="1000" type="line"/>
+      <point x="626" y="528" type="line"/>
+      <point x="330" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1297" y="0" type="line"/>
+      <point x="1007" y="528" type="line"/>
+      <point x="1295" y="1000" type="line"/>
+      <point x="1565" y="1000" type="line"/>
+      <point x="1282" y="541" type="line"/>
+      <point x="1600" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>
