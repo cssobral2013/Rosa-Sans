@@ -242,7 +242,6 @@ languagesystem cyrl SRB ; # Cyrillic Serbian
 #
 # Feature definitions
 #
-
 feature aalt useExtension {
 # GSUB feature: Access All Alternates
 # Lookups: 2
@@ -267,7 +266,6 @@ feature aalt useExtension {
   sub six.tnum.ss02 from [six];
   sub nine.tnum.ss02 from [nine];
 } aalt;
-
 feature case {
 # GSUB feature: Case-Sensitive Forms
 # Lookups: 1
@@ -275,7 +273,6 @@ feature case {
   sub @case by @case2;
 
 } case;
-
 feature calt {
 # GSUB feature: Contextual Alternates
 # Lookups: 1
@@ -290,7 +287,6 @@ feature calt {
   sub idieresis.calt [idieresis yukrcyr]' by [idieresis.calt2 idieresis.calt2];
 
 } calt;
-
 feature salt {
 # GSUB feature: Stylistic Alternates
 # Lookups: 1
@@ -346,7 +342,6 @@ feature salt {
   sub gjecyr.loclMKD from [gjecyr.loclMKD.ss01];
 
 } salt;
-
 feature ss01 {
 # GSUB feature: Stylistic Set 1
 # Lookups: 1
@@ -354,7 +349,6 @@ feature ss01 {
   sub @ss01 by @ss012;
 
 } ss01;
-
 feature ccmp {
 # GSUB feature: Glyph Composition / Decomposition
 # Lookups: 1
@@ -369,7 +363,6 @@ feature ccmp {
   sub brevecomb hookabovecomb by brevecomb_hookabovecomb;
 
 } ccmp;
-
 feature locl {
 # GSUB feature: Localized Forms
 # Lookups: 11
@@ -413,7 +406,6 @@ feature locl {
 
 
 } locl;
-
 feature frac {
 # GSUB feature: Fractions
 # Lookups: 1
@@ -426,7 +418,6 @@ feature frac {
   sub three fraction four by threequarters;
 
 } frac;
-
 feature sups {
 # GSUB feature: Superscript
 # Lookups: 1
@@ -434,7 +425,6 @@ feature sups {
   sub [one two three four] by [onesuperior twosuperior threesuperior four.superior];
 
 } sups;
-
 feature pnum {
 # GSUB feature: Proportional Figures
 # Lookups: 1
@@ -442,7 +432,6 @@ feature pnum {
   sub @pnum by @pnum2;
 
 } pnum;
-
 feature tnum {
 # GSUB feature: Tabular Figures
 # Lookups: 1
@@ -450,7 +439,6 @@ feature tnum {
   sub @tnum by @tnum2;
 
 } tnum;
-
 feature ordn {
 # GSUB feature: Ordinals
 # Lookups: 2
@@ -460,7 +448,6 @@ feature ordn {
   sub N o period by numero;
 
 } ordn;
-
 feature ss02 {
 # GSUB feature: Stylistic Set 2
 # Lookups: 1
@@ -468,7 +455,6 @@ feature ss02 {
   sub [six nine six.tnum nine.tnum] by [six.ss02 nine.ss02 six.tnum.ss02 nine.tnum.ss02];
 
 } ss02;
-
 feature ss03 {
 # GSUB feature: Stylistic Set 3
 # Lookups: 1
@@ -476,7 +462,6 @@ feature ss03 {
   sub [Q Qacyr] by [Q.ss03 Qacyr.ss03];
 
 } ss03;
-
 feature cpsp {
 # GPOS feature: Capital Spacing
 # Lookups: 1
@@ -644,7 +629,6 @@ feature cpsp {
   pos @_J @_A 40;
 
 } cpsp;
-
 feature liga {
 # Standard Ligatures
 
@@ -656,7 +640,6 @@ feature liga {
   sub f' @f_l by f.l;
 #< feature
 } liga;
-
 feature ss04 {
 # Stylistic Set 01–20
 
