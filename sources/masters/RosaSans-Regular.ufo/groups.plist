@@ -313,7 +313,7 @@
   <array>
     <string>zero</string>
     <string>one</string>
-    <string>two</string>
+    <string>two.ss05</string>
     <string>three</string>
     <string>four</string>
     <string>five</string>
@@ -323,7 +323,7 @@
     <string>nine</string>
     <string>zero.tnum</string>
     <string>one.tnum</string>
-    <string>two.tnum</string>
+    <string>two.ss04.tnum</string>
     <string>three.tnum</string>
     <string>four.tnum</string>
     <string>five.tnum</string>
@@ -483,7 +483,7 @@
   <array>
     <string>zero</string>
     <string>one</string>
-    <string>two</string>
+    <string>two.ss05</string>
     <string>three</string>
     <string>four</string>
     <string>five</string>
@@ -498,7 +498,7 @@
     <string>period.tnum</string>
     <string>zero.tnum</string>
     <string>one.tnum</string>
-    <string>two.tnum</string>
+    <string>two.ss04.tnum</string>
     <string>three.tnum</string>
     <string>four.tnum</string>
     <string>five.tnum</string>
@@ -517,7 +517,7 @@
     <string>period</string>
     <string>zero</string>
     <string>one</string>
-    <string>two</string>
+    <string>two.ss05</string>
     <string>three</string>
     <string>four</string>
     <string>five</string>
@@ -1062,7 +1062,7 @@
     <string>registered</string>
     <string>threesuperior</string>
     <string>trademark</string>
-    <string>twosuperior</string>
+    <string>twosuperior.ss05</string>
   </array>
   <key>public.kern1.eta</key>
   <array>
@@ -1246,7 +1246,7 @@
     <string>seven.tnum</string>
     <string>six.tnum</string>
     <string>three.tnum</string>
-    <string>two.tnum</string>
+    <string>two.ss04.tnum</string>
     <string>zero.tnum</string>
   </array>
   <key>public.kern1.r</key>
@@ -2062,7 +2062,7 @@
     <string>registered</string>
     <string>threesuperior</string>
     <string>trademark</string>
-    <string>twosuperior</string>
+    <string>twosuperior.ss05</string>
   </array>
   <key>public.kern2.epsilon</key>
   <array>
@@ -2317,7 +2317,7 @@
     <string>seven.tnum</string>
     <string>six.tnum</string>
     <string>three.tnum</string>
-    <string>two.tnum</string>
+    <string>two.ss04.tnum</string>
     <string>zero.tnum</string>
   </array>
   <key>public.kern2.s2</key>
@@ -2654,7 +2654,7 @@
     <string>period</string>
     <string>zero</string>
     <string>one</string>
-    <string>two</string>
+    <string>two.ss05</string>
     <string>three</string>
     <string>four</string>
     <string>five</string>
@@ -2673,7 +2673,7 @@
     <string>period.tnum</string>
     <string>zero.tnum</string>
     <string>one.tnum</string>
-    <string>two.tnum</string>
+    <string>two.ss04.tnum</string>
     <string>three.tnum</string>
     <string>four.tnum</string>
     <string>five.tnum</string>

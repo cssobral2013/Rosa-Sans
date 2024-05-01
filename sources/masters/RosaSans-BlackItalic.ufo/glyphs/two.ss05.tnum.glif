@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.ss05.tnum" format="2">
+  <advance width="1296"/>
+  <outline>
+    <component base="two.ss05" xOffset="70"/>
+  </outline>
+</glyph>

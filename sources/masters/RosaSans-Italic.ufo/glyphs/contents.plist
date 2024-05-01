@@ -1548,6 +1548,8 @@
   <string>one.tnum.glif</string>
   <key>onehalf</key>
   <string>onehalf.glif</string>
+  <key>onehalf.ss05</key>
+  <string>onehalf.ss05.glif</string>
   <key>onequarter</key>
   <string>onequarter.glif</string>
   <key>onesuperior</key>
@@ -1798,10 +1800,16 @@
   <string>turkishlira.glif</string>
   <key>two</key>
   <string>two.glif</string>
+  <key>two.ss05</key>
+  <string>two.ss05.glif</string>
+  <key>two.ss05.tnum</key>
+  <string>two.ss05.tnum.glif</string>
   <key>two.tnum</key>
   <string>two.tnum.glif</string>
   <key>twosuperior</key>
   <string>twosuperior.glif</string>
+  <key>twosuperior.ss05</key>
+  <string>twosuperior.ss05.glif</string>
   <key>u</key>
   <string>u.glif</string>
   <key>uacute</key>
