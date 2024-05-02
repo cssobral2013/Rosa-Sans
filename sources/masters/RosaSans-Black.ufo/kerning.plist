@@ -1436,6 +1436,57 @@
     <key>public.kern2.ygrave</key>
     <integer>-20</integer>
   </dict>
+  <key>approxequal</key>
+  <dict>
+    <key>Adblgrave</key>
+    <integer>35</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>35</integer>
+    <key>public.kern2.A2</key>
+    <integer>35</integer>
+    <key>public.kern2.AE</key>
+    <integer>53</integer>
+    <key>public.kern2.itilde2</key>
+    <integer>53</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>53</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>53</integer>
+  </dict>
+  <key>asciicircum</key>
+  <dict>
+    <key>Adblgrave</key>
+    <integer>35</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>35</integer>
+    <key>public.kern2.A2</key>
+    <integer>35</integer>
+    <key>public.kern2.AE</key>
+    <integer>53</integer>
+    <key>public.kern2.itilde2</key>
+    <integer>53</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>53</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>53</integer>
+  </dict>
+  <key>asciitilde</key>
+  <dict>
+    <key>Adblgrave</key>
+    <integer>35</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>35</integer>
+    <key>public.kern2.A2</key>
+    <integer>35</integer>
+    <key>public.kern2.AE</key>
+    <integer>53</integer>
+    <key>public.kern2.itilde2</key>
+    <integer>53</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>53</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>53</integer>
+  </dict>
   <key>backslash</key>
   <dict>
     <key>Adblgrave</key>
@@ -1556,6 +1607,23 @@
     <key>Lslash</key>
     <integer>44</integer>
   </dict>
+  <key>bulletoperator</key>
+  <dict>
+    <key>Adblgrave</key>
+    <integer>35</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>35</integer>
+    <key>public.kern2.A2</key>
+    <integer>35</integer>
+    <key>public.kern2.AE</key>
+    <integer>53</integer>
+    <key>public.kern2.itilde2</key>
+    <integer>53</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>53</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>53</integer>
+  </dict>
   <key>chi</key>
   <dict>
     <key>Tbar</key>
@@ -1619,6 +1687,23 @@
     <key>public.kern2.ygrave</key>
     <integer>18</integer>
   </dict>
+  <key>commercialminussign</key>
+  <dict>
+    <key>Adblgrave</key>
+    <integer>35</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>35</integer>
+    <key>public.kern2.A2</key>
+    <integer>35</integer>
+    <key>public.kern2.AE</key>
+    <integer>53</integer>
+    <key>public.kern2.itilde2</key>
+    <integer>53</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>53</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>53</integer>
+  </dict>
   <key>daggerdbl</key>
   <dict>
     <key>iotadieresistonos</key>
@@ -1653,12 +1738,63 @@
     <key>public.kern2.uni0209</key>
     <integer>106</integer>
   </dict>
+  <key>divide</key>
+  <dict>
+    <key>Adblgrave</key>
+    <integer>35</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>35</integer>
+    <key>public.kern2.A2</key>
+    <integer>35</integer>
+    <key>public.kern2.AE</key>
+    <integer>53</integer>
+    <key>public.kern2.itilde2</key>
+    <integer>53</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>53</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>53</integer>
+  </dict>
+  <key>divisionslash</key>
+  <dict>
+    <key>Adblgrave</key>
+    <integer>35</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>35</integer>
+    <key>public.kern2.A2</key>
+    <integer>35</integer>
+    <key>public.kern2.AE</key>
+    <integer>53</integer>
+    <key>public.kern2.itilde2</key>
+    <integer>53</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>53</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>53</integer>
+  </dict>
   <key>eight</key>
   <dict>
     <key>four</key>
     <integer>40</integer>
     <key>public.kern2.tonos2</key>
     <integer>-20</integer>
+  </dict>
+  <key>eight.tnum</key>
+  <dict>
+    <key>Adblgrave</key>
+    <integer>35</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>35</integer>
+    <key>public.kern2.A2</key>
+    <integer>35</integer>
+    <key>public.kern2.AE</key>
+    <integer>53</integer>
+    <key>public.kern2.itilde2</key>
+    <integer>53</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>53</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>53</integer>
   </dict>
   <key>elcyr.loclBGR</key>
   <dict>
@@ -1785,6 +1921,40 @@
     <key>public.kern2.uni0209</key>
     <integer>26</integer>
   </dict>
+  <key>equal</key>
+  <dict>
+    <key>Adblgrave</key>
+    <integer>35</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>35</integer>
+    <key>public.kern2.A2</key>
+    <integer>35</integer>
+    <key>public.kern2.AE</key>
+    <integer>53</integer>
+    <key>public.kern2.itilde2</key>
+    <integer>53</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>53</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>53</integer>
+  </dict>
+  <key>five.tnum</key>
+  <dict>
+    <key>Adblgrave</key>
+    <integer>35</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>35</integer>
+    <key>public.kern2.A2</key>
+    <integer>35</integer>
+    <key>public.kern2.AE</key>
+    <integer>53</integer>
+    <key>public.kern2.itilde2</key>
+    <integer>53</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>53</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>53</integer>
+  </dict>
   <key>four</key>
   <dict>
     <key>four</key>
@@ -1799,6 +1969,23 @@
     <integer>40</integer>
     <key>public.kern2.tonos2</key>
     <integer>-60</integer>
+  </dict>
+  <key>four.tnum</key>
+  <dict>
+    <key>Adblgrave</key>
+    <integer>35</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>35</integer>
+    <key>public.kern2.A2</key>
+    <integer>35</integer>
+    <key>public.kern2.AE</key>
+    <integer>53</integer>
+    <key>public.kern2.itilde2</key>
+    <integer>53</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>53</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>53</integer>
   </dict>
   <key>getailcyr</key>
   <dict>
@@ -1851,6 +2038,40 @@
     <integer>30</integer>
     <key>public.kern2.ygrave</key>
     <integer>30</integer>
+  </dict>
+  <key>greater</key>
+  <dict>
+    <key>Adblgrave</key>
+    <integer>35</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>35</integer>
+    <key>public.kern2.A2</key>
+    <integer>35</integer>
+    <key>public.kern2.AE</key>
+    <integer>53</integer>
+    <key>public.kern2.itilde2</key>
+    <integer>53</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>53</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>53</integer>
+  </dict>
+  <key>greaterequal</key>
+  <dict>
+    <key>Adblgrave</key>
+    <integer>35</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>35</integer>
+    <key>public.kern2.A2</key>
+    <integer>35</integer>
+    <key>public.kern2.AE</key>
+    <integer>53</integer>
+    <key>public.kern2.itilde2</key>
+    <integer>53</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>53</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>53</integer>
   </dict>
   <key>iacute</key>
   <dict>
@@ -2143,6 +2364,74 @@
     <key>public.kern2.uni0209</key>
     <integer>18</integer>
   </dict>
+  <key>less</key>
+  <dict>
+    <key>Adblgrave</key>
+    <integer>35</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>35</integer>
+    <key>public.kern2.A2</key>
+    <integer>35</integer>
+    <key>public.kern2.AE</key>
+    <integer>53</integer>
+    <key>public.kern2.itilde2</key>
+    <integer>53</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>53</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>53</integer>
+  </dict>
+  <key>lessequal</key>
+  <dict>
+    <key>Adblgrave</key>
+    <integer>35</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>35</integer>
+    <key>public.kern2.A2</key>
+    <integer>35</integer>
+    <key>public.kern2.AE</key>
+    <integer>53</integer>
+    <key>public.kern2.itilde2</key>
+    <integer>53</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>53</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>53</integer>
+  </dict>
+  <key>logicalnot</key>
+  <dict>
+    <key>Adblgrave</key>
+    <integer>35</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>35</integer>
+    <key>public.kern2.A2</key>
+    <integer>35</integer>
+    <key>public.kern2.AE</key>
+    <integer>53</integer>
+    <key>public.kern2.itilde2</key>
+    <integer>53</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>53</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>53</integer>
+  </dict>
+  <key>lozenge</key>
+  <dict>
+    <key>Adblgrave</key>
+    <integer>35</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>35</integer>
+    <key>public.kern2.A2</key>
+    <integer>35</integer>
+    <key>public.kern2.AE</key>
+    <integer>53</integer>
+    <key>public.kern2.itilde2</key>
+    <integer>53</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>53</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>53</integer>
+  </dict>
   <key>lslash</key>
   <dict>
     <key>Lslash</key>
@@ -2174,10 +2463,95 @@
     <key>public.kern2.ygrave</key>
     <integer>18</integer>
   </dict>
+  <key>minus</key>
+  <dict>
+    <key>Adblgrave</key>
+    <integer>35</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>35</integer>
+    <key>public.kern2.A2</key>
+    <integer>35</integer>
+    <key>public.kern2.AE</key>
+    <integer>53</integer>
+    <key>public.kern2.itilde2</key>
+    <integer>53</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>53</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>53</integer>
+  </dict>
+  <key>multiply</key>
+  <dict>
+    <key>Adblgrave</key>
+    <integer>35</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>35</integer>
+    <key>public.kern2.A2</key>
+    <integer>35</integer>
+    <key>public.kern2.AE</key>
+    <integer>53</integer>
+    <key>public.kern2.itilde2</key>
+    <integer>53</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>53</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>53</integer>
+  </dict>
   <key>nine.ss02</key>
   <dict>
     <key>six.ss02</key>
     <integer>-90</integer>
+  </dict>
+  <key>nine.tnum</key>
+  <dict>
+    <key>Adblgrave</key>
+    <integer>35</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>35</integer>
+    <key>public.kern2.A2</key>
+    <integer>35</integer>
+    <key>public.kern2.AE</key>
+    <integer>53</integer>
+    <key>public.kern2.itilde2</key>
+    <integer>53</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>53</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>53</integer>
+  </dict>
+  <key>notequal</key>
+  <dict>
+    <key>Adblgrave</key>
+    <integer>35</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>35</integer>
+    <key>public.kern2.A2</key>
+    <integer>35</integer>
+    <key>public.kern2.AE</key>
+    <integer>53</integer>
+    <key>public.kern2.itilde2</key>
+    <integer>53</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>53</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>53</integer>
+  </dict>
+  <key>one.tnum</key>
+  <dict>
+    <key>Adblgrave</key>
+    <integer>35</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>35</integer>
+    <key>public.kern2.A2</key>
+    <integer>35</integer>
+    <key>public.kern2.AE</key>
+    <integer>53</integer>
+    <key>public.kern2.itilde2</key>
+    <integer>53</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>53</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>53</integer>
   </dict>
   <key>onehalf</key>
   <dict>
@@ -2199,6 +2573,40 @@
   <dict>
     <key>iotadieresistonos</key>
     <integer>78</integer>
+  </dict>
+  <key>plus</key>
+  <dict>
+    <key>Adblgrave</key>
+    <integer>35</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>35</integer>
+    <key>public.kern2.A2</key>
+    <integer>35</integer>
+    <key>public.kern2.AE</key>
+    <integer>53</integer>
+    <key>public.kern2.itilde2</key>
+    <integer>53</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>53</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>53</integer>
+  </dict>
+  <key>plusminus</key>
+  <dict>
+    <key>Adblgrave</key>
+    <integer>35</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>35</integer>
+    <key>public.kern2.A2</key>
+    <integer>35</integer>
+    <key>public.kern2.AE</key>
+    <integer>53</integer>
+    <key>public.kern2.itilde2</key>
+    <integer>53</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>53</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>53</integer>
   </dict>
   <key>question</key>
   <dict>
@@ -2379,6 +2787,23 @@
     <key>public.kern2.uni0209</key>
     <integer>86</integer>
   </dict>
+  <key>seven.tnum</key>
+  <dict>
+    <key>Adblgrave</key>
+    <integer>35</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>35</integer>
+    <key>public.kern2.A2</key>
+    <integer>35</integer>
+    <key>public.kern2.AE</key>
+    <integer>53</integer>
+    <key>public.kern2.itilde2</key>
+    <integer>53</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>53</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>53</integer>
+  </dict>
   <key>sigma</key>
   <dict>
     <key>Tbar</key>
@@ -2510,6 +2935,23 @@
   <dict>
     <key>nine.ss02</key>
     <integer>-68</integer>
+  </dict>
+  <key>six.tnum</key>
+  <dict>
+    <key>Adblgrave</key>
+    <integer>35</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>35</integer>
+    <key>public.kern2.A2</key>
+    <integer>35</integer>
+    <key>public.kern2.AE</key>
+    <integer>53</integer>
+    <key>public.kern2.itilde2</key>
+    <integer>53</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>53</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>53</integer>
   </dict>
   <key>slash</key>
   <dict>
@@ -2729,6 +3171,23 @@
     <integer>-20</integer>
     <key>seven</key>
     <integer>-40</integer>
+  </dict>
+  <key>three.tnum</key>
+  <dict>
+    <key>Adblgrave</key>
+    <integer>35</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>35</integer>
+    <key>public.kern2.A2</key>
+    <integer>35</integer>
+    <key>public.kern2.AE</key>
+    <integer>53</integer>
+    <key>public.kern2.itilde2</key>
+    <integer>53</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>53</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>53</integer>
   </dict>
   <key>two.ss05</key>
   <dict>
@@ -3030,6 +3489,23 @@
     <integer>-30</integer>
     <key>public.kern2.uni0209</key>
     <integer>35</integer>
+  </dict>
+  <key>zero.tnum</key>
+  <dict>
+    <key>Adblgrave</key>
+    <integer>35</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>35</integer>
+    <key>public.kern2.A2</key>
+    <integer>35</integer>
+    <key>public.kern2.AE</key>
+    <integer>53</integer>
+    <key>public.kern2.itilde2</key>
+    <integer>53</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>53</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>53</integer>
   </dict>
   <key>zeta</key>
   <dict>
@@ -5683,14 +6159,40 @@
     <integer>89</integer>
     <key>adblgrave</key>
     <integer>70</integer>
+    <key>approxequal</key>
+    <integer>53</integer>
+    <key>asciicircum</key>
+    <integer>53</integer>
+    <key>asciitilde</key>
+    <integer>53</integer>
     <key>backslash</key>
     <integer>146</integer>
     <key>bracketangleright</key>
     <integer>48</integer>
+    <key>bulletoperator</key>
+    <integer>53</integer>
     <key>chedieresiscyr</key>
+    <integer>53</integer>
+    <key>commercialminussign</key>
     <integer>53</integer>
     <key>daggerdbl</key>
     <integer>66</integer>
+    <key>divide</key>
+    <integer>53</integer>
+    <key>divisionslash</key>
+    <integer>53</integer>
+    <key>eight.tnum</key>
+    <integer>53</integer>
+    <key>equal</key>
+    <integer>53</integer>
+    <key>five.tnum</key>
+    <integer>53</integer>
+    <key>four.tnum</key>
+    <integer>53</integer>
+    <key>greater</key>
+    <integer>53</integer>
+    <key>greaterequal</key>
+    <integer>53</integer>
     <key>hcircumflex</key>
     <integer>114</integer>
     <key>igrave</key>
@@ -5701,18 +6203,46 @@
     <integer>35</integer>
     <key>lcommaaccent</key>
     <integer>18</integer>
+    <key>less</key>
+    <integer>53</integer>
+    <key>lessequal</key>
+    <integer>53</integer>
+    <key>logicalnot</key>
+    <integer>53</integer>
+    <key>lozenge</key>
+    <integer>53</integer>
+    <key>minus</key>
+    <integer>53</integer>
+    <key>multiply</key>
+    <integer>53</integer>
+    <key>nine.tnum</key>
+    <integer>53</integer>
+    <key>notequal</key>
+    <integer>53</integer>
     <key>one</key>
     <integer>107</integer>
+    <key>one.tnum</key>
+    <integer>53</integer>
     <key>paragraph</key>
     <integer>80</integer>
+    <key>plus</key>
+    <integer>53</integer>
+    <key>plusminus</key>
+    <integer>53</integer>
     <key>question</key>
     <integer>49</integer>
     <key>rcaron</key>
     <integer>26</integer>
     <key>seven</key>
     <integer>98</integer>
+    <key>seven.tnum</key>
+    <integer>53</integer>
+    <key>six.tnum</key>
+    <integer>53</integer>
     <key>three</key>
     <integer>98</integer>
+    <key>three.tnum</key>
+    <integer>53</integer>
     <key>threequarters</key>
     <integer>120</integer>
     <key>two.ss05</key>
@@ -5727,6 +6257,8 @@
     <integer>26</integer>
     <key>zedieresiscyr</key>
     <integer>93</integer>
+    <key>zero.tnum</key>
+    <integer>53</integer>
     <key>public.kern2.B2</key>
     <integer>9</integer>
     <key>public.kern2.Dcaron</key>
@@ -5783,8 +6315,6 @@
     <integer>126</integer>
     <key>public.kern2.percent</key>
     <integer>98</integer>
-    <key>public.kern2.plus2</key>
-    <integer>53</integer>
     <key>public.kern2.scaron2</key>
     <integer>35</integer>
     <key>public.kern2.six</key>
@@ -6009,23 +6539,6 @@
     <integer>126</integer>
     <key>public.kern2.uni0237</key>
     <integer>22</integer>
-  </dict>
-  <key>public.kern1.plus</key>
-  <dict>
-    <key>Adblgrave</key>
-    <integer>35</integer>
-    <key>Decyr.loclBGR</key>
-    <integer>35</integer>
-    <key>public.kern2.A2</key>
-    <integer>35</integer>
-    <key>public.kern2.AE</key>
-    <integer>53</integer>
-    <key>public.kern2.itilde2</key>
-    <integer>53</integer>
-    <key>public.kern2.jcircumflex</key>
-    <integer>53</integer>
-    <key>public.kern2.uni0209</key>
-    <integer>53</integer>
   </dict>
   <key>public.kern1.r</key>
   <dict>

@@ -2,37 +2,37 @@
 <glyph name="commaturnedabovecomb.case" format="2">
   <outline>
     <contour>
-      <point x="-786" y="1660" type="qcurve" smooth="yes"/>
-      <point x="-809" y="1660"/>
-      <point x="-846" y="1675"/>
-      <point x="-860" y="1690" type="qcurve"/>
-      <point x="-874" y="1703"/>
-      <point x="-888" y="1743"/>
-      <point x="-888" y="1766" type="qcurve" smooth="yes"/>
-      <point x="-888" y="1790"/>
-      <point x="-875" y="1833"/>
-      <point x="-865" y="1856" type="qcurve"/>
-      <point x="-842" y="1900"/>
-      <point x="-755" y="1979"/>
-      <point x="-692" y="2016" type="qcurve"/>
+      <point x="-786" y="1660" type="curve" smooth="yes"/>
+      <point x="-817" y="1660"/>
+      <point x="-841" y="1670"/>
+      <point x="-860" y="1690" type="curve"/>
+      <point x="-879" y="1707"/>
+      <point x="-888" y="1735"/>
+      <point x="-888" y="1766" type="curve" smooth="yes"/>
+      <point x="-888" y="1798"/>
+      <point x="-878" y="1825"/>
+      <point x="-865" y="1856" type="curve"/>
+      <point x="-834" y="1915"/>
+      <point x="-776" y="1967"/>
+      <point x="-692" y="2016" type="curve"/>
       <point x="-640" y="1962" type="line"/>
-      <point x="-665" y="1948"/>
-      <point x="-716" y="1917"/>
-      <point x="-740" y="1900" type="qcurve" smooth="yes"/>
-      <point x="-763" y="1883"/>
-      <point x="-790" y="1848"/>
-      <point x="-792" y="1832" type="qcurve"/>
-      <point x="-771" y="1832"/>
-      <point x="-735" y="1820"/>
-      <point x="-720" y="1808" type="qcurve"/>
-      <point x="-706" y="1796"/>
-      <point x="-692" y="1763"/>
-      <point x="-692" y="1742" type="qcurve" smooth="yes"/>
-      <point x="-692" y="1732"/>
-      <point x="-697" y="1711"/>
-      <point x="-705" y="1701" type="qcurve"/>
-      <point x="-716" y="1683"/>
-      <point x="-760" y="1660"/>
+      <point x="-673" y="1943"/>
+      <point x="-708" y="1923"/>
+      <point x="-740" y="1900" type="curve" smooth="yes"/>
+      <point x="-771" y="1877"/>
+      <point x="-789" y="1853"/>
+      <point x="-792" y="1832" type="curve"/>
+      <point x="-764" y="1832"/>
+      <point x="-740" y="1824"/>
+      <point x="-720" y="1808" type="curve" smooth="yes"/>
+      <point x="-701" y="1792"/>
+      <point x="-692" y="1770"/>
+      <point x="-692" y="1742" type="curve" smooth="yes"/>
+      <point x="-692" y="1729"/>
+      <point x="-694" y="1714"/>
+      <point x="-705" y="1701" type="curve"/>
+      <point x="-720" y="1677"/>
+      <point x="-751" y="1660"/>
     </contour>
   </outline>
 </glyph>

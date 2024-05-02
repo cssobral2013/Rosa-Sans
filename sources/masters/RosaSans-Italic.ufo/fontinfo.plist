@@ -8,9 +8,8 @@
   <integer>1400</integer>
   <key>copyright</key>
   <string>Copyright 2020 The Geologica Project Authors (https://github.com/googlefonts/geologica)
-Copyright 2020 The Spartan MB Project Authors (https://github.com/MattBaileyDesign/Spartan-MB)
 Copyright 2023 The Reddit Sans Project Authors (https://github.com/reddit/redditsans)
-Copyright 2020-2023 The Rosa Sans Project Authors (https://github.com/cssobral2013/rosa-sans)</string>
+Copyright 2020-2024 The Rosa Sans Project Authors (https://github.com/cssobral2013/rosa-sans)</string>
   <key>descender</key>
   <integer>-624</integer>
   <key>familyName</key>
@@ -58,7 +57,7 @@ Copyright 2020-2023 The Rosa Sans Project Authors (https://github.com/cssobral20
   <key>openTypeHheaLineGap</key>
   <integer>244</integer>
   <key>openTypeNameDesigner</key>
-  <string>Monokrom, Sindre Bremnes, Frode Helland (font Geologica),  Stephen Hutchings (font Reddit Sans), The League of Moveable Type (font League Spartan), Cristiano Sobral (main changes)</string>
+  <string>Monokrom, Sindre Bremnes, Frode Helland (font Geologica),  Stephen Hutchings (font Reddit Sans), Cristiano Sobral (main changes)</string>
   <key>openTypeNameLicense</key>
   <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
   <key>openTypeNameLicenseURL</key>

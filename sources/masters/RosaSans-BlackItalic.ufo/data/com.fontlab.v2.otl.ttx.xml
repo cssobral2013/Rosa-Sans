@@ -850,35 +850,120 @@
           <ClassDef glyph="tcedilla" class="0"/>
           <ClassDef glyph="tcommaaccent" class="0"/>
           <ClassDef glyph="hookabovecomb.case" class="0"/>
-          <ClassDef glyph="softhyphen" class="0"/>
+          <ClassDef glyph="Abreveacute" class="0"/>
+          <ClassDef glyph="Abrevedotbelow" class="0"/>
+          <ClassDef glyph="Abrevegrave" class="0"/>
+          <ClassDef glyph="Abrevetilde" class="0"/>
+          <ClassDef glyph="Acircumflexacute" class="0"/>
+          <ClassDef glyph="Acircumflexdotbelow" class="0"/>
+          <ClassDef glyph="Acircumflexgrave" class="0"/>
+          <ClassDef glyph="Acircumflextilde" class="0"/>
+          <ClassDef glyph="Adblgrave" class="0"/>
+          <ClassDef glyph="Adotbelow" class="0"/>
+          <ClassDef glyph="Ainvertedbreve" class="0"/>
           <ClassDef glyph="DZcaron" class="0"/>
           <ClassDef glyph="Dzcaron" class="0"/>
-          <ClassDef glyph="Adblgrave" class="0"/>
-          <ClassDef glyph="adblgrave" class="0"/>
-          <ClassDef glyph="Ainvertedbreve" class="0"/>
-          <ClassDef glyph="ainvertedbreve" class="0"/>
+          <ClassDef glyph="Ecircumflexacute" class="0"/>
+          <ClassDef glyph="Ecircumflexdotbelow" class="0"/>
+          <ClassDef glyph="Ecircumflexgrave" class="0"/>
+          <ClassDef glyph="Ecircumflextilde" class="0"/>
           <ClassDef glyph="Edblgrave" class="0"/>
-          <ClassDef glyph="edblgrave" class="0"/>
+          <ClassDef glyph="Edotbelow" class="0"/>
           <ClassDef glyph="Einvertedbreve" class="0"/>
-          <ClassDef glyph="einvertedbreve" class="0"/>
+          <ClassDef glyph="Etilde" class="0"/>
           <ClassDef glyph="Idblgrave" class="0"/>
-          <ClassDef glyph="idblgrave" class="0"/>
+          <ClassDef glyph="Idotbelow" class="0"/>
           <ClassDef glyph="Iinvertedbreve" class="0"/>
+          <ClassDef glyph="a.ss01" class="0"/>
+          <ClassDef glyph="aacute.ss01" class="0"/>
+          <ClassDef glyph="abreve.ss01" class="0"/>
+          <ClassDef glyph="abreveacute" class="0"/>
+          <ClassDef glyph="abreveacute.ss01" class="0"/>
+          <ClassDef glyph="abrevedotbelow" class="0"/>
+          <ClassDef glyph="abrevedotbelow.ss01" class="0"/>
+          <ClassDef glyph="abrevegrave" class="0"/>
+          <ClassDef glyph="abrevegrave.ss01" class="0"/>
+          <ClassDef glyph="abrevetilde" class="0"/>
+          <ClassDef glyph="abrevetilde.ss01" class="0"/>
+          <ClassDef glyph="acircumflex.ss01" class="0"/>
+          <ClassDef glyph="acircumflexacute" class="0"/>
+          <ClassDef glyph="acircumflexacute.ss01" class="0"/>
+          <ClassDef glyph="acircumflexdotbelow" class="0"/>
+          <ClassDef glyph="acircumflexdotbelow.ss01" class="0"/>
+          <ClassDef glyph="acircumflexgrave" class="0"/>
+          <ClassDef glyph="acircumflexgrave.ss01" class="0"/>
+          <ClassDef glyph="acircumflextilde" class="0"/>
+          <ClassDef glyph="acircumflextilde.ss01" class="0"/>
+          <ClassDef glyph="adblgrave" class="0"/>
+          <ClassDef glyph="adblgrave.ss01" class="0"/>
+          <ClassDef glyph="adieresis.ss01" class="0"/>
+          <ClassDef glyph="adotbelow" class="0"/>
+          <ClassDef glyph="adotbelow.ss01" class="0"/>
+          <ClassDef glyph="agrave.ss01" class="0"/>
+          <ClassDef glyph="ainvertedbreve" class="0"/>
+          <ClassDef glyph="ainvertedbreve.ss01" class="0"/>
+          <ClassDef glyph="amacron.ss01" class="0"/>
+          <ClassDef glyph="aogonek.ss01" class="0"/>
+          <ClassDef glyph="aring.ss01" class="0"/>
+          <ClassDef glyph="aringacute.ss01" class="0"/>
+          <ClassDef glyph="atilde.ss01" class="0"/>
+          <ClassDef glyph="ae.ss01" class="0"/>
+          <ClassDef glyph="aeacute.ss01" class="0"/>
+          <ClassDef glyph="ecircumflexacute" class="0"/>
+          <ClassDef glyph="ecircumflexdotbelow" class="0"/>
+          <ClassDef glyph="ecircumflexgrave" class="0"/>
+          <ClassDef glyph="ecircumflextilde" class="0"/>
+          <ClassDef glyph="edblgrave" class="0"/>
+          <ClassDef glyph="edotbelow" class="0"/>
+          <ClassDef glyph="einvertedbreve" class="0"/>
+          <ClassDef glyph="etilde" class="0"/>
+          <ClassDef glyph="schwa" class="0"/>
+          <ClassDef glyph="idblgrave" class="0"/>
+          <ClassDef glyph="idotaccent" class="0"/>
+          <ClassDef glyph="idotbelow" class="0"/>
           <ClassDef glyph="iinvertedbreve" class="0"/>
+          <ClassDef glyph="ocircumflexacute" class="0"/>
+          <ClassDef glyph="ocircumflexdotbelow" class="0"/>
+          <ClassDef glyph="ocircumflexgrave" class="0"/>
+          <ClassDef glyph="ocircumflextilde" class="0"/>
           <ClassDef glyph="odblgrave" class="0"/>
+          <ClassDef glyph="odieresismacron" class="0"/>
+          <ClassDef glyph="odotaccentmacron" class="0"/>
+          <ClassDef glyph="odotbelow" class="0"/>
+          <ClassDef glyph="ohornacute" class="0"/>
+          <ClassDef glyph="ohorndotbelow" class="0"/>
+          <ClassDef glyph="ohorngrave" class="0"/>
+          <ClassDef glyph="ohorntilde" class="0"/>
           <ClassDef glyph="oinvertedbreve" class="0"/>
+          <ClassDef glyph="otildemacron" class="0"/>
           <ClassDef glyph="rdblgrave" class="0"/>
           <ClassDef glyph="rinvertedbreve" class="0"/>
           <ClassDef glyph="udblgrave" class="0"/>
+          <ClassDef glyph="udotbelow" class="0"/>
+          <ClassDef glyph="uhornacute" class="0"/>
+          <ClassDef glyph="uhorndotbelow" class="0"/>
+          <ClassDef glyph="uhorngrave" class="0"/>
+          <ClassDef glyph="uhorntilde" class="0"/>
           <ClassDef glyph="uinvertedbreve" class="0"/>
-          <ClassDef glyph="odieresismacron" class="0"/>
-          <ClassDef glyph="otildemacron" class="0"/>
-          <ClassDef glyph="odotaccentmacron" class="0"/>
+          <ClassDef glyph="ydotbelow" class="0"/>
           <ClassDef glyph="ymacron" class="0"/>
-          <ClassDef glyph="schwa" class="0"/>
-          <ClassDef glyph="primemod" class="0"/>
-          <ClassDef glyph="primedblmod" class="0"/>
-          <ClassDef glyph="apostrophemod" class="0"/>
+          <ClassDef glyph="ytilde" class="0"/>
+          <ClassDef glyph="periodcentered.loclCAT.case" class="0"/>
+          <ClassDef glyph="periodcentered.loclCAT" class="0"/>
+          <ClassDef glyph="softhyphen" class="0"/>
+          <ClassDef glyph="cedi" class="0"/>
+          <ClassDef glyph="guarani" class="0"/>
+          <ClassDef glyph="kip" class="0"/>
+          <ClassDef glyph="manat" class="0"/>
+          <ClassDef glyph="naira" class="0"/>
+          <ClassDef glyph="peso" class="0"/>
+          <ClassDef glyph="ruble" class="0"/>
+          <ClassDef glyph="won" class="0"/>
+          <ClassDef glyph="bulletoperator" class="0"/>
+          <ClassDef glyph="divisionslash" class="0"/>
+          <ClassDef glyph="micro" class="0"/>
+          <ClassDef glyph="numero" class="0"/>
+          <ClassDef glyph="caroncomb.alt" class="0"/>
           <ClassDef glyph="dblgravecomb" class="0"/>
           <ClassDef glyph="breveinvertedcomb" class="0"/>
           <ClassDef glyph="commaturnedabovecomb" class="0"/>
@@ -886,6 +971,33 @@
           <ClassDef glyph="brevebelowcomb" class="0"/>
           <ClassDef glyph="macronbelowcomb" class="0"/>
           <ClassDef glyph="strokeshortcomb" class="0"/>
+          <ClassDef glyph="dieresiscomb.case" class="0"/>
+          <ClassDef glyph="dotaccentcomb.case" class="0"/>
+          <ClassDef glyph="gravecomb.case" class="0"/>
+          <ClassDef glyph="acutecomb.case" class="0"/>
+          <ClassDef glyph="hungarumlautcomb.case" class="0"/>
+          <ClassDef glyph="circumflexcomb.case" class="0"/>
+          <ClassDef glyph="caroncomb.case" class="0"/>
+          <ClassDef glyph="brevecomb.case" class="0"/>
+          <ClassDef glyph="tildecomb.case" class="0"/>
+          <ClassDef glyph="macroncomb.case" class="0"/>
+          <ClassDef glyph="dblgravecomb.case" class="0"/>
+          <ClassDef glyph="breveinvertedcomb.case" class="0"/>
+          <ClassDef glyph="dieresiscomb.narrow" class="0"/>
+          <ClassDef glyph="tildecomb.narrow" class="0"/>
+          <ClassDef glyph="macroncomb.narrow" class="0"/>
+          <ClassDef glyph="breveinvertedcomb.narrow" class="0"/>
+          <ClassDef glyph="apostrophemod" class="0"/>
+          <ClassDef glyph="brevecomb_acutecomb" class="0"/>
+          <ClassDef glyph="brevecomb_gravecomb" class="0"/>
+          <ClassDef glyph="brevecomb_hookabovecomb" class="0"/>
+          <ClassDef glyph="brevecomb_tildecomb" class="0"/>
+          <ClassDef glyph="circumflexcomb_acutecomb" class="0"/>
+          <ClassDef glyph="circumflexcomb_gravecomb" class="0"/>
+          <ClassDef glyph="circumflexcomb_hookabovecomb" class="0"/>
+          <ClassDef glyph="circumflexcomb_tildecomb" class="0"/>
+          <ClassDef glyph="primemod" class="0"/>
+          <ClassDef glyph="primedblmod" class="0"/>
           <ClassDef glyph="numeralsign" class="0"/>
           <ClassDef glyph="lownumeralsign" class="0"/>
           <ClassDef glyph="questiongreek" class="0"/>
@@ -982,95 +1094,36 @@
           <ClassDef glyph="ylongdieresiscyr" class="0"/>
           <ClassDef glyph="qacyr" class="0"/>
           <ClassDef glyph="wecyr" class="0"/>
-          <ClassDef glyph="Adotbelow" class="0"/>
-          <ClassDef glyph="adotbelow" class="0"/>
           <ClassDef glyph="Ahoi" class="0"/>
           <ClassDef glyph="ahoi" class="0"/>
-          <ClassDef glyph="Acircumflexacute" class="0"/>
-          <ClassDef glyph="acircumflexacute" class="0"/>
-          <ClassDef glyph="Acircumflexgrave" class="0"/>
-          <ClassDef glyph="acircumflexgrave" class="0"/>
           <ClassDef glyph="Acircumflexhoi" class="0"/>
           <ClassDef glyph="acircumflexhoi" class="0"/>
-          <ClassDef glyph="Acircumflextilde" class="0"/>
-          <ClassDef glyph="acircumflextilde" class="0"/>
-          <ClassDef glyph="Acircumflexdotbelow" class="0"/>
-          <ClassDef glyph="acircumflexdotbelow" class="0"/>
-          <ClassDef glyph="Abreveacute" class="0"/>
-          <ClassDef glyph="abreveacute" class="0"/>
-          <ClassDef glyph="Abrevegrave" class="0"/>
-          <ClassDef glyph="abrevegrave" class="0"/>
           <ClassDef glyph="Abrevehoi" class="0"/>
           <ClassDef glyph="abrevehoi" class="0"/>
-          <ClassDef glyph="Abrevetilde" class="0"/>
-          <ClassDef glyph="abrevetilde" class="0"/>
-          <ClassDef glyph="Abrevedotbelow" class="0"/>
-          <ClassDef glyph="abrevedotbelow" class="0"/>
-          <ClassDef glyph="Edotbelow" class="0"/>
-          <ClassDef glyph="edotbelow" class="0"/>
           <ClassDef glyph="Ehoi" class="0"/>
           <ClassDef glyph="ehoi" class="0"/>
-          <ClassDef glyph="Etilde" class="0"/>
-          <ClassDef glyph="etilde" class="0"/>
-          <ClassDef glyph="Ecircumflexacute" class="0"/>
-          <ClassDef glyph="ecircumflexacute" class="0"/>
-          <ClassDef glyph="Ecircumflexgrave" class="0"/>
-          <ClassDef glyph="ecircumflexgrave" class="0"/>
           <ClassDef glyph="Ecircumflexhoi" class="0"/>
           <ClassDef glyph="ecircumflexhoi" class="0"/>
-          <ClassDef glyph="Ecircumflextilde" class="0"/>
-          <ClassDef glyph="ecircumflextilde" class="0"/>
-          <ClassDef glyph="Ecircumflexdotbelow" class="0"/>
-          <ClassDef glyph="ecircumflexdotbelow" class="0"/>
           <ClassDef glyph="Ihoi" class="0"/>
           <ClassDef glyph="ihoi" class="0"/>
-          <ClassDef glyph="Idotbelow" class="0"/>
-          <ClassDef glyph="idotbelow" class="0"/>
-          <ClassDef glyph="odotbelow" class="0"/>
           <ClassDef glyph="ohoi" class="0"/>
-          <ClassDef glyph="ocircumflexacute" class="0"/>
-          <ClassDef glyph="ocircumflexgrave" class="0"/>
           <ClassDef glyph="ocircumflexhoi" class="0"/>
-          <ClassDef glyph="ocircumflextilde" class="0"/>
-          <ClassDef glyph="ocircumflexdotbelow" class="0"/>
-          <ClassDef glyph="ohornacute" class="0"/>
-          <ClassDef glyph="ohorngrave" class="0"/>
           <ClassDef glyph="ohornhoi" class="0"/>
-          <ClassDef glyph="ohorntilde" class="0"/>
-          <ClassDef glyph="ohorndotbelow" class="0"/>
-          <ClassDef glyph="udotbelow" class="0"/>
           <ClassDef glyph="uhoi" class="0"/>
-          <ClassDef glyph="uhornacute" class="0"/>
-          <ClassDef glyph="uhorngrave" class="0"/>
           <ClassDef glyph="uhornhoi" class="0"/>
-          <ClassDef glyph="uhorntilde" class="0"/>
-          <ClassDef glyph="uhorndotbelow" class="0"/>
-          <ClassDef glyph="ydotbelow" class="0"/>
           <ClassDef glyph="yhoi" class="0"/>
-          <ClassDef glyph="ytilde" class="0"/>
           <ClassDef glyph="hyphen-gnrl" class="0"/>
           <ClassDef glyph="commercialminussign" class="0"/>
           <ClassDef glyph="four.superior" class="0"/>
-          <ClassDef glyph="naira" class="0"/>
-          <ClassDef glyph="won" class="0"/>
-          <ClassDef glyph="kip" class="0"/>
           <ClassDef glyph="tugrik" class="0"/>
-          <ClassDef glyph="peso" class="0"/>
-          <ClassDef glyph="guarani" class="0"/>
           <ClassDef glyph="hryvnia" class="0"/>
-          <ClassDef glyph="cedi" class="0"/>
           <ClassDef glyph="tenge" class="0"/>
           <ClassDef glyph="indianrupee" class="0"/>
           <ClassDef glyph="turkishlira" class="0"/>
-          <ClassDef glyph="manat" class="0"/>
-          <ClassDef glyph="ruble" class="0"/>
-          <ClassDef glyph="numero" class="0"/>
           <ClassDef glyph="arrowNW" class="0"/>
           <ClassDef glyph="arrowNE" class="0"/>
           <ClassDef glyph="arrowSE" class="0"/>
           <ClassDef glyph="arrowSW" class="0"/>
-          <ClassDef glyph="divisionslash" class="0"/>
-          <ClassDef glyph="bulletoperator" class="0"/>
           <ClassDef glyph="bracketangleleft" class="0"/>
           <ClassDef glyph="bracketangleright" class="0"/>
           <ClassDef glyph="uniEE01" class="0"/>
@@ -1085,17 +1138,14 @@
           <ClassDef glyph="five.tnum" class="0"/>
           <ClassDef glyph="six.ss02" class="0"/>
           <ClassDef glyph="six.tnum" class="0"/>
-          <ClassDef glyph="six.tnum.ss02" class="0"/>
           <ClassDef glyph="seven.tnum" class="0"/>
           <ClassDef glyph="eight.tnum" class="0"/>
           <ClassDef glyph="nine.ss02" class="0"/>
           <ClassDef glyph="nine.tnum" class="0"/>
-          <ClassDef glyph="nine.tnum.ss02" class="0"/>
           <ClassDef glyph="colon.tnum" class="0"/>
           <ClassDef glyph="semicolon.tnum" class="0"/>
           <ClassDef glyph="question.ss04" class="0"/>
           <ClassDef glyph="Q.ss03" class="0"/>
-          <ClassDef glyph="a.ss01" class="0"/>
           <ClassDef glyph="f.calt" class="0"/>
           <ClassDef glyph="f.f" class="0"/>
           <ClassDef glyph="f.i" class="0"/>
@@ -1104,70 +1154,29 @@
           <ClassDef glyph="j.calt" class="0"/>
           <ClassDef glyph="ordfeminine.ss01" class="0"/>
           <ClassDef glyph="twosuperior.ss05" class="0"/>
-          <ClassDef glyph="periodcentered.loclCAT" class="0"/>
-          <ClassDef glyph="periodcentered.loclCAT.case" class="0"/>
           <ClassDef glyph="onehalf.ss05" class="0"/>
           <ClassDef glyph="questiondown.ss04" class="0"/>
           <ClassDef glyph="Idieresis.calt" class="0"/>
           <ClassDef glyph="Idieresis.calt2" class="0"/>
-          <ClassDef glyph="agrave.ss01" class="0"/>
-          <ClassDef glyph="aacute.ss01" class="0"/>
-          <ClassDef glyph="acircumflex.ss01" class="0"/>
-          <ClassDef glyph="atilde.ss01" class="0"/>
-          <ClassDef glyph="adieresis.ss01" class="0"/>
-          <ClassDef glyph="aring.ss01" class="0"/>
-          <ClassDef glyph="ae.ss01" class="0"/>
           <ClassDef glyph="idieresis.calt" class="0"/>
           <ClassDef glyph="idieresis.calt2" class="0"/>
-          <ClassDef glyph="amacron.ss01" class="0"/>
-          <ClassDef glyph="abreve.ss01" class="0"/>
-          <ClassDef glyph="aogonek.ss01" class="0"/>
           <ClassDef glyph="gcircumflex.ss01" class="0"/>
           <ClassDef glyph="gbreve.ss01" class="0"/>
           <ClassDef glyph="gdotaccent.ss01" class="0"/>
           <ClassDef glyph="gcommaaccent.ss01" class="0"/>
           <ClassDef glyph="jcircumflex.calt" class="0"/>
           <ClassDef glyph="gcaron.ss01" class="0"/>
-          <ClassDef glyph="aringacute.ss01" class="0"/>
-          <ClassDef glyph="aeacute.ss01" class="0"/>
-          <ClassDef glyph="adblgrave.ss01" class="0"/>
-          <ClassDef glyph="ainvertedbreve.ss01" class="0"/>
           <ClassDef glyph="dotlessj.calt" class="0"/>
-          <ClassDef glyph="gravecomb.case" class="0"/>
           <ClassDef glyph="gravecomb.narrow" class="0"/>
-          <ClassDef glyph="acutecomb.case" class="0"/>
           <ClassDef glyph="acutecomb.narrow" class="0"/>
-          <ClassDef glyph="circumflexcomb_acutecomb" class="0"/>
-          <ClassDef glyph="circumflexcomb.case" class="0"/>
-          <ClassDef glyph="circumflexcomb_gravecomb" class="0"/>
-          <ClassDef glyph="circumflexcomb_hookabovecomb" class="0"/>
           <ClassDef glyph="circumflexcomb.narrow" class="0"/>
-          <ClassDef glyph="circumflexcomb_tildecomb" class="0"/>
-          <ClassDef glyph="tildecomb.case" class="0"/>
-          <ClassDef glyph="tildecomb.narrow" class="0"/>
-          <ClassDef glyph="macroncomb.case" class="0"/>
-          <ClassDef glyph="macroncomb.narrow" class="0"/>
           <ClassDef glyph="macroncomb.wide" class="0"/>
-          <ClassDef glyph="brevecomb_acutecomb" class="0"/>
-          <ClassDef glyph="brevecomb.case" class="0"/>
           <ClassDef glyph="brevecomb.ccmp" class="0"/>
-          <ClassDef glyph="brevecomb_gravecomb" class="0"/>
-          <ClassDef glyph="brevecomb_hookabovecomb" class="0"/>
           <ClassDef glyph="brevecomb.narrow" class="0"/>
-          <ClassDef glyph="brevecomb_tildecomb" class="0"/>
-          <ClassDef glyph="dotaccentcomb.case" class="0"/>
-          <ClassDef glyph="dieresiscomb.case" class="0"/>
-          <ClassDef glyph="dieresiscomb.narrow" class="0"/>
           <ClassDef glyph="hookabovecomb.narrow" class="0"/>
           <ClassDef glyph="ringcomb.case" class="0"/>
-          <ClassDef glyph="hungarumlautcomb.case" class="0"/>
-          <ClassDef glyph="caroncomb.alt" class="0"/>
           <ClassDef glyph="caroncomb.alt_case" class="0"/>
-          <ClassDef glyph="caroncomb.case" class="0"/>
-          <ClassDef glyph="dblgravecomb.case" class="0"/>
           <ClassDef glyph="dblgravecomb.narrow" class="0"/>
-          <ClassDef glyph="breveinvertedcomb.case" class="0"/>
-          <ClassDef glyph="breveinvertedcomb.narrow" class="0"/>
           <ClassDef glyph="commaturnedabovecomb.case" class="0"/>
           <ClassDef glyph="horncomb.alt" class="0"/>
           <ClassDef glyph="horncomb.alt_case" class="0"/>
@@ -1208,22 +1217,13 @@
           <ClassDef glyph="adieresiscyr.ss01" class="0"/>
           <ClassDef glyph="aiecyr.ss01" class="0"/>
           <ClassDef glyph="Qacyr.ss03" class="0"/>
-          <ClassDef glyph="adotbelow.ss01" class="0"/>
           <ClassDef glyph="ahoi.ss01" class="0"/>
-          <ClassDef glyph="acircumflexacute.ss01" class="0"/>
-          <ClassDef glyph="acircumflexgrave.ss01" class="0"/>
           <ClassDef glyph="acircumflexhoi.ss01" class="0"/>
-          <ClassDef glyph="acircumflextilde.ss01" class="0"/>
-          <ClassDef glyph="acircumflexdotbelow.ss01" class="0"/>
-          <ClassDef glyph="abreveacute.ss01" class="0"/>
-          <ClassDef glyph="abrevegrave.ss01" class="0"/>
           <ClassDef glyph="abrevehoi.ss01" class="0"/>
-          <ClassDef glyph="abrevetilde.ss01" class="0"/>
-          <ClassDef glyph="abrevedotbelow.ss01" class="0"/>
-          <ClassDef glyph="idotaccent" class="0"/>
-          <ClassDef glyph="micro" class="0"/>
           <ClassDef glyph="two.ss05.tnum" class="0"/>
           <ClassDef glyph="iogonek.dotless" class="0"/>
+          <ClassDef glyph="six.ss02.tnum" class="0"/>
+          <ClassDef glyph="nine.ss02.tnum" class="0"/>
           <ClassDef glyph="J" class="1"/>
           <ClassDef glyph="O" class="1"/>
           <ClassDef glyph="P" class="1"/>
@@ -1778,27 +1778,96 @@
           <ClassDef glyph="tcedilla" class="0"/>
           <ClassDef glyph="tcommaaccent" class="0"/>
           <ClassDef glyph="hookabovecomb.case" class="0"/>
-          <ClassDef glyph="softhyphen" class="0"/>
+          <ClassDef glyph="a.ss01" class="0"/>
+          <ClassDef glyph="aacute.ss01" class="0"/>
+          <ClassDef glyph="abreve.ss01" class="0"/>
+          <ClassDef glyph="abreveacute" class="0"/>
+          <ClassDef glyph="abreveacute.ss01" class="0"/>
+          <ClassDef glyph="abrevedotbelow" class="0"/>
+          <ClassDef glyph="abrevedotbelow.ss01" class="0"/>
+          <ClassDef glyph="abrevegrave" class="0"/>
+          <ClassDef glyph="abrevegrave.ss01" class="0"/>
+          <ClassDef glyph="abrevetilde" class="0"/>
+          <ClassDef glyph="abrevetilde.ss01" class="0"/>
+          <ClassDef glyph="acircumflex.ss01" class="0"/>
+          <ClassDef glyph="acircumflexacute" class="0"/>
+          <ClassDef glyph="acircumflexacute.ss01" class="0"/>
+          <ClassDef glyph="acircumflexdotbelow" class="0"/>
+          <ClassDef glyph="acircumflexdotbelow.ss01" class="0"/>
+          <ClassDef glyph="acircumflexgrave" class="0"/>
+          <ClassDef glyph="acircumflexgrave.ss01" class="0"/>
+          <ClassDef glyph="acircumflextilde" class="0"/>
+          <ClassDef glyph="acircumflextilde.ss01" class="0"/>
           <ClassDef glyph="adblgrave" class="0"/>
+          <ClassDef glyph="adblgrave.ss01" class="0"/>
+          <ClassDef glyph="adieresis.ss01" class="0"/>
+          <ClassDef glyph="adotbelow" class="0"/>
+          <ClassDef glyph="adotbelow.ss01" class="0"/>
+          <ClassDef glyph="agrave.ss01" class="0"/>
           <ClassDef glyph="ainvertedbreve" class="0"/>
+          <ClassDef glyph="ainvertedbreve.ss01" class="0"/>
+          <ClassDef glyph="amacron.ss01" class="0"/>
+          <ClassDef glyph="aogonek.ss01" class="0"/>
+          <ClassDef glyph="aring.ss01" class="0"/>
+          <ClassDef glyph="aringacute.ss01" class="0"/>
+          <ClassDef glyph="atilde.ss01" class="0"/>
+          <ClassDef glyph="ae.ss01" class="0"/>
+          <ClassDef glyph="aeacute.ss01" class="0"/>
+          <ClassDef glyph="ecircumflexacute" class="0"/>
+          <ClassDef glyph="ecircumflexdotbelow" class="0"/>
+          <ClassDef glyph="ecircumflexgrave" class="0"/>
+          <ClassDef glyph="ecircumflextilde" class="0"/>
           <ClassDef glyph="edblgrave" class="0"/>
+          <ClassDef glyph="edotbelow" class="0"/>
           <ClassDef glyph="einvertedbreve" class="0"/>
+          <ClassDef glyph="etilde" class="0"/>
+          <ClassDef glyph="schwa" class="0"/>
           <ClassDef glyph="idblgrave" class="0"/>
+          <ClassDef glyph="idotaccent" class="0"/>
+          <ClassDef glyph="idotbelow" class="0"/>
           <ClassDef glyph="iinvertedbreve" class="0"/>
+          <ClassDef glyph="ocircumflexacute" class="0"/>
+          <ClassDef glyph="ocircumflexdotbelow" class="0"/>
+          <ClassDef glyph="ocircumflexgrave" class="0"/>
+          <ClassDef glyph="ocircumflextilde" class="0"/>
           <ClassDef glyph="odblgrave" class="0"/>
+          <ClassDef glyph="odieresismacron" class="0"/>
+          <ClassDef glyph="odotaccentmacron" class="0"/>
+          <ClassDef glyph="odotbelow" class="0"/>
+          <ClassDef glyph="ohornacute" class="0"/>
+          <ClassDef glyph="ohorndotbelow" class="0"/>
+          <ClassDef glyph="ohorngrave" class="0"/>
+          <ClassDef glyph="ohorntilde" class="0"/>
           <ClassDef glyph="oinvertedbreve" class="0"/>
+          <ClassDef glyph="otildemacron" class="0"/>
           <ClassDef glyph="rdblgrave" class="0"/>
           <ClassDef glyph="rinvertedbreve" class="0"/>
           <ClassDef glyph="udblgrave" class="0"/>
+          <ClassDef glyph="udotbelow" class="0"/>
+          <ClassDef glyph="uhornacute" class="0"/>
+          <ClassDef glyph="uhorndotbelow" class="0"/>
+          <ClassDef glyph="uhorngrave" class="0"/>
+          <ClassDef glyph="uhorntilde" class="0"/>
           <ClassDef glyph="uinvertedbreve" class="0"/>
-          <ClassDef glyph="odieresismacron" class="0"/>
-          <ClassDef glyph="otildemacron" class="0"/>
-          <ClassDef glyph="odotaccentmacron" class="0"/>
+          <ClassDef glyph="ydotbelow" class="0"/>
           <ClassDef glyph="ymacron" class="0"/>
-          <ClassDef glyph="schwa" class="0"/>
-          <ClassDef glyph="primemod" class="0"/>
-          <ClassDef glyph="primedblmod" class="0"/>
-          <ClassDef glyph="apostrophemod" class="0"/>
+          <ClassDef glyph="ytilde" class="0"/>
+          <ClassDef glyph="periodcentered.loclCAT.case" class="0"/>
+          <ClassDef glyph="periodcentered.loclCAT" class="0"/>
+          <ClassDef glyph="softhyphen" class="0"/>
+          <ClassDef glyph="cedi" class="0"/>
+          <ClassDef glyph="guarani" class="0"/>
+          <ClassDef glyph="kip" class="0"/>
+          <ClassDef glyph="manat" class="0"/>
+          <ClassDef glyph="naira" class="0"/>
+          <ClassDef glyph="peso" class="0"/>
+          <ClassDef glyph="ruble" class="0"/>
+          <ClassDef glyph="won" class="0"/>
+          <ClassDef glyph="bulletoperator" class="0"/>
+          <ClassDef glyph="divisionslash" class="0"/>
+          <ClassDef glyph="micro" class="0"/>
+          <ClassDef glyph="numero" class="0"/>
+          <ClassDef glyph="caroncomb.alt" class="0"/>
           <ClassDef glyph="dblgravecomb" class="0"/>
           <ClassDef glyph="breveinvertedcomb" class="0"/>
           <ClassDef glyph="commaturnedabovecomb" class="0"/>
@@ -1806,6 +1875,33 @@
           <ClassDef glyph="brevebelowcomb" class="0"/>
           <ClassDef glyph="macronbelowcomb" class="0"/>
           <ClassDef glyph="strokeshortcomb" class="0"/>
+          <ClassDef glyph="dieresiscomb.case" class="0"/>
+          <ClassDef glyph="dotaccentcomb.case" class="0"/>
+          <ClassDef glyph="gravecomb.case" class="0"/>
+          <ClassDef glyph="acutecomb.case" class="0"/>
+          <ClassDef glyph="hungarumlautcomb.case" class="0"/>
+          <ClassDef glyph="circumflexcomb.case" class="0"/>
+          <ClassDef glyph="caroncomb.case" class="0"/>
+          <ClassDef glyph="brevecomb.case" class="0"/>
+          <ClassDef glyph="tildecomb.case" class="0"/>
+          <ClassDef glyph="macroncomb.case" class="0"/>
+          <ClassDef glyph="dblgravecomb.case" class="0"/>
+          <ClassDef glyph="breveinvertedcomb.case" class="0"/>
+          <ClassDef glyph="dieresiscomb.narrow" class="0"/>
+          <ClassDef glyph="tildecomb.narrow" class="0"/>
+          <ClassDef glyph="macroncomb.narrow" class="0"/>
+          <ClassDef glyph="breveinvertedcomb.narrow" class="0"/>
+          <ClassDef glyph="apostrophemod" class="0"/>
+          <ClassDef glyph="brevecomb_acutecomb" class="0"/>
+          <ClassDef glyph="brevecomb_gravecomb" class="0"/>
+          <ClassDef glyph="brevecomb_hookabovecomb" class="0"/>
+          <ClassDef glyph="brevecomb_tildecomb" class="0"/>
+          <ClassDef glyph="circumflexcomb_acutecomb" class="0"/>
+          <ClassDef glyph="circumflexcomb_gravecomb" class="0"/>
+          <ClassDef glyph="circumflexcomb_hookabovecomb" class="0"/>
+          <ClassDef glyph="circumflexcomb_tildecomb" class="0"/>
+          <ClassDef glyph="primemod" class="0"/>
+          <ClassDef glyph="primedblmod" class="0"/>
           <ClassDef glyph="numeralsign" class="0"/>
           <ClassDef glyph="lownumeralsign" class="0"/>
           <ClassDef glyph="questiongreek" class="0"/>
@@ -1902,73 +1998,30 @@
           <ClassDef glyph="ylongdieresiscyr" class="0"/>
           <ClassDef glyph="qacyr" class="0"/>
           <ClassDef glyph="wecyr" class="0"/>
-          <ClassDef glyph="adotbelow" class="0"/>
           <ClassDef glyph="ahoi" class="0"/>
-          <ClassDef glyph="acircumflexacute" class="0"/>
-          <ClassDef glyph="acircumflexgrave" class="0"/>
           <ClassDef glyph="acircumflexhoi" class="0"/>
-          <ClassDef glyph="acircumflextilde" class="0"/>
-          <ClassDef glyph="acircumflexdotbelow" class="0"/>
-          <ClassDef glyph="abreveacute" class="0"/>
-          <ClassDef glyph="abrevegrave" class="0"/>
           <ClassDef glyph="abrevehoi" class="0"/>
-          <ClassDef glyph="abrevetilde" class="0"/>
-          <ClassDef glyph="abrevedotbelow" class="0"/>
-          <ClassDef glyph="edotbelow" class="0"/>
           <ClassDef glyph="ehoi" class="0"/>
-          <ClassDef glyph="etilde" class="0"/>
-          <ClassDef glyph="ecircumflexacute" class="0"/>
-          <ClassDef glyph="ecircumflexgrave" class="0"/>
           <ClassDef glyph="ecircumflexhoi" class="0"/>
-          <ClassDef glyph="ecircumflextilde" class="0"/>
-          <ClassDef glyph="ecircumflexdotbelow" class="0"/>
           <ClassDef glyph="ihoi" class="0"/>
-          <ClassDef glyph="idotbelow" class="0"/>
-          <ClassDef glyph="odotbelow" class="0"/>
           <ClassDef glyph="ohoi" class="0"/>
-          <ClassDef glyph="ocircumflexacute" class="0"/>
-          <ClassDef glyph="ocircumflexgrave" class="0"/>
           <ClassDef glyph="ocircumflexhoi" class="0"/>
-          <ClassDef glyph="ocircumflextilde" class="0"/>
-          <ClassDef glyph="ocircumflexdotbelow" class="0"/>
-          <ClassDef glyph="ohornacute" class="0"/>
-          <ClassDef glyph="ohorngrave" class="0"/>
           <ClassDef glyph="ohornhoi" class="0"/>
-          <ClassDef glyph="ohorntilde" class="0"/>
-          <ClassDef glyph="ohorndotbelow" class="0"/>
-          <ClassDef glyph="udotbelow" class="0"/>
           <ClassDef glyph="uhoi" class="0"/>
-          <ClassDef glyph="uhornacute" class="0"/>
-          <ClassDef glyph="uhorngrave" class="0"/>
           <ClassDef glyph="uhornhoi" class="0"/>
-          <ClassDef glyph="uhorntilde" class="0"/>
-          <ClassDef glyph="uhorndotbelow" class="0"/>
-          <ClassDef glyph="ydotbelow" class="0"/>
           <ClassDef glyph="yhoi" class="0"/>
-          <ClassDef glyph="ytilde" class="0"/>
           <ClassDef glyph="hyphen-gnrl" class="0"/>
           <ClassDef glyph="commercialminussign" class="0"/>
           <ClassDef glyph="four.superior" class="0"/>
-          <ClassDef glyph="naira" class="0"/>
-          <ClassDef glyph="won" class="0"/>
-          <ClassDef glyph="kip" class="0"/>
           <ClassDef glyph="tugrik" class="0"/>
-          <ClassDef glyph="peso" class="0"/>
-          <ClassDef glyph="guarani" class="0"/>
           <ClassDef glyph="hryvnia" class="0"/>
-          <ClassDef glyph="cedi" class="0"/>
           <ClassDef glyph="tenge" class="0"/>
           <ClassDef glyph="indianrupee" class="0"/>
           <ClassDef glyph="turkishlira" class="0"/>
-          <ClassDef glyph="manat" class="0"/>
-          <ClassDef glyph="ruble" class="0"/>
-          <ClassDef glyph="numero" class="0"/>
           <ClassDef glyph="arrowNW" class="0"/>
           <ClassDef glyph="arrowNE" class="0"/>
           <ClassDef glyph="arrowSE" class="0"/>
           <ClassDef glyph="arrowSW" class="0"/>
-          <ClassDef glyph="divisionslash" class="0"/>
-          <ClassDef glyph="bulletoperator" class="0"/>
           <ClassDef glyph="bracketangleleft" class="0"/>
           <ClassDef glyph="bracketangleright" class="0"/>
           <ClassDef glyph="uniEE01" class="0"/>
@@ -1983,17 +2036,14 @@
           <ClassDef glyph="five.tnum" class="0"/>
           <ClassDef glyph="six.ss02" class="0"/>
           <ClassDef glyph="six.tnum" class="0"/>
-          <ClassDef glyph="six.tnum.ss02" class="0"/>
           <ClassDef glyph="seven.tnum" class="0"/>
           <ClassDef glyph="eight.tnum" class="0"/>
           <ClassDef glyph="nine.ss02" class="0"/>
           <ClassDef glyph="nine.tnum" class="0"/>
-          <ClassDef glyph="nine.tnum.ss02" class="0"/>
           <ClassDef glyph="colon.tnum" class="0"/>
           <ClassDef glyph="semicolon.tnum" class="0"/>
           <ClassDef glyph="question.ss04" class="0"/>
           <ClassDef glyph="Q.ss03" class="0"/>
-          <ClassDef glyph="a.ss01" class="0"/>
           <ClassDef glyph="f.calt" class="0"/>
           <ClassDef glyph="f.f" class="0"/>
           <ClassDef glyph="f.i" class="0"/>
@@ -2002,70 +2052,29 @@
           <ClassDef glyph="j.calt" class="0"/>
           <ClassDef glyph="ordfeminine.ss01" class="0"/>
           <ClassDef glyph="twosuperior.ss05" class="0"/>
-          <ClassDef glyph="periodcentered.loclCAT" class="0"/>
-          <ClassDef glyph="periodcentered.loclCAT.case" class="0"/>
           <ClassDef glyph="onehalf.ss05" class="0"/>
           <ClassDef glyph="questiondown.ss04" class="0"/>
           <ClassDef glyph="Idieresis.calt" class="0"/>
           <ClassDef glyph="Idieresis.calt2" class="0"/>
-          <ClassDef glyph="agrave.ss01" class="0"/>
-          <ClassDef glyph="aacute.ss01" class="0"/>
-          <ClassDef glyph="acircumflex.ss01" class="0"/>
-          <ClassDef glyph="atilde.ss01" class="0"/>
-          <ClassDef glyph="adieresis.ss01" class="0"/>
-          <ClassDef glyph="aring.ss01" class="0"/>
-          <ClassDef glyph="ae.ss01" class="0"/>
           <ClassDef glyph="idieresis.calt" class="0"/>
           <ClassDef glyph="idieresis.calt2" class="0"/>
-          <ClassDef glyph="amacron.ss01" class="0"/>
-          <ClassDef glyph="abreve.ss01" class="0"/>
-          <ClassDef glyph="aogonek.ss01" class="0"/>
           <ClassDef glyph="gcircumflex.ss01" class="0"/>
           <ClassDef glyph="gbreve.ss01" class="0"/>
           <ClassDef glyph="gdotaccent.ss01" class="0"/>
           <ClassDef glyph="gcommaaccent.ss01" class="0"/>
           <ClassDef glyph="jcircumflex.calt" class="0"/>
           <ClassDef glyph="gcaron.ss01" class="0"/>
-          <ClassDef glyph="aringacute.ss01" class="0"/>
-          <ClassDef glyph="aeacute.ss01" class="0"/>
-          <ClassDef glyph="adblgrave.ss01" class="0"/>
-          <ClassDef glyph="ainvertedbreve.ss01" class="0"/>
           <ClassDef glyph="dotlessj.calt" class="0"/>
-          <ClassDef glyph="gravecomb.case" class="0"/>
           <ClassDef glyph="gravecomb.narrow" class="0"/>
-          <ClassDef glyph="acutecomb.case" class="0"/>
           <ClassDef glyph="acutecomb.narrow" class="0"/>
-          <ClassDef glyph="circumflexcomb_acutecomb" class="0"/>
-          <ClassDef glyph="circumflexcomb.case" class="0"/>
-          <ClassDef glyph="circumflexcomb_gravecomb" class="0"/>
-          <ClassDef glyph="circumflexcomb_hookabovecomb" class="0"/>
           <ClassDef glyph="circumflexcomb.narrow" class="0"/>
-          <ClassDef glyph="circumflexcomb_tildecomb" class="0"/>
-          <ClassDef glyph="tildecomb.case" class="0"/>
-          <ClassDef glyph="tildecomb.narrow" class="0"/>
-          <ClassDef glyph="macroncomb.case" class="0"/>
-          <ClassDef glyph="macroncomb.narrow" class="0"/>
           <ClassDef glyph="macroncomb.wide" class="0"/>
-          <ClassDef glyph="brevecomb_acutecomb" class="0"/>
-          <ClassDef glyph="brevecomb.case" class="0"/>
           <ClassDef glyph="brevecomb.ccmp" class="0"/>
-          <ClassDef glyph="brevecomb_gravecomb" class="0"/>
-          <ClassDef glyph="brevecomb_hookabovecomb" class="0"/>
           <ClassDef glyph="brevecomb.narrow" class="0"/>
-          <ClassDef glyph="brevecomb_tildecomb" class="0"/>
-          <ClassDef glyph="dotaccentcomb.case" class="0"/>
-          <ClassDef glyph="dieresiscomb.case" class="0"/>
-          <ClassDef glyph="dieresiscomb.narrow" class="0"/>
           <ClassDef glyph="hookabovecomb.narrow" class="0"/>
           <ClassDef glyph="ringcomb.case" class="0"/>
-          <ClassDef glyph="hungarumlautcomb.case" class="0"/>
-          <ClassDef glyph="caroncomb.alt" class="0"/>
           <ClassDef glyph="caroncomb.alt_case" class="0"/>
-          <ClassDef glyph="caroncomb.case" class="0"/>
-          <ClassDef glyph="dblgravecomb.case" class="0"/>
           <ClassDef glyph="dblgravecomb.narrow" class="0"/>
-          <ClassDef glyph="breveinvertedcomb.case" class="0"/>
-          <ClassDef glyph="breveinvertedcomb.narrow" class="0"/>
           <ClassDef glyph="commaturnedabovecomb.case" class="0"/>
           <ClassDef glyph="horncomb.alt" class="0"/>
           <ClassDef glyph="horncomb.alt_case" class="0"/>
@@ -2106,22 +2115,13 @@
           <ClassDef glyph="adieresiscyr.ss01" class="0"/>
           <ClassDef glyph="aiecyr.ss01" class="0"/>
           <ClassDef glyph="Qacyr.ss03" class="0"/>
-          <ClassDef glyph="adotbelow.ss01" class="0"/>
           <ClassDef glyph="ahoi.ss01" class="0"/>
-          <ClassDef glyph="acircumflexacute.ss01" class="0"/>
-          <ClassDef glyph="acircumflexgrave.ss01" class="0"/>
           <ClassDef glyph="acircumflexhoi.ss01" class="0"/>
-          <ClassDef glyph="acircumflextilde.ss01" class="0"/>
-          <ClassDef glyph="acircumflexdotbelow.ss01" class="0"/>
-          <ClassDef glyph="abreveacute.ss01" class="0"/>
-          <ClassDef glyph="abrevegrave.ss01" class="0"/>
           <ClassDef glyph="abrevehoi.ss01" class="0"/>
-          <ClassDef glyph="abrevetilde.ss01" class="0"/>
-          <ClassDef glyph="abrevedotbelow.ss01" class="0"/>
-          <ClassDef glyph="idotaccent" class="0"/>
-          <ClassDef glyph="micro" class="0"/>
           <ClassDef glyph="two.ss05.tnum" class="0"/>
           <ClassDef glyph="iogonek.dotless" class="0"/>
+          <ClassDef glyph="six.ss02.tnum" class="0"/>
+          <ClassDef glyph="nine.ss02.tnum" class="0"/>
           <ClassDef glyph="A" class="1"/>
           <ClassDef glyph="B" class="1"/>
           <ClassDef glyph="C" class="1"/>
@@ -3327,113 +3327,99 @@
     <FeatureRecord index="70">
       <FeatureTag value="liga"/>
       <Feature>
-        <!-- LookupCount=2 -->
+        <!-- LookupCount=1 -->
         <LookupListIndex index="0" value="26"/>
-        <LookupListIndex index="1" value="27"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="71">
       <FeatureTag value="liga"/>
       <Feature>
-        <!-- LookupCount=2 -->
+        <!-- LookupCount=1 -->
         <LookupListIndex index="0" value="26"/>
-        <LookupListIndex index="1" value="27"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="72">
       <FeatureTag value="liga"/>
       <Feature>
-        <!-- LookupCount=2 -->
+        <!-- LookupCount=1 -->
         <LookupListIndex index="0" value="26"/>
-        <LookupListIndex index="1" value="27"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="73">
       <FeatureTag value="liga"/>
       <Feature>
-        <!-- LookupCount=2 -->
+        <!-- LookupCount=1 -->
         <LookupListIndex index="0" value="26"/>
-        <LookupListIndex index="1" value="27"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="74">
       <FeatureTag value="liga"/>
       <Feature>
-        <!-- LookupCount=2 -->
+        <!-- LookupCount=1 -->
         <LookupListIndex index="0" value="26"/>
-        <LookupListIndex index="1" value="27"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="75">
       <FeatureTag value="liga"/>
       <Feature>
-        <!-- LookupCount=2 -->
+        <!-- LookupCount=1 -->
         <LookupListIndex index="0" value="26"/>
-        <LookupListIndex index="1" value="27"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="76">
       <FeatureTag value="liga"/>
       <Feature>
-        <!-- LookupCount=2 -->
+        <!-- LookupCount=1 -->
         <LookupListIndex index="0" value="26"/>
-        <LookupListIndex index="1" value="27"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="77">
       <FeatureTag value="liga"/>
       <Feature>
-        <!-- LookupCount=2 -->
+        <!-- LookupCount=1 -->
         <LookupListIndex index="0" value="26"/>
-        <LookupListIndex index="1" value="27"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="78">
       <FeatureTag value="liga"/>
       <Feature>
-        <!-- LookupCount=2 -->
+        <!-- LookupCount=1 -->
         <LookupListIndex index="0" value="26"/>
-        <LookupListIndex index="1" value="27"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="79">
       <FeatureTag value="liga"/>
       <Feature>
-        <!-- LookupCount=2 -->
+        <!-- LookupCount=1 -->
         <LookupListIndex index="0" value="26"/>
-        <LookupListIndex index="1" value="27"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="80">
       <FeatureTag value="liga"/>
       <Feature>
-        <!-- LookupCount=2 -->
+        <!-- LookupCount=1 -->
         <LookupListIndex index="0" value="26"/>
-        <LookupListIndex index="1" value="27"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="81">
       <FeatureTag value="liga"/>
       <Feature>
-        <!-- LookupCount=2 -->
+        <!-- LookupCount=1 -->
         <LookupListIndex index="0" value="26"/>
-        <LookupListIndex index="1" value="27"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="82">
       <FeatureTag value="liga"/>
       <Feature>
-        <!-- LookupCount=2 -->
+        <!-- LookupCount=1 -->
         <LookupListIndex index="0" value="26"/>
-        <LookupListIndex index="1" value="27"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="83">
       <FeatureTag value="liga"/>
       <Feature>
-        <!-- LookupCount=2 -->
+        <!-- LookupCount=1 -->
         <LookupListIndex index="0" value="26"/>
-        <LookupListIndex index="1" value="27"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="84">
@@ -4119,196 +4105,196 @@
       <FeatureTag value="ss04"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="28"/>
+        <LookupListIndex index="0" value="27"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="180">
       <FeatureTag value="ss04"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="28"/>
+        <LookupListIndex index="0" value="27"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="181">
       <FeatureTag value="ss04"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="28"/>
+        <LookupListIndex index="0" value="27"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="182">
       <FeatureTag value="ss04"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="28"/>
+        <LookupListIndex index="0" value="27"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="183">
       <FeatureTag value="ss04"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="28"/>
+        <LookupListIndex index="0" value="27"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="184">
       <FeatureTag value="ss04"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="28"/>
+        <LookupListIndex index="0" value="27"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="185">
       <FeatureTag value="ss04"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="28"/>
+        <LookupListIndex index="0" value="27"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="186">
       <FeatureTag value="ss04"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="28"/>
+        <LookupListIndex index="0" value="27"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="187">
       <FeatureTag value="ss04"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="28"/>
+        <LookupListIndex index="0" value="27"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="188">
       <FeatureTag value="ss04"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="28"/>
+        <LookupListIndex index="0" value="27"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="189">
       <FeatureTag value="ss04"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="28"/>
+        <LookupListIndex index="0" value="27"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="190">
       <FeatureTag value="ss04"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="28"/>
+        <LookupListIndex index="0" value="27"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="191">
       <FeatureTag value="ss04"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="28"/>
+        <LookupListIndex index="0" value="27"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="192">
       <FeatureTag value="ss04"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="28"/>
+        <LookupListIndex index="0" value="27"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="193">
       <FeatureTag value="ss05"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="29"/>
+        <LookupListIndex index="0" value="28"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="194">
       <FeatureTag value="ss05"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="29"/>
+        <LookupListIndex index="0" value="28"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="195">
       <FeatureTag value="ss05"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="29"/>
+        <LookupListIndex index="0" value="28"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="196">
       <FeatureTag value="ss05"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="29"/>
+        <LookupListIndex index="0" value="28"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="197">
       <FeatureTag value="ss05"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="29"/>
+        <LookupListIndex index="0" value="28"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="198">
       <FeatureTag value="ss05"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="29"/>
+        <LookupListIndex index="0" value="28"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="199">
       <FeatureTag value="ss05"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="29"/>
+        <LookupListIndex index="0" value="28"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="200">
       <FeatureTag value="ss05"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="29"/>
+        <LookupListIndex index="0" value="28"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="201">
       <FeatureTag value="ss05"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="29"/>
+        <LookupListIndex index="0" value="28"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="202">
       <FeatureTag value="ss05"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="29"/>
+        <LookupListIndex index="0" value="28"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="203">
       <FeatureTag value="ss05"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="29"/>
+        <LookupListIndex index="0" value="28"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="204">
       <FeatureTag value="ss05"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="29"/>
+        <LookupListIndex index="0" value="28"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="205">
       <FeatureTag value="ss05"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="29"/>
+        <LookupListIndex index="0" value="28"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="206">
       <FeatureTag value="ss05"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="29"/>
+        <LookupListIndex index="0" value="28"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="207">
@@ -4509,7 +4495,7 @@
     </FeatureRecord>
   </FeatureList>
   <LookupList>
-    <!-- LookupCount=37 -->
+    <!-- LookupCount=33 -->
     <Lookup index="0">
       <LookupType value="1"/>
       <LookupFlag value="0"/>
@@ -4600,10 +4586,10 @@
         <Substitution in="abrevedotbelow" out="abrevedotbelow.ss01"/>
         <Substitution in="zero.tnum" out="zero"/>
         <Substitution in="five.tnum" out="five"/>
-        <Substitution in="six.tnum" out="six.tnum.ss02"/>
+        <Substitution in="six.tnum" out="six.ss02.tnum"/>
         <Substitution in="seven.tnum" out="seven"/>
         <Substitution in="eight.tnum" out="eight"/>
-        <Substitution in="nine.tnum" out="nine.tnum.ss02"/>
+        <Substitution in="nine.tnum" out="nine.ss02.tnum"/>
         <Substitution in="periodcentered.loclCAT" out="periodcentered.loclCAT.case"/>
         <Substitution in="caroncomb.case" out="caroncomb.alt_case"/>
         <Substitution in="horncomb.case" out="horncomb.alt_case"/>
@@ -4677,10 +4663,10 @@
         <AlternateSet glyph="four.tnum">
           <Alternate glyph="four"/>
         </AlternateSet>
-        <AlternateSet glyph="six.tnum.ss02">
+        <AlternateSet glyph="six.ss02.tnum">
           <Alternate glyph="six"/>
         </AlternateSet>
-        <AlternateSet glyph="nine.tnum.ss02">
+        <AlternateSet glyph="nine.ss02.tnum">
           <Alternate glyph="nine"/>
         </AlternateSet>
       </AlternateSubst>
@@ -4714,7 +4700,7 @@
     <Lookup index="3">
       <LookupType value="6"/>
       <LookupFlag value="0"/>
-      <!-- SubTableCount=8 -->
+      <!-- SubTableCount=9 -->
       <ChainContextSubst index="0" Format="3">
         <!-- BacktrackGlyphCount=1 -->
         <BacktrackCoverage index="0" Format="1">
@@ -4947,7 +4933,7 @@
         <!-- SubstCount=1 -->
         <SubstLookupRecord index="0">
           <SequenceIndex value="0"/>
-          <LookupListIndex value="30"/>
+          <LookupListIndex value="29"/>
         </SubstLookupRecord>
       </ChainContextSubst>
       <ChainContextSubst index="2" Format="3">
@@ -4989,7 +4975,7 @@
         <!-- SubstCount=1 -->
         <SubstLookupRecord index="0">
           <SequenceIndex value="0"/>
-          <LookupListIndex value="30"/>
+          <LookupListIndex value="29"/>
         </SubstLookupRecord>
       </ChainContextSubst>
       <ChainContextSubst index="3" Format="3">
@@ -5021,7 +5007,7 @@
         <!-- SubstCount=1 -->
         <SubstLookupRecord index="0">
           <SequenceIndex value="0"/>
-          <LookupListIndex value="30"/>
+          <LookupListIndex value="29"/>
         </SubstLookupRecord>
       </ChainContextSubst>
       <ChainContextSubst index="4" Format="3">
@@ -5039,7 +5025,7 @@
         <!-- SubstCount=1 -->
         <SubstLookupRecord index="0">
           <SequenceIndex value="0"/>
-          <LookupListIndex value="30"/>
+          <LookupListIndex value="29"/>
         </SubstLookupRecord>
       </ChainContextSubst>
       <ChainContextSubst index="5" Format="3">
@@ -5056,7 +5042,7 @@
         <!-- SubstCount=1 -->
         <SubstLookupRecord index="0">
           <SequenceIndex value="0"/>
-          <LookupListIndex value="31"/>
+          <LookupListIndex value="30"/>
         </SubstLookupRecord>
       </ChainContextSubst>
       <ChainContextSubst index="6" Format="3">
@@ -5074,7 +5060,7 @@
         <!-- SubstCount=1 -->
         <SubstLookupRecord index="0">
           <SequenceIndex value="0"/>
-          <LookupListIndex value="31"/>
+          <LookupListIndex value="30"/>
         </SubstLookupRecord>
       </ChainContextSubst>
       <ChainContextSubst index="7" Format="3">
@@ -5091,7 +5077,76 @@
         <!-- SubstCount=1 -->
         <SubstLookupRecord index="0">
           <SequenceIndex value="0"/>
-          <LookupListIndex value="32"/>
+          <LookupListIndex value="31"/>
+        </SubstLookupRecord>
+      </ChainContextSubst>
+      <ChainContextSubst index="8" Format="3">
+        <!-- BacktrackGlyphCount=1 -->
+        <BacktrackCoverage index="0" Format="1">
+          <Glyph value="zero"/>
+          <Glyph value="one"/>
+          <Glyph value="two"/>
+          <Glyph value="three"/>
+          <Glyph value="four"/>
+          <Glyph value="five"/>
+          <Glyph value="six"/>
+          <Glyph value="seven"/>
+          <Glyph value="eight"/>
+          <Glyph value="nine"/>
+          <Glyph value="zero.tnum"/>
+          <Glyph value="one.tnum"/>
+          <Glyph value="two.ss05"/>
+          <Glyph value="two.ss05.tnum"/>
+          <Glyph value="two.tnum"/>
+          <Glyph value="three.tnum"/>
+          <Glyph value="four.tnum"/>
+          <Glyph value="five.tnum"/>
+          <Glyph value="six.ss02"/>
+          <Glyph value="six.tnum"/>
+          <Glyph value="six.ss02.tnum"/>
+          <Glyph value="seven.tnum"/>
+          <Glyph value="eight.tnum"/>
+          <Glyph value="nine.ss02"/>
+          <Glyph value="nine.tnum"/>
+          <Glyph value="nine.ss02.tnum"/>
+        </BacktrackCoverage>
+        <!-- InputGlyphCount=1 -->
+        <InputCoverage index="0" Format="1">
+          <Glyph value="colon"/>
+        </InputCoverage>
+        <!-- LookAheadGlyphCount=1 -->
+        <LookAheadCoverage index="0" Format="1">
+          <Glyph value="zero"/>
+          <Glyph value="one"/>
+          <Glyph value="two"/>
+          <Glyph value="three"/>
+          <Glyph value="four"/>
+          <Glyph value="five"/>
+          <Glyph value="six"/>
+          <Glyph value="seven"/>
+          <Glyph value="eight"/>
+          <Glyph value="nine"/>
+          <Glyph value="zero.tnum"/>
+          <Glyph value="one.tnum"/>
+          <Glyph value="two.ss05"/>
+          <Glyph value="two.ss05.tnum"/>
+          <Glyph value="two.tnum"/>
+          <Glyph value="three.tnum"/>
+          <Glyph value="four.tnum"/>
+          <Glyph value="five.tnum"/>
+          <Glyph value="six.ss02"/>
+          <Glyph value="six.tnum"/>
+          <Glyph value="six.ss02.tnum"/>
+          <Glyph value="seven.tnum"/>
+          <Glyph value="eight.tnum"/>
+          <Glyph value="nine.ss02"/>
+          <Glyph value="nine.tnum"/>
+          <Glyph value="nine.ss02.tnum"/>
+        </LookAheadCoverage>
+        <!-- SubstCount=1 -->
+        <SubstLookupRecord index="0">
+          <SequenceIndex value="0"/>
+          <LookupListIndex value="31"/>
         </SubstLookupRecord>
       </ChainContextSubst>
     </Lookup>
@@ -5227,10 +5282,10 @@
           <Alternate glyph="abrevedotbelow.ss01"/>
         </AlternateSet>
         <AlternateSet glyph="six.tnum">
-          <Alternate glyph="six.tnum.ss02"/>
+          <Alternate glyph="six.ss02.tnum"/>
         </AlternateSet>
         <AlternateSet glyph="nine.tnum">
-          <Alternate glyph="nine.tnum.ss02"/>
+          <Alternate glyph="nine.ss02.tnum"/>
         </AlternateSet>
         <AlternateSet glyph="caroncomb.case">
           <Alternate glyph="caroncomb.alt_case"/>
@@ -5476,11 +5531,11 @@
         <Substitution in="four.tnum" out="four"/>
         <Substitution in="five.tnum" out="five"/>
         <Substitution in="six.tnum" out="six"/>
-        <Substitution in="six.tnum.ss02" out="six.ss02"/>
+        <Substitution in="six.ss02.tnum" out="six.ss02"/>
         <Substitution in="seven.tnum" out="seven"/>
         <Substitution in="eight.tnum" out="eight"/>
         <Substitution in="nine.tnum" out="nine"/>
-        <Substitution in="nine.tnum.ss02" out="nine.ss02"/>
+        <Substitution in="nine.ss02.tnum" out="nine.ss02"/>
         <Substitution in="colon.tnum" out="colon"/>
         <Substitution in="semicolon.tnum" out="semicolon"/>
       </SingleSubst>
@@ -5504,8 +5559,8 @@
         <Substitution in="nine" out="nine.tnum"/>
         <Substitution in="colon" out="colon.tnum"/>
         <Substitution in="semicolon" out="semicolon.tnum"/>
-        <Substitution in="six.ss02" out="six.tnum.ss02"/>
-        <Substitution in="nine.ss02" out="nine.tnum.ss02"/>
+        <Substitution in="six.ss02" out="six.ss02.tnum"/>
+        <Substitution in="nine.ss02" out="nine.ss02.tnum"/>
       </SingleSubst>
     </Lookup>
     <Lookup index="22">
@@ -5535,7 +5590,7 @@
         <!-- SubstCount=1 -->
         <SubstLookupRecord index="0">
           <SequenceIndex value="0"/>
-          <LookupListIndex value="33"/>
+          <LookupListIndex value="32"/>
         </SubstLookupRecord>
       </ChainContextSubst>
       <ChainContextSubst index="1" Format="3">
@@ -5561,7 +5616,7 @@
         <!-- SubstCount=1 -->
         <SubstLookupRecord index="0">
           <SequenceIndex value="0"/>
-          <LookupListIndex value="33"/>
+          <LookupListIndex value="32"/>
         </SubstLookupRecord>
       </ChainContextSubst>
     </Lookup>
@@ -5582,8 +5637,8 @@
       <SingleSubst index="0" Format="2">
         <Substitution in="six" out="six.ss02"/>
         <Substitution in="nine" out="nine.ss02"/>
-        <Substitution in="six.tnum" out="six.tnum.ss02"/>
-        <Substitution in="nine.tnum" out="nine.tnum.ss02"/>
+        <Substitution in="six.tnum" out="six.ss02.tnum"/>
+        <Substitution in="nine.tnum" out="nine.ss02.tnum"/>
       </SingleSubst>
     </Lookup>
     <Lookup index="25">
@@ -5607,95 +5662,6 @@
       </LigatureSubst>
     </Lookup>
     <Lookup index="27">
-      <LookupType value="6"/>
-      <LookupFlag value="0"/>
-      <!-- SubTableCount=3 -->
-      <ChainContextSubst index="0" Format="3">
-        <!-- BacktrackGlyphCount=0 -->
-        <!-- InputGlyphCount=1 -->
-        <InputCoverage index="0" Format="1">
-          <Glyph value="f"/>
-        </InputCoverage>
-        <!-- LookAheadGlyphCount=1 -->
-        <LookAheadCoverage index="0" Format="1">
-          <Glyph value="f"/>
-          <Glyph value="j"/>
-          <Glyph value="t"/>
-          <Glyph value="tcedilla"/>
-          <Glyph value="tcaron"/>
-          <Glyph value="tbar"/>
-          <Glyph value="tcommaaccent"/>
-          <Glyph value="fi"/>
-          <Glyph value="fl"/>
-          <Glyph value="j.calt"/>
-        </LookAheadCoverage>
-        <!-- SubstCount=1 -->
-        <SubstLookupRecord index="0">
-          <SequenceIndex value="0"/>
-          <LookupListIndex value="34"/>
-        </SubstLookupRecord>
-      </ChainContextSubst>
-      <ChainContextSubst index="1" Format="3">
-        <!-- BacktrackGlyphCount=0 -->
-        <!-- InputGlyphCount=1 -->
-        <InputCoverage index="0" Format="1">
-          <Glyph value="f"/>
-        </InputCoverage>
-        <!-- LookAheadGlyphCount=1 -->
-        <LookAheadCoverage index="0" Format="1">
-          <Glyph value="i"/>
-          <Glyph value="igrave"/>
-          <Glyph value="iacute"/>
-          <Glyph value="icircumflex"/>
-          <Glyph value="idieresis"/>
-          <Glyph value="itilde"/>
-          <Glyph value="imacron"/>
-          <Glyph value="ibreve"/>
-          <Glyph value="iogonek"/>
-          <Glyph value="jcircumflex"/>
-          <Glyph value="idblgrave"/>
-          <Glyph value="iinvertedbreve"/>
-          <Glyph value="ihoi"/>
-          <Glyph value="idotbelow"/>
-          <Glyph value="jcircumflex.calt"/>
-        </LookAheadCoverage>
-        <!-- SubstCount=1 -->
-        <SubstLookupRecord index="0">
-          <SequenceIndex value="0"/>
-          <LookupListIndex value="35"/>
-        </SubstLookupRecord>
-      </ChainContextSubst>
-      <ChainContextSubst index="2" Format="3">
-        <!-- BacktrackGlyphCount=0 -->
-        <!-- InputGlyphCount=1 -->
-        <InputCoverage index="0" Format="1">
-          <Glyph value="f"/>
-        </InputCoverage>
-        <!-- LookAheadGlyphCount=1 -->
-        <LookAheadCoverage index="0" Format="1">
-          <Glyph value="b"/>
-          <Glyph value="h"/>
-          <Glyph value="k"/>
-          <Glyph value="l"/>
-          <Glyph value="thorn"/>
-          <Glyph value="hcircumflex"/>
-          <Glyph value="hbar"/>
-          <Glyph value="kcommaaccent"/>
-          <Glyph value="lacute"/>
-          <Glyph value="lcommaaccent"/>
-          <Glyph value="lcaron"/>
-          <Glyph value="ldot"/>
-          <Glyph value="lslash"/>
-          <Glyph value="lj"/>
-        </LookAheadCoverage>
-        <!-- SubstCount=1 -->
-        <SubstLookupRecord index="0">
-          <SequenceIndex value="0"/>
-          <LookupListIndex value="36"/>
-        </SubstLookupRecord>
-      </ChainContextSubst>
-    </Lookup>
-    <Lookup index="28">
       <LookupType value="1"/>
       <LookupFlag value="0"/>
       <!-- SubTableCount=1 -->
@@ -5704,7 +5670,7 @@
         <Substitution in="questiondown" out="questiondown.ss04"/>
       </SingleSubst>
     </Lookup>
-    <Lookup index="29">
+    <Lookup index="28">
       <LookupType value="1"/>
       <LookupFlag value="0"/>
       <!-- SubTableCount=1 -->
@@ -5714,7 +5680,7 @@
         <Substitution in="onehalf" out="onehalf.ss05"/>
       </SingleSubst>
     </Lookup>
-    <Lookup index="30">
+    <Lookup index="29">
       <LookupType value="1"/>
       <LookupFlag value="0"/>
       <!-- SubTableCount=1 -->
@@ -5727,7 +5693,7 @@
         <Substitution in="Yukrcyr" out="Idieresis.calt"/>
       </SingleSubst>
     </Lookup>
-    <Lookup index="31">
+    <Lookup index="30">
       <LookupType value="1"/>
       <LookupFlag value="0"/>
       <!-- SubTableCount=1 -->
@@ -5738,16 +5704,17 @@
         <Substitution in="yukrcyr" out="idieresis.calt"/>
       </SingleSubst>
     </Lookup>
-    <Lookup index="32">
+    <Lookup index="31">
       <LookupType value="1"/>
       <LookupFlag value="0"/>
       <!-- SubTableCount=1 -->
       <SingleSubst index="0" Format="2">
+        <Substitution in="colon" out="uniEE01"/>
         <Substitution in="idieresis" out="idieresis.calt2"/>
         <Substitution in="yukrcyr" out="idieresis.calt2"/>
       </SingleSubst>
     </Lookup>
-    <Lookup index="33">
+    <Lookup index="32">
       <LookupType value="1"/>
       <LookupFlag value="0"/>
       <!-- SubTableCount=1 -->
@@ -5756,30 +5723,6 @@
         <Substitution in="O" out="ordmasculine"/>
         <Substitution in="a" out="ordfeminine"/>
         <Substitution in="o" out="ordmasculine"/>
-      </SingleSubst>
-    </Lookup>
-    <Lookup index="34">
-      <LookupType value="1"/>
-      <LookupFlag value="0"/>
-      <!-- SubTableCount=1 -->
-      <SingleSubst index="0" Format="2">
-        <Substitution in="f" out="f.f"/>
-      </SingleSubst>
-    </Lookup>
-    <Lookup index="35">
-      <LookupType value="1"/>
-      <LookupFlag value="0"/>
-      <!-- SubTableCount=1 -->
-      <SingleSubst index="0" Format="2">
-        <Substitution in="f" out="f.i"/>
-      </SingleSubst>
-    </Lookup>
-    <Lookup index="36">
-      <LookupType value="1"/>
-      <LookupFlag value="0"/>
-      <!-- SubTableCount=1 -->
-      <SingleSubst index="0" Format="2">
-        <Substitution in="f" out="f.l"/>
       </SingleSubst>
     </Lookup>
   </LookupList>

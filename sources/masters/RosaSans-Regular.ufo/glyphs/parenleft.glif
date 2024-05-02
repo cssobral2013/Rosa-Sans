@@ -5,31 +5,31 @@
   <outline>
     <contour>
       <point x="395" y="-230" type="line"/>
-      <point x="332" y="-124"/>
-      <point x="240" y="98"/>
-      <point x="209" y="217" type="qcurve" smooth="yes"/>
-      <point x="178" y="335"/>
-      <point x="147" y="571"/>
-      <point x="147" y="692" type="qcurve" smooth="yes"/>
-      <point x="147" y="773"/>
-      <point x="161" y="931"/>
-      <point x="175" y="1011" type="qcurve" smooth="yes"/>
-      <point x="202" y="1169"/>
-      <point x="311" y="1470"/>
-      <point x="395" y="1610" type="qcurve"/>
+      <point x="311" y="-89"/>
+      <point x="250" y="58"/>
+      <point x="209" y="217" type="curve" smooth="yes"/>
+      <point x="168" y="374"/>
+      <point x="147" y="531"/>
+      <point x="147" y="692" type="curve" smooth="yes"/>
+      <point x="147" y="800"/>
+      <point x="156" y="904"/>
+      <point x="175" y="1011" type="curve" smooth="yes"/>
+      <point x="211" y="1222"/>
+      <point x="283" y="1423"/>
+      <point x="395" y="1610" type="curve"/>
       <point x="592" y="1533" type="line"/>
-      <point x="537" y="1446"/>
-      <point x="456" y="1248"/>
-      <point x="428" y="1141" type="qcurve" smooth="yes"/>
-      <point x="400" y="1033"/>
-      <point x="373" y="810"/>
-      <point x="373" y="696" type="qcurve" smooth="yes"/>
-      <point x="373" y="582"/>
-      <point x="401" y="359"/>
-      <point x="429" y="248" type="qcurve" smooth="yes"/>
-      <point x="456" y="137"/>
-      <point x="537" y="-62"/>
-      <point x="592" y="-153" type="qcurve"/>
+      <point x="519" y="1417"/>
+      <point x="465" y="1284"/>
+      <point x="428" y="1141" type="curve" smooth="yes"/>
+      <point x="391" y="997"/>
+      <point x="373" y="848"/>
+      <point x="373" y="696" type="curve" smooth="yes"/>
+      <point x="373" y="544"/>
+      <point x="392" y="396"/>
+      <point x="429" y="248" type="curve" smooth="yes"/>
+      <point x="465" y="100"/>
+      <point x="519" y="-32"/>
+      <point x="592" y="-153" type="curve"/>
     </contour>
   </outline>
 </glyph>

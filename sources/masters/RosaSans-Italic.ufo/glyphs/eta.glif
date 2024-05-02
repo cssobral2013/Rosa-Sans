@@ -6,29 +6,35 @@
     <contour>
       <point x="874" y="-420" type="line"/>
       <point x="1160" y="654" type="line" smooth="yes"/>
-      <point x="1182" y="739"/>
-      <point x="1148" y="878"/>
-      <point x="1058" y="977"/>
-      <point x="924" y="1030"/>
-      <point x="845" y="1030" type="qcurve" smooth="yes"/>
-      <point x="755" y="1030"/>
-      <point x="575" y="951"/>
-      <point x="501" y="863" type="qcurve"/>
+      <point x="1189" y="767"/>
+      <point x="1163" y="862"/>
+      <point x="1103" y="928" type="curve" smooth="yes"/>
+      <point x="1043" y="994"/>
+      <point x="950" y="1030"/>
+      <point x="845" y="1030" type="curve" smooth="yes"/>
+      <point x="785" y="1030"/>
+      <point x="725" y="1017"/>
+      <point x="665" y="991" type="curve" smooth="yes"/>
+      <point x="605" y="964"/>
+      <point x="550" y="922"/>
+      <point x="501" y="863" type="curve"/>
       <point x="538" y="1000" type="line"/>
       <point x="282" y="1000" type="line"/>
       <point x="12" y="0" type="line"/>
       <point x="268" y="0" type="line"/>
       <point x="417" y="553" type="line" smooth="yes"/>
-      <point x="433" y="613"/>
-      <point x="490" y="704"/>
-      <point x="567" y="765"/>
-      <point x="657" y="796"/>
-      <point x="706" y="796" type="qcurve" smooth="yes"/>
-      <point x="759" y="796"/>
-      <point x="839" y="768"/>
-      <point x="885" y="712"/>
-      <point x="896" y="629"/>
-      <point x="882" y="574" type="qcurve" smooth="yes"/>
+      <point x="438" y="633"/>
+      <point x="477" y="694"/>
+      <point x="529" y="735" type="curve" smooth="yes"/>
+      <point x="580" y="775"/>
+      <point x="641" y="796"/>
+      <point x="706" y="796" type="curve" smooth="yes"/>
+      <point x="777" y="796"/>
+      <point x="831" y="777"/>
+      <point x="862" y="740" type="curve" smooth="yes"/>
+      <point x="893" y="703"/>
+      <point x="901" y="647"/>
+      <point x="882" y="574" type="curve" smooth="yes"/>
       <point x="618" y="-420" type="line"/>
     </contour>
   </outline>

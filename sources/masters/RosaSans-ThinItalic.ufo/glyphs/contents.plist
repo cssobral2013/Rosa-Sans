@@ -1452,10 +1452,10 @@
   <string>nine.glif</string>
   <key>nine.ss02</key>
   <string>nine.ss02.glif</string>
+  <key>nine.ss02.tnum</key>
+  <string>nine.ss02.tnum.glif</string>
   <key>nine.tnum</key>
   <string>nine.tnum.glif</string>
-  <key>nine.tnum.ss02</key>
-  <string>nine.tnum.ss02.glif</string>
   <key>nj</key>
   <string>nj.glif</string>
   <key>njecyr</key>
@@ -1720,10 +1720,10 @@
   <string>six.glif</string>
   <key>six.ss02</key>
   <string>six.ss02.glif</string>
+  <key>six.ss02.tnum</key>
+  <string>six.ss02.tnum.glif</string>
   <key>six.tnum</key>
   <string>six.tnum.glif</string>
-  <key>six.tnum.ss02</key>
-  <string>six.tnum.ss02.glif</string>
   <key>slash</key>
   <string>slash.glif</string>
   <key>softcyr</key>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="six.tnum.ss02" format="2">
+<glyph name="two.ss05.tnum" format="2">
   <advance width="1296"/>
   <outline>
-    <component base="six.ss02" xOffset="-8"/>
+    <component base="two.ss05" xOffset="56"/>
   </outline>
 </glyph>

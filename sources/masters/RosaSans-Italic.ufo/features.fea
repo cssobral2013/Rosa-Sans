@@ -1,219 +1,43 @@
 #> classes
 #/> otclasses
+@aalt = [zero five seven eight a g i ordfeminine periodcentered agrave aacute acircumflex atilde adieresis aring ae amacron abreve aogonek gcircumflex gbreve gdotaccent gcommaaccent Scedilla scedilla Tcedilla tcedilla gcaron aringacute aeacute adblgrave ainvertedbreve gravecomb acutecomb circumflexcomb tildecomb macroncomb brevecomb dotaccentcomb dieresiscomb hookabovecomb ringcomb hungarumlautcomb dblgravecomb breveinvertedcomb commaturnedabovecomb strokeshortcomb tonos Decyr Kacyr Elcyr acyr becyr vecyr zhecyr zecyr icyr ishortcyr kacyr elcyr tsecyr shacyr shchacyr hardcyr softcyr yucyr gjecyr igravecyr abrevecyr adieresiscyr aiecyr adotbelow ahoi acircumflexacute acircumflexgrave acircumflexhoi acircumflextilde acircumflexdotbelow abreveacute abrevegrave abrevehoi abrevetilde abrevedotbelow zero.tnum five.tnum six.tnum seven.tnum eight.tnum nine.tnum periodcentered.loclCAT caroncomb.case horncomb.case pecyr.loclSRB tecyr.loclSRB gjecyr.loclMKD];
+@aalt2 = [zero.tnum five.tnum seven.tnum eight.tnum a.ss01 g.ss01 idotaccent ordfeminine.ss01 periodcentered.loclCAT agrave.ss01 aacute.ss01 acircumflex.ss01 atilde.ss01 adieresis.ss01 aring.ss01 ae.ss01 amacron.ss01 abreve.ss01 aogonek.ss01 gcircumflex.ss01 gbreve.ss01 gdotaccent.ss01 gcommaaccent.ss01 Scommaaccent scommaaccent Tcommaaccent tcommaaccent gcaron.ss01 aringacute.ss01 aeacute.ss01 adblgrave.ss01 ainvertedbreve.ss01 gravecomb.case acutecomb.case circumflexcomb.case tildecomb.case macroncomb.case brevecomb.case dotaccentcomb.case dieresiscomb.case hookabovecomb.case ringcomb.case hungarumlautcomb.case dblgravecomb.case breveinvertedcomb.case commaturnedabovecomb.case strokeshortcomb.case tonos.case Decyr.loclBGR Kacyr.loclBGR Elcyr.loclBGR acyr.ss01 becyr.loclSRB vecyr.loclBGR zhecyr.loclBGR zecyr.loclBGR icyr.loclBGR ishortcyr.loclBGR kacyr.loclBGR elcyr.loclBGR tsecyr.loclBGR shacyr.loclBGR shchacyr.loclBGR hardcyr.loclBGR softcyr.loclBGR yucyr.loclBGR gjecyr.loclMKD igravecyr.loclBGR abrevecyr.ss01 adieresiscyr.ss01 aiecyr.ss01 adotbelow.ss01 ahoi.ss01 acircumflexacute.ss01 acircumflexgrave.ss01 acircumflexhoi.ss01 acircumflextilde.ss01 acircumflexdotbelow.ss01 abreveacute.ss01 abrevegrave.ss01 abrevehoi.ss01 abrevetilde.ss01 abrevedotbelow.ss01 zero five six.ss02.tnum seven eight nine.ss02.tnum periodcentered.loclCAT.case caroncomb.alt_case horncomb.alt_case pecyr.loclSRB.ss01 tecyr.loclSRB.ss01 gjecyr.loclMKD.ss01];
+@calt = [Alpha Beta Chi Epsilon Phi Gamma Eta Iota Kappa Lambda Mu Nu Omicron Pi Theta Rho Sigma Tau Upsilon Xi Psi Zeta alpha beta chi delta epsilon phi gamma eta iota kappa lambda nu omicron pi theta rho sigma tau upsilon omega xi psi zeta Omega Delta Iotadieresis Upsilondieresis alphatonos Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos epsilontonos etatonos iotatonos omicrontonos Omegatonos upsilontonos mu omegatonos iotadieresis upsilondieresis iotadieresistonos upsilondieresistonos sigmafinal];
+@calt2 = [parenleft semicolon bracketleft backslash underscore q braceleft exclamdown questiondown chi eta xi zeta Aogonek Eogonek eogonek iogonek lcommaaccent etatonos tcommaaccent tcedilla questiongreek Idotbelow idotbelow ydotbelow sigmafinal];
+@calt3 = [adblgrave edblgrave odblgrave rdblgrave rinvertedbreve udblgrave adblgrave.ss01 igrave icircumflex idieresis imacron itilde ibreve jcircumflex idblgrave iinvertedbreve jcircumflex.calt];
+@calt4 = [zero one two two.ss05 three four five six seven eight nine zero.tnum one.tnum two.tnum two.ss05.tnum three.tnum four.tnum five.tnum six.ss02 six.tnum six.ss02.tnum seven.tnum eight.tnum nine.ss02 nine.tnum nine.ss02.tnum];
+@case = [gravecomb acutecomb circumflexcomb tildecomb macroncomb brevecomb dotaccentcomb dieresiscomb hookabovecomb ringcomb hungarumlautcomb caroncomb dblgravecomb breveinvertedcomb commaturnedabovecomb horncomb strokeshortcomb tonos periodcentered.loclCAT];
+@case2 = [gravecomb.case acutecomb.case circumflexcomb.case tildecomb.case macroncomb.case brevecomb.case dotaccentcomb.case dieresiscomb.case hookabovecomb.case ringcomb.case hungarumlautcomb.case caroncomb.case dblgravecomb.case breveinvertedcomb.case commaturnedabovecomb.case horncomb.case strokeshortcomb.case tonos.case periodcentered.loclCAT.case];
 @f_f = [f fi fl j j.calt t tbar tcaron tcedilla tcommaaccent];
 @f_i = [igrave icircumflex idieresis imacron itilde ibreve jcircumflex idblgrave iinvertedbreve i iacute ibreve idblgrave idotbelow ihoi iinvertedbreve iogonek jcircumflex.calt];
 @f_l = [b h hbar hcircumflex k kcommaaccent l lacute lcaron lcommaaccent ldot lj lslash thorn];
-#/< otclasses
-
-#/> kernclasses
-@A = [A Aacute Abreve Abreveacute Abrevecyr Abrevedotbelow Abrevegrave Abrevehoi Abrevetilde Acircumflex Acircumflexdotbelow Acircumflextilde Acyr Adblgrave Adieresis Adieresiscyr Adotbelow Agrave Ahoi Ainvertedbreve Alpha Alphatonos Amacron Aring Aringacute Atilde Delta Elcyr.loclBGR Lambda];
-@A2 = [A Aacute Abreve Abreveacute Abrevecyr Abrevedotbelow Abrevegrave Abrevehoi Abrevetilde Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhoi Acircumflextilde Acyr Adieresis Adieresiscyr Adotbelow Agrave Ahoi Ainvertedbreve Alpha Alphatonos Amacron Aogonek Aring Aringacute Atilde Delta Elcyr.loclBGR Lambda];
-@AE = [AE AEacute Aiecyr];
-@B = [B Becyr Beta Djecyr Gehookcyr Tshecyr Vecyr Zecyr Zedieresiscyr Zetailcyr];
-@B2 = [B Becyr Beta D DZcaron Dzcaron Dzhecyr E Eacute Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhoi Edotaccent Edotbelow Egrave Ehoi Einvertedbreve Emacron Emcyr Encyr Eng Engecyr Entailcyr Eogonek Epsilon Epsilontonos Ercyr Eta Etatonos Etilde F Gamma Gecyr Gehookcyr Germandbls Getailcyr Geupcyr Gjecyr H Hcircumflex I Icyr Idieresiscyr Iecyr Iegravecyr Igravecyr Imacroncyr Iota Iotatonos Ishortcyr Iukrcyr K Kacyr Kaisymbol Kappa Katailcyr Kaverticalstrokecyr Kcommaaccent Kjecyr L LJ Lcaron Lcommaaccent Ldot Lj M Mu N NJ Nacute Ncaron Ncommaaccent Nj Njecyr Ntilde Nu P Palochkacyr Pecyr Pi R Racute Rcommaaccent Rho Rinvertedbreve Shacyr Shchacyr Shhacyr Softcyr Thorn Tsecyr Vecyr Ylongcyr Ylongdieresiscyr Yucyr numero];
-@C = [C Ccedilla Cdotaccent Escyr Estailcyr Eukrcyr];
-@C2 = [C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent Escyr Estailcyr Eukrcyr Fitacyr G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent O OE Oacute Obarcyr Obreve Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhoi Ocircumflextilde Ocyr Odieresis Odieresiscyr Odieresismacron Odotaccentmacron Odotbelow Ograve Ohoi Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhoi Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Omicron Omicrontonos Oogonek Otilde Otildemacron Q Qacyr Schwa Schwacyr Theta];
-@Ccaron = [Cacute Ccaron Ccircumflex];
-@D = [D Dcaron Dcroat Ereversedcyr Eth Fitacyr O Oacute Obarcyr Obreve Ocircumflex Ocircumflexdotbelow Ocircumflexhoi Ocircumflextilde Ocyr Odblgrave Odieresis Odieresiscyr Odieresismacron Odotaccentmacron Odotbelow Ograve Ohoi Oinvertedbreve Omacron Omicron Omicrontonos Oogonek Otilde Otildemacron Qacyr Schwa Schwacyr Theta Yucyr];
-@Dcaron = [Dcaron Ebreve Ecaron Ecircumflextilde Edieresis Iebrevecyr Iocyr Rcaron];
-@E = [AE AEacute Aiecyr E Eacute Ebreve Ecircumflex Ecircumflexdotbelow Edblgrave Edieresis Edotaccent Edotbelow Egrave Ehoi Einvertedbreve Emacron Epsilon Epsilontonos Etilde Iebrevecyr Iecyr Iegravecyr Iocyr OE Sigma Xi];
-@Eth = [Dcroat Eth Gestrokecyr];
-@F = [F Gestrokecyr];
-@G = [G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent];
-@H = [Checyr Chedieresiscyr Chekhakascyr Chevertcyr Dzhecyr Elcyr Emcyr Encyr Eng Eta Etatonos H Hcircumflex I Icyr Idieresiscyr Igravecyr Imacroncyr Iota Iotatonos Ishortcyr Iukrcyr M Mu N Nacute Ncaron Ncommaaccent Ntilde Nu Palochkacyr Pecyr Pi Shacyr Yacyr Ylongcyr Ylongdieresiscyr];
-@Iacute = [Iacute Ibreve Icircumflex Idblgrave Idieresis Ihoi Iinvertedbreve Imacron Iotadieresis Itilde Yukrcyr];
-@Iacute2 = [Iacute Idotaccent Lacute];
-@Igrave = [Idotaccent Igrave];
-@Igrave2 = [Ibreve Icircumflex Idieresis Igrave Ihoi Iinvertedbreve Imacron Iotadieresis Itilde Yukrcyr];
-@J = [J Jecyr LJ NJ U Uacute Ubreve Ucircumflex Udblgrave Udieresis Udotbelow Ugrave Uhoi Uinvertedbreve Umacron Uogonek Uring Utilde];
-@J2 = [J Jcircumflex Jecyr];
-@K = [K Kabashkcyr Kacyr Kappa Kaverticalstrokecyr Kcommaaccent Kjecyr Yusbigcyr Zhebrevecyr Zhecyr Zhedieresiscyr];
-@L = [L Lacute Lcommaaccent];
-@Ohorn = [Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhoi Ohorntilde];
-@Oslash = [Oslash Oslashacute];
-@Oslash2 = [Oslash Oslashacute];
-@P = [Ercyr P Rho];
-@Phi = [Efcyr Phi];
-@Phi2 = [Efcyr Phi];
-@R = [R Racute Rcaron Rcommaaccent Rdblgrave Rinvertedbreve];
-@S = [Dzecyr Germandbls S Sacute Scedilla Scommaaccent];
-@S2 = [Dzecyr S Sacute Scedilla Scircumflex Scommaaccent];
-@Scaron = [Scaron Scircumflex];
-@T = [Engecyr Gamma Gecyr Getailcyr T Tau Tcedilla Tcommaaccent Tecyr];
-@T2 = [Djecyr Hardcyr Kabashkcyr T Tau Tcedilla Tcommaaccent Tecyr Tshecyr];
-@Tcaron = [Gjecyr Tcaron];
-@U = [U Uacute Ubreve Ucircumflex Udieresis Udotbelow Ugrave Uhoi Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhoi Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Uogonek Uring Utilde];
-@Uhorn = [Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhoi Uhorntilde];
-@V = [Udieresiscyr Umacroncyr Ushortcyr V W Wacute Wcircumflex Wdieresis Wecyr Wgrave];
-@V2 = [Izhitsacyr V W Wacute Wcircumflex Wdieresis Wecyr Wgrave];
-@X = [Chi Hacyr X];
-@X2 = [Chi Hacyr X Xatailcyr];
-@Y = [Upsilon Upsilondieresis Upsilontonos Ustraightcyr Ustraightstrokecyr Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhoi Ymacron Ytilde];
-@Y2 = [Upsilon Upsilontonos Ustraightcyr Ustraightstrokecyr Y Yacute Ycircumflex Ydotbelow Ygrave Yhoi Ymacron Ytilde];
-@Ydieresis = [Upsilondieresis Ydieresis];
-@Z = [Z Zdotaccent Zeta];
-@Z2 = [Z Zacute Zdotaccent Zeta];
-@Zcaron = [DZcaron Zacute Zcaron];
-@a = [a acircumflexdotbelow acyr adblgrave adotbelow agrave djecyr eng h hbar hcircumflex m n ncommaaccent pecyr.loclBGR shhacyr tecyr.loclBGR tshecyr];
-@a2 = [a aacute acyr adotbelow ae aeacute aiecyr aogonek aring];
-@aacute = [aacute abreve abreveacute abrevecyr abrevedotbelow abrevegrave abrevehoi abrevetilde acircumflex acircumflextilde adieresis adieresiscyr ahoi ainvertedbreve amacron aringacute atilde nacute ncaron ntilde];
-@agrave = [abreve abreveacute abrevecyr abrevedotbelow abrevegrave abrevehoi abrevetilde acircumflex acircumflexacute acircumflexdotbelow acircumflexgrave acircumflexhoi acircumflextilde adieresis adieresiscyr agrave ahoi ainvertedbreve amacron aringacute atilde];
-@arrowup = [arrowNE arrowNW arrowSE arrowSW arrowdown arrowleft arrowright arrowup];
-@arrowup2 = [arrowNE arrowNW arrowSE arrowSW arrowdown arrowleft arrowright arrowup];
-@at = [at copyright];
-@b = [ae ae.ss01 aeacute aeacute.ss01 aiecyr aiecyr.ss01 b e edotaccent edotbelow efcyr egrave ercyr ereversedcyr fitacyr iecyr iegravecyr o obarcyr ocyr odotbelow oe ograve omega omegatonos omicron oogonek p phi psi rho schwa schwacyr thorn upsilon yucyr yucyr.loclBGR];
-@b2 = [b beta exclam germandbls h k kacyr.loclBGR kcommaaccent l lcaron ldot lj palochkacyr shhacyr thorn yucyr.loclBGR];
-@bar = [bar bracketright brokenbar];
-@bar2 = [bar bracketleft brokenbar];
-@beta = [beta vecyr.loclBGR];
-@c = [c ccedilla cdotaccent epsilon escyr estailcyr eukrcyr];
-@c2 = [a.ss01 aacute.ss01 acyr.ss01 adieresiscyr.ss01 adotbelow.ss01 ae.ss01 aeacute.ss01 aiecyr.ss01 alpha alphatonos aogonek.ss01 c cacute ccedilla cdotaccent d dcaron dcroat decyr.loclBGR decyr.loclSRB dzcaron e eacute edotaccent edotbelow efcyr eogonek escyr estailcyr eukrcyr fitacyr g.ss01 gcommaaccent.ss01 gdotaccent.ss01 iecyr o oacute obarcyr ocyr odotbelow oe ohorn ohornacute ohorndotbelow ohungarumlaut omega omegatonos omicron omicrontonos oogonek phi q qacyr schwa schwacyr sigma sigmafinal];
-@ccaron = [cacute ccaron ccircumflex];
-@colon = [colon exclamdown questiongreek semicolon];
-@colon2 = [colon exclamdown questiongreek];
-@comma = [comma ellipsis lownumeralsign period quotedblbase quotesinglbase];
-@comma2 = [comma lownumeralsign quotedblbase quotesinglbase];
-@d = [d exclam fl l palochkacyr];
-@dcaron = [dcaron lcaron];
-@degree = [asterisk degree four.superior numero onesuperior ordfeminine ordfeminine.ss01 ordmasculine registered threesuperior trademark twosuperior];
-@degree2 = [asterisk degree four.superior onesuperior ordfeminine ordfeminine.ss01 ordmasculine registered threesuperior trademark twosuperior];
-@epsilon = [epsilon epsilontonos];
-@eta = [eta etatonos];
-@eth = [becyr becyr.loclSRB delta eacute ebreve ecaron ecircumflex ecircumflexdotbelow ecircumflextilde edblgrave edieresis ehoi einvertedbreve emacron eth etilde iebrevecyr iocyr oacute obreve ocircumflex ocircumflexdotbelow ocircumflextilde odblgrave odieresis odieresiscyr odieresismacron odotaccentmacron ohoi ohungarumlaut oinvertedbreve omacron omicrontonos otilde otildemacron upsilondieresis upsilontonos];
-@eth2 = [abreve.ss01 abreveacute.ss01 abrevecyr.ss01 abrevedotbelow.ss01 abrevegrave.ss01 abrevehoi.ss01 abrevetilde.ss01 acircumflex.ss01 acircumflexacute.ss01 acircumflexdotbelow.ss01 acircumflexgrave.ss01 acircumflexhoi.ss01 acircumflextilde.ss01 adieresis.ss01 agrave.ss01 ahoi.ss01 ainvertedbreve.ss01 amacron.ss01 aring.ss01 aringacute.ss01 atilde.ss01 becyr.loclSRB ccaron ccircumflex delta ebreve ecaron ecircumflex ecircumflexacute ecircumflexdotbelow ecircumflexgrave ecircumflexhoi ecircumflextilde edieresis egrave ehoi einvertedbreve emacron eth etilde gbreve.ss01 gcaron.ss01 gcircumflex.ss01 iebrevecyr iegravecyr iocyr obreve ocircumflex ocircumflexacute ocircumflexdotbelow ocircumflexgrave ocircumflexhoi ocircumflextilde odieresis odieresiscyr odieresismacron odotaccentmacron ograve ohoi ohorngrave ohornhoi ohorntilde oinvertedbreve omacron otilde otildemacron];
-@f = [f f.calt];
-@f2 = [f f.calt fi fl];
-@g = [g gcommaaccent gdotaccent];
-@g2 = [g gcommaaccent gdotaccent];
-@gbreve = [gbreve gcaron gcircumflex];
-@gbreve2 = [gbreve gcaron gcircumflex];
-@hbar = [djecyr hbar tshecyr];
-@hyphen = [emdash endash hyphen hyphen-gnrl periodcentered softhyphen];
-@hyphen2 = [emdash endash hyphen hyphen-gnrl periodcentered softhyphen];
-@i = [Lj Nj fi i idotaccent igrave iukrcyr j j.calt jecyr jecyr.calt lj nj];
-@i2 = [i iacute idotaccent iotatonos iukrcyr];
-@iogonek = [idotbelow iogonek iogonek.dotless];
-@iogonek2 = [idotbelow iogonek iogonek.dotless];
-@iota = [alpha alphatonos iota];
-@iotatonos = [iotadieresis iotatonos];
-@itilde = [ibreve icircumflex idblgrave idieresis ihoi iinvertedbreve imacron itilde jcircumflex jcircumflex.calt yukrcyr];
-@itilde2 = [ibreve icircumflex idieresis ihoi iinvertedbreve imacron iotadieresis itilde yukrcyr];
-@j = [j j.calt jecyr jecyr.calt];
-@jcircumflex = [jcircumflex jcircumflex.calt];
-@k = [k kabashkcyr kacyr kacyr.loclBGR kappa kaverticalstrokecyr kcommaaccent kgreenlandic yusbigcyr zhebrevecyr zhecyr zhecyr.loclBGR zhedieresiscyr];
-@m = [dotlessi dzhecyr encyr eng engecyr entailcyr ercyr eta etatonos gehookcyr getailcyr icyr kacyr kaisymbol kappa katailcyr kaverticalstrokecyr kgreenlandic kjecyr m micro mu n nacute ncommaaccent nj njecyr p pecyr.loclBGR r racute shacyr shchacyr softcyr tecyr.loclBGR tsecyr ylongcyr ylongdieresiscyr yucyr];
-@ntilde = [gjecyr gjecyr.loclMKD idieresiscyr igravecyr imacroncyr ishortcyr ncaron ntilde rinvertedbreve];
-@ohorn = [ohorn ohornacute ohorndotbelow ohorngrave ohornhoi ohorntilde];
-@onehalf = [onehalf onequarter];
-@oslash = [oslash oslashacute];
-@oslash2 = [oslash oslashacute];
-@parenleft = [braceleft bracketleft parenleft];
-@parenright = [braceright bracketright parenright];
-@percent = [percent perthousand];
-@period = [ellipsis period];
-@plus = [approxequal asciicircum asciitilde bulletoperator commercialminussign divide divisionslash eight.tnum equal five.tnum four.tnum greater greaterequal less lessequal logicalnot lozenge minus multiply nine.tnum notequal one.tnum plus plusminus seven.tnum six.tnum three.tnum two.tnum zero.tnum];
-@plus2 = [approxequal asciicircum asciitilde bulletoperator commercialminussign divide divisionslash eight.tnum equal five.tnum four.tnum greater greaterequal less lessequal logicalnot lozenge minus multiply nine.tnum notequal one.tnum plus plusminus seven.tnum six.tnum three.tnum two.tnum zero.tnum];
-@r = [r rcommaaccent];
-@racute = [racute rcaron rdblgrave rinvertedbreve];
-@s = [dzecyr s scedilla scommaaccent];
-@s2 = [dzecyr s sacute scedilla scommaaccent];
-@scaron = [germandbls sacute scaron scircumflex];
-@scaron2 = [scaron scircumflex];
-@six = [six zero];
-@t = [pi t tbar];
-@t2 = [t tbar tcaron];
-@tonos = [apostrophemod minute numeralsign primedblmod primemod quotedbl quotedblleft quotedblright quoteleft quoteright quotesingle second tonos tonos.case];
-@tonos2 = [apostrophemod minute numeralsign primedblmod primemod quotedbl quotedblleft quotedblright quoteleft quoteright quotesingle second tonos tonos.case];
-@u = [a.ss01 acyr.ss01 adieresiscyr.ss01 adotbelow.ss01 agrave.ss01 checyr chekhakascyr chevertcyr dotlessi dotlessj dotlessj.calt dzhecyr elcyr emcyr encyr g.ss01 gcommaaccent.ss01 gdotaccent.ss01 icyr igravecyr igravecyr.loclBGR micro mu shacyr shacyr.loclBGR u udotbelow ugrave ylongcyr ylongdieresiscyr];
-@u2 = [icyr.loclBGR iota psi shacyr.loclBGR shchacyr.loclBGR softcyr.loclBGR tsecyr.loclBGR u uacute udotbelow uhorn uhornacute uhorndotbelow uhungarumlaut uogonek upsilon upsilontonos];
-@uhorn = [uhorn uhornacute uhorndotbelow uhorngrave uhornhoi uhorntilde];
-@uni0204 = [Edblgrave Rdblgrave];
-@uni0205 = [adblgrave.ss01 edblgrave odblgrave];
-@uni0209 = [idblgrave rdblgrave];
-@uni021B = [tcedilla tcommaaccent];
-@uni021B_2 = [tcedilla tcommaaccent];
-@uni0237 = [dotlessj dotlessj.calt];
-@uni03A9 = [Omega Omegatonos];
-@uni03A9_2 = [Omega Omegatonos];
-@uni0414 = [Chetailcyr Decyr Entailcyr Shchacyr Tsecyr];
-@uni0414_2 = [Decyr Elcyr Ljecyr];
-@uni0416 = [Yusbigcyr Zhebrevecyr Zhecyr Zhedieresiscyr Zhetailcyr];
-@uni0417 = [Ereversedcyr Zecyr Zetailcyr];
-@uni0423 = [Uacutedblcyr Ucyr Udieresiscyr Umacroncyr Ushortcyr];
-@uni0427 = [Checyr Chedieresiscyr Chekhakascyr Chetailcyr Chevertcyr];
-@uni042A = [Hardcyr Ljecyr Njecyr Softcyr Yatcyr];
-@uni0433 = [engecyr gecyr gestrokecyr tecyr tecyr.loclSRB];
-@uni0433.loclBGR = [gecyr.loclBGR gecyr.loclSRB gjecyr.loclMKD.ss01];
-@uni0434 = [chetailcyr decyr entailcyr shchacyr shchacyr.loclBGR tsecyr tsecyr.loclBGR];
-@uni0436 = [yusbigcyr zhebrevecyr zhecyr zhecyr.loclBGR zhedieresiscyr zhetailcyr];
-@uni0437 = [ereversedcyr zecyr zetailcyr];
-@uni0442 = [hardcyr hardcyr.loclBGR kabashkcyr tecyr tecyr.loclSRB];
-@uni0447 = [checyr chekhakascyr chetailcyr chevertcyr];
-@uni044F = [gehookcyr pecyr vecyr yacyr zecyr zetailcyr];
-@uni0453 = [gjecyr gjecyr.loclMKD];
-@uni0459 = [hardcyr hardcyr.loclBGR ljecyr njecyr softcyr softcyr.loclBGR yatcyr];
-@uni0459_2 = [decyr elcyr ljecyr];
-@uni0491 = [emcyr gecyr geupcyr pecyr vecyr];
-@uni0496 = [Katailcyr Zhetailcyr];
-@uni0497 = [katailcyr xatailcyr zhetailcyr];
-@uni1EA4 = [Acircumflexacute Acircumflexgrave Acircumflexhoi];
-@uni1EA5 = [acircumflexacute acircumflexgrave acircumflexhoi];
-@uni1EA5.ss01 = [acircumflexacute.ss01 acircumflexhoi.ss01];
-@uni1EBE = [Ecircumflexacute Ecircumflexgrave Ecircumflexhoi Ecircumflextilde];
-@uni1EBF = [ecircumflexacute ecircumflexgrave ecircumflexhoi ocircumflexacute ocircumflexgrave ocircumflexhoi];
-@uni1ED0 = [Ocircumflexacute Ocircumflexgrave];
-@uogonek = [aogonek.ss01 uogonek];
-@uring = [aacute.ss01 abreve.ss01 abreveacute.ss01 abrevecyr.ss01 abrevedotbelow.ss01 abrevegrave.ss01 abrevehoi.ss01 abrevetilde.ss01 acircumflex.ss01 acircumflexdotbelow.ss01 acircumflexgrave.ss01 acircumflextilde.ss01 adblgrave.ss01 adieresis.ss01 ahoi.ss01 ainvertedbreve.ss01 amacron.ss01 aring.ss01 aringacute.ss01 atilde.ss01 chedieresiscyr gbreve.ss01 gcaron.ss01 gcircumflex.ss01 idieresiscyr imacroncyr ishortcyr ishortcyr.loclBGR pecyr.loclSRB pecyr.loclSRB.ss01 tecyr.loclSRB.ss01 uacute ubreve ucircumflex udblgrave udieresis uhoi uhungarumlaut uinvertedbreve umacron uring utilde];
-@uring2 = [igravecyr.loclBGR ishortcyr.loclBGR pecyr.loclSRB pecyr.loclSRB.ss01 tecyr.loclSRB.ss01 ubreve ucircumflex udieresis ugrave uhoi uhorngrave uhornhoi uhorntilde uinvertedbreve umacron upsilondieresis uring utilde];
-@v = [gamma nu ucyr ustraightcyr ustraightstrokecyr v w wacute wcircumflex wdieresis wecyr wgrave y ygrave];
-@v2 = [gamma izhitsacyr nu ustraightcyr ustraightstrokecyr v w wacute wcircumflex wdieresis wecyr wgrave];
-@x = [ampersand hacyr x];
-@x2 = [hacyr x xatailcyr];
-@y = [uacutedblcyr ucyr y yacute ydotbelow];
-@yacute = [uacutedblcyr udieresiscyr umacroncyr ushortcyr yacute ycircumflex ydieresis yhoi ymacron ytilde];
-@ygrave = [udieresiscyr umacroncyr ushortcyr ycircumflex ydieresis ygrave yhoi ymacron ytilde];
-@z = [z zdotaccent];
-@z2 = [z zacute zdotaccent];
-@zcaron = [Dzcaron dzcaron zacute zcaron];
-@zero = [nine zero];
-#/< kernclasses
-#< classes
-
-#/> classes
-#/> otclasses
-@aalt = [zero five seven eight a g i ordfeminine periodcentered agrave aacute acircumflex atilde adieresis aring ae amacron abreve aogonek gcircumflex gbreve gdotaccent gcommaaccent Scedilla scedilla Tcedilla tcedilla gcaron aringacute aeacute adblgrave ainvertedbreve gravecomb acutecomb circumflexcomb tildecomb macroncomb brevecomb dotaccentcomb dieresiscomb hookabovecomb ringcomb hungarumlautcomb dblgravecomb breveinvertedcomb commaturnedabovecomb strokeshortcomb tonos Decyr Kacyr Elcyr acyr becyr vecyr zhecyr zecyr icyr ishortcyr kacyr elcyr tsecyr shacyr shchacyr hardcyr softcyr yucyr gjecyr igravecyr abrevecyr adieresiscyr aiecyr adotbelow ahoi acircumflexacute acircumflexgrave acircumflexhoi acircumflextilde acircumflexdotbelow abreveacute abrevegrave abrevehoi abrevetilde abrevedotbelow zero.tnum five.tnum six.tnum seven.tnum eight.tnum nine.tnum periodcentered.loclCAT caroncomb.case horncomb.case pecyr.loclSRB tecyr.loclSRB gjecyr.loclMKD];
-@aalt2 = [zero.tnum five.tnum seven.tnum eight.tnum a.ss01 g.ss01 idotaccent ordfeminine.ss01 periodcentered.loclCAT agrave.ss01 aacute.ss01 acircumflex.ss01 atilde.ss01 adieresis.ss01 aring.ss01 ae.ss01 amacron.ss01 abreve.ss01 aogonek.ss01 gcircumflex.ss01 gbreve.ss01 gdotaccent.ss01 gcommaaccent.ss01 Scommaaccent scommaaccent Tcommaaccent tcommaaccent gcaron.ss01 aringacute.ss01 aeacute.ss01 adblgrave.ss01 ainvertedbreve.ss01 gravecomb.case acutecomb.case circumflexcomb.case tildecomb.case macroncomb.case brevecomb.case dotaccentcomb.case dieresiscomb.case hookabovecomb.case ringcomb.case hungarumlautcomb.case dblgravecomb.case breveinvertedcomb.case commaturnedabovecomb.case strokeshortcomb.case tonos.case Decyr.loclBGR Kacyr.loclBGR Elcyr.loclBGR acyr.ss01 becyr.loclSRB vecyr.loclBGR zhecyr.loclBGR zecyr.loclBGR icyr.loclBGR ishortcyr.loclBGR kacyr.loclBGR elcyr.loclBGR tsecyr.loclBGR shacyr.loclBGR shchacyr.loclBGR hardcyr.loclBGR softcyr.loclBGR yucyr.loclBGR gjecyr.loclMKD igravecyr.loclBGR abrevecyr.ss01 adieresiscyr.ss01 aiecyr.ss01 adotbelow.ss01 ahoi.ss01 acircumflexacute.ss01 acircumflexgrave.ss01 acircumflexhoi.ss01 acircumflextilde.ss01 acircumflexdotbelow.ss01 abreveacute.ss01 abrevegrave.ss01 abrevehoi.ss01 abrevetilde.ss01 abrevedotbelow.ss01 zero five six.tnum.ss02 seven eight nine.tnum.ss02 periodcentered.loclCAT.case caroncomb.alt_case horncomb.alt_case pecyr.loclSRB.ss01 tecyr.loclSRB.ss01 gjecyr.loclMKD.ss01];
-@calt = [Alpha Beta Chi Epsilon Phi Gamma Eta Iota Kappa Lambda Mu Nu Omicron Pi Theta Rho Sigma Tau Upsilon Xi Psi Zeta alpha beta chi delta epsilon phi gamma eta iota kappa lambda nu omicron pi theta rho sigma tau upsilon omega xi psi zeta Omega Delta Iotadieresis Upsilondieresis alphatonos Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos epsilontonos etatonos iotatonos omicrontonos Omegatonos upsilontonos mu omegatonos iotadieresis upsilondieresis iotadieresistonos upsilondieresistonos sigmafinal];
-@calt2 = [parenleft semicolon bracketleft backslash underscore q braceleft exclamdown questiondown chi eta xi zeta Aogonek Eogonek eogonek iogonek lcommaaccent etatonos tcommaaccent tcedilla questiongreek Idotbelow idotbelow ydotbelow sigmafinal];
-@calt3 = [igrave icircumflex idieresis imacron itilde ibreve jcircumflex adblgrave edblgrave idblgrave iinvertedbreve odblgrave rdblgrave rinvertedbreve udblgrave jcircumflex.calt adblgrave.ss01];
-@case = [gravecomb acutecomb circumflexcomb tildecomb macroncomb brevecomb dotaccentcomb dieresiscomb hookabovecomb ringcomb hungarumlautcomb caroncomb dblgravecomb breveinvertedcomb commaturnedabovecomb horncomb strokeshortcomb tonos periodcentered.loclCAT];
-@case2 = [gravecomb.case acutecomb.case circumflexcomb.case tildecomb.case macroncomb.case brevecomb.case dotaccentcomb.case dieresiscomb.case hookabovecomb.case ringcomb.case hungarumlautcomb.case caroncomb.case dblgravecomb.case breveinvertedcomb.case commaturnedabovecomb.case horncomb.case strokeshortcomb.case tonos.case periodcentered.loclCAT.case];
 @locl = [Decyr Kacyr Elcyr vecyr gecyr decyr zhecyr zecyr icyr ishortcyr kacyr elcyr pecyr tecyr tsecyr shacyr shchacyr hardcyr softcyr yucyr igravecyr];
 @locl2 = [Decyr.loclBGR Kacyr.loclBGR Elcyr.loclBGR vecyr.loclBGR gecyr.loclBGR decyr.loclBGR zhecyr.loclBGR zecyr.loclBGR icyr.loclBGR ishortcyr.loclBGR kacyr.loclBGR elcyr.loclBGR pecyr.loclBGR tecyr.loclBGR tsecyr.loclBGR shacyr.loclBGR shchacyr.loclBGR hardcyr.loclBGR softcyr.loclBGR yucyr.loclBGR igravecyr.loclBGR];
 @ordn = [zero one two three four five six seven eight nine];
-@pnum = [comma.tnum period.tnum zero.tnum one.tnum two.tnum three.tnum four.tnum five.tnum six.tnum six.tnum.ss02 seven.tnum eight.tnum nine.tnum nine.tnum.ss02 colon.tnum semicolon.tnum];
-@pnum2 = [comma period zero one two three four five six six.ss02 seven eight nine nine.ss02 colon semicolon];
+@pnum = [comma.tnum period.tnum zero.tnum one.tnum two two.ss05.tnum three.tnum four.tnum five.tnum six.tnum seven.tnum eight.tnum nine.tnum colon.tnum semicolon.tnum six.ss02.tnum nine.ss02.tnum];
+@pnum2 = [comma period zero one two two.ss05 three four five six seven eight nine colon semicolon six.ss02 nine.ss02];
 @ss01 = [a g ordfeminine agrave aacute acircumflex atilde adieresis aring ae amacron abreve aogonek gcircumflex gbreve gdotaccent gcommaaccent gcaron aringacute aeacute adblgrave ainvertedbreve acyr abrevecyr adieresiscyr aiecyr adotbelow ahoi acircumflexacute acircumflexgrave acircumflexhoi acircumflextilde acircumflexdotbelow abreveacute abrevegrave abrevehoi abrevetilde abrevedotbelow pecyr.loclSRB tecyr.loclSRB gjecyr.loclMKD];
 @ss012 = [a.ss01 g.ss01 ordfeminine.ss01 agrave.ss01 aacute.ss01 acircumflex.ss01 atilde.ss01 adieresis.ss01 aring.ss01 ae.ss01 amacron.ss01 abreve.ss01 aogonek.ss01 gcircumflex.ss01 gbreve.ss01 gdotaccent.ss01 gcommaaccent.ss01 gcaron.ss01 aringacute.ss01 aeacute.ss01 adblgrave.ss01 ainvertedbreve.ss01 acyr.ss01 abrevecyr.ss01 adieresiscyr.ss01 aiecyr.ss01 adotbelow.ss01 ahoi.ss01 acircumflexacute.ss01 acircumflexgrave.ss01 acircumflexhoi.ss01 acircumflextilde.ss01 acircumflexdotbelow.ss01 abreveacute.ss01 abrevegrave.ss01 abrevehoi.ss01 abrevetilde.ss01 abrevedotbelow.ss01 pecyr.loclSRB.ss01 tecyr.loclSRB.ss01 gjecyr.loclMKD.ss01];
-@tnum = [comma period zero one two three four five six seven eight nine colon semicolon six.ss02 nine.ss02];
-@tnum2 = [comma.tnum period.tnum zero.tnum one.tnum two.tnum three.tnum four.tnum five.tnum six.tnum seven.tnum eight.tnum nine.tnum colon.tnum semicolon.tnum six.tnum.ss02 nine.tnum.ss02];
+@tnum = [comma period zero one two two.ss05 three four five six seven eight nine colon semicolon six.ss02 nine.ss02];
+@tnum2 = [comma.tnum period.tnum zero.tnum one.tnum two two.ss05.tnum three.tnum four.tnum five.tnum six.tnum seven.tnum eight.tnum nine.tnum colon.tnum semicolon.tnum six.ss02.tnum nine.ss02.tnum];
 #/< otclasses
-#/< classes
+#< classes
 
 ###
 # OpenType Layout feature definitions
 # Format: Adobe FDK for OpenType (AFDKO) version 2.5
-# Generated on: 2024-4-9 19:17
+# Generated on: 2024-5-2 11:30
 # Generated by: FontLab 8.0.0
-# Font PostScript name: RosaSansVF-BlackItalic
-# Font copyright: Copyright 2020 The Geologica Project Authors (https://github.com/googlefonts/geologica)Copyright 2020 The Spartan MB Project Authors (https://github.com/MattBaileyDesign/Spartan-MB)Copyright 2023 The Reddit Sans Project Authors (https://github.com/reddit/redditsans)Copyright 2020-2023 The Rosa Sans Project Authors (https://github.com/cssobral2013/rosa-sans)
+# Font path: C:/Users/Cristiano/Documents/GitHub/Rosa-Sans/sources/RosaSans-Italic[wght].vfc
+# Font PostScript name: RosaSansVF-ThinItalic
+# Font copyright: Copyright 2020 The Geologica Project Authors (https://github.com/googlefonts/geologica)Copyright 2023 The Reddit Sans Project Authors (https://github.com/reddit/redditsans)Copyright 2020-2024 The Rosa Sans Project Authors (https://github.com/cssobral2013/rosa-sans)
 #
 # Totals:
 # Languagesystems: 14
-# GSUB lookups: 30
-# GSUB features: 14 (aalt, calt, case, ccmp, frac, locl, ordn, pnum, salt, ss01, ss02, ss03, sups, tnum)
-# GPOS lookups: 2
-# GPOS features: 2 (cpsp, kern)
+# GSUB lookups: 33
+# GSUB features: 17 (aalt, calt, case, ccmp, frac, liga, locl, ordn, pnum, salt, ss01, ss02, ss03, ss04, ss05, sups, tnum)
+# GPOS lookups: 1
+# GPOS features: 1 (cpsp)
 
 #
 # Languagesystem definitions
@@ -242,11 +66,106 @@ languagesystem cyrl SRB ; # Cyrillic Serbian
 #
 # Feature definitions
 #
+
 feature aalt useExtension {
 # GSUB feature: Access All Alternates
 # Lookups: 2
 
-  sub @aalt by @aalt2;
+  sub zero by zero.tnum;
+  sub five by five.tnum;
+  sub seven by seven.tnum;
+  sub eight by eight.tnum;
+  sub a by a.ss01;
+  sub g by g.ss01;
+  sub i by idotaccent;
+  sub ordfeminine by ordfeminine.ss01;
+  sub periodcentered by periodcentered.loclCAT;
+  sub agrave by agrave.ss01;
+  sub aacute by aacute.ss01;
+  sub acircumflex by acircumflex.ss01;
+  sub atilde by atilde.ss01;
+  sub adieresis by adieresis.ss01;
+  sub aring by aring.ss01;
+  sub ae by ae.ss01;
+  sub amacron by amacron.ss01;
+  sub abreve by abreve.ss01;
+  sub aogonek by aogonek.ss01;
+  sub gcircumflex by gcircumflex.ss01;
+  sub gbreve by gbreve.ss01;
+  sub gdotaccent by gdotaccent.ss01;
+  sub gcommaaccent by gcommaaccent.ss01;
+  sub Scedilla by Scommaaccent;
+  sub scedilla by scommaaccent;
+  sub Tcedilla by Tcommaaccent;
+  sub tcedilla by tcommaaccent;
+  sub gcaron by gcaron.ss01;
+  sub aringacute by aringacute.ss01;
+  sub aeacute by aeacute.ss01;
+  sub adblgrave by adblgrave.ss01;
+  sub ainvertedbreve by ainvertedbreve.ss01;
+  sub gravecomb by gravecomb.case;
+  sub acutecomb by acutecomb.case;
+  sub circumflexcomb by circumflexcomb.case;
+  sub tildecomb by tildecomb.case;
+  sub macroncomb by macroncomb.case;
+  sub brevecomb by brevecomb.case;
+  sub dotaccentcomb by dotaccentcomb.case;
+  sub dieresiscomb by dieresiscomb.case;
+  sub hookabovecomb by hookabovecomb.case;
+  sub ringcomb by ringcomb.case;
+  sub hungarumlautcomb by hungarumlautcomb.case;
+  sub dblgravecomb by dblgravecomb.case;
+  sub breveinvertedcomb by breveinvertedcomb.case;
+  sub commaturnedabovecomb by commaturnedabovecomb.case;
+  sub strokeshortcomb by strokeshortcomb.case;
+  sub tonos by tonos.case;
+  sub Decyr by Decyr.loclBGR;
+  sub Kacyr by Kacyr.loclBGR;
+  sub Elcyr by Elcyr.loclBGR;
+  sub acyr by acyr.ss01;
+  sub becyr by becyr.loclSRB;
+  sub vecyr by vecyr.loclBGR;
+  sub zhecyr by zhecyr.loclBGR;
+  sub zecyr by zecyr.loclBGR;
+  sub icyr by icyr.loclBGR;
+  sub ishortcyr by ishortcyr.loclBGR;
+  sub kacyr by kacyr.loclBGR;
+  sub elcyr by elcyr.loclBGR;
+  sub tsecyr by tsecyr.loclBGR;
+  sub shacyr by shacyr.loclBGR;
+  sub shchacyr by shchacyr.loclBGR;
+  sub hardcyr by hardcyr.loclBGR;
+  sub softcyr by softcyr.loclBGR;
+  sub yucyr by yucyr.loclBGR;
+  sub gjecyr by gjecyr.loclMKD;
+  sub igravecyr by igravecyr.loclBGR;
+  sub abrevecyr by abrevecyr.ss01;
+  sub adieresiscyr by adieresiscyr.ss01;
+  sub aiecyr by aiecyr.ss01;
+  sub adotbelow by adotbelow.ss01;
+  sub ahoi by ahoi.ss01;
+  sub acircumflexacute by acircumflexacute.ss01;
+  sub acircumflexgrave by acircumflexgrave.ss01;
+  sub acircumflexhoi by acircumflexhoi.ss01;
+  sub acircumflextilde by acircumflextilde.ss01;
+  sub acircumflexdotbelow by acircumflexdotbelow.ss01;
+  sub abreveacute by abreveacute.ss01;
+  sub abrevegrave by abrevegrave.ss01;
+  sub abrevehoi by abrevehoi.ss01;
+  sub abrevetilde by abrevetilde.ss01;
+  sub abrevedotbelow by abrevedotbelow.ss01;
+  sub zero.tnum by zero;
+  sub five.tnum by five;
+  sub six.tnum by six.ss02.tnum;
+  sub seven.tnum by seven;
+  sub eight.tnum by eight;
+  sub nine.tnum by nine.ss02.tnum;
+  sub periodcentered.loclCAT by periodcentered.loclCAT.case;
+  sub caroncomb.case by caroncomb.alt_case;
+  sub horncomb.case by horncomb.alt_case;
+  sub pecyr.loclSRB by pecyr.loclSRB.ss01;
+  sub tecyr.loclSRB by tecyr.loclSRB.ss01;
+  sub gjecyr.loclMKD by gjecyr.loclMKD.ss01;
   sub one from [onesuperior one.tnum];
   sub two from [twosuperior two.tnum];
   sub three from [threesuperior three.tnum];
@@ -263,16 +182,36 @@ feature aalt useExtension {
   sub two.tnum from [two];
   sub three.tnum from [three];
   sub four.tnum from [four];
-  sub six.tnum.ss02 from [six];
-  sub nine.tnum.ss02 from [nine];
+  sub six.ss02.tnum from [six];
+  sub nine.ss02.tnum from [nine];
 } aalt;
+
 feature case {
 # GSUB feature: Case-Sensitive Forms
 # Lookups: 1
 
-  sub @case by @case2;
+  sub gravecomb by gravecomb.case;
+  sub acutecomb by acutecomb.case;
+  sub circumflexcomb by circumflexcomb.case;
+  sub tildecomb by tildecomb.case;
+  sub macroncomb by macroncomb.case;
+  sub brevecomb by brevecomb.case;
+  sub dotaccentcomb by dotaccentcomb.case;
+  sub dieresiscomb by dieresiscomb.case;
+  sub hookabovecomb by hookabovecomb.case;
+  sub ringcomb by ringcomb.case;
+  sub hungarumlautcomb by hungarumlautcomb.case;
+  sub caroncomb by caroncomb.case;
+  sub dblgravecomb by dblgravecomb.case;
+  sub breveinvertedcomb by breveinvertedcomb.case;
+  sub commaturnedabovecomb by commaturnedabovecomb.case;
+  sub horncomb by horncomb.case;
+  sub strokeshortcomb by strokeshortcomb.case;
+  sub tonos by tonos.case;
+  sub periodcentered.loclCAT by periodcentered.loclCAT.case;
 
 } case;
+
 feature calt {
 # GSUB feature: Contextual Alternates
 # Lookups: 1
@@ -285,8 +224,10 @@ feature calt {
   sub Idieresis.calt [Idieresis Yukrcyr]' by [Idieresis.calt2 Idieresis.calt2];
   sub [idieresis yukrcyr]' [idieresis yukrcyr] by [idieresis.calt idieresis.calt];
   sub idieresis.calt [idieresis yukrcyr]' by [idieresis.calt2 idieresis.calt2];
+  sub @calt4 colon' @calt4 by uniEE01;
 
 } calt;
+
 feature salt {
 # GSUB feature: Stylistic Alternates
 # Lookups: 1
@@ -333,8 +274,8 @@ feature salt {
   sub abrevehoi from [abrevehoi.ss01];
   sub abrevetilde from [abrevetilde.ss01];
   sub abrevedotbelow from [abrevedotbelow.ss01];
-  sub six.tnum from [six.tnum.ss02];
-  sub nine.tnum from [nine.tnum.ss02];
+  sub six.tnum from [six.ss02.tnum];
+  sub nine.tnum from [nine.ss02.tnum];
   sub caroncomb.case from [caroncomb.alt_case];
   sub horncomb.case from [horncomb.alt_case];
   sub pecyr.loclSRB from [pecyr.loclSRB.ss01];
@@ -342,13 +283,55 @@ feature salt {
   sub gjecyr.loclMKD from [gjecyr.loclMKD.ss01];
 
 } salt;
+
 feature ss01 {
 # GSUB feature: Stylistic Set 1
 # Lookups: 1
 
-  sub @ss01 by @ss012;
+  sub a by a.ss01;
+  sub g by g.ss01;
+  sub ordfeminine by ordfeminine.ss01;
+  sub agrave by agrave.ss01;
+  sub aacute by aacute.ss01;
+  sub acircumflex by acircumflex.ss01;
+  sub atilde by atilde.ss01;
+  sub adieresis by adieresis.ss01;
+  sub aring by aring.ss01;
+  sub ae by ae.ss01;
+  sub amacron by amacron.ss01;
+  sub abreve by abreve.ss01;
+  sub aogonek by aogonek.ss01;
+  sub gcircumflex by gcircumflex.ss01;
+  sub gbreve by gbreve.ss01;
+  sub gdotaccent by gdotaccent.ss01;
+  sub gcommaaccent by gcommaaccent.ss01;
+  sub gcaron by gcaron.ss01;
+  sub aringacute by aringacute.ss01;
+  sub aeacute by aeacute.ss01;
+  sub adblgrave by adblgrave.ss01;
+  sub ainvertedbreve by ainvertedbreve.ss01;
+  sub acyr by acyr.ss01;
+  sub abrevecyr by abrevecyr.ss01;
+  sub adieresiscyr by adieresiscyr.ss01;
+  sub aiecyr by aiecyr.ss01;
+  sub adotbelow by adotbelow.ss01;
+  sub ahoi by ahoi.ss01;
+  sub acircumflexacute by acircumflexacute.ss01;
+  sub acircumflexgrave by acircumflexgrave.ss01;
+  sub acircumflexhoi by acircumflexhoi.ss01;
+  sub acircumflextilde by acircumflextilde.ss01;
+  sub acircumflexdotbelow by acircumflexdotbelow.ss01;
+  sub abreveacute by abreveacute.ss01;
+  sub abrevegrave by abrevegrave.ss01;
+  sub abrevehoi by abrevehoi.ss01;
+  sub abrevetilde by abrevetilde.ss01;
+  sub abrevedotbelow by abrevedotbelow.ss01;
+  sub pecyr.loclSRB by pecyr.loclSRB.ss01;
+  sub tecyr.loclSRB by tecyr.loclSRB.ss01;
+  sub gjecyr.loclMKD by gjecyr.loclMKD.ss01;
 
 } ss01;
+
 feature ccmp {
 # GSUB feature: Glyph Composition / Decomposition
 # Lookups: 1
@@ -363,6 +346,7 @@ feature ccmp {
   sub brevecomb hookabovecomb by brevecomb_hookabovecomb;
 
 } ccmp;
+
 feature locl {
 # GSUB feature: Localized Forms
 # Lookups: 11
@@ -375,10 +359,16 @@ feature locl {
     sub i by idotaccent;
 
     language MOL ; # Moldavian
-    sub [Scedilla scedilla Tcedilla tcedilla] by [Scommaaccent scommaaccent Tcommaaccent tcommaaccent];
+    sub Scedilla by Scommaaccent;
+    sub scedilla by scommaaccent;
+    sub Tcedilla by Tcommaaccent;
+    sub tcedilla by tcommaaccent;
 
     language ROM ; # Romanian
-    sub [Scedilla scedilla Tcedilla tcedilla] by [Scommaaccent scommaaccent Tcommaaccent tcommaaccent];
+    sub Scedilla by Scommaaccent;
+    sub scedilla by scommaaccent;
+    sub Tcedilla by Tcommaaccent;
+    sub tcedilla by tcommaaccent;
 
     language CAT ; # Catalan
     sub periodcentered by periodcentered.loclCAT;
@@ -395,17 +385,41 @@ feature locl {
 
   script cyrl; # Cyrillic
     language SRB ; # Serbian
-    sub [becyr gecyr decyr pecyr] by [becyr.loclSRB gecyr.loclSRB decyr.loclSRB pecyr.loclSRB];
-    sub [tecyr] by [tecyr.loclSRB];
+    sub becyr by becyr.loclSRB;
+    sub gecyr by gecyr.loclSRB;
+    sub decyr by decyr.loclSRB;
+    sub pecyr by pecyr.loclSRB;
+    sub tecyr by tecyr.loclSRB;
 
     language MKD ; # Macedonian
     sub gjecyr by gjecyr.loclMKD;
 
     language BGR ; # Bulgarian
-    sub @locl by @locl2;
+    sub Decyr by Decyr.loclBGR;
+    sub Kacyr by Kacyr.loclBGR;
+    sub Elcyr by Elcyr.loclBGR;
+    sub vecyr by vecyr.loclBGR;
+    sub gecyr by gecyr.loclBGR;
+    sub decyr by decyr.loclBGR;
+    sub zhecyr by zhecyr.loclBGR;
+    sub zecyr by zecyr.loclBGR;
+    sub icyr by icyr.loclBGR;
+    sub ishortcyr by ishortcyr.loclBGR;
+    sub kacyr by kacyr.loclBGR;
+    sub elcyr by elcyr.loclBGR;
+    sub pecyr by pecyr.loclBGR;
+    sub tecyr by tecyr.loclBGR;
+    sub tsecyr by tsecyr.loclBGR;
+    sub shacyr by shacyr.loclBGR;
+    sub shchacyr by shchacyr.loclBGR;
+    sub hardcyr by hardcyr.loclBGR;
+    sub softcyr by softcyr.loclBGR;
+    sub yucyr by yucyr.loclBGR;
+    sub igravecyr by igravecyr.loclBGR;
 
 
 } locl;
+
 feature frac {
 # GSUB feature: Fractions
 # Lookups: 1
@@ -418,27 +432,64 @@ feature frac {
   sub three fraction four by threequarters;
 
 } frac;
+
 feature sups {
 # GSUB feature: Superscript
 # Lookups: 1
 
-  sub [one two three four] by [onesuperior twosuperior threesuperior four.superior];
+  sub one by onesuperior;
+  sub two by twosuperior;
+  sub three by threesuperior;
+  sub four by four.superior;
 
 } sups;
+
 feature pnum {
 # GSUB feature: Proportional Figures
 # Lookups: 1
 
-  sub @pnum by @pnum2;
+  sub comma.tnum by comma;
+  sub period.tnum by period;
+  sub zero.tnum by zero;
+  sub one.tnum by one;
+  sub two.tnum by two;
+  sub three.tnum by three;
+  sub four.tnum by four;
+  sub five.tnum by five;
+  sub six.tnum by six;
+  sub six.ss02.tnum by six.ss02;
+  sub seven.tnum by seven;
+  sub eight.tnum by eight;
+  sub nine.tnum by nine;
+  sub nine.ss02.tnum by nine.ss02;
+  sub colon.tnum by colon;
+  sub semicolon.tnum by semicolon;
 
 } pnum;
+
 feature tnum {
 # GSUB feature: Tabular Figures
 # Lookups: 1
 
-  sub @tnum by @tnum2;
+  sub comma by comma.tnum;
+  sub period by period.tnum;
+  sub zero by zero.tnum;
+  sub one by one.tnum;
+  sub two by two.tnum;
+  sub three by three.tnum;
+  sub four by four.tnum;
+  sub five by five.tnum;
+  sub six by six.tnum;
+  sub seven by seven.tnum;
+  sub eight by eight.tnum;
+  sub nine by nine.tnum;
+  sub colon by colon.tnum;
+  sub semicolon by semicolon.tnum;
+  sub six.ss02 by six.ss02.tnum;
+  sub nine.ss02 by nine.ss02.tnum;
 
 } tnum;
+
 feature ordn {
 # GSUB feature: Ordinals
 # Lookups: 2
@@ -448,212 +499,63 @@ feature ordn {
   sub N o period by numero;
 
 } ordn;
+
 feature ss02 {
 # GSUB feature: Stylistic Set 2
 # Lookups: 1
 
-  sub [six nine six.tnum nine.tnum] by [six.ss02 nine.ss02 six.tnum.ss02 nine.tnum.ss02];
+  sub six by six.ss02;
+  sub nine by nine.ss02;
+  sub six.tnum by six.ss02.tnum;
+  sub nine.tnum by nine.ss02.tnum;
 
 } ss02;
+
 feature ss03 {
 # GSUB feature: Stylistic Set 3
 # Lookups: 1
 
-  sub [Q Qacyr] by [Q.ss03 Qacyr.ss03];
+  sub Q by Q.ss03;
+  sub Qacyr by Qacyr.ss03;
 
 } ss03;
+
+feature liga {
+# GSUB feature: Standard Ligatures
+# Lookups: 1
+
+  sub f i by fi;
+  sub f l by fl;
+
+} liga;
+
+feature ss04 {
+# GSUB feature: Stylistic Set 4
+# Lookups: 1
+
+  sub question by question.ss04;
+  sub questiondown by questiondown.ss04;
+
+} ss04;
+
+feature ss05 {
+# GSUB feature: Stylistic Set 5
+# Lookups: 1
+
+  sub two by two.ss05;
+  sub twosuperior by twosuperior.ss05;
+  sub onehalf by onehalf.ss05;
+
+} ss05;
+
 feature cpsp {
 # GPOS feature: Capital Spacing
 # Lookups: 1
 
-@_J = [Lslash Zcaron J O P Q R S T U V W X Y Z Scaron OE Ydieresis Aacute Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Alpha Beta Chi Epsilon Phi Gamma Eta Iota Kappa Lambda Mu Nu Omicron Pi Theta Rho Sigma Tau Upsilon Xi Psi Zeta Zacute Lcommaaccent Lcaron Lacute Ncommaaccent Nacute Ncaron Ohungarumlaut Omacron Racute Rcaron Rcommaaccent Sacute Tcaron Umacron Uring Uhungarumlaut Uogonek Zdotaccent Omega Acyr Becyr Vecyr Gecyr Decyr Iecyr Zhecyr Zecyr Icyr Ishortcyr Kacyr Elcyr Emcyr Encyr Ocyr Pecyr Ercyr Escyr Tecyr Ucyr Efcyr Hacyr Tsecyr Checyr Shacyr Shchacyr Hardcyr Ylongcyr Softcyr Ereversedcyr Yucyr Yacyr Geupcyr Iukrcyr Djecyr Gjecyr Jecyr Eukrcyr Yukrcyr Ljecyr Njecyr Dzecyr Tshecyr Kjecyr Ushortcyr Dzhecyr Iocyr Delta Iotadieresis Upsilondieresis Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Scommaaccent Tcommaaccent Scedilla Ldot Eng Obreve Scircumflex Tcedilla Tbar Utilde Ubreve Wcircumflex Ycircumflex Oslashacute Iegravecyr Igravecyr Yatcyr Fitacyr Izhitsacyr Wgrave Wacute Wdieresis Ygrave Gestrokecyr Gehookcyr Zhetailcyr Zetailcyr Katailcyr Kaverticalstrokecyr Kabashkcyr Entailcyr Engecyr Estailcyr Ustraightcyr Ustraightstrokecyr Xatailcyr Chetailcyr Chevertcyr Shhacyr Palochkacyr Chekhakascyr Abrevecyr Adieresiscyr Aiecyr Iebrevecyr Schwacyr Zhedieresiscyr Zedieresiscyr Imacroncyr Idieresiscyr Odieresiscyr Obarcyr Umacroncyr Udieresiscyr Uacutedblcyr Chedieresiscyr Getailcyr Ylongdieresiscyr Wecyr Ohorn Uhorn LJ Lj NJ Nj Oogonek Odblgrave Oinvertedbreve Rdblgrave Rinvertedbreve Udblgrave Uinvertedbreve Odieresismacron Otildemacron Odotaccentmacron Ymacron Zhebrevecyr Odotbelow Ohoi Ocircumflexacute Ocircumflexgrave Ocircumflexhoi Ocircumflextilde Ocircumflexdotbelow Ohornacute Ohorngrave Ohornhoi Ohorntilde Ohorndotbelow Udotbelow Uhoi Uhornacute Uhorngrave Uhornhoi Uhorntilde Uhorndotbelow Ydotbelow Yhoi Ytilde Germandbls Schwa Kaisymbol Yusbigcyr Qacyr Decyr.loclBGR Elcyr.loclBGR];
-@_A = [Lslash Zcaron A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Scaron OE Ydieresis Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Alpha Beta Chi Epsilon Phi Gamma Eta Iota Kappa Lambda Mu Nu Omicron Pi Theta Rho Sigma Tau Upsilon Xi Psi Zeta Amacron Aogonek Ccaron Cacute Zacute Dcaron Emacron Edotaccent Ecaron Eogonek Iogonek Imacron Kcommaaccent Lcommaaccent Lcaron Lacute Ncommaaccent Nacute Ncaron Ohungarumlaut Omacron Racute Rcaron Rcommaaccent Sacute Tcaron Umacron Uring Uhungarumlaut Uogonek Zdotaccent Gcommaaccent Omega Dcroat Acyr Becyr Vecyr Gecyr Decyr Iecyr Zhecyr Zecyr Icyr Ishortcyr Kacyr Elcyr Emcyr Encyr Ocyr Pecyr Ercyr Escyr Tecyr Ucyr Efcyr Hacyr Tsecyr Checyr Shacyr Shchacyr Hardcyr Ylongcyr Softcyr Ereversedcyr Yucyr Yacyr Geupcyr Iukrcyr Djecyr Gjecyr Jecyr Eukrcyr Yukrcyr Ljecyr Njecyr Dzecyr Tshecyr Kjecyr Ushortcyr Dzhecyr Iocyr Delta Iotadieresis Upsilondieresis Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Abreve Scommaaccent Tcommaaccent Gbreve Idotaccent Scedilla Ccircumflex Cdotaccent Ebreve Gcircumflex Gdotaccent Hcircumflex Hbar Itilde Ibreve Jcircumflex Ldot Eng Obreve Scircumflex Tcedilla Tbar Utilde Ubreve Wcircumflex Ycircumflex Aringacute AEacute Oslashacute Iegravecyr Igravecyr Yatcyr Fitacyr Izhitsacyr Wgrave Wacute Wdieresis Ygrave Gestrokecyr Gehookcyr Zhetailcyr Zetailcyr Katailcyr Kaverticalstrokecyr Kabashkcyr Entailcyr Engecyr Estailcyr Ustraightcyr Ustraightstrokecyr Xatailcyr Chetailcyr Chevertcyr Shhacyr Palochkacyr Chekhakascyr Abrevecyr Adieresiscyr Aiecyr Iebrevecyr Schwacyr Zhedieresiscyr Zedieresiscyr Imacroncyr Idieresiscyr Odieresiscyr Obarcyr Umacroncyr Udieresiscyr Uacutedblcyr Chedieresiscyr Getailcyr Ylongdieresiscyr Wecyr Ohorn Uhorn Gcaron Dzcaron LJ Lj NJ Nj Oogonek Adblgrave Ainvertedbreve Edblgrave Einvertedbreve Idblgrave Iinvertedbreve Odblgrave Oinvertedbreve Rdblgrave Rinvertedbreve Udblgrave Uinvertedbreve Odieresismacron Otildemacron Odotaccentmacron Ymacron Zhebrevecyr Adotbelow Ahoi Acircumflexacute Acircumflexgrave Acircumflexhoi Acircumflextilde Acircumflexdotbelow Abreveacute Abrevegrave Abrevehoi Abrevetilde Abrevedotbelow Edotbelow Ehoi Etilde Ecircumflexacute Ecircumflexgrave Ecircumflexhoi Ecircumflextilde Ecircumflexdotbelow Ihoi Idotbelow Odotbelow Ohoi Ocircumflexacute Ocircumflexgrave Ocircumflexhoi Ocircumflextilde Ocircumflexdotbelow Ohornacute Ohorngrave Ohornhoi Ohorntilde Ohorndotbelow Udotbelow Uhoi Uhornacute Uhorngrave Uhornhoi Uhorntilde Uhorndotbelow Ydotbelow Yhoi Ytilde Germandbls Schwa DZcaron Kaisymbol Yusbigcyr Qacyr Decyr.loclBGR Elcyr.loclBGR];
-@_uring = [uacute ucircumflex udieresis umacron uring uhungarumlaut ishortcyr utilde ubreve imacroncyr idieresiscyr chedieresiscyr udblgrave uinvertedbreve uhoi aacute.ss01 acircumflex.ss01 atilde.ss01 adieresis.ss01 aring.ss01 amacron.ss01 abreve.ss01 gcircumflex.ss01 gbreve.ss01 gcaron.ss01 aringacute.ss01 adblgrave.ss01 ainvertedbreve.ss01 ishortcyr.loclBGR pecyr.loclSRB pecyr.loclSRB.ss01 tecyr.loclSRB.ss01 abrevecyr.ss01 ahoi.ss01 acircumflexgrave.ss01 acircumflextilde.ss01 acircumflexdotbelow.ss01 abreveacute.ss01 abrevegrave.ss01 abrevehoi.ss01 abrevetilde.ss01 abrevedotbelow.ss01];
-@_H = [H I M N Ntilde Eta Iota Mu Nu Pi Ncommaaccent Nacute Ncaron Icyr Ishortcyr Elcyr Emcyr Encyr Pecyr Checyr Shacyr Ylongcyr Yacyr Iukrcyr Dzhecyr Etatonos Iotatonos Hcircumflex Eng Igravecyr Chevertcyr Palochkacyr Chekhakascyr Imacroncyr Idieresiscyr Chedieresiscyr Ylongdieresiscyr];
-@_b = [b e o p oe ae egrave ograve thorn phi omicron rho upsilon omega psi edotaccent iecyr ocyr ercyr efcyr ereversedcyr yucyr omegatonos aeacute iegravecyr fitacyr aiecyr schwacyr obarcyr oogonek edotbelow odotbelow ae.ss01 aeacute.ss01 schwa yucyr.loclBGR aiecyr.ss01];
-@_eth = [eacute ecircumflex edieresis eth oacute ocircumflex otilde odieresis delta emacron ecaron ohungarumlaut omacron iocyr becyr omicrontonos upsilontonos upsilondieresis ebreve obreve iebrevecyr odieresiscyr edblgrave einvertedbreve odblgrave oinvertedbreve odieresismacron otildemacron odotaccentmacron ehoi etilde ecircumflextilde ecircumflexdotbelow ohoi ocircumflextilde ocircumflexdotbelow becyr.loclSRB];
-@_D = [D O Eth Ograve Oacute Ocircumflex Otilde Odieresis Omicron Theta Dcaron Omacron Dcroat Ocyr Ereversedcyr Yucyr Omicrontonos Obreve Fitacyr Schwacyr Odieresiscyr Obarcyr Oogonek Odblgrave Oinvertedbreve Odieresismacron Otildemacron Odotaccentmacron Odotbelow Ohoi Ocircumflexhoi Ocircumflextilde Ocircumflexdotbelow Schwa Qacyr];
-@_u = [dotlessi u ugrave dzhecyr icyr elcyr emcyr encyr checyr shacyr ylongcyr mu dotlessj igravecyr chevertcyr chekhakascyr ylongdieresiscyr udotbelow a.ss01 g.ss01 agrave.ss01 gdotaccent.ss01 gcommaaccent.ss01 dotlessj.calt acyr.ss01 shacyr.loclBGR igravecyr.loclBGR adieresiscyr.ss01 adotbelow.ss01 micro];
-@_A2 = [A Agrave Aacute Acircumflex Atilde Adieresis Aring Alpha Lambda Amacron Acyr Delta Alphatonos Abreve Aringacute Abrevecyr Adieresiscyr Adblgrave Ainvertedbreve Adotbelow Ahoi Acircumflextilde Acircumflexdotbelow Abreveacute Abrevegrave Abrevehoi Abrevetilde Abrevedotbelow Elcyr.loclBGR];
-@_plus = [plus less equal greater asciicircum asciitilde logicalnot minus plusminus multiply divide lessequal greaterequal notequal approxequal lozenge divisionslash bulletoperator zero.tnum one.tnum two.tnum three.tnum four.tnum five.tnum six.tnum seven.tnum eight.tnum nine.tnum commercialminussign];
-@_E = [E OE AE Egrave Eacute Ecircumflex Edieresis Epsilon Sigma Xi Emacron Edotaccent Iecyr Iocyr Epsilontonos Ebreve AEacute Iegravecyr Aiecyr Iebrevecyr Edblgrave Einvertedbreve Edotbelow Ehoi Etilde Ecircumflexdotbelow];
-@_aacute = [aacute acircumflex atilde adieresis ntilde amacron nacute ncaron abreve aringacute abrevecyr adieresiscyr ainvertedbreve ahoi acircumflextilde abreveacute abrevegrave abrevehoi abrevetilde abrevedotbelow];
-@_J2 = [J U Ugrave Uacute Ucircumflex Udieresis Umacron Uring Uogonek Jecyr Utilde Ubreve LJ NJ Udblgrave Uinvertedbreve Udotbelow Uhoi];
-@_a = [a h m n agrave ncommaaccent djecyr tshecyr acyr hcircumflex hbar eng shhacyr adblgrave adotbelow acircumflexdotbelow pecyr.loclBGR tecyr.loclBGR];
-@_Y = [Y Ydieresis Yacute Upsilon Upsilondieresis Upsilontonos Ycircumflex Ygrave Ustraightcyr Ustraightstrokecyr Ymacron Ydotbelow Yhoi Ytilde];
-@_i = [fi i j igrave iukrcyr jecyr f_f_i Lj lj Nj nj j.calt idotaccent jecyr.calt];
-@_v = [v w y gamma nu ucyr wcircumflex wgrave wacute wdieresis ygrave ustraightcyr ustraightstrokecyr wecyr];
-@_tonos = [quotedbl quotesingle quoteleft quoteright quotedblleft quotedblright minute second tonos numeralsign apostrophemod primemod tonos.case primedblmod];
-@_k = [k kappa kcommaaccent zhecyr kacyr kgreenlandic kaverticalstrokecyr kabashkcyr zhedieresiscyr zhebrevecyr yusbigcyr zhecyr.loclBGR kacyr.loclBGR];
-@_degree = [asterisk trademark ordfeminine registered degree twosuperior threesuperior onesuperior ordmasculine numero four.superior ordfeminine.ss01];
-@_Iacute = [Iacute Icircumflex Idieresis Imacron Yukrcyr Iotadieresis Itilde Ibreve Idblgrave Iinvertedbreve Ihoi];
-@_K = [K Kappa Kcommaaccent Zhecyr Kacyr Kjecyr Kaverticalstrokecyr Kabashkcyr Zhedieresiscyr Zhebrevecyr Yusbigcyr];
-@_itilde = [icircumflex idieresis imacron yukrcyr itilde ibreve jcircumflex idblgrave iinvertedbreve ihoi jcircumflex.calt];
-@_B = [B Beta Becyr Vecyr Zecyr Djecyr Tshecyr Gehookcyr Zetailcyr Zedieresiscyr];
-@_V = [V W Ushortcyr Wcircumflex Wgrave Wacute Wdieresis Umacroncyr Udieresiscyr Wecyr];
-@_yacute = [yacute ydieresis ushortcyr ycircumflex umacroncyr udieresiscyr uacutedblcyr ymacron yhoi ytilde];
-@_T = [T Gamma Tau Gecyr Tecyr Tcommaaccent Tcedilla Engecyr Getailcyr];
-@_arrowup = [arrowleft arrowup arrowright arrowdown arrowNW arrowNE arrowSE arrowSW];
-@_c = [c ccedilla epsilon eukrcyr escyr cdotaccent estailcyr];
-@_uni0434 = [decyr tsecyr shchacyr entailcyr chetailcyr tsecyr.loclBGR shchacyr.loclBGR];
-@_uni0459 = [ljecyr njecyr hardcyr softcyr yatcyr hardcyr.loclBGR softcyr.loclBGR];
-@_C = [C Ccedilla Escyr Eukrcyr Cdotaccent Estailcyr];
-@_G = [G Gcommaaccent Gbreve Gcircumflex Gdotaccent Gcaron];
-@_S = [S Sacute Dzecyr Scommaaccent Scedilla Germandbls];
-@_Ohorn = [Ohorn Ohornacute Ohorngrave Ohornhoi Ohorntilde Ohorndotbelow];
-@_R = [R Racute Rcaron Rcommaaccent Rdblgrave Rinvertedbreve];
-@_Uhorn = [Uhorn Uhornacute Uhorngrave Uhornhoi Uhorntilde Uhorndotbelow];
-@_d = [fl exclam d l f_f_l palochkacyr];
-@_hyphen = [hyphen endash emdash periodcentered softhyphen hyphen-gnrl];
-@_ohorn = [ohorn ohornacute ohorngrave ohornhoi ohorntilde ohorndotbelow];
-@_uhorn = [uhorn uhornacute uhorngrave uhornhoi uhorntilde uhorndotbelow];
-@_uni044F = [yacyr vecyr zecyr pecyr gehookcyr zetailcyr];
-@_uni1EBF = [ecircumflexacute ecircumflexgrave ecircumflexhoi ocircumflexacute ocircumflexgrave ocircumflexhoi];
-@_uni042A = [Hardcyr Softcyr Ljecyr Njecyr Yatcyr];
-@_uni0414 = [Decyr Tsecyr Shchacyr Entailcyr Chetailcyr];
-@_uni0433 = [gecyr tecyr gestrokecyr engecyr tecyr.loclSRB];
-@_colon = [colon semicolon exclamdown questiongreek];
-@_comma = [comma quotesinglbase quotedblbase lownumeralsign];
-@_scaron = [scaron germandbls sacute scircumflex];
-@_racute = [racute rcaron rdblgrave rinvertedbreve];
-@_s = [s dzecyr scommaaccent scedilla];
-@_zcaron = [zcaron zacute Dzcaron dzcaron];
-@_uni1EBE = [Ecircumflexacute Ecircumflexgrave Ecircumflexhoi Ecircumflextilde];
-@_Ccaron = [Ccaron Cacute Ccircumflex];
-@_X = [X Chi Hacyr];
-@_L = [L Lcommaaccent Lacute];
-@_P = [P Rho Ercyr];
-@_Z = [Z Zeta Zdotaccent];
-@_Zcaron = [Zcaron Zacute DZcaron];
-@_iota = [alpha iota alphatonos];
-@_x = [ampersand x hacyr];
-@_bar = [bracketright bar brokenbar];
-@_parenleft = [parenleft bracketleft braceleft];
-@_ccaron = [ccaron cacute ccircumflex];
-@_f = [f f_f f.calt];
-@_g = [g gcommaaccent gdotaccent];
-@_gbreve = [gbreve gcircumflex gcaron];
-@_iogonek = [iogonek idotbelow iogonek.dotless];
-@_t = [t pi tbar];
-@_uni0433.loclBGR = [gecyr.loclBGR gecyr.loclSRB gjecyr.loclMKD.ss01];
-@_uni0497 = [zhetailcyr katailcyr xatailcyr];
-@_uni1EA4 = [Acircumflexacute Acircumflexgrave Acircumflexhoi];
-@_uni1EA5 = [acircumflexacute acircumflexgrave acircumflexhoi];
-@_F = [F Gestrokecyr];
-@_Igrave = [Igrave Idotaccent];
-@_uni03A9 = [Omega Omegatonos];
-@_Oslash = [Oslash Oslashacute];
-@_Phi = [Phi Efcyr];
-@_Scaron = [Scaron Scircumflex];
-@_Tcaron = [Tcaron Gjecyr];
-@_uogonek = [uogonek aogonek.ss01];
-@_at = [at copyright];
-@_B2 = [B D E F H I K L M N P R Egrave Eacute Ecircumflex Ntilde Thorn Beta Epsilon Gamma Eta Iota Kappa Mu Nu Pi Rho numero Emacron Edotaccent Eogonek Kcommaaccent Lcommaaccent Lcaron Ncommaaccent Nacute Ncaron Racute Rcommaaccent Becyr Vecyr Gecyr Iecyr Icyr Ishortcyr Kacyr Emcyr Encyr Pecyr Ercyr Tsecyr Shacyr Shchacyr Ylongcyr Softcyr Yucyr Geupcyr Iukrcyr Gjecyr Njecyr Kjecyr Dzhecyr Epsilontonos Etatonos Iotatonos Hcircumflex Ldot Eng Iegravecyr Igravecyr Gehookcyr Katailcyr Kaverticalstrokecyr Entailcyr Engecyr Shhacyr Palochkacyr Imacroncyr Idieresiscyr Getailcyr Ylongdieresiscyr Dzcaron LJ Lj NJ Nj Einvertedbreve Rinvertedbreve Edotbelow Ehoi Etilde Ecircumflexacute Ecircumflexgrave Ecircumflexhoi Ecircumflexdotbelow Germandbls DZcaron Kaisymbol];
-@_eth2 = [egrave ecircumflex edieresis eth ograve ocircumflex otilde odieresis delta ccaron emacron ecaron omacron iocyr ccircumflex ebreve obreve iegravecyr iebrevecyr odieresiscyr einvertedbreve oinvertedbreve odieresismacron otildemacron odotaccentmacron ehoi etilde ecircumflexacute ecircumflexgrave ecircumflexhoi ecircumflextilde ecircumflexdotbelow ohoi ocircumflexacute ocircumflexgrave ocircumflexhoi ocircumflextilde ocircumflexdotbelow ohorngrave ohornhoi ohorntilde agrave.ss01 acircumflex.ss01 atilde.ss01 adieresis.ss01 aring.ss01 amacron.ss01 abreve.ss01 gcircumflex.ss01 gbreve.ss01 gcaron.ss01 aringacute.ss01 ainvertedbreve.ss01 becyr.loclSRB abrevecyr.ss01 ahoi.ss01 acircumflexacute.ss01 acircumflexgrave.ss01 acircumflexhoi.ss01 acircumflextilde.ss01 acircumflexdotbelow.ss01 abreveacute.ss01 abrevegrave.ss01 abrevehoi.ss01 abrevetilde.ss01 abrevedotbelow.ss01];
-@_c2 = [c d e o q oe ccedilla eacute oacute alpha phi omicron sigma omega cacute dcaron edotaccent eogonek ohungarumlaut dcroat eukrcyr iecyr ocyr escyr efcyr alphatonos omicrontonos omegatonos cdotaccent fitacyr estailcyr schwacyr obarcyr ohorn oogonek edotbelow odotbelow ohornacute ohorndotbelow a.ss01 g.ss01 aacute.ss01 ae.ss01 aogonek.ss01 gdotaccent.ss01 aeacute.ss01 dzcaron schwa sigmafinal qacyr gcommaaccent.ss01 acyr.ss01 decyr.loclBGR decyr.loclSRB adieresiscyr.ss01 aiecyr.ss01 adotbelow.ss01];
-@_C2 = [C G O Q OE Ccedilla Ograve Oacute Ocircumflex Otilde Odieresis Omicron Theta Ccaron Cacute Ohungarumlaut Omacron Gcommaaccent Ocyr Escyr Eukrcyr Omicrontonos Gbreve Ccircumflex Cdotaccent Gcircumflex Gdotaccent Obreve Fitacyr Estailcyr Schwacyr Odieresiscyr Obarcyr Ohorn Gcaron Oogonek Oinvertedbreve Odieresismacron Otildemacron Odotaccentmacron Odotbelow Ohoi Ocircumflexacute Ocircumflexgrave Ocircumflexhoi Ocircumflextilde Ocircumflexdotbelow Ohornacute Ohorngrave Ohornhoi Ohorntilde Ohorndotbelow Schwa Qacyr];
-@_m = [dotlessi m n p r eta kappa ncommaaccent nacute racute njecyr kjecyr dzhecyr icyr kacyr encyr ercyr tsecyr shacyr shchacyr ylongcyr softcyr yucyr etatonos mu kgreenlandic eng gehookcyr katailcyr kaverticalstrokecyr entailcyr engecyr getailcyr ylongdieresiscyr nj kaisymbol pecyr.loclBGR tecyr.loclBGR micro];
-@_A3 = [A Agrave Aacute Acircumflex Atilde Adieresis Aring Alpha Lambda Amacron Aogonek Acyr Delta Alphatonos Abreve Aringacute Abrevecyr Adieresiscyr Ainvertedbreve Adotbelow Ahoi Acircumflexacute Acircumflexgrave Acircumflexhoi Acircumflextilde Acircumflexdotbelow Abreveacute Abrevegrave Abrevehoi Abrevetilde Abrevedotbelow Elcyr.loclBGR];
-@_agrave = [agrave acircumflex atilde adieresis amacron abreve aringacute abrevecyr adieresiscyr ainvertedbreve ahoi acircumflexacute acircumflexgrave acircumflexhoi acircumflextilde acircumflexdotbelow abreveacute abrevegrave abrevehoi abrevetilde abrevedotbelow];
-@_U = [U Ugrave Uacute Ucircumflex Udieresis Umacron Uring Uhungarumlaut Uogonek Utilde Ubreve Uhorn Uinvertedbreve Udotbelow Uhoi Uhornacute Uhorngrave Uhornhoi Uhorntilde Uhorndotbelow];
-@_uring2 = [ugrave ucircumflex udieresis umacron uring upsilondieresis utilde ubreve uinvertedbreve uhoi uhorngrave uhornhoi uhorntilde ishortcyr.loclBGR pecyr.loclSRB pecyr.loclSRB.ss01 tecyr.loclSRB.ss01 igravecyr.loclBGR];
-@_u2 = [u uacute iota upsilon psi uhungarumlaut uogonek upsilontonos uhorn udotbelow uhornacute uhorndotbelow icyr.loclBGR tsecyr.loclBGR shacyr.loclBGR shchacyr.loclBGR softcyr.loclBGR];
-@_b2 = [exclam b h k l germandbls thorn beta lcaron kcommaaccent ldot shhacyr palochkacyr lj kacyr.loclBGR yucyr.loclBGR];
-@_Y2 = [Y Yacute Upsilon Upsilontonos Ycircumflex Ygrave Ustraightcyr Ustraightstrokecyr Ymacron Ydotbelow Yhoi Ytilde];
-@_v2 = [v w gamma nu wcircumflex izhitsacyr wgrave wacute wdieresis ustraightcyr ustraightstrokecyr wecyr];
-@_degree2 = [asterisk trademark ordfeminine registered degree twosuperior threesuperior onesuperior ordmasculine four.superior ordfeminine.ss01];
-@_Igrave2 = [Igrave Icircumflex Idieresis Imacron Yukrcyr Iotadieresis Itilde Ibreve Iinvertedbreve Ihoi];
-@_T2 = [T Tau Tecyr Hardcyr Djecyr Tshecyr Tcommaaccent Tcedilla Kabashkcyr];
-@_a2 = [a aacute aring ae aogonek acyr aeacute aiecyr adotbelow];
-@_itilde2 = [icircumflex idieresis imacron yukrcyr iotadieresis itilde ibreve iinvertedbreve ihoi];
-@_ntilde = [ntilde ncaron gjecyr ishortcyr igravecyr imacroncyr idieresiscyr rinvertedbreve gjecyr.loclMKD];
-@_ygrave = [ydieresis ushortcyr ycircumflex ygrave umacroncyr udieresiscyr ymacron yhoi ytilde];
-@_Dcaron = [Edieresis Dcaron Ecaron Rcaron Iocyr Ebreve Iebrevecyr Ecircumflextilde];
-@_V2 = [V W Wcircumflex Izhitsacyr Wgrave Wacute Wdieresis Wecyr];
-@_f2 = [fi fl f f_f f_f_i f_f_l f.calt];
-@_S2 = [S Sacute Dzecyr Scommaaccent Scedilla Scircumflex];
-@_uni0436 = [zhecyr zhetailcyr zhedieresiscyr zhebrevecyr yusbigcyr zhecyr.loclBGR];
-@_i2 = [i iacute iukrcyr iotatonos idotaccent];
-@_s2 = [s sacute dzecyr scommaaccent scedilla];
-@_uni0423 = [Ucyr Ushortcyr Umacroncyr Udieresiscyr Uacutedblcyr];
-@_uni0416 = [Zhecyr Zhetailcyr Zhedieresiscyr Zhebrevecyr Yusbigcyr];
-@_uni0427 = [Checyr Chetailcyr Chevertcyr Chekhakascyr Chedieresiscyr];
-@_uni0491 = [geupcyr vecyr gecyr emcyr pecyr];
-@_uni0442 = [tecyr hardcyr kabashkcyr tecyr.loclSRB hardcyr.loclBGR];
-@_y = [y yacute ucyr uacutedblcyr ydotbelow];
-@_X2 = [X Chi Hacyr Xatailcyr];
-@_Z2 = [Z Zeta Zacute Zdotaccent];
-@_j = [j jecyr j.calt jecyr.calt];
-@_uni0447 = [checyr chetailcyr chevertcyr chekhakascyr];
-@_AE = [AE AEacute Aiecyr];
-@_Eth = [Eth Dcroat Gestrokecyr];
-@_Iacute2 = [Iacute Lacute Idotaccent];
-@_J3 = [J Jecyr Jcircumflex];
-@_bar2 = [bracketleft bar brokenbar];
-@_parenright = [parenright bracketright braceright];
-@_colon2 = [colon exclamdown questiongreek];
-@_hbar = [djecyr tshecyr hbar];
-@_t2 = [t tcaron tbar];
-@_uni0205 = [edblgrave odblgrave adblgrave.ss01];
-@_uni04142 = [Decyr Elcyr Ljecyr];
-@_uni0417 = [Zecyr Ereversedcyr Zetailcyr];
-@_uni04592 = [ljecyr decyr elcyr];
-@_uni0437 = [zecyr ereversedcyr zetailcyr];
-@_x2 = [x hacyr xatailcyr];
-@_z = [z zacute zdotaccent];
-@_Ydieresis = [Ydieresis Upsilondieresis];
-@_period = [period ellipsis];
-@_epsilon = [epsilon epsilontonos];
-@_jcircumflex = [jcircumflex jcircumflex.calt];
-@_onehalf = [onequarter onehalf];
-@_oslash = [oslash oslashacute];
-@_percent = [percent perthousand];
-@_scaron2 = [scaron scircumflex];
-@_six = [zero six];
-@_uni021B = [tcommaaccent tcedilla];
-@_uni0204 = [Edblgrave Rdblgrave];
-@_uni0209 = [idblgrave rdblgrave];
-@_uni0237 = [dotlessj dotlessj.calt];
-@_beta = [beta vecyr.loclBGR];
-@_dcaron = [dcaron lcaron];
-@_eta = [eta etatonos];
-@_iotatonos = [iotatonos iotadieresis];
-@_zero = [zero nine];
-@_r = [r rcommaaccent];
-@_uni0453 = [gjecyr gjecyr.loclMKD];
-@_uni0496 = [Zhetailcyr Katailcyr];
-@_uni1EA5.ss01 = [acircumflexacute.ss01 acircumflexhoi.ss01];
-@_uni1ED0 = [Ocircumflexacute Ocircumflexgrave];
-@_z2 = [z zdotaccent];
+@_J = [Lslash Zcaron J O P Q R S T U V W X Y Z Scaron OE Ydieresis Aacute Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Alpha Beta Chi Delta Epsilon Phi Gamma Eta Iota Kappa Lambda Mu Nu Omicron Pi Theta Rho Sigma Tau Upsilon Omega Xi Psi Zeta Zacute Lcaron Lacute Nacute Ncaron Ohungarumlaut Omacron Racute Rcaron Sacute Tcaron Umacron Uring Uhungarumlaut Uogonek Zdotaccent Iotadieresis Upsilondieresis Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Scedilla Ldot Eng Obreve Scircumflex Tbar Utilde Ubreve Wcircumflex Ycircumflex Oslashacute Wgrave Wacute Wdieresis Ygrave Ohorn Uhorn LJ Lcommaaccent Lj NJ Ncommaaccent Nj Rcommaaccent Scommaaccent Tcedilla Tcommaaccent Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflextilde Odblgrave Odieresismacron Odotaccentmacron Odotbelow Ohornacute Ohorndotbelow Ohorngrave Ohorntilde Oinvertedbreve Oogonek Otildemacron Rdblgrave Rinvertedbreve Germandbls Schwa Udblgrave Udotbelow Uhornacute Uhorndotbelow Uhorngrave Uhorntilde Uinvertedbreve Ydotbelow Ymacron Ytilde Kaisymbol Iegravecyr Iocyr Djecyr Gjecyr Eukrcyr Dzecyr Iukrcyr Yukrcyr Jecyr Ljecyr Njecyr Tshecyr Kjecyr Igravecyr Ushortcyr Dzhecyr Acyr Becyr Vecyr Gecyr Decyr Iecyr Zhecyr Zecyr Icyr Ishortcyr Kacyr Elcyr Emcyr Encyr Ocyr Pecyr Ercyr Escyr Tecyr Ucyr Efcyr Hacyr Tsecyr Checyr Shacyr Shchacyr Hardcyr Ylongcyr Softcyr Ereversedcyr Yucyr Yacyr Yatcyr Yusbigcyr Fitacyr Izhitsacyr Geupcyr Gestrokecyr Gehookcyr Zhetailcyr Zetailcyr Katailcyr Kaverticalstrokecyr Kabashkcyr Entailcyr Engecyr Estailcyr Ustraightcyr Ustraightstrokecyr Xatailcyr Chetailcyr Chevertcyr Shhacyr Palochkacyr Zhebrevecyr Chekhakascyr Abrevecyr Adieresiscyr Aiecyr Iebrevecyr Schwacyr Zhedieresiscyr Zedieresiscyr Imacroncyr Idieresiscyr Odieresiscyr Obarcyr Umacroncyr Udieresiscyr Uacutedblcyr Chedieresiscyr Getailcyr Ylongdieresiscyr Qacyr Wecyr Ohoi Ocircumflexhoi Ohornhoi Uhoi Uhornhoi Yhoi Decyr.loclBGR Elcyr.loclBGR];
+@_A = [Lslash Zcaron A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Scaron OE Ydieresis Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Alpha Beta Chi Delta Epsilon Phi Gamma Eta Iota Kappa Lambda Mu Nu Omicron Pi Theta Rho Sigma Tau Upsilon Omega Xi Psi Zeta Amacron Aogonek Ccaron Cacute Zacute Dcaron Emacron Edotaccent Ecaron Eogonek Iogonek Imacron Lcaron Lacute Nacute Ncaron Ohungarumlaut Omacron Racute Rcaron Sacute Tcaron Umacron Uring Uhungarumlaut Uogonek Zdotaccent Dcroat Iotadieresis Upsilondieresis Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Abreve Gbreve Idotaccent Scedilla Ccircumflex Cdotaccent Ebreve Gcircumflex Gdotaccent Hcircumflex Hbar Itilde Ibreve Jcircumflex Ldot Eng Obreve Scircumflex Tbar Utilde Ubreve Wcircumflex Ycircumflex Aringacute AEacute Oslashacute Wgrave Wacute Wdieresis Ygrave Ohorn Uhorn Gcaron Gcommaaccent Kcommaaccent LJ Lcommaaccent Lj NJ Ncommaaccent Nj Rcommaaccent Scommaaccent Tcedilla Tcommaaccent Abreveacute Abrevedotbelow Abrevegrave Abrevetilde Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflextilde Adblgrave Adotbelow Ainvertedbreve DZcaron Dzcaron Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflextilde Edblgrave Edotbelow Einvertedbreve Etilde Idblgrave Idotbelow Iinvertedbreve Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflextilde Odblgrave Odieresismacron Odotaccentmacron Odotbelow Ohornacute Ohorndotbelow Ohorngrave Ohorntilde Oinvertedbreve Oogonek Otildemacron Rdblgrave Rinvertedbreve Germandbls Schwa Udblgrave Udotbelow Uhornacute Uhorndotbelow Uhorngrave Uhorntilde Uinvertedbreve Ydotbelow Ymacron Ytilde Kaisymbol Iegravecyr Iocyr Djecyr Gjecyr Eukrcyr Dzecyr Iukrcyr Yukrcyr Jecyr Ljecyr Njecyr Tshecyr Kjecyr Igravecyr Ushortcyr Dzhecyr Acyr Becyr Vecyr Gecyr Decyr Iecyr Zhecyr Zecyr Icyr Ishortcyr Kacyr Elcyr Emcyr Encyr Ocyr Pecyr Ercyr Escyr Tecyr Ucyr Efcyr Hacyr Tsecyr Checyr Shacyr Shchacyr Hardcyr Ylongcyr Softcyr Ereversedcyr Yucyr Yacyr Yatcyr Yusbigcyr Fitacyr Izhitsacyr Geupcyr Gestrokecyr Gehookcyr Zhetailcyr Zetailcyr Katailcyr Kaverticalstrokecyr Kabashkcyr Entailcyr Engecyr Estailcyr Ustraightcyr Ustraightstrokecyr Xatailcyr Chetailcyr Chevertcyr Shhacyr Palochkacyr Zhebrevecyr Chekhakascyr Abrevecyr Adieresiscyr Aiecyr Iebrevecyr Schwacyr Zhedieresiscyr Zedieresiscyr Imacroncyr Idieresiscyr Odieresiscyr Obarcyr Umacroncyr Udieresiscyr Uacutedblcyr Chedieresiscyr Getailcyr Ylongdieresiscyr Qacyr Wecyr Ahoi Acircumflexhoi Abrevehoi Ehoi Ecircumflexhoi Ihoi Ohoi Ocircumflexhoi Ohornhoi Uhoi Uhornhoi Yhoi Decyr.loclBGR Elcyr.loclBGR];
 
   pos @_J @_A 40;
 
 } cpsp;
-feature liga {
-# Standard Ligatures
 
-#> feature
-  sub f i by fi;
-  sub f l by fl;
-  sub f' @f_f by f.f;
-  sub f' @f_i by f.i;
-  sub f' @f_l by f.l;
-#< feature
-} liga;
-feature ss04 {
-# Stylistic Set 01–20
-
-#> feature
-  sub question by question.ss04;
-  sub questiondown by questiondown.ss04;
-#< feature
-} ss04;
-feature ss05 {
-# Stylistic Set 01–20
-
-#> feature
-  sub onehalf by onehalf.ss05;
-  sub two by two.ss05;
-  sub twosuperior by twosuperior.ss05;
-#< feature
-} ss05;
