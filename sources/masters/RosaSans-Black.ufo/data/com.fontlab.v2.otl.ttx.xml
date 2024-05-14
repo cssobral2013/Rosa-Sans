@@ -850,119 +850,35 @@
           <ClassDef glyph="tcedilla" class="0"/>
           <ClassDef glyph="tcommaaccent" class="0"/>
           <ClassDef glyph="hookabovecomb.case" class="0"/>
-          <ClassDef glyph="Abreveacute" class="0"/>
-          <ClassDef glyph="Abrevedotbelow" class="0"/>
-          <ClassDef glyph="Abrevegrave" class="0"/>
-          <ClassDef glyph="Abrevetilde" class="0"/>
-          <ClassDef glyph="Acircumflexacute" class="0"/>
-          <ClassDef glyph="Acircumflexdotbelow" class="0"/>
-          <ClassDef glyph="Acircumflexgrave" class="0"/>
-          <ClassDef glyph="Acircumflextilde" class="0"/>
-          <ClassDef glyph="Adblgrave" class="0"/>
-          <ClassDef glyph="Adotbelow" class="0"/>
-          <ClassDef glyph="Ainvertedbreve" class="0"/>
+          <ClassDef glyph="softhyphen" class="0"/>
           <ClassDef glyph="DZcaron" class="0"/>
           <ClassDef glyph="Dzcaron" class="0"/>
-          <ClassDef glyph="Ecircumflexacute" class="0"/>
-          <ClassDef glyph="Ecircumflexdotbelow" class="0"/>
-          <ClassDef glyph="Ecircumflexgrave" class="0"/>
-          <ClassDef glyph="Ecircumflextilde" class="0"/>
-          <ClassDef glyph="Edblgrave" class="0"/>
-          <ClassDef glyph="Edotbelow" class="0"/>
-          <ClassDef glyph="Einvertedbreve" class="0"/>
-          <ClassDef glyph="Etilde" class="0"/>
-          <ClassDef glyph="Idblgrave" class="0"/>
-          <ClassDef glyph="Idotbelow" class="0"/>
-          <ClassDef glyph="Iinvertedbreve" class="0"/>
-          <ClassDef glyph="a.ss01" class="0"/>
-          <ClassDef glyph="aacute.ss01" class="0"/>
-          <ClassDef glyph="abreve.ss01" class="0"/>
-          <ClassDef glyph="abreveacute" class="0"/>
-          <ClassDef glyph="abreveacute.ss01" class="0"/>
-          <ClassDef glyph="abrevedotbelow" class="0"/>
-          <ClassDef glyph="abrevedotbelow.ss01" class="0"/>
-          <ClassDef glyph="abrevegrave" class="0"/>
-          <ClassDef glyph="abrevegrave.ss01" class="0"/>
-          <ClassDef glyph="abrevetilde" class="0"/>
-          <ClassDef glyph="abrevetilde.ss01" class="0"/>
-          <ClassDef glyph="acircumflex.ss01" class="0"/>
-          <ClassDef glyph="acircumflexacute" class="0"/>
-          <ClassDef glyph="acircumflexacute.ss01" class="0"/>
-          <ClassDef glyph="acircumflexdotbelow" class="0"/>
-          <ClassDef glyph="acircumflexdotbelow.ss01" class="0"/>
-          <ClassDef glyph="acircumflexgrave" class="0"/>
-          <ClassDef glyph="acircumflexgrave.ss01" class="0"/>
-          <ClassDef glyph="acircumflextilde" class="0"/>
-          <ClassDef glyph="acircumflextilde.ss01" class="0"/>
+          <ClassDef glyph="Adblgrave" class="0"/>
           <ClassDef glyph="adblgrave" class="0"/>
-          <ClassDef glyph="adblgrave.ss01" class="0"/>
-          <ClassDef glyph="adieresis.ss01" class="0"/>
-          <ClassDef glyph="adotbelow" class="0"/>
-          <ClassDef glyph="adotbelow.ss01" class="0"/>
-          <ClassDef glyph="agrave.ss01" class="0"/>
+          <ClassDef glyph="Ainvertedbreve" class="0"/>
           <ClassDef glyph="ainvertedbreve" class="0"/>
-          <ClassDef glyph="ainvertedbreve.ss01" class="0"/>
-          <ClassDef glyph="amacron.ss01" class="0"/>
-          <ClassDef glyph="aogonek.ss01" class="0"/>
-          <ClassDef glyph="aring.ss01" class="0"/>
-          <ClassDef glyph="aringacute.ss01" class="0"/>
-          <ClassDef glyph="atilde.ss01" class="0"/>
-          <ClassDef glyph="ae.ss01" class="0"/>
-          <ClassDef glyph="aeacute.ss01" class="0"/>
-          <ClassDef glyph="ecircumflexacute" class="0"/>
-          <ClassDef glyph="ecircumflexdotbelow" class="0"/>
-          <ClassDef glyph="ecircumflexgrave" class="0"/>
-          <ClassDef glyph="ecircumflextilde" class="0"/>
+          <ClassDef glyph="Edblgrave" class="0"/>
           <ClassDef glyph="edblgrave" class="0"/>
-          <ClassDef glyph="edotbelow" class="0"/>
+          <ClassDef glyph="Einvertedbreve" class="0"/>
           <ClassDef glyph="einvertedbreve" class="0"/>
-          <ClassDef glyph="etilde" class="0"/>
-          <ClassDef glyph="schwa" class="0"/>
+          <ClassDef glyph="Idblgrave" class="0"/>
           <ClassDef glyph="idblgrave" class="0"/>
-          <ClassDef glyph="idotaccent" class="0"/>
-          <ClassDef glyph="idotbelow" class="0"/>
+          <ClassDef glyph="Iinvertedbreve" class="0"/>
           <ClassDef glyph="iinvertedbreve" class="0"/>
-          <ClassDef glyph="ocircumflexacute" class="0"/>
-          <ClassDef glyph="ocircumflexdotbelow" class="0"/>
-          <ClassDef glyph="ocircumflexgrave" class="0"/>
-          <ClassDef glyph="ocircumflextilde" class="0"/>
           <ClassDef glyph="odblgrave" class="0"/>
-          <ClassDef glyph="odieresismacron" class="0"/>
-          <ClassDef glyph="odotaccentmacron" class="0"/>
-          <ClassDef glyph="odotbelow" class="0"/>
-          <ClassDef glyph="ohornacute" class="0"/>
-          <ClassDef glyph="ohorndotbelow" class="0"/>
-          <ClassDef glyph="ohorngrave" class="0"/>
-          <ClassDef glyph="ohorntilde" class="0"/>
           <ClassDef glyph="oinvertedbreve" class="0"/>
-          <ClassDef glyph="otildemacron" class="0"/>
           <ClassDef glyph="rdblgrave" class="0"/>
           <ClassDef glyph="rinvertedbreve" class="0"/>
           <ClassDef glyph="udblgrave" class="0"/>
-          <ClassDef glyph="udotbelow" class="0"/>
-          <ClassDef glyph="uhornacute" class="0"/>
-          <ClassDef glyph="uhorndotbelow" class="0"/>
-          <ClassDef glyph="uhorngrave" class="0"/>
-          <ClassDef glyph="uhorntilde" class="0"/>
           <ClassDef glyph="uinvertedbreve" class="0"/>
-          <ClassDef glyph="ydotbelow" class="0"/>
+          <ClassDef glyph="odieresismacron" class="0"/>
+          <ClassDef glyph="otildemacron" class="0"/>
+          <ClassDef glyph="odotaccentmacron" class="0"/>
           <ClassDef glyph="ymacron" class="0"/>
-          <ClassDef glyph="ytilde" class="0"/>
-          <ClassDef glyph="periodcentered.loclCAT.case" class="0"/>
-          <ClassDef glyph="periodcentered.loclCAT" class="0"/>
-          <ClassDef glyph="softhyphen" class="0"/>
-          <ClassDef glyph="cedi" class="0"/>
-          <ClassDef glyph="guarani" class="0"/>
-          <ClassDef glyph="kip" class="0"/>
-          <ClassDef glyph="manat" class="0"/>
-          <ClassDef glyph="naira" class="0"/>
-          <ClassDef glyph="peso" class="0"/>
-          <ClassDef glyph="ruble" class="0"/>
-          <ClassDef glyph="won" class="0"/>
-          <ClassDef glyph="bulletoperator" class="0"/>
-          <ClassDef glyph="divisionslash" class="0"/>
-          <ClassDef glyph="numero" class="0"/>
-          <ClassDef glyph="caroncomb.alt" class="0"/>
+          <ClassDef glyph="schwa" class="0"/>
+          <ClassDef glyph="primemod" class="0"/>
+          <ClassDef glyph="primedblmod" class="0"/>
+          <ClassDef glyph="apostrophemod" class="0"/>
           <ClassDef glyph="dblgravecomb" class="0"/>
           <ClassDef glyph="breveinvertedcomb" class="0"/>
           <ClassDef glyph="commaturnedabovecomb" class="0"/>
@@ -970,33 +886,6 @@
           <ClassDef glyph="brevebelowcomb" class="0"/>
           <ClassDef glyph="macronbelowcomb" class="0"/>
           <ClassDef glyph="strokeshortcomb" class="0"/>
-          <ClassDef glyph="dieresiscomb.case" class="0"/>
-          <ClassDef glyph="dotaccentcomb.case" class="0"/>
-          <ClassDef glyph="gravecomb.case" class="0"/>
-          <ClassDef glyph="acutecomb.case" class="0"/>
-          <ClassDef glyph="hungarumlautcomb.case" class="0"/>
-          <ClassDef glyph="circumflexcomb.case" class="0"/>
-          <ClassDef glyph="caroncomb.case" class="0"/>
-          <ClassDef glyph="brevecomb.case" class="0"/>
-          <ClassDef glyph="tildecomb.case" class="0"/>
-          <ClassDef glyph="macroncomb.case" class="0"/>
-          <ClassDef glyph="dblgravecomb.case" class="0"/>
-          <ClassDef glyph="breveinvertedcomb.case" class="0"/>
-          <ClassDef glyph="dieresiscomb.narrow" class="0"/>
-          <ClassDef glyph="tildecomb.narrow" class="0"/>
-          <ClassDef glyph="macroncomb.narrow" class="0"/>
-          <ClassDef glyph="breveinvertedcomb.narrow" class="0"/>
-          <ClassDef glyph="apostrophemod" class="0"/>
-          <ClassDef glyph="brevecomb_acutecomb" class="0"/>
-          <ClassDef glyph="brevecomb_gravecomb" class="0"/>
-          <ClassDef glyph="brevecomb_hookabovecomb" class="0"/>
-          <ClassDef glyph="brevecomb_tildecomb" class="0"/>
-          <ClassDef glyph="circumflexcomb_acutecomb" class="0"/>
-          <ClassDef glyph="circumflexcomb_gravecomb" class="0"/>
-          <ClassDef glyph="circumflexcomb_hookabovecomb" class="0"/>
-          <ClassDef glyph="circumflexcomb_tildecomb" class="0"/>
-          <ClassDef glyph="primemod" class="0"/>
-          <ClassDef glyph="primedblmod" class="0"/>
           <ClassDef glyph="numeralsign" class="0"/>
           <ClassDef glyph="lownumeralsign" class="0"/>
           <ClassDef glyph="questiongreek" class="0"/>
@@ -1094,36 +983,95 @@
           <ClassDef glyph="ylongdieresiscyr" class="0"/>
           <ClassDef glyph="qacyr" class="0"/>
           <ClassDef glyph="wecyr" class="0"/>
+          <ClassDef glyph="Adotbelow" class="0"/>
+          <ClassDef glyph="adotbelow" class="0"/>
           <ClassDef glyph="Ahoi" class="0"/>
           <ClassDef glyph="ahoi" class="0"/>
+          <ClassDef glyph="Acircumflexacute" class="0"/>
+          <ClassDef glyph="acircumflexacute" class="0"/>
+          <ClassDef glyph="Acircumflexgrave" class="0"/>
+          <ClassDef glyph="acircumflexgrave" class="0"/>
           <ClassDef glyph="Acircumflexhoi" class="0"/>
           <ClassDef glyph="acircumflexhoi" class="0"/>
+          <ClassDef glyph="Acircumflextilde" class="0"/>
+          <ClassDef glyph="acircumflextilde" class="0"/>
+          <ClassDef glyph="Acircumflexdotbelow" class="0"/>
+          <ClassDef glyph="acircumflexdotbelow" class="0"/>
+          <ClassDef glyph="Abreveacute" class="0"/>
+          <ClassDef glyph="abreveacute" class="0"/>
+          <ClassDef glyph="Abrevegrave" class="0"/>
+          <ClassDef glyph="abrevegrave" class="0"/>
           <ClassDef glyph="Abrevehoi" class="0"/>
           <ClassDef glyph="abrevehoi" class="0"/>
+          <ClassDef glyph="Abrevetilde" class="0"/>
+          <ClassDef glyph="abrevetilde" class="0"/>
+          <ClassDef glyph="Abrevedotbelow" class="0"/>
+          <ClassDef glyph="abrevedotbelow" class="0"/>
+          <ClassDef glyph="Edotbelow" class="0"/>
+          <ClassDef glyph="edotbelow" class="0"/>
           <ClassDef glyph="Ehoi" class="0"/>
           <ClassDef glyph="ehoi" class="0"/>
+          <ClassDef glyph="Etilde" class="0"/>
+          <ClassDef glyph="etilde" class="0"/>
+          <ClassDef glyph="Ecircumflexacute" class="0"/>
+          <ClassDef glyph="ecircumflexacute" class="0"/>
+          <ClassDef glyph="Ecircumflexgrave" class="0"/>
+          <ClassDef glyph="ecircumflexgrave" class="0"/>
           <ClassDef glyph="Ecircumflexhoi" class="0"/>
           <ClassDef glyph="ecircumflexhoi" class="0"/>
+          <ClassDef glyph="Ecircumflextilde" class="0"/>
+          <ClassDef glyph="ecircumflextilde" class="0"/>
+          <ClassDef glyph="Ecircumflexdotbelow" class="0"/>
+          <ClassDef glyph="ecircumflexdotbelow" class="0"/>
           <ClassDef glyph="Ihoi" class="0"/>
           <ClassDef glyph="ihoi" class="0"/>
+          <ClassDef glyph="Idotbelow" class="0"/>
+          <ClassDef glyph="idotbelow" class="0"/>
+          <ClassDef glyph="odotbelow" class="0"/>
           <ClassDef glyph="ohoi" class="0"/>
+          <ClassDef glyph="ocircumflexacute" class="0"/>
+          <ClassDef glyph="ocircumflexgrave" class="0"/>
           <ClassDef glyph="ocircumflexhoi" class="0"/>
+          <ClassDef glyph="ocircumflextilde" class="0"/>
+          <ClassDef glyph="ocircumflexdotbelow" class="0"/>
+          <ClassDef glyph="ohornacute" class="0"/>
+          <ClassDef glyph="ohorngrave" class="0"/>
           <ClassDef glyph="ohornhoi" class="0"/>
+          <ClassDef glyph="ohorntilde" class="0"/>
+          <ClassDef glyph="ohorndotbelow" class="0"/>
+          <ClassDef glyph="udotbelow" class="0"/>
           <ClassDef glyph="uhoi" class="0"/>
+          <ClassDef glyph="uhornacute" class="0"/>
+          <ClassDef glyph="uhorngrave" class="0"/>
           <ClassDef glyph="uhornhoi" class="0"/>
+          <ClassDef glyph="uhorntilde" class="0"/>
+          <ClassDef glyph="uhorndotbelow" class="0"/>
+          <ClassDef glyph="ydotbelow" class="0"/>
           <ClassDef glyph="yhoi" class="0"/>
+          <ClassDef glyph="ytilde" class="0"/>
           <ClassDef glyph="hyphen-gnrl" class="0"/>
           <ClassDef glyph="commercialminussign" class="0"/>
           <ClassDef glyph="four.superior" class="0"/>
+          <ClassDef glyph="naira" class="0"/>
+          <ClassDef glyph="won" class="0"/>
+          <ClassDef glyph="kip" class="0"/>
           <ClassDef glyph="tugrik" class="0"/>
+          <ClassDef glyph="peso" class="0"/>
+          <ClassDef glyph="guarani" class="0"/>
           <ClassDef glyph="hryvnia" class="0"/>
+          <ClassDef glyph="cedi" class="0"/>
           <ClassDef glyph="tenge" class="0"/>
           <ClassDef glyph="indianrupee" class="0"/>
           <ClassDef glyph="turkishlira" class="0"/>
+          <ClassDef glyph="manat" class="0"/>
+          <ClassDef glyph="ruble" class="0"/>
+          <ClassDef glyph="numero" class="0"/>
           <ClassDef glyph="arrowNW" class="0"/>
           <ClassDef glyph="arrowNE" class="0"/>
           <ClassDef glyph="arrowSE" class="0"/>
           <ClassDef glyph="arrowSW" class="0"/>
+          <ClassDef glyph="divisionslash" class="0"/>
+          <ClassDef glyph="bulletoperator" class="0"/>
           <ClassDef glyph="bracketangleleft" class="0"/>
           <ClassDef glyph="bracketangleright" class="0"/>
           <ClassDef glyph="uniEE01" class="0"/>
@@ -1133,20 +1081,24 @@
           <ClassDef glyph="zero.tnum" class="0"/>
           <ClassDef glyph="one.tnum" class="0"/>
           <ClassDef glyph="two.ss05" class="0"/>
+          <ClassDef glyph="two.ss05.tnum" class="0"/>
           <ClassDef glyph="two.tnum" class="0"/>
           <ClassDef glyph="three.tnum" class="0"/>
           <ClassDef glyph="four.tnum" class="0"/>
           <ClassDef glyph="five.tnum" class="0"/>
           <ClassDef glyph="six.ss02" class="0"/>
+          <ClassDef glyph="six.ss02.tnum" class="0"/>
           <ClassDef glyph="six.tnum" class="0"/>
           <ClassDef glyph="seven.tnum" class="0"/>
           <ClassDef glyph="eight.tnum" class="0"/>
           <ClassDef glyph="nine.ss02" class="0"/>
+          <ClassDef glyph="nine.ss02.tnum" class="0"/>
           <ClassDef glyph="nine.tnum" class="0"/>
           <ClassDef glyph="colon.tnum" class="0"/>
           <ClassDef glyph="semicolon.tnum" class="0"/>
           <ClassDef glyph="question.ss04" class="0"/>
           <ClassDef glyph="Q.ss03" class="0"/>
+          <ClassDef glyph="a.ss01" class="0"/>
           <ClassDef glyph="f.calt" class="0"/>
           <ClassDef glyph="f.f" class="0"/>
           <ClassDef glyph="f.i" class="0"/>
@@ -1155,29 +1107,70 @@
           <ClassDef glyph="j.calt" class="0"/>
           <ClassDef glyph="ordfeminine.ss01" class="0"/>
           <ClassDef glyph="twosuperior.ss05" class="0"/>
+          <ClassDef glyph="periodcentered.loclCAT" class="0"/>
+          <ClassDef glyph="periodcentered.loclCAT.case" class="0"/>
           <ClassDef glyph="onehalf.ss05" class="0"/>
           <ClassDef glyph="questiondown.ss04" class="0"/>
           <ClassDef glyph="Idieresis.calt" class="0"/>
           <ClassDef glyph="Idieresis.calt2" class="0"/>
+          <ClassDef glyph="agrave.ss01" class="0"/>
+          <ClassDef glyph="aacute.ss01" class="0"/>
+          <ClassDef glyph="acircumflex.ss01" class="0"/>
+          <ClassDef glyph="atilde.ss01" class="0"/>
+          <ClassDef glyph="adieresis.ss01" class="0"/>
+          <ClassDef glyph="aring.ss01" class="0"/>
+          <ClassDef glyph="ae.ss01" class="0"/>
           <ClassDef glyph="idieresis.calt" class="0"/>
           <ClassDef glyph="idieresis.calt2" class="0"/>
+          <ClassDef glyph="amacron.ss01" class="0"/>
+          <ClassDef glyph="abreve.ss01" class="0"/>
+          <ClassDef glyph="aogonek.ss01" class="0"/>
           <ClassDef glyph="gcircumflex.ss01" class="0"/>
           <ClassDef glyph="gbreve.ss01" class="0"/>
           <ClassDef glyph="gdotaccent.ss01" class="0"/>
           <ClassDef glyph="gcommaaccent.ss01" class="0"/>
           <ClassDef glyph="jcircumflex.calt" class="0"/>
           <ClassDef glyph="gcaron.ss01" class="0"/>
+          <ClassDef glyph="aringacute.ss01" class="0"/>
+          <ClassDef glyph="aeacute.ss01" class="0"/>
+          <ClassDef glyph="adblgrave.ss01" class="0"/>
+          <ClassDef glyph="ainvertedbreve.ss01" class="0"/>
           <ClassDef glyph="dotlessj.calt" class="0"/>
+          <ClassDef glyph="gravecomb.case" class="0"/>
           <ClassDef glyph="gravecomb.narrow" class="0"/>
+          <ClassDef glyph="acutecomb.case" class="0"/>
           <ClassDef glyph="acutecomb.narrow" class="0"/>
+          <ClassDef glyph="circumflexcomb_acutecomb" class="0"/>
+          <ClassDef glyph="circumflexcomb.case" class="0"/>
+          <ClassDef glyph="circumflexcomb_gravecomb" class="0"/>
+          <ClassDef glyph="circumflexcomb_hookabovecomb" class="0"/>
           <ClassDef glyph="circumflexcomb.narrow" class="0"/>
+          <ClassDef glyph="circumflexcomb_tildecomb" class="0"/>
+          <ClassDef glyph="tildecomb.case" class="0"/>
+          <ClassDef glyph="tildecomb.narrow" class="0"/>
+          <ClassDef glyph="macroncomb.case" class="0"/>
+          <ClassDef glyph="macroncomb.narrow" class="0"/>
           <ClassDef glyph="macroncomb.wide" class="0"/>
+          <ClassDef glyph="brevecomb_acutecomb" class="0"/>
+          <ClassDef glyph="brevecomb.case" class="0"/>
           <ClassDef glyph="brevecomb.ccmp" class="0"/>
+          <ClassDef glyph="brevecomb_gravecomb" class="0"/>
+          <ClassDef glyph="brevecomb_hookabovecomb" class="0"/>
           <ClassDef glyph="brevecomb.narrow" class="0"/>
+          <ClassDef glyph="brevecomb_tildecomb" class="0"/>
+          <ClassDef glyph="dotaccentcomb.case" class="0"/>
+          <ClassDef glyph="dieresiscomb.case" class="0"/>
+          <ClassDef glyph="dieresiscomb.narrow" class="0"/>
           <ClassDef glyph="hookabovecomb.narrow" class="0"/>
           <ClassDef glyph="ringcomb.case" class="0"/>
+          <ClassDef glyph="hungarumlautcomb.case" class="0"/>
+          <ClassDef glyph="caroncomb.alt" class="0"/>
           <ClassDef glyph="caroncomb.alt_case" class="0"/>
+          <ClassDef glyph="caroncomb.case" class="0"/>
+          <ClassDef glyph="dblgravecomb.case" class="0"/>
           <ClassDef glyph="dblgravecomb.narrow" class="0"/>
+          <ClassDef glyph="breveinvertedcomb.case" class="0"/>
+          <ClassDef glyph="breveinvertedcomb.narrow" class="0"/>
           <ClassDef glyph="commaturnedabovecomb.case" class="0"/>
           <ClassDef glyph="horncomb.alt" class="0"/>
           <ClassDef glyph="horncomb.alt_case" class="0"/>
@@ -1218,12 +1211,19 @@
           <ClassDef glyph="adieresiscyr.ss01" class="0"/>
           <ClassDef glyph="aiecyr.ss01" class="0"/>
           <ClassDef glyph="Qacyr.ss03" class="0"/>
+          <ClassDef glyph="adotbelow.ss01" class="0"/>
           <ClassDef glyph="ahoi.ss01" class="0"/>
+          <ClassDef glyph="acircumflexacute.ss01" class="0"/>
+          <ClassDef glyph="acircumflexgrave.ss01" class="0"/>
           <ClassDef glyph="acircumflexhoi.ss01" class="0"/>
+          <ClassDef glyph="acircumflextilde.ss01" class="0"/>
+          <ClassDef glyph="acircumflexdotbelow.ss01" class="0"/>
+          <ClassDef glyph="abreveacute.ss01" class="0"/>
+          <ClassDef glyph="abrevegrave.ss01" class="0"/>
           <ClassDef glyph="abrevehoi.ss01" class="0"/>
-          <ClassDef glyph="two.ss05.tnum" class="0"/>
-          <ClassDef glyph="six.ss02.tnum" class="0"/>
-          <ClassDef glyph="nine.ss02.tnum" class="0"/>
+          <ClassDef glyph="abrevetilde.ss01" class="0"/>
+          <ClassDef glyph="abrevedotbelow.ss01" class="0"/>
+          <ClassDef glyph="idotaccent" class="0"/>
           <ClassDef glyph="J" class="1"/>
           <ClassDef glyph="O" class="1"/>
           <ClassDef glyph="P" class="1"/>
@@ -1778,95 +1778,27 @@
           <ClassDef glyph="tcedilla" class="0"/>
           <ClassDef glyph="tcommaaccent" class="0"/>
           <ClassDef glyph="hookabovecomb.case" class="0"/>
-          <ClassDef glyph="a.ss01" class="0"/>
-          <ClassDef glyph="aacute.ss01" class="0"/>
-          <ClassDef glyph="abreve.ss01" class="0"/>
-          <ClassDef glyph="abreveacute" class="0"/>
-          <ClassDef glyph="abreveacute.ss01" class="0"/>
-          <ClassDef glyph="abrevedotbelow" class="0"/>
-          <ClassDef glyph="abrevedotbelow.ss01" class="0"/>
-          <ClassDef glyph="abrevegrave" class="0"/>
-          <ClassDef glyph="abrevegrave.ss01" class="0"/>
-          <ClassDef glyph="abrevetilde" class="0"/>
-          <ClassDef glyph="abrevetilde.ss01" class="0"/>
-          <ClassDef glyph="acircumflex.ss01" class="0"/>
-          <ClassDef glyph="acircumflexacute" class="0"/>
-          <ClassDef glyph="acircumflexacute.ss01" class="0"/>
-          <ClassDef glyph="acircumflexdotbelow" class="0"/>
-          <ClassDef glyph="acircumflexdotbelow.ss01" class="0"/>
-          <ClassDef glyph="acircumflexgrave" class="0"/>
-          <ClassDef glyph="acircumflexgrave.ss01" class="0"/>
-          <ClassDef glyph="acircumflextilde" class="0"/>
-          <ClassDef glyph="acircumflextilde.ss01" class="0"/>
+          <ClassDef glyph="softhyphen" class="0"/>
           <ClassDef glyph="adblgrave" class="0"/>
-          <ClassDef glyph="adblgrave.ss01" class="0"/>
-          <ClassDef glyph="adieresis.ss01" class="0"/>
-          <ClassDef glyph="adotbelow" class="0"/>
-          <ClassDef glyph="adotbelow.ss01" class="0"/>
-          <ClassDef glyph="agrave.ss01" class="0"/>
           <ClassDef glyph="ainvertedbreve" class="0"/>
-          <ClassDef glyph="ainvertedbreve.ss01" class="0"/>
-          <ClassDef glyph="amacron.ss01" class="0"/>
-          <ClassDef glyph="aogonek.ss01" class="0"/>
-          <ClassDef glyph="aring.ss01" class="0"/>
-          <ClassDef glyph="aringacute.ss01" class="0"/>
-          <ClassDef glyph="atilde.ss01" class="0"/>
-          <ClassDef glyph="ae.ss01" class="0"/>
-          <ClassDef glyph="aeacute.ss01" class="0"/>
-          <ClassDef glyph="ecircumflexacute" class="0"/>
-          <ClassDef glyph="ecircumflexdotbelow" class="0"/>
-          <ClassDef glyph="ecircumflexgrave" class="0"/>
-          <ClassDef glyph="ecircumflextilde" class="0"/>
           <ClassDef glyph="edblgrave" class="0"/>
-          <ClassDef glyph="edotbelow" class="0"/>
           <ClassDef glyph="einvertedbreve" class="0"/>
-          <ClassDef glyph="etilde" class="0"/>
-          <ClassDef glyph="schwa" class="0"/>
           <ClassDef glyph="idblgrave" class="0"/>
-          <ClassDef glyph="idotaccent" class="0"/>
-          <ClassDef glyph="idotbelow" class="0"/>
           <ClassDef glyph="iinvertedbreve" class="0"/>
-          <ClassDef glyph="ocircumflexacute" class="0"/>
-          <ClassDef glyph="ocircumflexdotbelow" class="0"/>
-          <ClassDef glyph="ocircumflexgrave" class="0"/>
-          <ClassDef glyph="ocircumflextilde" class="0"/>
           <ClassDef glyph="odblgrave" class="0"/>
-          <ClassDef glyph="odieresismacron" class="0"/>
-          <ClassDef glyph="odotaccentmacron" class="0"/>
-          <ClassDef glyph="odotbelow" class="0"/>
-          <ClassDef glyph="ohornacute" class="0"/>
-          <ClassDef glyph="ohorndotbelow" class="0"/>
-          <ClassDef glyph="ohorngrave" class="0"/>
-          <ClassDef glyph="ohorntilde" class="0"/>
           <ClassDef glyph="oinvertedbreve" class="0"/>
-          <ClassDef glyph="otildemacron" class="0"/>
           <ClassDef glyph="rdblgrave" class="0"/>
           <ClassDef glyph="rinvertedbreve" class="0"/>
           <ClassDef glyph="udblgrave" class="0"/>
-          <ClassDef glyph="udotbelow" class="0"/>
-          <ClassDef glyph="uhornacute" class="0"/>
-          <ClassDef glyph="uhorndotbelow" class="0"/>
-          <ClassDef glyph="uhorngrave" class="0"/>
-          <ClassDef glyph="uhorntilde" class="0"/>
           <ClassDef glyph="uinvertedbreve" class="0"/>
-          <ClassDef glyph="ydotbelow" class="0"/>
+          <ClassDef glyph="odieresismacron" class="0"/>
+          <ClassDef glyph="otildemacron" class="0"/>
+          <ClassDef glyph="odotaccentmacron" class="0"/>
           <ClassDef glyph="ymacron" class="0"/>
-          <ClassDef glyph="ytilde" class="0"/>
-          <ClassDef glyph="periodcentered.loclCAT.case" class="0"/>
-          <ClassDef glyph="periodcentered.loclCAT" class="0"/>
-          <ClassDef glyph="softhyphen" class="0"/>
-          <ClassDef glyph="cedi" class="0"/>
-          <ClassDef glyph="guarani" class="0"/>
-          <ClassDef glyph="kip" class="0"/>
-          <ClassDef glyph="manat" class="0"/>
-          <ClassDef glyph="naira" class="0"/>
-          <ClassDef glyph="peso" class="0"/>
-          <ClassDef glyph="ruble" class="0"/>
-          <ClassDef glyph="won" class="0"/>
-          <ClassDef glyph="bulletoperator" class="0"/>
-          <ClassDef glyph="divisionslash" class="0"/>
-          <ClassDef glyph="numero" class="0"/>
-          <ClassDef glyph="caroncomb.alt" class="0"/>
+          <ClassDef glyph="schwa" class="0"/>
+          <ClassDef glyph="primemod" class="0"/>
+          <ClassDef glyph="primedblmod" class="0"/>
+          <ClassDef glyph="apostrophemod" class="0"/>
           <ClassDef glyph="dblgravecomb" class="0"/>
           <ClassDef glyph="breveinvertedcomb" class="0"/>
           <ClassDef glyph="commaturnedabovecomb" class="0"/>
@@ -1874,33 +1806,6 @@
           <ClassDef glyph="brevebelowcomb" class="0"/>
           <ClassDef glyph="macronbelowcomb" class="0"/>
           <ClassDef glyph="strokeshortcomb" class="0"/>
-          <ClassDef glyph="dieresiscomb.case" class="0"/>
-          <ClassDef glyph="dotaccentcomb.case" class="0"/>
-          <ClassDef glyph="gravecomb.case" class="0"/>
-          <ClassDef glyph="acutecomb.case" class="0"/>
-          <ClassDef glyph="hungarumlautcomb.case" class="0"/>
-          <ClassDef glyph="circumflexcomb.case" class="0"/>
-          <ClassDef glyph="caroncomb.case" class="0"/>
-          <ClassDef glyph="brevecomb.case" class="0"/>
-          <ClassDef glyph="tildecomb.case" class="0"/>
-          <ClassDef glyph="macroncomb.case" class="0"/>
-          <ClassDef glyph="dblgravecomb.case" class="0"/>
-          <ClassDef glyph="breveinvertedcomb.case" class="0"/>
-          <ClassDef glyph="dieresiscomb.narrow" class="0"/>
-          <ClassDef glyph="tildecomb.narrow" class="0"/>
-          <ClassDef glyph="macroncomb.narrow" class="0"/>
-          <ClassDef glyph="breveinvertedcomb.narrow" class="0"/>
-          <ClassDef glyph="apostrophemod" class="0"/>
-          <ClassDef glyph="brevecomb_acutecomb" class="0"/>
-          <ClassDef glyph="brevecomb_gravecomb" class="0"/>
-          <ClassDef glyph="brevecomb_hookabovecomb" class="0"/>
-          <ClassDef glyph="brevecomb_tildecomb" class="0"/>
-          <ClassDef glyph="circumflexcomb_acutecomb" class="0"/>
-          <ClassDef glyph="circumflexcomb_gravecomb" class="0"/>
-          <ClassDef glyph="circumflexcomb_hookabovecomb" class="0"/>
-          <ClassDef glyph="circumflexcomb_tildecomb" class="0"/>
-          <ClassDef glyph="primemod" class="0"/>
-          <ClassDef glyph="primedblmod" class="0"/>
           <ClassDef glyph="numeralsign" class="0"/>
           <ClassDef glyph="lownumeralsign" class="0"/>
           <ClassDef glyph="questiongreek" class="0"/>
@@ -1998,30 +1903,73 @@
           <ClassDef glyph="ylongdieresiscyr" class="0"/>
           <ClassDef glyph="qacyr" class="0"/>
           <ClassDef glyph="wecyr" class="0"/>
+          <ClassDef glyph="adotbelow" class="0"/>
           <ClassDef glyph="ahoi" class="0"/>
+          <ClassDef glyph="acircumflexacute" class="0"/>
+          <ClassDef glyph="acircumflexgrave" class="0"/>
           <ClassDef glyph="acircumflexhoi" class="0"/>
+          <ClassDef glyph="acircumflextilde" class="0"/>
+          <ClassDef glyph="acircumflexdotbelow" class="0"/>
+          <ClassDef glyph="abreveacute" class="0"/>
+          <ClassDef glyph="abrevegrave" class="0"/>
           <ClassDef glyph="abrevehoi" class="0"/>
+          <ClassDef glyph="abrevetilde" class="0"/>
+          <ClassDef glyph="abrevedotbelow" class="0"/>
+          <ClassDef glyph="edotbelow" class="0"/>
           <ClassDef glyph="ehoi" class="0"/>
+          <ClassDef glyph="etilde" class="0"/>
+          <ClassDef glyph="ecircumflexacute" class="0"/>
+          <ClassDef glyph="ecircumflexgrave" class="0"/>
           <ClassDef glyph="ecircumflexhoi" class="0"/>
+          <ClassDef glyph="ecircumflextilde" class="0"/>
+          <ClassDef glyph="ecircumflexdotbelow" class="0"/>
           <ClassDef glyph="ihoi" class="0"/>
+          <ClassDef glyph="idotbelow" class="0"/>
+          <ClassDef glyph="odotbelow" class="0"/>
           <ClassDef glyph="ohoi" class="0"/>
+          <ClassDef glyph="ocircumflexacute" class="0"/>
+          <ClassDef glyph="ocircumflexgrave" class="0"/>
           <ClassDef glyph="ocircumflexhoi" class="0"/>
+          <ClassDef glyph="ocircumflextilde" class="0"/>
+          <ClassDef glyph="ocircumflexdotbelow" class="0"/>
+          <ClassDef glyph="ohornacute" class="0"/>
+          <ClassDef glyph="ohorngrave" class="0"/>
           <ClassDef glyph="ohornhoi" class="0"/>
+          <ClassDef glyph="ohorntilde" class="0"/>
+          <ClassDef glyph="ohorndotbelow" class="0"/>
+          <ClassDef glyph="udotbelow" class="0"/>
           <ClassDef glyph="uhoi" class="0"/>
+          <ClassDef glyph="uhornacute" class="0"/>
+          <ClassDef glyph="uhorngrave" class="0"/>
           <ClassDef glyph="uhornhoi" class="0"/>
+          <ClassDef glyph="uhorntilde" class="0"/>
+          <ClassDef glyph="uhorndotbelow" class="0"/>
+          <ClassDef glyph="ydotbelow" class="0"/>
           <ClassDef glyph="yhoi" class="0"/>
+          <ClassDef glyph="ytilde" class="0"/>
           <ClassDef glyph="hyphen-gnrl" class="0"/>
           <ClassDef glyph="commercialminussign" class="0"/>
           <ClassDef glyph="four.superior" class="0"/>
+          <ClassDef glyph="naira" class="0"/>
+          <ClassDef glyph="won" class="0"/>
+          <ClassDef glyph="kip" class="0"/>
           <ClassDef glyph="tugrik" class="0"/>
+          <ClassDef glyph="peso" class="0"/>
+          <ClassDef glyph="guarani" class="0"/>
           <ClassDef glyph="hryvnia" class="0"/>
+          <ClassDef glyph="cedi" class="0"/>
           <ClassDef glyph="tenge" class="0"/>
           <ClassDef glyph="indianrupee" class="0"/>
           <ClassDef glyph="turkishlira" class="0"/>
+          <ClassDef glyph="manat" class="0"/>
+          <ClassDef glyph="ruble" class="0"/>
+          <ClassDef glyph="numero" class="0"/>
           <ClassDef glyph="arrowNW" class="0"/>
           <ClassDef glyph="arrowNE" class="0"/>
           <ClassDef glyph="arrowSE" class="0"/>
           <ClassDef glyph="arrowSW" class="0"/>
+          <ClassDef glyph="divisionslash" class="0"/>
+          <ClassDef glyph="bulletoperator" class="0"/>
           <ClassDef glyph="bracketangleleft" class="0"/>
           <ClassDef glyph="bracketangleright" class="0"/>
           <ClassDef glyph="uniEE01" class="0"/>
@@ -2031,20 +1979,24 @@
           <ClassDef glyph="zero.tnum" class="0"/>
           <ClassDef glyph="one.tnum" class="0"/>
           <ClassDef glyph="two.ss05" class="0"/>
+          <ClassDef glyph="two.ss05.tnum" class="0"/>
           <ClassDef glyph="two.tnum" class="0"/>
           <ClassDef glyph="three.tnum" class="0"/>
           <ClassDef glyph="four.tnum" class="0"/>
           <ClassDef glyph="five.tnum" class="0"/>
           <ClassDef glyph="six.ss02" class="0"/>
+          <ClassDef glyph="six.ss02.tnum" class="0"/>
           <ClassDef glyph="six.tnum" class="0"/>
           <ClassDef glyph="seven.tnum" class="0"/>
           <ClassDef glyph="eight.tnum" class="0"/>
           <ClassDef glyph="nine.ss02" class="0"/>
+          <ClassDef glyph="nine.ss02.tnum" class="0"/>
           <ClassDef glyph="nine.tnum" class="0"/>
           <ClassDef glyph="colon.tnum" class="0"/>
           <ClassDef glyph="semicolon.tnum" class="0"/>
           <ClassDef glyph="question.ss04" class="0"/>
           <ClassDef glyph="Q.ss03" class="0"/>
+          <ClassDef glyph="a.ss01" class="0"/>
           <ClassDef glyph="f.calt" class="0"/>
           <ClassDef glyph="f.f" class="0"/>
           <ClassDef glyph="f.i" class="0"/>
@@ -2053,29 +2005,70 @@
           <ClassDef glyph="j.calt" class="0"/>
           <ClassDef glyph="ordfeminine.ss01" class="0"/>
           <ClassDef glyph="twosuperior.ss05" class="0"/>
+          <ClassDef glyph="periodcentered.loclCAT" class="0"/>
+          <ClassDef glyph="periodcentered.loclCAT.case" class="0"/>
           <ClassDef glyph="onehalf.ss05" class="0"/>
           <ClassDef glyph="questiondown.ss04" class="0"/>
           <ClassDef glyph="Idieresis.calt" class="0"/>
           <ClassDef glyph="Idieresis.calt2" class="0"/>
+          <ClassDef glyph="agrave.ss01" class="0"/>
+          <ClassDef glyph="aacute.ss01" class="0"/>
+          <ClassDef glyph="acircumflex.ss01" class="0"/>
+          <ClassDef glyph="atilde.ss01" class="0"/>
+          <ClassDef glyph="adieresis.ss01" class="0"/>
+          <ClassDef glyph="aring.ss01" class="0"/>
+          <ClassDef glyph="ae.ss01" class="0"/>
           <ClassDef glyph="idieresis.calt" class="0"/>
           <ClassDef glyph="idieresis.calt2" class="0"/>
+          <ClassDef glyph="amacron.ss01" class="0"/>
+          <ClassDef glyph="abreve.ss01" class="0"/>
+          <ClassDef glyph="aogonek.ss01" class="0"/>
           <ClassDef glyph="gcircumflex.ss01" class="0"/>
           <ClassDef glyph="gbreve.ss01" class="0"/>
           <ClassDef glyph="gdotaccent.ss01" class="0"/>
           <ClassDef glyph="gcommaaccent.ss01" class="0"/>
           <ClassDef glyph="jcircumflex.calt" class="0"/>
           <ClassDef glyph="gcaron.ss01" class="0"/>
+          <ClassDef glyph="aringacute.ss01" class="0"/>
+          <ClassDef glyph="aeacute.ss01" class="0"/>
+          <ClassDef glyph="adblgrave.ss01" class="0"/>
+          <ClassDef glyph="ainvertedbreve.ss01" class="0"/>
           <ClassDef glyph="dotlessj.calt" class="0"/>
+          <ClassDef glyph="gravecomb.case" class="0"/>
           <ClassDef glyph="gravecomb.narrow" class="0"/>
+          <ClassDef glyph="acutecomb.case" class="0"/>
           <ClassDef glyph="acutecomb.narrow" class="0"/>
+          <ClassDef glyph="circumflexcomb_acutecomb" class="0"/>
+          <ClassDef glyph="circumflexcomb.case" class="0"/>
+          <ClassDef glyph="circumflexcomb_gravecomb" class="0"/>
+          <ClassDef glyph="circumflexcomb_hookabovecomb" class="0"/>
           <ClassDef glyph="circumflexcomb.narrow" class="0"/>
+          <ClassDef glyph="circumflexcomb_tildecomb" class="0"/>
+          <ClassDef glyph="tildecomb.case" class="0"/>
+          <ClassDef glyph="tildecomb.narrow" class="0"/>
+          <ClassDef glyph="macroncomb.case" class="0"/>
+          <ClassDef glyph="macroncomb.narrow" class="0"/>
           <ClassDef glyph="macroncomb.wide" class="0"/>
+          <ClassDef glyph="brevecomb_acutecomb" class="0"/>
+          <ClassDef glyph="brevecomb.case" class="0"/>
           <ClassDef glyph="brevecomb.ccmp" class="0"/>
+          <ClassDef glyph="brevecomb_gravecomb" class="0"/>
+          <ClassDef glyph="brevecomb_hookabovecomb" class="0"/>
           <ClassDef glyph="brevecomb.narrow" class="0"/>
+          <ClassDef glyph="brevecomb_tildecomb" class="0"/>
+          <ClassDef glyph="dotaccentcomb.case" class="0"/>
+          <ClassDef glyph="dieresiscomb.case" class="0"/>
+          <ClassDef glyph="dieresiscomb.narrow" class="0"/>
           <ClassDef glyph="hookabovecomb.narrow" class="0"/>
           <ClassDef glyph="ringcomb.case" class="0"/>
+          <ClassDef glyph="hungarumlautcomb.case" class="0"/>
+          <ClassDef glyph="caroncomb.alt" class="0"/>
           <ClassDef glyph="caroncomb.alt_case" class="0"/>
+          <ClassDef glyph="caroncomb.case" class="0"/>
+          <ClassDef glyph="dblgravecomb.case" class="0"/>
           <ClassDef glyph="dblgravecomb.narrow" class="0"/>
+          <ClassDef glyph="breveinvertedcomb.case" class="0"/>
+          <ClassDef glyph="breveinvertedcomb.narrow" class="0"/>
           <ClassDef glyph="commaturnedabovecomb.case" class="0"/>
           <ClassDef glyph="horncomb.alt" class="0"/>
           <ClassDef glyph="horncomb.alt_case" class="0"/>
@@ -2116,12 +2109,19 @@
           <ClassDef glyph="adieresiscyr.ss01" class="0"/>
           <ClassDef glyph="aiecyr.ss01" class="0"/>
           <ClassDef glyph="Qacyr.ss03" class="0"/>
+          <ClassDef glyph="adotbelow.ss01" class="0"/>
           <ClassDef glyph="ahoi.ss01" class="0"/>
+          <ClassDef glyph="acircumflexacute.ss01" class="0"/>
+          <ClassDef glyph="acircumflexgrave.ss01" class="0"/>
           <ClassDef glyph="acircumflexhoi.ss01" class="0"/>
+          <ClassDef glyph="acircumflextilde.ss01" class="0"/>
+          <ClassDef glyph="acircumflexdotbelow.ss01" class="0"/>
+          <ClassDef glyph="abreveacute.ss01" class="0"/>
+          <ClassDef glyph="abrevegrave.ss01" class="0"/>
           <ClassDef glyph="abrevehoi.ss01" class="0"/>
-          <ClassDef glyph="two.ss05.tnum" class="0"/>
-          <ClassDef glyph="six.ss02.tnum" class="0"/>
-          <ClassDef glyph="nine.ss02.tnum" class="0"/>
+          <ClassDef glyph="abrevetilde.ss01" class="0"/>
+          <ClassDef glyph="abrevedotbelow.ss01" class="0"/>
+          <ClassDef glyph="idotaccent" class="0"/>
           <ClassDef glyph="A" class="1"/>
           <ClassDef glyph="B" class="1"/>
           <ClassDef glyph="C" class="1"/>

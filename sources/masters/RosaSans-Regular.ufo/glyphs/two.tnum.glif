@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="two.tnum" format="2">
   <advance width="1296"/>
-  <anchor x="812" y="-55" name="top"/>
+  <anchor x="804" y="-55" name="top"/>
   <outline>
-    <component base="two" xOffset="70"/>
+    <component base="two" xOffset="62"/>
   </outline>
   <lib>
   <dict>
