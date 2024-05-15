@@ -511,6 +511,9 @@ feature liga {
 
   sub f i by fi;
   sub f l by fl;
+  sub f' @f_f by f.f; 
+  sub f' @f_i by f.i;
+  sub f' @f_l by f.l;
 
 } liga;
 feature ss04 {
