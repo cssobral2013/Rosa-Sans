@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Chedieresiscyr" format="2">
-  <advance width="1470"/>
+  <advance width="1468"/>
   <unicode hex="04F4"/>
   <outline>
-    <component base="Checyr" xOffset="-1"/>
-    <component base="dieresiscomb.case" xOffset="1766"/>
+    <component base="Checyr" xOffset="-2"/>
+    <component base="dieresiscomb.case" xOffset="1765"/>
   </outline>
 </glyph>

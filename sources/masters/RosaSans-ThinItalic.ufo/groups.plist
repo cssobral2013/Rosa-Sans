@@ -274,6 +274,7 @@
   <array>
     <string>parenleft</string>
     <string>semicolon</string>
+    <string>semicolon.tnum</string>
     <string>bracketleft</string>
     <string>backslash</string>
     <string>underscore</string>
@@ -301,13 +302,6 @@
   </array>
   <key>calt3</key>
   <array>
-    <string>adblgrave</string>
-    <string>edblgrave</string>
-    <string>odblgrave</string>
-    <string>rdblgrave</string>
-    <string>rinvertedbreve</string>
-    <string>udblgrave</string>
-    <string>adblgrave.ss01</string>
     <string>igrave</string>
     <string>icircumflex</string>
     <string>idieresis</string>
@@ -315,16 +309,22 @@
     <string>itilde</string>
     <string>ibreve</string>
     <string>jcircumflex</string>
+    <string>adblgrave</string>
+    <string>edblgrave</string>
     <string>idblgrave</string>
     <string>iinvertedbreve</string>
+    <string>odblgrave</string>
+    <string>rdblgrave</string>
+    <string>rinvertedbreve</string>
+    <string>udblgrave</string>
     <string>jcircumflex.calt</string>
+    <string>adblgrave.ss01</string>
   </array>
   <key>calt4</key>
   <array>
     <string>zero</string>
     <string>one</string>
     <string>two</string>
-    <string>two.ss05</string>
     <string>three</string>
     <string>four</string>
     <string>five</string>
@@ -334,19 +334,20 @@
     <string>nine</string>
     <string>zero.tnum</string>
     <string>one.tnum</string>
-    <string>two.tnum</string>
+    <string>two.ss05</string>
     <string>two.ss05.tnum</string>
+    <string>two.tnum</string>
     <string>three.tnum</string>
     <string>four.tnum</string>
     <string>five.tnum</string>
     <string>six.ss02</string>
-    <string>six.tnum</string>
     <string>six.ss02.tnum</string>
+    <string>six.tnum</string>
     <string>seven.tnum</string>
     <string>eight.tnum</string>
     <string>nine.ss02</string>
-    <string>nine.tnum</string>
     <string>nine.ss02.tnum</string>
+    <string>nine.tnum</string>
   </array>
   <key>case</key>
   <array>
@@ -392,56 +393,53 @@
     <string>tonos.case</string>
     <string>periodcentered.loclCAT.case</string>
   </array>
-  <key>f_f</key>
+  <key>liga</key>
   <array>
-    <string>f</string>
     <string>fi</string>
     <string>fl</string>
+    <string>f</string>
     <string>j</string>
-    <string>j.calt</string>
     <string>t</string>
-    <string>tbar</string>
     <string>tcaron</string>
-    <string>tcedilla</string>
     <string>tcommaaccent</string>
+    <string>tcedilla</string>
+    <string>tbar</string>
+    <string>j.calt</string>
   </array>
-  <key>f_i</key>
+  <key>liga2</key>
   <array>
+    <string>i</string>
     <string>igrave</string>
+    <string>iacute</string>
     <string>icircumflex</string>
     <string>idieresis</string>
+    <string>iogonek</string>
     <string>imacron</string>
     <string>itilde</string>
     <string>ibreve</string>
     <string>jcircumflex</string>
     <string>idblgrave</string>
     <string>iinvertedbreve</string>
-    <string>i</string>
-    <string>iacute</string>
-    <string>ibreve</string>
-    <string>idblgrave</string>
-    <string>idotbelow</string>
     <string>ihoi</string>
-    <string>iinvertedbreve</string>
-    <string>iogonek</string>
+    <string>idotbelow</string>
     <string>jcircumflex.calt</string>
   </array>
-  <key>f_l</key>
+  <key>liga3</key>
   <array>
+    <string>lslash</string>
     <string>b</string>
     <string>h</string>
-    <string>hbar</string>
-    <string>hcircumflex</string>
     <string>k</string>
-    <string>kcommaaccent</string>
     <string>l</string>
-    <string>lacute</string>
-    <string>lcaron</string>
+    <string>thorn</string>
     <string>lcommaaccent</string>
+    <string>lcaron</string>
+    <string>lacute</string>
+    <string>kcommaaccent</string>
+    <string>hcircumflex</string>
+    <string>hbar</string>
     <string>ldot</string>
     <string>lj</string>
-    <string>lslash</string>
-    <string>thorn</string>
   </array>
   <key>locl</key>
   <array>
@@ -510,19 +508,18 @@
     <string>period.tnum</string>
     <string>zero.tnum</string>
     <string>one.tnum</string>
-    <string>two</string>
-    <string>two.ss05.tnum</string>
+    <string>two.tnum</string>
     <string>three.tnum</string>
     <string>four.tnum</string>
     <string>five.tnum</string>
+    <string>six.ss02.tnum</string>
     <string>six.tnum</string>
     <string>seven.tnum</string>
     <string>eight.tnum</string>
+    <string>nine.ss02.tnum</string>
     <string>nine.tnum</string>
     <string>colon.tnum</string>
     <string>semicolon.tnum</string>
-    <string>six.ss02.tnum</string>
-    <string>nine.ss02.tnum</string>
   </array>
   <key>pnum2</key>
   <array>
@@ -531,18 +528,17 @@
     <string>zero</string>
     <string>one</string>
     <string>two</string>
-    <string>two.ss05</string>
     <string>three</string>
     <string>four</string>
     <string>five</string>
+    <string>six.ss02</string>
     <string>six</string>
     <string>seven</string>
     <string>eight</string>
+    <string>nine.ss02</string>
     <string>nine</string>
     <string>colon</string>
     <string>semicolon</string>
-    <string>six.ss02</string>
-    <string>nine.ss02</string>
   </array>
   <key>public.kern1.A</key>
   <array>
@@ -2327,17 +2323,14 @@
     <string>lozenge</string>
     <string>minus</string>
     <string>multiply</string>
-    <string>nine.ss02.tnum</string>
     <string>nine.tnum</string>
     <string>notequal</string>
     <string>one.tnum</string>
     <string>plus</string>
     <string>plusminus</string>
     <string>seven.tnum</string>
-    <string>six.ss02.tnum</string>
     <string>six.tnum</string>
     <string>three.tnum</string>
-    <string>two.ss05.tnum</string>
     <string>two.tnum</string>
     <string>zero.tnum</string>
   </array>
@@ -2381,6 +2374,12 @@
     <string>second</string>
     <string>tonos</string>
     <string>tonos.case</string>
+  </array>
+  <key>public.kern2.two.ss05.tnum</key>
+  <array>
+    <string>nine.ss02.tnum</string>
+    <string>six.ss02.tnum</string>
+    <string>two.ss05.tnum</string>
   </array>
   <key>public.kern2.u2</key>
   <array>
@@ -2676,7 +2675,6 @@
     <string>zero</string>
     <string>one</string>
     <string>two</string>
-    <string>two.ss05</string>
     <string>three</string>
     <string>four</string>
     <string>five</string>
@@ -2695,8 +2693,7 @@
     <string>period.tnum</string>
     <string>zero.tnum</string>
     <string>one.tnum</string>
-    <string>two</string>
-    <string>two.ss05.tnum</string>
+    <string>two.tnum</string>
     <string>three.tnum</string>
     <string>four.tnum</string>
     <string>five.tnum</string>

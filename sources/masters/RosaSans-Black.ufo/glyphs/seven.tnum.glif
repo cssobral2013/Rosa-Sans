@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven.tnum" format="2">
-  <advance width="1296"/>
+  <advance width="1200"/>
+  <unicode hex="0037"/>
   <outline>
-    <component base="seven" xOffset="78"/>
+    <contour>
+      <point x="184" y="0" type="line"/>
+      <point x="585" y="0" type="line"/>
+      <point x="1098" y="1122" type="line"/>
+      <point x="1098" y="1400" type="line"/>
+      <point x="123" y="1400" type="line"/>
+      <point x="123" y="1042" type="line"/>
+      <point x="673" y="1042" type="line"/>
+    </contour>
   </outline>
 </glyph>

@@ -69,9 +69,9 @@ Copyright 2020-2023 The Rosa Sans Project Authors (https://github.com/cssobral20
   <key>openTypeNamePreferredFamilyName</key>
   <string>Rosa Sans VF</string>
   <key>openTypeNamePreferredSubfamilyName</key>
-  <string>Medium</string>
+  <string>Regular</string>
   <key>openTypeNameVersion</key>
-  <string>Version 3.013</string>
+  <string>Version 3.014</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -174,11 +174,11 @@ Copyright 2020-2023 The Rosa Sans Project Authors (https://github.com/cssobral20
     <integer>0</integer>
   </array>
   <key>postscriptFontName</key>
-  <string>RosaSansVF-Medium</string>
+  <string>RosaSansVF-Regular</string>
   <key>postscriptForceBold</key>
   <false/>
   <key>postscriptFullName</key>
-  <string>Rosa Sans VF Medium</string>
+  <string>Rosa Sans VF Regular</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
   <key>postscriptUnderlinePosition</key>
@@ -192,13 +192,13 @@ Copyright 2020-2023 The Rosa Sans Project Authors (https://github.com/cssobral20
   <key>styleMapStyleName</key>
   <string>regular</string>
   <key>styleName</key>
-  <string>Medium</string>
+  <string>Regular</string>
   <key>unitsPerEm</key>
   <integer>2000</integer>
   <key>versionMajor</key>
   <integer>3</integer>
   <key>versionMinor</key>
-  <integer>13</integer>
+  <integer>14</integer>
   <key>xHeight</key>
   <integer>1000</integer>
 </dict>

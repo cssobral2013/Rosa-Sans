@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one.tnum" format="2">
-  <advance width="1296"/>
+  <advance width="1200"/>
+  <unicode hex="0031"/>
   <outline>
     <contour>
-      <point x="172" y="0" type="line"/>
-      <point x="172" y="233" type="line"/>
-      <point x="586" y="233" type="line"/>
-      <point x="586" y="1104" type="line"/>
-      <point x="242" y="978" type="line"/>
-      <point x="171" y="1185" type="line"/>
-      <point x="785" y="1400" type="line"/>
-      <point x="826" y="1400" type="line"/>
-      <point x="826" y="233" type="line"/>
-      <point x="1196" y="233" type="line"/>
-      <point x="1196" y="0" type="line"/>
+      <point x="159" y="0" type="line"/>
+      <point x="1108" y="0" type="line"/>
+      <point x="1108" y="233" type="line"/>
+      <point x="768" y="233" type="line"/>
+      <point x="768" y="1400" type="line"/>
+      <point x="725" y="1400" type="line"/>
+      <point x="158" y="1184" type="line"/>
+      <point x="224" y="976" type="line"/>
+      <point x="539" y="1102" type="line"/>
+      <point x="539" y="233" type="line"/>
+      <point x="159" y="233" type="line"/>
     </contour>
   </outline>
 </glyph>

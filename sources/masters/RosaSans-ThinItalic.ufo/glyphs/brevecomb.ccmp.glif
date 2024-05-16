@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brevecomb.ccmp" format="2">
-  <advance width="4"/>
+  <advance width="6"/>
   <outline>
-    <component base="brevecomb" xOffset="2"/>
+    <component base="brevecomb" xOffset="3"/>
   </outline>
 </glyph>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uhoi" format="2">
-  <advance width="1540"/>
+  <advance width="1538"/>
   <unicode hex="1EE6"/>
   <outline>
-    <component base="U" xOffset="-1"/>
-    <component base="hookabovecomb.case" xOffset="1840"/>
+    <component base="U" xOffset="-2"/>
+    <component base="hookabovecomb.case" xOffset="1839"/>
   </outline>
 </glyph>

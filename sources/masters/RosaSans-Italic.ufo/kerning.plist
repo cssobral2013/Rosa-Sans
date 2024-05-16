@@ -5791,6 +5791,8 @@
     <integer>53</integer>
     <key>public.kern2.tonos2</key>
     <integer>75</integer>
+    <key>public.kern2.two.ss05.tnum</key>
+    <integer>20</integer>
     <key>public.kern2.uni0204</key>
     <integer>9</integer>
     <key>public.kern2.uni0205</key>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="period" format="2">
   <advance width="550"/>
-  <unicode hex="002E"/>
   <outline>
     <contour>
       <point x="157" y="-30" type="curve" smooth="yes"/>
@@ -21,7 +20,7 @@
       <point x="98" y="280"/>
       <point x="62" y="248" type="curve" smooth="yes"/>
       <point x="25" y="215"/>
-      <point x="1" y="168"/>
+      <point x="1" y="169"/>
       <point x="1" y="109" type="curve" smooth="yes"/>
       <point x="1" y="68"/>
       <point x="18" y="33"/>

@@ -71,7 +71,7 @@ Copyright 2020-2024 The Rosa Sans Project Authors (https://github.com/cssobral20
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Italic</string>
   <key>openTypeNameVersion</key>
-  <string>Version 3.013</string>
+  <string>Version 3.014</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -198,7 +198,7 @@ Copyright 2020-2024 The Rosa Sans Project Authors (https://github.com/cssobral20
   <key>versionMajor</key>
   <integer>3</integer>
   <key>versionMinor</key>
-  <integer>13</integer>
+  <integer>14</integer>
   <key>xHeight</key>
   <integer>1000</integer>
 </dict>

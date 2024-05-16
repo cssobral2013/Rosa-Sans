@@ -23,13 +23,13 @@
       <point x="1241" y="1000" type="line"/>
       <point x="985" y="1000" type="line"/>
       <point x="833" y="436" type="line" smooth="yes"/>
-      <point x="813" y="361"/>
+      <point x="813" y="360"/>
       <point x="774" y="303"/>
       <point x="723" y="264" type="curve" smooth="yes"/>
       <point x="671" y="224"/>
       <point x="610" y="203"/>
       <point x="546" y="203" type="curve" smooth="yes"/>
-      <point x="479" y="203"/>
+      <point x="478" y="203"/>
       <point x="431" y="224"/>
       <point x="404" y="261" type="curve"/>
       <point x="376" y="297"/>

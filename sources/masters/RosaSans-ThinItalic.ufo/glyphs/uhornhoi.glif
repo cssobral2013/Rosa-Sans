@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uhornhoi" format="2">
-  <advance width="1180"/>
+  <advance width="1178"/>
   <unicode hex="1EED"/>
   <outline>
-    <component base="uhorn" xOffset="-1"/>
-    <component base="hookabovecomb" xOffset="1396"/>
+    <component base="uhorn" xOffset="-2"/>
+    <component base="hookabovecomb" xOffset="1395"/>
   </outline>
 </glyph>

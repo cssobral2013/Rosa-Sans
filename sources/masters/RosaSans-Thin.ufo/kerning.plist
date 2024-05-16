@@ -5791,6 +5791,8 @@
     <integer>53</integer>
     <key>public.kern2.tonos2</key>
     <integer>75</integer>
+    <key>public.kern2.two.tnum2</key>
+    <integer>53</integer>
     <key>public.kern2.uni0204</key>
     <integer>9</integer>
     <key>public.kern2.uni0205</key>
@@ -6300,6 +6302,23 @@
     <integer>-103</integer>
     <key>public.kern2.v2</key>
     <integer>40</integer>
+  </dict>
+  <key>public.kern1.two.tnum</key>
+  <dict>
+    <key>Adblgrave</key>
+    <integer>35</integer>
+    <key>Decyr.loclBGR</key>
+    <integer>35</integer>
+    <key>public.kern2.A2</key>
+    <integer>35</integer>
+    <key>public.kern2.AE</key>
+    <integer>53</integer>
+    <key>public.kern2.itilde2</key>
+    <integer>53</integer>
+    <key>public.kern2.jcircumflex</key>
+    <integer>53</integer>
+    <key>public.kern2.uni0209</key>
+    <integer>53</integer>
   </dict>
   <key>public.kern1.u</key>
   <dict>

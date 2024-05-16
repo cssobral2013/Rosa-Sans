@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kip" format="2">
-  <advance width="1296"/>
+  <advance width="1200"/>
   <unicode hex="20AD"/>
   <outline>
     <contour>
-      <point x="1103" y="0" type="line"/>
-      <point x="743" y="675" type="line"/>
-      <point x="1434" y="1400" type="line"/>
-      <point x="1302" y="1400" type="line"/>
-      <point x="614" y="683" type="line"/>
-      <point x="973" y="0" type="line"/>
+      <point x="1022" y="0" type="line"/>
+      <point x="690" y="675" type="line"/>
+      <point x="1326" y="1400" type="line"/>
+      <point x="1199" y="1400" type="line"/>
+      <point x="565" y="683" type="line"/>
+      <point x="895" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="301" y="0" type="line"/>
-      <point x="676" y="1400" type="line"/>
-      <point x="564" y="1400" type="line"/>
-      <point x="189" y="0" type="line"/>
+      <point x="285" y="0" type="line"/>
+      <point x="630" y="1400" type="line"/>
+      <point x="519" y="1400" type="line"/>
+      <point x="174" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="1299" y="638" type="line"/>
-      <point x="1324" y="738" type="line"/>
-      <point x="148" y="738" type="line"/>
-      <point x="123" y="638" type="line"/>
+      <point x="1203" y="638" type="line"/>
+      <point x="1226" y="738" type="line"/>
+      <point x="136" y="738" type="line"/>
+      <point x="113" y="638" type="line"/>
     </contour>
   </outline>
 </glyph>

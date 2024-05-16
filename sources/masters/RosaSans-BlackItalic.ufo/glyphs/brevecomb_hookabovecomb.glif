@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brevecomb_hookabovecomb" format="2">
   <outline>
-    <component base="brevecomb" xOffset="-2"/>
-    <component base="hookabovecomb" xOffset="123" yOffset="444"/>
+    <component base="brevecomb" xOffset="-4"/>
+    <component base="hookabovecomb" xOffset="121" yOffset="444"/>
   </outline>
 </glyph>

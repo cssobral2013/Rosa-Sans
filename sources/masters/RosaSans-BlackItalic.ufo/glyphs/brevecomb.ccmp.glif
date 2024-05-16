@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brevecomb.ccmp" format="2">
   <outline>
-    <component base="brevecomb" xOffset="-2"/>
+    <component base="brevecomb" xOffset="-4"/>
   </outline>
 </glyph>
