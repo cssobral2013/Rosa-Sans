@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pecyr.loclSRB.ss01" format="2">
-  <advance width="1330"/>
+  <advance width="1326"/>
   <outline>
-    <component base="u" xOffset="2"/>
-    <component base="macroncomb" xOffset="1310"/>
+    <component base="u"/>
+    <component base="macroncomb" xOffset="1308"/>
   </outline>
 </glyph>

@@ -3,6 +3,6 @@
   <advance width="1344"/>
   <outline>
     <component base="acyr.ss01"/>
-    <component base="brevecomb.ccmp" xOffset="1469"/>
+    <component base="brevecomb.ccmp" xOffset="1467"/>
   </outline>
 </glyph>

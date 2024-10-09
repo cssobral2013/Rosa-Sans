@@ -4,6 +4,6 @@
   <unicode hex="0419"/>
   <outline>
     <component base="Icyr"/>
-    <component base="brevecomb.ccmp" xOffset="1755" yOffset="360"/>
+    <component base="brevecomb.ccmp" xOffset="1753" yOffset="360"/>
   </outline>
 </glyph>

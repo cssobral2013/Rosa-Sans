@@ -2,6 +2,6 @@
 <glyph name="circumflexcomb_tildecomb" format="2">
   <outline>
     <component base="circumflexcomb"/>
-    <component base="tildecomb" xOffset="124" yOffset="464"/>
+    <component base="tildecomb" xOffset="126" yOffset="464"/>
   </outline>
 </glyph>

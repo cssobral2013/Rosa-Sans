@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uhorn" format="2">
-  <advance width="1552"/>
+  <advance width="1544"/>
   <unicode hex="01AF"/>
   <outline>
-    <component base="U" xOffset="4"/>
-    <component base="horncomb.alt_case" xOffset="1659"/>
+    <component base="U"/>
+    <component base="horncomb.alt_case" xOffset="1655"/>
   </outline>
 </glyph>

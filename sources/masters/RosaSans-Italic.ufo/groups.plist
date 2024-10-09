@@ -1072,7 +1072,7 @@
     <string>registered</string>
     <string>threesuperior</string>
     <string>trademark</string>
-    <string>twosuperior</string>
+    <string>twosuperior.ss05</string>
   </array>
   <key>public.kern1.eta</key>
   <array>
@@ -1165,7 +1165,6 @@
   <array>
     <string>idotbelow</string>
     <string>iogonek</string>
-    <string>iogonek.dotless</string>
   </array>
   <key>public.kern1.iota</key>
   <array>
@@ -1257,7 +1256,6 @@
     <string>seven.tnum</string>
     <string>six.tnum</string>
     <string>three.tnum</string>
-    <string>two.tnum</string>
     <string>zero.tnum</string>
   </array>
   <key>public.kern1.r</key>
@@ -1309,6 +1307,11 @@
     <string>tonos</string>
     <string>tonos.case</string>
   </array>
+  <key>public.kern1.two.tnum</key>
+  <array>
+    <string>two.ss05.tnum</string>
+    <string>two.tnum</string>
+  </array>
   <key>public.kern1.u</key>
   <array>
     <string>a.ss01</string>
@@ -1332,8 +1335,7 @@
     <string>icyr</string>
     <string>igravecyr</string>
     <string>igravecyr.loclBGR</string>
-    <string>micro</string>
-    <string>mu</string>
+    <string>mu.1</string>
     <string>shacyr</string>
     <string>shacyr.loclBGR</string>
     <string>u</string>
@@ -2074,7 +2076,7 @@
     <string>registered</string>
     <string>threesuperior</string>
     <string>trademark</string>
-    <string>twosuperior</string>
+    <string>twosuperior.ss05</string>
   </array>
   <key>public.kern2.epsilon</key>
   <array>
@@ -2196,7 +2198,6 @@
   <array>
     <string>idotbelow</string>
     <string>iogonek</string>
-    <string>iogonek.dotless</string>
   </array>
   <key>public.kern2.itilde2</key>
   <array>
@@ -2244,8 +2245,7 @@
     <string>kgreenlandic</string>
     <string>kjecyr</string>
     <string>m</string>
-    <string>micro</string>
-    <string>mu</string>
+    <string>mu.1</string>
     <string>n</string>
     <string>nacute</string>
     <string>ncommaaccent</string>
@@ -2331,7 +2331,6 @@
     <string>seven.tnum</string>
     <string>six.tnum</string>
     <string>three.tnum</string>
-    <string>two.tnum</string>
     <string>zero.tnum</string>
   </array>
   <key>public.kern2.s2</key>
@@ -2375,11 +2374,10 @@
     <string>tonos</string>
     <string>tonos.case</string>
   </array>
-  <key>public.kern2.two.ss05.tnum</key>
+  <key>public.kern2.two.tnum2</key>
   <array>
-    <string>nine.ss02.tnum</string>
-    <string>six.ss02.tnum</string>
     <string>two.ss05.tnum</string>
+    <string>two.tnum</string>
   </array>
   <key>public.kern2.u2</key>
   <array>
