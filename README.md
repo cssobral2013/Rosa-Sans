@@ -13,4 +13,5 @@ Main changes include:
 - Changed currencies' and figures' advance width to 0.6em;
 - Upscaled Thin master's x-height to 0.52em (the same as
   Black master's);
+  - Upscale caps height to 0.72em (the same as ascender);
 - Some other fixes.
